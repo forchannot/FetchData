@@ -66,8 +66,7 @@ const fetchGachaData = async (pool, type) => {
 
     //https://gitee.com/yoimiya-kokomi/Yunzai-Bot/raw/main/plugins/genshin/defSet/pool/${pool}.yaml
     //https://genshin-gacha-banners-keypj.vercel.app/${pool}.yaml
-    //https://gitee.com/yoimiya-kokomi/Yunzai-Bot/blob/main/plugins/genshin/defSet/pool/${pool}.yaml
-    const res = await get(` https://genshin-gacha-banners-keypj.vercel.app/${pool}.yaml`,{
+    const res = await get(` https://gitee.com/yoimiya-kokomi/Yunzai-Bot/raw/main/plugins/genshin/defSet/pool/${pool}.yaml`,{
         // `proxy` means the request actually goes to the server listening
         // on localhost:3000, but the request says it is meant for
         // 'http://httpbin.org/get?answer=42'

@@ -1,17 +1,64 @@
 [
 	{
-		"version": "3.5.2",
+		"version": "3.6.1",
 		"items": [
 			{
-				"itemId": 26,
-				"weaponType": "Sword",
-				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png",
+				"itemId": 48,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png",
 				"rankType": 5,
 				"itemType": "Character",
-				"name": "神里绫华",
-				"nameEn": "Kamisato Ayaka",
-				"element": "Cryo"
+				"name": "纳西妲",
+				"nameEn": "Nahida",
+				"element": "Dendro"
 			},
+			{
+				"itemId": 47,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "妮露",
+				"nameEn": "Nilou",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 40,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "Kuki Shinobu",
+				"element": "Electro"
+			},
+			{
+				"itemId": 44,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "Dori",
+				"element": "Electro"
+			},
+			{
+				"itemId": 49,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "莱依拉",
+				"nameEn": "Layla",
+				"element": "Cryo"
+			}
+		],
+		"start": "2023-04-12 06:00:00",
+		"end": "2023-05-02 17:59:59"
+	},
+	{
+		"version": "3.5.2",
+		"items": [
 			{
 				"itemId": 35,
 				"weaponType": "Polearm",
@@ -20,6 +67,16 @@
 				"itemType": "Character",
 				"name": "申鹤",
 				"nameEn": "Shenhe",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 26,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "神里绫华",
+				"nameEn": "Kamisato Ayaka",
 				"element": "Cryo"
 			},
 			{
@@ -588,7 +645,7 @@
 				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png",
 				"rankType": 5,
 				"itemType": "Character",
-				"name": "心海",
+				"name": "珊瑚宫心海",
 				"nameEn": "Sangonomiya Kokomi",
 				"element": "Hydro"
 			},
