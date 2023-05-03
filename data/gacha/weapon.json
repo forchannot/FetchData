@@ -1,5 +1,75 @@
 [
 	{
+		"version": "3.6.2",
+		"items": [
+			{
+				"itemId": 67,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Morax.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "碧落之珑",
+				"nameEn": "Jadefall's Splendor"
+			},
+			{
+				"itemId": 1,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "阿莫斯之弓",
+				"nameEn": "Amos' Bow"
+			},
+			{
+				"itemId": 58,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Pleroma.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "玛海菈的水色",
+				"nameEn": "Makhaira Aquamarine"
+			},
+			{
+				"itemId": 61,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pleroma.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪的晚星",
+				"nameEn": "Wandering Evenstar"
+			},
+			{
+				"itemId": 21,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance"
+			},
+			{
+				"itemId": 12,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "Sacrificial Bow"
+			}
+		],
+		"start": "2023-05-02 18:00:00",
+		"end": "2023-05-23 14:59:59"
+	},
+	{
 		"version": "3.6.1",
 		"items": [
 			{
