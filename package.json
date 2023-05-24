@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "getdata": "npm i puppeteer && node src/fetchGachaData.js"
+    "data": "npm i puppeteer && genshin-db@latest && node src/fetchGachaData.js"
   },
   "keywords": [],
   "author": "KeyPJ",
