@@ -1,5 +1,62 @@
 [
 	{
+		"version": "3.7.2",
+		"items": [
+			{
+				"itemId": 52,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "艾尔海森",
+				"nameEn": "Alhaitham",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 25,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "枫原万叶",
+				"nameEn": "Kaedehara Kazuha",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 53,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "Yaoyao",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 41,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "鹿野院平藏",
+				"nameEn": "Shikanoin Heizou",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 3,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "Xiangling",
+				"element": "Pyro"
+			}
+		],
+		"start": "2023-06-13 18:00:00",
+		"end": "2023-07-04 14:59:59"
+	},
+	{
 		"version": "3.7.1",
 		"items": [
 			{
@@ -25,7 +82,7 @@
 			{
 				"itemId": 58,
 				"weaponType": "Sword",
-				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Kirara.png",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "绮良良",

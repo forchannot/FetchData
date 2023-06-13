@@ -1,5 +1,75 @@
 [
 	{
+		"version": "3.7.2",
+		"items": [
+			{
+				"itemId": 64,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "裁叶萃光",
+				"nameEn": "Light of Foliar Incision"
+			},
+			{
+				"itemId": 41,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "苍古自由之誓",
+				"nameEn": "Freedom-Sworn"
+			},
+			{
+				"itemId": 49,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "断浪长鳍",
+				"nameEn": "Wavebreaker's Fin"
+			},
+			{
+				"itemId": 50,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "曚云之月",
+				"nameEn": "Mouun's Moon"
+			},
+			{
+				"itemId": 26,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "Favonius Sword"
+			},
+			{
+				"itemId": 10,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword"
+			},
+			{
+				"itemId": 22,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex"
+			}
+		],
+		"start": "2023-06-13 18:00:00",
+		"end": "2023-07-04 14:59:59"
+	},
+	{
 		"version": "3.7.1",
 		"items": [
 			{
