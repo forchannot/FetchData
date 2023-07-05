@@ -1,5 +1,62 @@
 [
 	{
+		"version": "3.8.1",
+		"items": [
+			{
+				"itemId": 24,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "优菈",
+				"nameEn": "Eula",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 4,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "可莉",
+				"nameEn": "Klee",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 55,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Mika.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "米卡",
+				"nameEn": "Mika",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 14,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "Razor",
+				"element": "Electro"
+			},
+			{
+				"itemId": 32,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "Thoma",
+				"element": "Pyro"
+			}
+		],
+		"start": "2023-07-05 06:00:00",
+		"end": "2023-07-25 17:59:59"
+	},
+	{
 		"version": "3.7.2",
 		"items": [
 			{

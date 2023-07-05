@@ -1,5 +1,75 @@
 [
 	{
+		"version": "3.8.1",
+		"items": [
+			{
+				"itemId": 39,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Widsith.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "松籁响起之时",
+				"nameEn": "Song of Broken Pines"
+			},
+			{
+				"itemId": 7,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "四风原典",
+				"nameEn": "Lost Prayer to the Sacred Winds"
+			},
+			{
+				"itemId": 36,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "暗巷闪光",
+				"nameEn": "The Alley Flash"
+			},
+			{
+				"itemId": 38,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Outlaw.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "暗巷猎手",
+				"nameEn": "Alley Hunter"
+			},
+			{
+				"itemId": 16,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "Rainslasher"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance"
+			},
+			{
+				"itemId": 17,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "Eye of Perception"
+			}
+		],
+		"start": "2023-07-05 06:00:00",
+		"end": "2023-07-25 17:59:59"
+	},
+	{
 		"version": "3.7.2",
 		"items": [
 			{
