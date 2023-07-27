@@ -1,5 +1,75 @@
 [
 	{
+		"version": "3.8.2",
+		"items": [
+			{
+				"itemId": 46,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kaleido.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "不灭月华",
+				"nameEn": "Everlasting Moonglow"
+			},
+			{
+				"itemId": 63,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Alaya.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "图莱杜拉的回忆",
+				"nameEn": "Tulaytullah's Remembrance"
+			},
+			{
+				"itemId": 37,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Outlaw.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "暗巷的酒与诗",
+				"nameEn": "Wine and Song"
+			},
+			{
+				"itemId": 21,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar"
+			},
+			{
+				"itemId": 3,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "The Bell"
+			},
+			{
+				"itemId": 13,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane"
+			},
+			{
+				"itemId": 23,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "Favonius Warbow"
+			}
+		],
+		"start": "2023-07-25 18:00:00",
+		"end": "2023-08-15 14:59:59"
+	},
+	{
 		"version": "3.8.1",
 		"items": [
 			{

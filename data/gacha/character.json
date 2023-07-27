@@ -1,5 +1,62 @@
 [
 	{
+		"version": "3.8.2",
+		"items": [
+			{
+				"itemId": 50,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "流浪者",
+				"nameEn": "Wanderer",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 31,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "珊瑚宫心海",
+				"nameEn": "Sangonomiya Kokomi",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 51,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Faruzan.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "Faruzan",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 22,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "Rosaria",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 23,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "Yanfei",
+				"element": "Pyro"
+			}
+		],
+		"start": "2023-07-25 18:00:00",
+		"end": "2023-08-15 14:59:59"
+	},
+	{
 		"version": "3.8.1",
 		"items": [
 			{
