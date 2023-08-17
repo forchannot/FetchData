@@ -4,7 +4,7 @@ const genshindb = require("genshin-db")
 const fs = require('fs')
 const path = require('path')
 
-const versionNum = [[1, 6], [2, 8], [3, 8]]
+const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8]]
 
 const versions = versionNum.map(([a, b]) => Array.from(new Array(b + 1).keys()).map(v => [`${a}.${v}.1`, `${a}.${v}.2`].join(';')).join(";")).join(";").split(";")
 
