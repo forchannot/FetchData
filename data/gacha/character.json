@@ -5,7 +5,7 @@
 			{
 				"itemId": 59,
 				"weaponType": "Bow",
-				"imageUrl": "",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Liney.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "林尼",
@@ -25,7 +25,7 @@
 			{
 				"itemId": 60,
 				"weaponType": "Sword",
-				"imageUrl": "",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Linette.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "琳妮特",
