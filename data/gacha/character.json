@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.0.2",
+		"items": [
+			{
+				"itemId": 12,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "Zhongli",
+				"element": "Geo"
+			},
+			{
+				"itemId": 8,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Tartaglia.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "达达利亚",
+				"nameEn": "Tartaglia",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 61,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Freminet.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "菲米尼",
+				"nameEn": "Freminet",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 28,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "Sayu",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "Noelle",
+				"element": "Geo"
+			}
+		],
+		"start": "2023-09-05 18:00:00",
+		"end": "2023-09-26 14:59:59"
+	},
+	{
 		"version": "4.0.1",
 		"items": [
 			{
