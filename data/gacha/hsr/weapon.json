@@ -4,33 +4,41 @@
 		"items": [
 			{
 				"itemId": "23015",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/1014128d4baa19676b86688197cb5acf.png",
 				"rankType": "5",
 				"avatarBaseType": "1",
+				"weaponType": "warrior",
 				"itemType": "Weapon",
 				"name": "比阳光更明亮的"
 			},
 			{
 				"itemId": "21018",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/e9fb090e1b21d4054f580f92b846c146.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！"
 			},
 			{
 				"itemId": "21011",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b9c029d8a2b3304019e0a86d1b28e398.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Weapon",
 				"name": "与行星相会"
 			},
 			{
 				"itemId": "21009",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f9a23ed0df650399d00db41104acc0b7.png",
 				"rankType": "4",
 				"avatarBaseType": "6",
+				"weaponType": "knight",
 				"itemType": "Weapon",
 				"name": "朗道的选择"
 			}
@@ -43,33 +51,41 @@
 		"items": [
 			{
 				"itemId": "23006",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/e7a4d80f0c0bc18c300c9e48b1956f3f.png",
 				"rankType": "5",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Weapon",
 				"name": "只需等待"
 			},
 			{
 				"itemId": "21015",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/908209d9adce209ce8f5dd9a324d96c2.png",
 				"rankType": "4",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀"
 			},
 			{
 				"itemId": "21008",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ade580bb75b78c9e405f690901e431cf.png",
 				"rankType": "4",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Weapon",
 				"name": "猎物的视线"
 			},
 			{
 				"itemId": "21006",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/0890a36b03cd22d4c4c2fd94ffe538e5.png",
 				"rankType": "4",
 				"avatarBaseType": "3",
+				"weaponType": "mage",
 				"itemType": "Weapon",
 				"name": "「我」的诞生"
 			}
@@ -82,33 +98,41 @@
 		"items": [
 			{
 				"itemId": "23009",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/2b1b4dabdf75356213077ccb05364747.png",
 				"rankType": "5",
 				"avatarBaseType": "1",
+				"weaponType": "warrior",
 				"itemType": "Weapon",
 				"name": "到不了的彼岸"
 			},
 			{
 				"itemId": "21012",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/08ea8a3d49665eff15afa90bce6e1f68.png",
 				"rankType": "4",
 				"avatarBaseType": "1",
+				"weaponType": "warrior",
 				"itemType": "Weapon",
 				"name": "秘密誓心"
 			},
 			{
 				"itemId": "21007",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c01b40050a3383d5ef0babc421015157.png",
 				"rankType": "4",
 				"avatarBaseType": "7",
+				"weaponType": "priest",
 				"itemType": "Weapon",
 				"name": "同一种心情"
 			},
 			{
 				"itemId": "21010",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/987da850c34cc740a5da226d60db5538.png",
 				"rankType": "4",
 				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Weapon",
 				"name": "论剑"
 			}
@@ -121,33 +145,41 @@
 		"items": [
 			{
 				"itemId": "23008",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/d9e8f785475985a138e008a7f14daadb.png",
 				"rankType": "5",
 				"avatarBaseType": "7",
+				"weaponType": "priest",
 				"itemType": "Weapon",
 				"name": "棺的回响"
 			},
 			{
 				"itemId": "21001",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9aabdd94387d55ce3e58d675df635268.png",
 				"rankType": "4",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜"
 			},
 			{
 				"itemId": "21020",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f5b71c893d0c629b2a3310fd648046a3.png",
 				"rankType": "4",
 				"avatarBaseType": "3",
+				"weaponType": "mage",
 				"itemType": "Weapon",
 				"name": "天才们的休憩"
 			},
 			{
 				"itemId": "21018",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/e9fb090e1b21d4054f580f92b846c146.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！"
 			}
@@ -160,33 +192,41 @@
 		"items": [
 			{
 				"itemId": "23007",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/93f414d1bfb8d81d83824c4f85a86118.png",
 				"rankType": "5",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Weapon",
 				"name": "雨一直下"
 			},
 			{
 				"itemId": "21017",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6dc91be876421f66a2f41c5a8fed1992.png",
 				"rankType": "4",
 				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Weapon",
 				"name": "点个关注吧！"
 			},
 			{
 				"itemId": "21004",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a355220955ee018fc5dbedc12a0607ff.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Weapon",
 				"name": "记忆中的模样"
 			},
 			{
 				"itemId": "21013",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/76c9c6b7f54e702147d2fa8c222a3189.png",
 				"rankType": "4",
 				"avatarBaseType": "3",
+				"weaponType": "mage",
 				"itemType": "Weapon",
 				"name": "别让世界静下来"
 			}
@@ -199,33 +239,41 @@
 		"items": [
 			{
 				"itemId": "23010",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f5c38c5ef858cf955f259494552c3044.png",
 				"rankType": "5",
 				"avatarBaseType": "3",
+				"weaponType": "mage",
 				"itemType": "Weapon",
 				"name": "拂晓之前"
 			},
 			{
 				"itemId": "21011",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b9c029d8a2b3304019e0a86d1b28e398.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Weapon",
 				"name": "与行星相会"
 			},
 			{
 				"itemId": "21003",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/99bb76fa126ed3750ad70910db0bb51f.png",
 				"rankType": "4",
 				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Weapon",
 				"name": "唯有沉默"
 			},
 			{
 				"itemId": "21002",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c051ab11d78acef727fa20a380cd49d2.png",
 				"rankType": "4",
 				"avatarBaseType": "6",
+				"weaponType": "knight",
 				"itemType": "Weapon",
 				"name": "余生的第一天"
 			}
@@ -238,33 +286,41 @@
 		"items": [
 			{
 				"itemId": "23001",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f232a754d464cf755d0f754a4971973c.png",
 				"rankType": "5",
 				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Weapon",
 				"name": "于夜色中"
 			},
 			{
 				"itemId": "21000",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f0463fe1d8a72705cbbabd8628d335f0.png",
 				"rankType": "4",
 				"avatarBaseType": "7",
+				"weaponType": "priest",
 				"itemType": "Weapon",
 				"name": "一场术后对话"
 			},
 			{
 				"itemId": "21001",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9aabdd94387d55ce3e58d675df635268.png",
 				"rankType": "4",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜"
 			},
 			{
 				"itemId": "21005",
+				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/bfbc6fbf4f86db76ebcae1fda61f0c0d.png",
 				"rankType": "4",
 				"avatarBaseType": "1",
+				"weaponType": "warrior",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你"
 			}

@@ -49,8 +49,30 @@ let elements = {
     "7": "Cryo",
 }
 
+let damageTypes={
+    "1":"physical",
+    "2":"fire",
+    "4":"ice",
+    "8":"thunder",
+    "16":"wind",
+    "32":"quantum",
+    "64":"imaginary",
+}
+
+let paths={
+    "1":"warrior",
+    "2":"rogue",
+    "3":"mage",
+    "4":"shaman",
+    "5":"warlock",
+    "6":"knight",
+    "7":"priest",
+}
+
 const getWeaponType = name => findObj(name, weaponTypes)
 const getElement = name => findObj(name, elements)
+const getDamageType = name => findObj(name, damageTypes)
+const getPath = name => findObj(name, paths)
 
 const getId2 = (name, pool) => {
     switch (pool) {
@@ -68,11 +90,14 @@ const getId2 = (name, pool) => {
             return {
                 itemId: find.item_id,
                 damageType: find.damage_type,
+                element: getDamageType(find.damage_type),
                 imageUrl: imageUrl?.replace("https://act-webstatic.mihoyo.com", ""),
                 rankType: find.rarity,
                 avatarBaseType: find.avatar_base_type,
+                weaponType: getPath(find.avatar_base_type),
                 itemType: pool === 11 ? "Character" : "Weapon",
                 name: find.item_name,
+
             }
         }
         case 301:

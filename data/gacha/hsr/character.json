@@ -5,36 +5,44 @@
 			{
 				"itemId": "1213",
 				"damageType": "64",
+				"element": "imaginary",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/cc25500397b2b37969c1209245d847c7.png",
 				"rankType": "5",
 				"avatarBaseType": "1",
+				"weaponType": "warrior",
 				"itemType": "Character",
 				"name": "丹恒•饮月"
 			},
 			{
 				"itemId": "1207",
 				"damageType": "64",
+				"element": "imaginary",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ec4fbaf78304eb5c79fb8821caefa13f.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Character",
 				"name": "驭空"
 			},
 			{
 				"itemId": "1009",
 				"damageType": "2",
+				"element": "fire",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6d2223e6fbe427b6f1c73348b01ecfeb.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Character",
 				"name": "艾丝妲"
 			},
 			{
 				"itemId": "1001",
 				"damageType": "4",
+				"element": "ice",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c4b2b8a673cde6bace004f7a14bbae31.png",
 				"rankType": "4",
 				"avatarBaseType": "6",
+				"weaponType": "knight",
 				"itemType": "Character",
 				"name": "三月七"
 			}
@@ -48,36 +56,44 @@
 			{
 				"itemId": "1005",
 				"damageType": "8",
+				"element": "thunder",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/db83fd11db2bd84a343c4ceb075824b0.png",
 				"rankType": "5",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Character",
 				"name": "卡芙卡"
 			},
 			{
 				"itemId": "1111",
 				"damageType": "1",
+				"element": "physical",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a92662cd488c582162a2bb8ef4b29e37.png",
 				"rankType": "4",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Character",
 				"name": "卢卡"
 			},
 			{
 				"itemId": "1108",
 				"damageType": "16",
+				"element": "wind",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5d12639b5f7635837ec5087af174ceb2.png",
 				"rankType": "4",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Character",
 				"name": "桑博"
 			},
 			{
 				"itemId": "1103",
 				"damageType": "8",
+				"element": "thunder",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a36d5e68945486e851387f2946d59cb4.png",
 				"rankType": "4",
 				"avatarBaseType": "3",
+				"weaponType": "mage",
 				"itemType": "Character",
 				"name": "希露瓦"
 			}
@@ -91,36 +107,44 @@
 			{
 				"itemId": "1205",
 				"damageType": "16",
+				"element": "wind",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4bd32f4bcdeb82de32811b04ff135b9f.png",
 				"rankType": "5",
 				"avatarBaseType": "1",
+				"weaponType": "warrior",
 				"itemType": "Character",
 				"name": "刃"
 			},
 			{
 				"itemId": "1008",
 				"damageType": "8",
+				"element": "thunder",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/41d85fc85b6c2250404961d2896d6b81.png",
 				"rankType": "4",
 				"avatarBaseType": "1",
+				"weaponType": "warrior",
 				"itemType": "Character",
 				"name": "阿兰"
 			},
 			{
 				"itemId": "1105",
 				"damageType": "1",
+				"element": "physical",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a936b157276af866d6bec64d4e500d3f.png",
 				"rankType": "4",
 				"avatarBaseType": "7",
+				"weaponType": "priest",
 				"itemType": "Character",
 				"name": "娜塔莎"
 			},
 			{
 				"itemId": "1206",
 				"damageType": "1",
+				"element": "physical",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f4604238ef8e1ce582230e5cae522e42.png",
 				"rankType": "4",
 				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Character",
 				"name": "素裳"
 			}
@@ -134,36 +158,44 @@
 			{
 				"itemId": "1203",
 				"damageType": "64",
+				"element": "imaginary",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7262013fe8cd4fd05e83cac9e0f97c3d.png",
 				"rankType": "5",
 				"avatarBaseType": "7",
+				"weaponType": "priest",
 				"itemType": "Character",
 				"name": "罗刹"
 			},
 			{
 				"itemId": "1207",
 				"damageType": "64",
+				"element": "imaginary",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ec4fbaf78304eb5c79fb8821caefa13f.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Character",
 				"name": "驭空"
 			},
 			{
 				"itemId": "1106",
 				"damageType": "4",
+				"element": "ice",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b599a6cd18977ebca4589ec73e06dddb.png",
 				"rankType": "4",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Character",
 				"name": "佩拉"
 			},
 			{
 				"itemId": "1201",
 				"damageType": "32",
+				"element": "quantum",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/83aebfec9840f8676acbe4df22ffaf3f.png",
 				"rankType": "4",
 				"avatarBaseType": "3",
+				"weaponType": "mage",
 				"itemType": "Character",
 				"name": "青雀"
 			}
@@ -177,36 +209,44 @@
 			{
 				"itemId": "1006",
 				"damageType": "32",
+				"element": "quantum",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6aebfe36a94c005446d936e15e457f65.png",
 				"rankType": "5",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Character",
 				"name": "银狼"
 			},
 			{
 				"itemId": "1002",
 				"damageType": "16",
+				"element": "wind",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9493befbfac1f388c87a8e4d753a66de.png",
 				"rankType": "4",
 				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Character",
 				"name": "丹恒"
 			},
 			{
 				"itemId": "1009",
 				"damageType": "2",
+				"element": "fire",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6d2223e6fbe427b6f1c73348b01ecfeb.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Character",
 				"name": "艾丝妲"
 			},
 			{
 				"itemId": "1103",
 				"damageType": "8",
+				"element": "thunder",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a36d5e68945486e851387f2946d59cb4.png",
 				"rankType": "4",
 				"avatarBaseType": "3",
+				"weaponType": "mage",
 				"itemType": "Character",
 				"name": "希露瓦"
 			}
@@ -220,36 +260,44 @@
 			{
 				"itemId": "1204",
 				"damageType": "8",
+				"element": "thunder",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b535a581e0dc0eadde87ed0314e6a5aa.png",
 				"rankType": "5",
 				"avatarBaseType": "3",
+				"weaponType": "mage",
 				"itemType": "Character",
 				"name": "景元"
 			},
 			{
 				"itemId": "1202",
 				"damageType": "8",
+				"element": "thunder",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4a0aed69dd5ae8cda98a0b39794640ce.png",
 				"rankType": "4",
 				"avatarBaseType": "4",
+				"weaponType": "shaman",
 				"itemType": "Character",
 				"name": "停云"
 			},
 			{
 				"itemId": "1206",
 				"damageType": "1",
+				"element": "physical",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f4604238ef8e1ce582230e5cae522e42.png",
 				"rankType": "4",
 				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Character",
 				"name": "素裳"
 			},
 			{
 				"itemId": "1001",
 				"damageType": "4",
+				"element": "ice",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c4b2b8a673cde6bace004f7a14bbae31.png",
 				"rankType": "4",
 				"avatarBaseType": "6",
+				"weaponType": "knight",
 				"itemType": "Character",
 				"name": "三月七"
 			}
@@ -263,36 +311,44 @@
 			{
 				"itemId": "1102",
 				"damageType": "32",
+				"element": "quantum",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/07715c70f60c83b3b697257178c5ed33.png",
 				"rankType": "5",
 				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Character",
 				"name": "希儿"
 			},
 			{
 				"itemId": "1105",
 				"damageType": "1",
+				"element": "physical",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a936b157276af866d6bec64d4e500d3f.png",
 				"rankType": "4",
 				"avatarBaseType": "7",
+				"weaponType": "priest",
 				"itemType": "Character",
 				"name": "娜塔莎"
 			},
 			{
 				"itemId": "1109",
 				"damageType": "2",
+				"element": "fire",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5d42560bceb4a98dc5da1a5ee5c8f84f.png",
 				"rankType": "4",
 				"avatarBaseType": "1",
+				"weaponType": "warrior",
 				"itemType": "Character",
 				"name": "虎克"
 			},
 			{
 				"itemId": "1106",
 				"damageType": "4",
+				"element": "ice",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b599a6cd18977ebca4589ec73e06dddb.png",
 				"rankType": "4",
 				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Character",
 				"name": "佩拉"
 			}
