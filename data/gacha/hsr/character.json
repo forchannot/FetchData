@@ -1,0 +1,303 @@
+[
+	{
+		"version": "1.3.1",
+		"items": [
+			{
+				"itemId": "1213",
+				"damageType": "64",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/cc25500397b2b37969c1209245d847c7.png",
+				"rankType": "5",
+				"avatarBaseType": "1",
+				"itemType": "Character",
+				"name": "丹恒•饮月"
+			},
+			{
+				"itemId": "1207",
+				"damageType": "64",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ec4fbaf78304eb5c79fb8821caefa13f.png",
+				"rankType": "4",
+				"avatarBaseType": "4",
+				"itemType": "Character",
+				"name": "驭空"
+			},
+			{
+				"itemId": "1009",
+				"damageType": "2",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6d2223e6fbe427b6f1c73348b01ecfeb.png",
+				"rankType": "4",
+				"avatarBaseType": "4",
+				"itemType": "Character",
+				"name": "艾丝妲"
+			},
+			{
+				"itemId": "1001",
+				"damageType": "4",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c4b2b8a673cde6bace004f7a14bbae31.png",
+				"rankType": "4",
+				"avatarBaseType": "6",
+				"itemType": "Character",
+				"name": "三月七"
+			}
+		],
+		"start": "2023-08-30 11:00:00",
+		"end": "2023-09-20 11:59:59"
+	},
+	{
+		"version": "1.2.2",
+		"items": [
+			{
+				"itemId": "1005",
+				"damageType": "8",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/db83fd11db2bd84a343c4ceb075824b0.png",
+				"rankType": "5",
+				"avatarBaseType": "5",
+				"itemType": "Character",
+				"name": "卡芙卡"
+			},
+			{
+				"itemId": "1111",
+				"damageType": "1",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a92662cd488c582162a2bb8ef4b29e37.png",
+				"rankType": "4",
+				"avatarBaseType": "5",
+				"itemType": "Character",
+				"name": "卢卡"
+			},
+			{
+				"itemId": "1108",
+				"damageType": "16",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5d12639b5f7635837ec5087af174ceb2.png",
+				"rankType": "4",
+				"avatarBaseType": "5",
+				"itemType": "Character",
+				"name": "桑博"
+			},
+			{
+				"itemId": "1103",
+				"damageType": "8",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a36d5e68945486e851387f2946d59cb4.png",
+				"rankType": "4",
+				"avatarBaseType": "3",
+				"itemType": "Character",
+				"name": "希露瓦"
+			}
+		],
+		"start": "2023-08-09 12:00:00",
+		"end": "2023-08-29 14:59:59"
+	},
+	{
+		"version": "1.2.1",
+		"items": [
+			{
+				"itemId": "1205",
+				"damageType": "16",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4bd32f4bcdeb82de32811b04ff135b9f.png",
+				"rankType": "5",
+				"avatarBaseType": "1",
+				"itemType": "Character",
+				"name": "刃"
+			},
+			{
+				"itemId": "1008",
+				"damageType": "8",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/41d85fc85b6c2250404961d2896d6b81.png",
+				"rankType": "4",
+				"avatarBaseType": "1",
+				"itemType": "Character",
+				"name": "阿兰"
+			},
+			{
+				"itemId": "1105",
+				"damageType": "1",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a936b157276af866d6bec64d4e500d3f.png",
+				"rankType": "4",
+				"avatarBaseType": "7",
+				"itemType": "Character",
+				"name": "娜塔莎"
+			},
+			{
+				"itemId": "1206",
+				"damageType": "1",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f4604238ef8e1ce582230e5cae522e42.png",
+				"rankType": "4",
+				"avatarBaseType": "2",
+				"itemType": "Character",
+				"name": "素裳"
+			}
+		],
+		"start": "2023-07-19 11:00:00",
+		"end": "2023-08-09 11:59:59"
+	},
+	{
+		"version": "1.1.2",
+		"items": [
+			{
+				"itemId": "1203",
+				"damageType": "64",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/7262013fe8cd4fd05e83cac9e0f97c3d.png",
+				"rankType": "5",
+				"avatarBaseType": "7",
+				"itemType": "Character",
+				"name": "罗刹"
+			},
+			{
+				"itemId": "1207",
+				"damageType": "64",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/ec4fbaf78304eb5c79fb8821caefa13f.png",
+				"rankType": "4",
+				"avatarBaseType": "4",
+				"itemType": "Character",
+				"name": "驭空"
+			},
+			{
+				"itemId": "1106",
+				"damageType": "4",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b599a6cd18977ebca4589ec73e06dddb.png",
+				"rankType": "4",
+				"avatarBaseType": "5",
+				"itemType": "Character",
+				"name": "佩拉"
+			},
+			{
+				"itemId": "1201",
+				"damageType": "32",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/83aebfec9840f8676acbe4df22ffaf3f.png",
+				"rankType": "4",
+				"avatarBaseType": "3",
+				"itemType": "Character",
+				"name": "青雀"
+			}
+		],
+		"start": "2023-06-28 12:00:00",
+		"end": "2023-07-18 14:59:59"
+	},
+	{
+		"version": "1.1.1",
+		"items": [
+			{
+				"itemId": "1006",
+				"damageType": "32",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6aebfe36a94c005446d936e15e457f65.png",
+				"rankType": "5",
+				"avatarBaseType": "5",
+				"itemType": "Character",
+				"name": "银狼"
+			},
+			{
+				"itemId": "1002",
+				"damageType": "16",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/9493befbfac1f388c87a8e4d753a66de.png",
+				"rankType": "4",
+				"avatarBaseType": "2",
+				"itemType": "Character",
+				"name": "丹恒"
+			},
+			{
+				"itemId": "1009",
+				"damageType": "2",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/6d2223e6fbe427b6f1c73348b01ecfeb.png",
+				"rankType": "4",
+				"avatarBaseType": "4",
+				"itemType": "Character",
+				"name": "艾丝妲"
+			},
+			{
+				"itemId": "1103",
+				"damageType": "8",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a36d5e68945486e851387f2946d59cb4.png",
+				"rankType": "4",
+				"avatarBaseType": "3",
+				"itemType": "Character",
+				"name": "希露瓦"
+			}
+		],
+		"start": "2023-06-07 11:00:00",
+		"end": "2023-06-28 11:59:59"
+	},
+	{
+		"version": "1.0.2",
+		"items": [
+			{
+				"itemId": "1204",
+				"damageType": "8",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b535a581e0dc0eadde87ed0314e6a5aa.png",
+				"rankType": "5",
+				"avatarBaseType": "3",
+				"itemType": "Character",
+				"name": "景元"
+			},
+			{
+				"itemId": "1202",
+				"damageType": "8",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/4a0aed69dd5ae8cda98a0b39794640ce.png",
+				"rankType": "4",
+				"avatarBaseType": "4",
+				"itemType": "Character",
+				"name": "停云"
+			},
+			{
+				"itemId": "1206",
+				"damageType": "1",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/f4604238ef8e1ce582230e5cae522e42.png",
+				"rankType": "4",
+				"avatarBaseType": "2",
+				"itemType": "Character",
+				"name": "素裳"
+			},
+			{
+				"itemId": "1001",
+				"damageType": "4",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/c4b2b8a673cde6bace004f7a14bbae31.png",
+				"rankType": "4",
+				"avatarBaseType": "6",
+				"itemType": "Character",
+				"name": "三月七"
+			}
+		],
+		"start": "2023-05-17 18:00:00",
+		"end": "2023-06-06 14:59:59"
+	},
+	{
+		"version": "1.0.1",
+		"items": [
+			{
+				"itemId": "1102",
+				"damageType": "32",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/07715c70f60c83b3b697257178c5ed33.png",
+				"rankType": "5",
+				"avatarBaseType": "2",
+				"itemType": "Character",
+				"name": "希儿"
+			},
+			{
+				"itemId": "1105",
+				"damageType": "1",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/a936b157276af866d6bec64d4e500d3f.png",
+				"rankType": "4",
+				"avatarBaseType": "7",
+				"itemType": "Character",
+				"name": "娜塔莎"
+			},
+			{
+				"itemId": "1109",
+				"damageType": "2",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/5d42560bceb4a98dc5da1a5ee5c8f84f.png",
+				"rankType": "4",
+				"avatarBaseType": "1",
+				"itemType": "Character",
+				"name": "虎克"
+			},
+			{
+				"itemId": "1106",
+				"damageType": "4",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_73c59v/b599a6cd18977ebca4589ec73e06dddb.png",
+				"rankType": "4",
+				"avatarBaseType": "5",
+				"itemType": "Character",
+				"name": "佩拉"
+			}
+		],
+		"start": "2023-04-26 08:00:00",
+		"end": "2023-05-17 16:00:00"
+	}
+]
