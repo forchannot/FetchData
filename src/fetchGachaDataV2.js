@@ -88,11 +88,11 @@ const getId2 = (name, pool) => {
             }
             let imageUrl = find.icon_url ? find.icon_url : find.item_url
             return {
-                itemId: find.item_id,
+                itemId: +find.item_id,
                 damageType: find.damage_type,
                 element: getDamageType(find.damage_type),
                 imageUrl: imageUrl?.replace("https://act-webstatic.mihoyo.com", ""),
-                rankType: find.rarity,
+                rankType: +find.rarity,
                 avatarBaseType: find.avatar_base_type,
                 weaponType: getPath(find.avatar_base_type),
                 itemType: pool === 11 ? "Character" : "Weapon",
