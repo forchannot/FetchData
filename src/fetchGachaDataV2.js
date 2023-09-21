@@ -15,7 +15,7 @@ const versions = versionNum.map(([a, b]) => Array.from(new Array(b + 1).keys()).
 
 
 const findObj = (name, Obj) => {
-    if (!name){
+    if (!name) {
         return ""
     }
     if (Object.keys(Obj).includes(name + "")) {
@@ -49,24 +49,24 @@ let elements = {
     "7": "Cryo",
 }
 
-let damageTypes={
-    "1":"physical",
-    "2":"fire",
-    "4":"ice",
-    "8":"thunder",
-    "16":"wind",
-    "32":"quantum",
-    "64":"imaginary",
+let damageTypes = {
+    "1": "physical",
+    "2": "fire",
+    "4": "ice",
+    "8": "thunder",
+    "16": "wind",
+    "32": "quantum",
+    "64": "imaginary",
 }
 
-let paths={
-    "1":"warrior",
-    "2":"rogue",
-    "3":"mage",
-    "4":"shaman",
-    "5":"warlock",
-    "6":"knight",
-    "7":"priest",
+let paths = {
+    "1": "warrior",
+    "2": "rogue",
+    "3": "mage",
+    "4": "shaman",
+    "5": "warlock",
+    "6": "knight",
+    "7": "priest",
 }
 
 const getWeaponType = name => findObj(name, weaponTypes)
@@ -154,7 +154,7 @@ const fetchGachaData = async (pool, savePath) => {
         const info5 = five.map(c => getId2(c, pool))
         const info4 = four.map(c => getId2(c, pool))
         return {
-            version: getVersion(i, pool), items: [...info5, ...info4], start: from, end: to,
+            version: getVersion(i, pool), items: [...info5, ...info4].filter(a => !!a), start: from, end: to,
         }
     })
     const characterFilePath = path.join(__dirname, `../data/gacha/${savePath.toLowerCase()}.json`)
