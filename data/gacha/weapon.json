@@ -1,5 +1,75 @@
 [
 	{
+		"version": "4.1.1",
+		"items": [
+			{
+				"itemId": 68,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Iudex.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "万世流涌大典",
+				"nameEn": "Tome of the Eternal Flow"
+			},
+			{
+				"itemId": 31,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "护摩之杖",
+				"nameEn": "Staff of Homa"
+			},
+			{
+				"itemId": 69,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Mechanic.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "船坞长剑",
+				"nameEn": "The Dockhand's Assistant"
+			},
+			{
+				"itemId": 70,
+				"weaponType": "Claymore",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Mechanic.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "便携动力锯",
+				"nameEn": "Portable Power Saw"
+			},
+			{
+				"itemId": 40,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Nachtblind.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "幽夜华尔兹",
+				"nameEn": "Mitternachts Waltz"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance"
+			},
+			{
+				"itemId": 22,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex"
+			}
+		],
+		"start": "2023-09-27 06:00:00",
+		"end": "2023-10-17 17:59:59"
+	},
+	{
 		"version": "4.0.2",
 		"items": [
 			{

@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.1.1",
+		"items": [
+			{
+				"itemId": 62,
+				"weaponType": "Catalyst",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Neuvillette.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "Neuvillette",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 21,
+				"weaponType": "Polearm",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "胡桃",
+				"nameEn": "Hu Tao",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 2,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "Fischl",
+				"element": "Electro"
+			},
+			{
+				"itemId": 5,
+				"weaponType": "Sword",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "Xingqiu",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 9,
+				"weaponType": "Bow",
+				"imageUrl": "/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "Diona",
+				"element": "Cryo"
+			}
+		],
+		"start": "2023-09-27 06:00:00",
+		"end": "2023-10-17 17:59:59"
+	},
+	{
 		"version": "4.0.2",
 		"items": [
 			{
