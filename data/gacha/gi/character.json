@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.1.2",
+		"items": [
+			{
+				"itemId": 10000086,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/926945d6a2bf2a42ba4d6baca0e590a8.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "莱欧斯利",
+				"nameEn": "",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000022,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/acd5634fcca93af0d57f0f16293577f0.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000036,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/beafbc1a8dfa371cce187cc602e18752.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000050,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/5b75c1730937a9810e9a74e5f425bf24.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000068,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/687912327dc462361bab8bbd36c421b7.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "",
+				"element": "Electro"
+			}
+		],
+		"start": "2023-10-17 18:00:00",
+		"end": "2023-11-07 14:59:59"
+	},
+	{
 		"version": "4.1.1",
 		"items": [
 			{

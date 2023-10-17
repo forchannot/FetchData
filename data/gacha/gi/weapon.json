@@ -1,5 +1,82 @@
 [
 	{
+		"version": "4.1.2",
+		"items": [
+			{
+				"itemId": 14513,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/f7aaff549ddf207cb8c1551f273f57c7.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "金流监督",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15503,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/73a4bbc5c20f83cd897086838420e897.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "终末嗟叹之诗",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13427,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/4a9b8abc392c87c20044d292fbd5f9f7.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "勘探钻机",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15427,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/8e92c93e64c20bb59d565790a918583e.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "测距规",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11401,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/2b90c81c624f52cb232d74088af97adf.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12405,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/88407cb7934bd262bd9bdae051a5d874.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14409,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/edf06b37a5f6547b3c5e5c9315b17f70.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2023-10-17 18:00:00",
+		"end": "2023-11-07 14:59:59"
+	},
+	{
 		"version": "4.1.1",
 		"items": [
 			{
