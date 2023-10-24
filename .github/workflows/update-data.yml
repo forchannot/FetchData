@@ -19,11 +19,6 @@ jobs:
       - name: Build
         run: npm install -g pnpm && pnpm install --no-frozen-lockfile && pnpm run data
 
-      - name: Get Mys Data
-        env:
-          MYS_TOKEN: ${{ secrets.MYS_TOKEN }}
-        run: node src/mys.js $MYS_TOKEN
-
       - name: Get Gacha Data
         run: node src/fetchGachaDataV2.js
 
