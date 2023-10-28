@@ -1,11 +1,68 @@
 [
 	{
+		"version": "1.4.2",
+		"items": [
+			{
+				"itemId": 23016,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a9818693d44d7a1b7369a153fc46e598.png",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "烦恼着，幸福着"
+			},
+			{
+				"itemId": 23001,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c64fdfdac83591e42162e65ee563caa7.png",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "于夜色中"
+			},
+			{
+				"itemId": 21003,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/e8bc78a2bf1f23605d1157e14901d489.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "唯有沉默"
+			},
+			{
+				"itemId": 21005,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/82aa65387de7a4cbec71c7284f390f7e.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你"
+			},
+			{
+				"itemId": 21015,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0b46582517035842dd766322b0ad7a66.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀"
+			}
+		],
+		"start": "2023-10-27 12:00:00",
+		"end": "2023-11-14 14:59:59"
+	},
+	{
 		"version": "1.4.1",
 		"items": [
 			{
 				"itemId": 23014,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/c8b98384bcda9ecd9f16d074628ecf69.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/18058d8299587ff747e56ceeb1f71f54.png",
 				"rankType": 5,
 				"avatarBaseType": "1",
 				"weaponType": "warrior",
@@ -15,7 +72,7 @@
 			{
 				"itemId": 21004,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/829078be089078e9598fdb78001b31bd.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/11dbb465440547df2342414805e12e96.png",
 				"rankType": 4,
 				"avatarBaseType": "4",
 				"weaponType": "shaman",
@@ -25,7 +82,7 @@
 			{
 				"itemId": 21013,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f86c80fbe7f3c74e79fa2d89e70a353.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/38c6029cc2e65fb363c1b08457e1ecfc.png",
 				"rankType": 4,
 				"avatarBaseType": "3",
 				"weaponType": "mage",
@@ -35,7 +92,7 @@
 			{
 				"itemId": 21008,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a5dc5388252bfba52b641433d67f0df6.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/ac7f78e5f76b334bdfb6b51c8c677f84.png",
 				"rankType": 4,
 				"avatarBaseType": "5",
 				"weaponType": "warlock",
@@ -52,7 +109,7 @@
 			{
 				"itemId": 23011,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/aff4b62184adcf2f2c6a938409b40612.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/7323e4bc2ea347e6275f74f60b526ca9.png",
 				"rankType": 5,
 				"avatarBaseType": "6",
 				"weaponType": "knight",
@@ -62,7 +119,7 @@
 			{
 				"itemId": 21014,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4a15de167756f281aa0a6dc9caecd218.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/e6958351efb400d607a28612d8bf6541.png",
 				"rankType": 4,
 				"avatarBaseType": "7",
 				"weaponType": "priest",
@@ -72,7 +129,7 @@
 			{
 				"itemId": 21016,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/be2a245bfecd13a45db9fa245a754c7b.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5981c0aba54ebc36d503e13fb6ab69ca.png",
 				"rankType": 4,
 				"avatarBaseType": "6",
 				"weaponType": "knight",
@@ -82,7 +139,7 @@
 			{
 				"itemId": 21019,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f5dea09d5a1783605c5b36d8c3ddfb2f.png",
 				"rankType": 4,
 				"avatarBaseType": "1",
 				"weaponType": "warrior",
@@ -99,7 +156,7 @@
 			{
 				"itemId": 23015,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/431acbf55d69a74c02ddaab652ad8fed.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/ad40726a1953da6997d5592dd542d2db.png",
 				"rankType": 5,
 				"avatarBaseType": "1",
 				"weaponType": "warrior",
@@ -109,7 +166,7 @@
 			{
 				"itemId": 21018,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caa017f211398442b4860158b630daa9.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/394b2e663ddbd64c7e8273fedeabe629.png",
 				"rankType": 4,
 				"avatarBaseType": "4",
 				"weaponType": "shaman",
@@ -119,7 +176,7 @@
 			{
 				"itemId": 21011,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/926d0a1562239416577708751d467caa.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/303f9f3b6f1c28e4243f8f5eae031eeb.png",
 				"rankType": 4,
 				"avatarBaseType": "4",
 				"weaponType": "shaman",
@@ -129,7 +186,7 @@
 			{
 				"itemId": 21009,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/279fd1ad23b5312341ab3c9813c347a6.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/35cc7c363c6b7ca14115c8913ce01428.png",
 				"rankType": 4,
 				"avatarBaseType": "6",
 				"weaponType": "knight",
@@ -146,7 +203,7 @@
 			{
 				"itemId": 23006,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/08d62dda96c2c3218a2fec91de20753e.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/cdb7419ad1078758693a9f8177aad8bf.png",
 				"rankType": 5,
 				"avatarBaseType": "5",
 				"weaponType": "warlock",
@@ -156,7 +213,7 @@
 			{
 				"itemId": 21015,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/312ee2a317a277fa6eb0c75256f30824.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0b46582517035842dd766322b0ad7a66.png",
 				"rankType": 4,
 				"avatarBaseType": "5",
 				"weaponType": "warlock",
@@ -166,7 +223,7 @@
 			{
 				"itemId": 21008,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a5dc5388252bfba52b641433d67f0df6.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/ac7f78e5f76b334bdfb6b51c8c677f84.png",
 				"rankType": 4,
 				"avatarBaseType": "5",
 				"weaponType": "warlock",
@@ -176,7 +233,7 @@
 			{
 				"itemId": 21006,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/28c2120da607989ed33d1c04b7be353b.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/31bcaf606e7ae7ac446ac079acd30208.png",
 				"rankType": 4,
 				"avatarBaseType": "3",
 				"weaponType": "mage",
@@ -193,7 +250,7 @@
 			{
 				"itemId": 23009,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/24cd7e6766cf01b8ac1dcbe424b99e87.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/3df56a497f548fb6cfcfadb6a1c325bb.png",
 				"rankType": 5,
 				"avatarBaseType": "1",
 				"weaponType": "warrior",
@@ -203,7 +260,7 @@
 			{
 				"itemId": 21012,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/073076908260d11efef013bc0e164597.png",
 				"rankType": 4,
 				"avatarBaseType": "1",
 				"weaponType": "warrior",
@@ -213,7 +270,7 @@
 			{
 				"itemId": 21007,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e282470edbf3fb62a874b8882f116e5d.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/00fbfede2e2dd60f376951a28b4db88b.png",
 				"rankType": 4,
 				"avatarBaseType": "7",
 				"weaponType": "priest",
@@ -223,7 +280,7 @@
 			{
 				"itemId": 21010,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d69bcc8262c84533e3216593e4c9af50.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/6fc10646010ad94a5b607965060c775b.png",
 				"rankType": 4,
 				"avatarBaseType": "2",
 				"weaponType": "rogue",
@@ -240,7 +297,7 @@
 			{
 				"itemId": 23008,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e515fb4ba21bb1332274760cbb9549bb.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d8360baa270688d5176af8012d1d9882.png",
 				"rankType": 5,
 				"avatarBaseType": "7",
 				"weaponType": "priest",
@@ -250,7 +307,7 @@
 			{
 				"itemId": 21001,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/cc4b126e0f88d5e265d303a05fffcf7a.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/8589ccf249e72a91bddbe8f6dc937b04.png",
 				"rankType": 4,
 				"avatarBaseType": "5",
 				"weaponType": "warlock",
@@ -260,7 +317,7 @@
 			{
 				"itemId": 21020,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a48164b59efb445a3bff14ea39d293e8.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f5ed9f2a2a458d962eb02e19e1e687ad.png",
 				"rankType": 4,
 				"avatarBaseType": "3",
 				"weaponType": "mage",
@@ -270,7 +327,7 @@
 			{
 				"itemId": 21018,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caa017f211398442b4860158b630daa9.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/394b2e663ddbd64c7e8273fedeabe629.png",
 				"rankType": 4,
 				"avatarBaseType": "4",
 				"weaponType": "shaman",
@@ -287,7 +344,7 @@
 			{
 				"itemId": 23007,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1c4b2afae05c42d945063027da308ede.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/bedb251f624ab79d9a1ddc431baaebb2.png",
 				"rankType": 5,
 				"avatarBaseType": "5",
 				"weaponType": "warlock",
@@ -297,7 +354,7 @@
 			{
 				"itemId": 21017,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/98a0e7081dc3ea098d6707c37288581b.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fe00d7f598e9479a4db65cf8bf2e79bd.png",
 				"rankType": 4,
 				"avatarBaseType": "2",
 				"weaponType": "rogue",
@@ -307,7 +364,7 @@
 			{
 				"itemId": 21004,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/829078be089078e9598fdb78001b31bd.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/11dbb465440547df2342414805e12e96.png",
 				"rankType": 4,
 				"avatarBaseType": "4",
 				"weaponType": "shaman",
@@ -317,7 +374,7 @@
 			{
 				"itemId": 21013,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f86c80fbe7f3c74e79fa2d89e70a353.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/38c6029cc2e65fb363c1b08457e1ecfc.png",
 				"rankType": 4,
 				"avatarBaseType": "3",
 				"weaponType": "mage",
@@ -334,7 +391,7 @@
 			{
 				"itemId": 23010,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d461457032f3f4f905fabc59d78402c1.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/ebf93e1f92ec87a90690ada92d8792cd.png",
 				"rankType": 5,
 				"avatarBaseType": "3",
 				"weaponType": "mage",
@@ -344,7 +401,7 @@
 			{
 				"itemId": 21011,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/926d0a1562239416577708751d467caa.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/303f9f3b6f1c28e4243f8f5eae031eeb.png",
 				"rankType": 4,
 				"avatarBaseType": "4",
 				"weaponType": "shaman",
@@ -354,7 +411,7 @@
 			{
 				"itemId": 21003,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b5451c79defe0eb47238793bf02bd620.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/e8bc78a2bf1f23605d1157e14901d489.png",
 				"rankType": 4,
 				"avatarBaseType": "2",
 				"weaponType": "rogue",
@@ -364,7 +421,7 @@
 			{
 				"itemId": 21002,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e8fba2c6292c460e7fdbde2fa1ae973.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2916ee044baadc522cc9836aa06dc423.png",
 				"rankType": 4,
 				"avatarBaseType": "6",
 				"weaponType": "knight",
@@ -381,7 +438,7 @@
 			{
 				"itemId": 23001,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7a6cb55f66a4d869ebc545de1141eaf5.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c64fdfdac83591e42162e65ee563caa7.png",
 				"rankType": 5,
 				"avatarBaseType": "2",
 				"weaponType": "rogue",
@@ -391,7 +448,7 @@
 			{
 				"itemId": 21000,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/9e01214b60fd68a13792871cb08f8148.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/dd090cd1b917bcd5c103539479c5ce95.png",
 				"rankType": 4,
 				"avatarBaseType": "7",
 				"weaponType": "priest",
@@ -401,7 +458,7 @@
 			{
 				"itemId": 21001,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/cc4b126e0f88d5e265d303a05fffcf7a.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/8589ccf249e72a91bddbe8f6dc937b04.png",
 				"rankType": 4,
 				"avatarBaseType": "5",
 				"weaponType": "warlock",
@@ -411,7 +468,7 @@
 			{
 				"itemId": 21005,
 				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b856b6c88bbe72ddbac8b12a8b6c872c.png",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/82aa65387de7a4cbec71c7284f390f7e.png",
 				"rankType": 4,
 				"avatarBaseType": "1",
 				"weaponType": "warrior",
