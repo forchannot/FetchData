@@ -1,5 +1,52 @@
 [
 	{
+		"version": "1.4.2",
+		"items": [
+			{
+				"itemId": 23001,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7a6cb55f66a4d869ebc545de1141eaf5.png",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "于夜色中"
+			},
+			{
+				"itemId": 21003,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b5451c79defe0eb47238793bf02bd620.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "唯有沉默"
+			},
+			{
+				"itemId": 21005,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b856b6c88bbe72ddbac8b12a8b6c872c.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你"
+			},
+			{
+				"itemId": 21015,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/312ee2a317a277fa6eb0c75256f30824.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀"
+			}
+		],
+		"start": "2023-10-27 12:00:00",
+		"end": "2023-11-14 14:59:59"
+	},
+	{
 		"version": "1.4.1",
 		"items": [
 			{

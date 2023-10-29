@@ -1,5 +1,45 @@
 [
 	{
+		"version": "1.4.2",
+		"items": [
+			{
+				"itemId": 1102,
+				"damageType": "32",
+				"element": "quantum",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/35a308c073616ed26f79b7d05b7ffbc1.png",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Character",
+				"name": "希儿"
+			},
+			{
+				"itemId": 1206,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caec4b602821569a82c698a60a2ce50b.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Character",
+				"name": "素裳"
+			},
+			{
+				"itemId": 1111,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/63bce564ac550300e6b93f05e95759f9.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "卢卡"
+			}
+		],
+		"start": "2023-10-27 12:00:00",
+		"end": "2023-11-14 14:59:59"
+	},
+	{
 		"version": "1.4.1",
 		"items": [
 			{
