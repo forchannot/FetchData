@@ -1,5 +1,75 @@
 [
 	{
+		"version": "4.2.1",
+		"items": [
+			{
+				"itemId": 74,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "静水流涌之辉",
+				"nameEn": "Splendor of Tranquil Waters"
+			},
+			{
+				"itemId": 66,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Morax.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "碧落之珑",
+				"nameEn": "Jadefall's Splendor"
+			},
+			{
+				"itemId": 9,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼剑",
+				"nameEn": "Sacrificial Sword"
+			},
+			{
+				"itemId": 3,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "The Bell"
+			},
+			{
+				"itemId": 13,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane"
+			},
+			{
+				"itemId": 11,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "Sacrificial Fragments"
+			},
+			{
+				"itemId": 5,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "绝弦",
+				"nameEn": "The Stringless"
+			}
+		],
+		"start": "2023-11-08 06:00:00",
+		"end": "2023-11-28 17:59:59"
+	},
+	{
 		"version": "4.1.2",
 		"items": [
 			{

@@ -1,5 +1,57 @@
 [
 	{
+		"version": "4.2.1",
+		"items": [
+			{
+				"itemId": 64,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "芙宁娜"
+			},
+			{
+				"itemId": 56,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "白术",
+				"nameEn": "白术"
+			},
+			{
+				"itemId": 65,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "夏洛蒂",
+				"nameEn": "夏洛蒂"
+			},
+			{
+				"itemId": 43,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "柯莱"
+			},
+			{
+				"itemId": 10,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗"
+			}
+		],
+		"start": "2023-11-08 06:00:00",
+		"end": "2023-11-28 17:59:59"
+	},
+	{
 		"version": "4.1.2",
 		"items": [
 			{
