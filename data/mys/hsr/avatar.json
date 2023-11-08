@@ -9,7 +9,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "8003",
@@ -21,7 +22,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "8002",
@@ -33,7 +35,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "8001",
@@ -45,7 +48,34 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
+	},
+	{
+		"item_id": "1302",
+		"item_name": "银枝",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_7c9f0i/d08ee7534dc5750c7ccee6ca554e2b03.png",
+		"damage_type": "1",
+		"rarity": "5",
+		"avatar_base_type": "3",
+		"max_level": 80,
+		"cur_level": 1,
+		"target_level": 0,
+		"vertical_icon_url": "",
+		"is_forward": true
+	},
+	{
+		"item_id": "1217",
+		"item_name": "藿藿",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_7c9f0i/509ecf13617d7c8fbbff7399da98cdf5.png",
+		"damage_type": "16",
+		"rarity": "5",
+		"avatar_base_type": "7",
+		"max_level": 80,
+		"cur_level": 1,
+		"target_level": 0,
+		"vertical_icon_url": "",
+		"is_forward": true
 	},
 	{
 		"item_id": "1213",
@@ -57,7 +87,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1212",
@@ -69,7 +100,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1211",
@@ -81,7 +113,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1209",
@@ -93,7 +126,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1208",
@@ -105,7 +139,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1205",
@@ -117,7 +152,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1204",
@@ -129,7 +165,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1203",
@@ -141,7 +178,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1112",
@@ -153,7 +191,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1107",
@@ -165,7 +204,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1104",
@@ -177,7 +217,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1102",
@@ -189,7 +230,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1101",
@@ -201,7 +243,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1006",
@@ -213,7 +256,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1005",
@@ -225,7 +269,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1004",
@@ -237,7 +282,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1003",
@@ -249,7 +295,21 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
+	},
+	{
+		"item_id": "1215",
+		"item_name": "寒鸦",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_7c9f0i/778bb2b0b886b241e07af306a13197d7.png",
+		"damage_type": "1",
+		"rarity": "4",
+		"avatar_base_type": "4",
+		"max_level": 80,
+		"cur_level": 1,
+		"target_level": 0,
+		"vertical_icon_url": "",
+		"is_forward": true
 	},
 	{
 		"item_id": "1210",
@@ -261,7 +321,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1207",
@@ -273,7 +334,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1206",
@@ -285,7 +347,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1202",
@@ -297,7 +360,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1201",
@@ -309,7 +373,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1111",
@@ -321,7 +386,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1110",
@@ -333,7 +399,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1109",
@@ -345,7 +412,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1108",
@@ -357,7 +425,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1106",
@@ -369,7 +438,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1105",
@@ -381,7 +451,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1103",
@@ -393,7 +464,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1013",
@@ -405,7 +477,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1009",
@@ -417,7 +490,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1008",
@@ -429,7 +503,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": ""
+		"vertical_icon_url": "",
+		"is_forward": false
 	},
 	{
 		"item_id": "1002",
@@ -441,7 +516,8 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": "http://立绘1002"
+		"vertical_icon_url": "http://立绘1002",
+		"is_forward": false
 	},
 	{
 		"item_id": "1001",
@@ -453,6 +529,7 @@
 		"max_level": 80,
 		"cur_level": 1,
 		"target_level": 0,
-		"vertical_icon_url": "http://立绘1001"
+		"vertical_icon_url": "http://立绘1001",
+		"is_forward": false
 	}
 ]

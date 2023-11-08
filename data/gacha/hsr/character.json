@@ -25,15 +25,15 @@
 				"name": "希儿"
 			},
 			{
-				"itemId": 1206,
-				"damageType": "1",
-				"element": "physical",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a6d612d4f98132feec3630228be69803.png",
+				"itemId": 1210,
+				"damageType": "2",
+				"element": "fire",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d4a037ca678aee04015859808dddab45.png",
 				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
 				"itemType": "Character",
-				"name": "素裳"
+				"name": "桂乃芬"
 			},
 			{
 				"itemId": 1111,
@@ -47,15 +47,15 @@
 				"name": "卢卡"
 			},
 			{
-				"itemId": 1210,
-				"damageType": "2",
-				"element": "fire",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d4a037ca678aee04015859808dddab45.png",
+				"itemId": 1206,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a6d612d4f98132feec3630228be69803.png",
 				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
 				"itemType": "Character",
-				"name": "桂乃芬"
+				"name": "素裳"
 			}
 		],
 		"start": "2023-10-27 12:00:00",

@@ -23,16 +23,6 @@
 				"name": "于夜色中"
 			},
 			{
-				"itemId": 21003,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/e8bc78a2bf1f23605d1157e14901d489.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Weapon",
-				"name": "唯有沉默"
-			},
-			{
 				"itemId": 21005,
 				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/82aa65387de7a4cbec71c7284f390f7e.png",
@@ -51,6 +41,16 @@
 				"weaponType": "warlock",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀"
+			},
+			{
+				"itemId": 21003,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/e8bc78a2bf1f23605d1157e14901d489.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "唯有沉默"
 			}
 		],
 		"start": "2023-10-27 12:00:00",

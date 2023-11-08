@@ -1,11 +1,88 @@
 [
 	{
+		"version": "4.2.1",
+		"items": [
+			{
+				"itemId": 11513,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/1d603d4764cf292a12e268b8d8012688.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "静水流涌之辉",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14505,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ba709b6f51f1d0c14dbf01d9a99f92a4.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "碧落之珑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11403,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12402,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13401,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14403,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15402,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "绝弦",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2023-11-08 06:00:00",
+		"end": "2023-11-28 17:59:59"
+	},
+	{
 		"version": "4.1.2",
 		"items": [
 			{
 				"itemId": 14513,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/fe5b5e0b18bf8d8f02c937358fe25a68.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/74712841e6a4cc25e0a2a36874ac71d7.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "金流监督",
@@ -15,7 +92,7 @@
 			{
 				"itemId": 15503,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/37f09bce9c6f20e0b14a78de32489d47.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4ca3270737e6402b902d3ceec7b7d7af.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -25,7 +102,7 @@
 			{
 				"itemId": 13427,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b0e064d5722c0c41d7208a5804ccd71f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3333f73a195e3da1ed9a125658dfcf16.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "勘探钻机",
@@ -35,7 +112,7 @@
 			{
 				"itemId": 15427,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6e9bb31aca349c12b3b15f179f1bbeb6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/98e0ebb9a9857e2b21deda9d8c574b89.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "测距规",
@@ -45,7 +122,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -55,7 +132,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -65,7 +142,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -82,7 +159,7 @@
 			{
 				"itemId": 14514,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/9237e20deb4f44d61162a351bf8dfa97.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/8f34b571d7e2d26e6c2ef2886defa86b.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "万世流涌大典",
@@ -92,7 +169,7 @@
 			{
 				"itemId": 13501,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/22d315b9aee76c9dd160b8885fcf390a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/884e961f7207a44ba63213de3081879c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -102,7 +179,7 @@
 			{
 				"itemId": 11427,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/e1918f626117c318ff480be00b8aba4a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/da80c69eada7e7fb6053b6301a6011ba.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "船坞长剑",
@@ -112,7 +189,7 @@
 			{
 				"itemId": 12427,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/7bf5e8e49e9fbab7927d96bd78820094.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/6dc1e808543a09ddc1daf1e76721cd3d.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "便携动力锯",
@@ -122,7 +199,7 @@
 			{
 				"itemId": 15412,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/7b3b5958b280b1b9f3609ac6f3a08c87.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/14dbe808d6267665d238e02eb583541d.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -132,7 +209,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -142,7 +219,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -159,7 +236,7 @@
 			{
 				"itemId": 13504,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f30dada5d5b0b18197b20604be7036d5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4d95a6cf6d78036486324d94b5030e39.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -169,7 +246,7 @@
 			{
 				"itemId": 15507,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/0ee3d88e791f7b03f61e73ccb223250e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/e82e2d1d96a932821d3cedf3377b203d.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "冬极白星",
@@ -179,7 +256,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -189,7 +266,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -199,7 +276,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -209,7 +286,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -219,7 +296,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -236,7 +313,7 @@
 			{
 				"itemId": 15512,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/972112ca3b324a5bc3b2fed37220a3d0.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/2b3f4a4eef528e1150893d58c68a5de3.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "最初的大魔术",
@@ -246,7 +323,7 @@
 			{
 				"itemId": 15508,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/16854ad812655fb6e4880b285c8614f7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/22fe2a4f0f1a386b948e0838c6957df8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "若水",
@@ -256,7 +333,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -266,7 +343,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -276,7 +353,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -286,7 +363,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -296,7 +373,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -313,7 +390,7 @@
 			{
 				"itemId": 14506,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b5a18fe4d5298f0e397163bd019fbb09.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ddba7478fe2b0b53820c69dd54bc1256.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "不灭月华",
@@ -323,7 +400,7 @@
 			{
 				"itemId": 14512,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2b4727c3a8bc963a029d374a77405e3b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/630795c24ba85aa8d2d20e53fb378e14.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "图莱杜拉的回忆",
@@ -333,7 +410,7 @@
 			{
 				"itemId": 14410,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6e9c080f119d2dfe0b4e84b2f85ee6f9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/cbc6f0455c1480cc242be2ba75b1fadf.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -343,7 +420,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -353,7 +430,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -363,7 +440,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -373,7 +450,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -390,7 +467,7 @@
 			{
 				"itemId": 12503,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/884ba25a0e0eb6f5cc872a240b593df1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9b46b91fd7b7dcd46f72d863766cb4f8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
@@ -400,7 +477,7 @@
 			{
 				"itemId": 14502,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2b7327590c0177819ab3a6fa4d424eb6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/26e44e820060a7d4d18c3881cad96ad3.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -410,7 +487,7 @@
 			{
 				"itemId": 11410,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b16d8ffbec449eb9dfb9d3fba1f91e6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/881cda2b7a178f449f46af7ceeec55fa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -420,7 +497,7 @@
 			{
 				"itemId": 15410,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/ed1ab00a3af92bc3bf5e5aec06b23661.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/93842219c93fc604c8a0cb70dccfcb8a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -430,7 +507,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -440,7 +517,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -450,7 +527,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -467,7 +544,7 @@
 			{
 				"itemId": 11512,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/0fe4759957cbe703169b6d339634495e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3c1cbb685c7c3f3b39d6a862f7768667.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "裁叶萃光",
@@ -477,7 +554,7 @@
 			{
 				"itemId": 11503,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c9be45a207a96d91985dc8271f84a616.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/23ddd73ededda2d369adb22eebd00d35.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -487,7 +564,7 @@
 			{
 				"itemId": 13416,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1e7e1e19067eac1e8ea69d1918465f24.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/bdacc21c3d9d5e1ff7bc9faee90cd5ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -497,7 +574,7 @@
 			{
 				"itemId": 15416,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/700f8cbb7200ac5dd01ef70b6677b4e9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/0b0a4efbfb9d3a7f0a2829c2bd7a4309.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -507,7 +584,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -517,7 +594,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -527,7 +604,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -544,7 +621,7 @@
 			{
 				"itemId": 15509,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b1d7be4b66e44da88798035be9f4e756.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/57b1e6315d0c7b60d4599fdf6b4a099b.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -554,7 +631,7 @@
 			{
 				"itemId": 14509,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4d9c13cf6f70c8a7eb5c3c2495be6c50.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/33978cd9da68fa9f55e4a0e34d1e93b1.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "神乐之真意",
@@ -564,7 +641,7 @@
 			{
 				"itemId": 12416,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3f3cf5a8d259d9580722c1f80d6962bb.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/51b0b9fffbe00d701b6eca25bb6826d4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -574,7 +651,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -584,7 +661,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -594,7 +671,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -604,7 +681,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -621,7 +698,7 @@
 			{
 				"itemId": 14505,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b8e49d1222d3d89269fb076853048fc0.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ba709b6f51f1d0c14dbf01d9a99f92a4.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "碧落之珑",
@@ -631,7 +708,7 @@
 			{
 				"itemId": 15502,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1ddf778d87cef4384b8001994b413100.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/77e38d63c05585ae5a3b5988d8169374.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -641,7 +718,7 @@
 			{
 				"itemId": 12415,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/d69b07286ab780ca9f8184324fee030f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/531d1e30de965578532354fe1edb18f5.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "玛海菈的水色",
@@ -651,7 +728,7 @@
 			{
 				"itemId": 14416,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f62304291f13c20519ef5c0bdfbfcfb6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/24b463d61aba036b1c011fabca1b58e7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪的晚星",
@@ -661,7 +738,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -671,7 +748,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -681,7 +758,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -698,7 +775,7 @@
 			{
 				"itemId": 14511,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2f22001e32f6dcb75e90c9c3f4b93fb9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/239cf77f6ab0cbc68378bef747cc853d.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
@@ -708,7 +785,7 @@
 			{
 				"itemId": 11511,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/7f7a3517e94cc98997c608f1097cc28d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a57872c8dfa0e4b3f044b649a2b3a288.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "圣显之钥",
@@ -718,7 +795,7 @@
 			{
 				"itemId": 11418,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/5f7a634b51dbcf8f10df2a69df35bffe.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/cc2624710cc3ca7188dfd39c0cb0596b.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西福斯的月光",
@@ -728,7 +805,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -738,7 +815,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -748,7 +825,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -758,7 +835,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -775,7 +852,7 @@
 			{
 				"itemId": 13507,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/237e6f978bf1d21be1426c035102c742.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/648c1c6394b13dc80d7c1fc0c5f5e54c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "息灾",
@@ -785,7 +862,7 @@
 			{
 				"itemId": 11509,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/9ec60adbbfa10fcf63a8da7791cdbf59.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/8d91c826c0855839243c4089791a124f.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "雾切之回光",
@@ -795,7 +872,7 @@
 			{
 				"itemId": 14410,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6e9c080f119d2dfe0b4e84b2f85ee6f9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/cbc6f0455c1480cc242be2ba75b1fadf.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -805,7 +882,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -815,7 +892,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -825,7 +902,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -835,7 +912,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -852,7 +929,7 @@
 			{
 				"itemId": 12511,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/332ee2053b0cf55a0923edae016b46de.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/73c9e161f7996f56756f76dbb8c35105.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "苇海信标",
@@ -862,7 +939,7 @@
 			{
 				"itemId": 13511,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b20dadd9f5238d2b3725ba8bb8d76040.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/68877f3bba35652413babe6c50c0309f.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "赤沙之杖",
@@ -872,7 +949,7 @@
 			{
 				"itemId": 11410,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b16d8ffbec449eb9dfb9d3fba1f91e6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/881cda2b7a178f449f46af7ceeec55fa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -882,7 +959,7 @@
 			{
 				"itemId": 15410,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/ed1ab00a3af92bc3bf5e5aec06b23661.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/93842219c93fc604c8a0cb70dccfcb8a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -892,7 +969,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -902,7 +979,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -912,7 +989,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -929,7 +1006,7 @@
 			{
 				"itemId": 13501,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/22d315b9aee76c9dd160b8885fcf390a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/884e961f7207a44ba63213de3081879c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -939,7 +1016,7 @@
 			{
 				"itemId": 15508,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/16854ad812655fb6e4880b285c8614f7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/22fe2a4f0f1a386b948e0838c6957df8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "若水",
@@ -949,7 +1026,7 @@
 			{
 				"itemId": 12410,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b28b74b87cdb17d25bd875b7a40577f3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ba56eb30dfeb6ad4cd5e920128860861.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -959,7 +1036,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -969,7 +1046,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -979,7 +1056,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -989,7 +1066,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -1006,7 +1083,7 @@
 			{
 				"itemId": 11512,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/0fe4759957cbe703169b6d339634495e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3c1cbb685c7c3f3b39d6a862f7768667.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "裁叶萃光",
@@ -1016,7 +1093,7 @@
 			{
 				"itemId": 13505,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f50ef79b5512acdfd54908de4c5c2490.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/2e077d2dc8be2aedf10f3240b387b5b8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -1026,7 +1103,7 @@
 			{
 				"itemId": 13406,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/49cf5a67051b46d29bc3047360590019.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/b2c238d475e9518cd1a1ec1e8cb1e6aa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -1036,7 +1113,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -1046,7 +1123,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -1056,7 +1133,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -1066,7 +1143,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -1083,7 +1160,7 @@
 			{
 				"itemId": 13509,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/687233a5789f2b7eb23a7c585b20ca37.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/d63f873dd0e7260e5ba918e0356d4f5c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
@@ -1093,7 +1170,7 @@
 			{
 				"itemId": 11510,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/5aad746998fbb01ed15fb0c3f1905440.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fd07b603091b98f04b4ce63ba2cbb44e.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "波乱月白经津",
@@ -1103,7 +1180,7 @@
 			{
 				"itemId": 12416,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3f3cf5a8d259d9580722c1f80d6962bb.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/51b0b9fffbe00d701b6eca25bb6826d4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -1113,7 +1190,7 @@
 			{
 				"itemId": 15416,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/700f8cbb7200ac5dd01ef70b6677b4e9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/0b0a4efbfb9d3a7f0a2829c2bd7a4309.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -1123,7 +1200,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -1133,7 +1210,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1143,7 +1220,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -1160,7 +1237,7 @@
 			{
 				"itemId": 14512,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2b4727c3a8bc963a029d374a77405e3b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/630795c24ba85aa8d2d20e53fb378e14.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "图莱杜拉的回忆",
@@ -1170,7 +1247,7 @@
 			{
 				"itemId": 12510,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4641a903a70332972668ac9f2d5c4747.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3eed13b2a7816e8e3d42db23d0aaf9f0.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
@@ -1180,7 +1257,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -1190,7 +1267,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -1200,7 +1277,7 @@
 			{
 				"itemId": 13416,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1e7e1e19067eac1e8ea69d1918465f24.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/bdacc21c3d9d5e1ff7bc9faee90cd5ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -1210,7 +1287,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -1220,7 +1297,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -1237,7 +1314,7 @@
 			{
 				"itemId": 14509,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4d9c13cf6f70c8a7eb5c3c2495be6c50.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/33978cd9da68fa9f55e4a0e34d1e93b1.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "神乐之真意",
@@ -1247,7 +1324,7 @@
 			{
 				"itemId": 15507,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/0ee3d88e791f7b03f61e73ccb223250e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/e82e2d1d96a932821d3cedf3377b203d.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "冬极白星",
@@ -1257,7 +1334,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -1267,7 +1344,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -1277,7 +1354,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1287,7 +1364,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -1297,7 +1374,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -1314,7 +1391,7 @@
 			{
 				"itemId": 14511,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2f22001e32f6dcb75e90c9c3f4b93fb9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/239cf77f6ab0cbc68378bef747cc853d.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
@@ -1324,7 +1401,7 @@
 			{
 				"itemId": 15509,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b1d7be4b66e44da88798035be9f4e756.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/57b1e6315d0c7b60d4599fdf6b4a099b.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -1334,7 +1411,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -1344,7 +1421,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -1354,7 +1431,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1364,7 +1441,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -1374,7 +1451,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -1391,7 +1468,7 @@
 			{
 				"itemId": 11511,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/7f7a3517e94cc98997c608f1097cc28d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a57872c8dfa0e4b3f044b649a2b3a288.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "圣显之钥",
@@ -1401,7 +1478,7 @@
 			{
 				"itemId": 11505,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6fe84585d14ca1ee10d530d307ffe1ac.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
@@ -1411,7 +1488,7 @@
 			{
 				"itemId": 11418,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/5f7a634b51dbcf8f10df2a69df35bffe.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/cc2624710cc3ca7188dfd39c0cb0596b.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西福斯的月光",
@@ -1421,7 +1498,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -1431,7 +1508,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1441,7 +1518,7 @@
 			{
 				"itemId": 14416,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f62304291f13c20519ef5c0bdfbfcfb6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/24b463d61aba036b1c011fabca1b58e7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪的晚星",
@@ -1451,7 +1528,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -1468,7 +1545,7 @@
 			{
 				"itemId": 13511,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b20dadd9f5238d2b3725ba8bb8d76040.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/68877f3bba35652413babe6c50c0309f.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "赤沙之杖",
@@ -1478,7 +1555,7 @@
 			{
 				"itemId": 15503,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/37f09bce9c6f20e0b14a78de32489d47.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4ca3270737e6402b902d3ceec7b7d7af.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -1488,7 +1565,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -1498,7 +1575,7 @@
 			{
 				"itemId": 12415,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/d69b07286ab780ca9f8184324fee030f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/531d1e30de965578532354fe1edb18f5.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "玛海菈的水色",
@@ -1508,7 +1585,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1518,7 +1595,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -1528,7 +1605,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -1545,7 +1622,7 @@
 			{
 				"itemId": 15502,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1ddf778d87cef4384b8001994b413100.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/77e38d63c05585ae5a3b5988d8169374.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -1555,7 +1632,7 @@
 			{
 				"itemId": 14506,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b5a18fe4d5298f0e397163bd019fbb09.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ddba7478fe2b0b53820c69dd54bc1256.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "不灭月华",
@@ -1565,7 +1642,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -1575,7 +1652,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -1585,7 +1662,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1595,7 +1672,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -1605,7 +1682,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -1622,7 +1699,7 @@
 			{
 				"itemId": 15511,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6093ecebd4a8cc442ac48f1b2a84c912.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/86e76009c852f951c516add42aebaa0e.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "猎人之径",
@@ -1632,7 +1709,7 @@
 			{
 				"itemId": 13504,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f30dada5d5b0b18197b20604be7036d5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4d95a6cf6d78036486324d94b5030e39.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -1642,7 +1719,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -1652,7 +1729,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -1662,7 +1739,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1672,7 +1749,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -1682,7 +1759,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -1699,7 +1776,7 @@
 			{
 				"itemId": 15509,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b1d7be4b66e44da88798035be9f4e756.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/57b1e6315d0c7b60d4599fdf6b4a099b.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -1709,7 +1786,7 @@
 			{
 				"itemId": 11504,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/088f9aebbe091cb5972bd90d755f42b3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/d2687725efe48dccdbe45a315952617f.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
@@ -1719,7 +1796,7 @@
 			{
 				"itemId": 14410,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6e9c080f119d2dfe0b4e84b2f85ee6f9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/cbc6f0455c1480cc242be2ba75b1fadf.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -1729,7 +1806,7 @@
 			{
 				"itemId": 15410,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/ed1ab00a3af92bc3bf5e5aec06b23661.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/93842219c93fc604c8a0cb70dccfcb8a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -1739,7 +1816,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -1749,7 +1826,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -1759,7 +1836,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1776,7 +1853,7 @@
 			{
 				"itemId": 11503,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c9be45a207a96d91985dc8271f84a616.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/23ddd73ededda2d369adb22eebd00d35.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -1786,7 +1863,7 @@
 			{
 				"itemId": 14502,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2b7327590c0177819ab3a6fa4d424eb6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/26e44e820060a7d4d18c3881cad96ad3.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -1796,7 +1873,7 @@
 			{
 				"itemId": 11410,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b16d8ffbec449eb9dfb9d3fba1f91e6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/881cda2b7a178f449f46af7ceeec55fa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -1806,7 +1883,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -1816,7 +1893,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1826,7 +1903,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -1836,7 +1913,7 @@
 			{
 				"itemId": 15412,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/7b3b5958b280b1b9f3609ac6f3a08c87.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/14dbe808d6267665d238e02eb583541d.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -1853,7 +1930,7 @@
 			{
 				"itemId": 12510,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4641a903a70332972668ac9f2d5c4747.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3eed13b2a7816e8e3d42db23d0aaf9f0.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
@@ -1863,7 +1940,7 @@
 			{
 				"itemId": 14504,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/85e2956836b032f39109379be0b413e1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f1d3004d9ca980f0ec2bf04a8f9c4852.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "尘世之锁",
@@ -1873,7 +1950,7 @@
 			{
 				"itemId": 12410,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b28b74b87cdb17d25bd875b7a40577f3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ba56eb30dfeb6ad4cd5e920128860861.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -1883,7 +1960,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -1893,7 +1970,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1903,7 +1980,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -1913,7 +1990,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -1930,7 +2007,7 @@
 			{
 				"itemId": 15508,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/16854ad812655fb6e4880b285c8614f7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/22fe2a4f0f1a386b948e0838c6957df8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "若水",
@@ -1940,7 +2017,7 @@
 			{
 				"itemId": 13505,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f50ef79b5512acdfd54908de4c5c2490.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/2e077d2dc8be2aedf10f3240b387b5b8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -1950,7 +2027,7 @@
 			{
 				"itemId": 13406,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/49cf5a67051b46d29bc3047360590019.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/b2c238d475e9518cd1a1ec1e8cb1e6aa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -1960,7 +2037,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -1970,7 +2047,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -1980,7 +2057,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -1990,7 +2067,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -2007,7 +2084,7 @@
 			{
 				"itemId": 11509,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/9ec60adbbfa10fcf63a8da7791cdbf59.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/8d91c826c0855839243c4089791a124f.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "雾切之回光",
@@ -2017,7 +2094,7 @@
 			{
 				"itemId": 12504,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/efaee2001922d9ed359bdab6b49f5379.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/1327b4a11e615400533934597e2f8b23.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "无工之剑",
@@ -2027,7 +2104,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -2037,7 +2114,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -2047,7 +2124,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2057,7 +2134,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -2067,7 +2144,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -2084,7 +2161,7 @@
 			{
 				"itemId": 11510,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/5aad746998fbb01ed15fb0c3f1905440.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fd07b603091b98f04b4ce63ba2cbb44e.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "波乱月白经津",
@@ -2094,7 +2171,7 @@
 			{
 				"itemId": 15503,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/37f09bce9c6f20e0b14a78de32489d47.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4ca3270737e6402b902d3ceec7b7d7af.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -2104,7 +2181,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -2114,7 +2191,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -2124,7 +2201,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -2134,7 +2211,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2144,7 +2221,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -2161,7 +2238,7 @@
 			{
 				"itemId": 13509,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/687233a5789f2b7eb23a7c585b20ca37.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/d63f873dd0e7260e5ba918e0356d4f5c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
@@ -2171,7 +2248,7 @@
 			{
 				"itemId": 14506,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b5a18fe4d5298f0e397163bd019fbb09.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ddba7478fe2b0b53820c69dd54bc1256.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "不灭月华",
@@ -2181,7 +2258,7 @@
 			{
 				"itemId": 12416,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3f3cf5a8d259d9580722c1f80d6962bb.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/51b0b9fffbe00d701b6eca25bb6826d4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -2191,7 +2268,7 @@
 			{
 				"itemId": 15416,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/700f8cbb7200ac5dd01ef70b6677b4e9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/0b0a4efbfb9d3a7f0a2829c2bd7a4309.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -2201,7 +2278,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -2211,7 +2288,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2221,7 +2298,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -2238,7 +2315,7 @@
 			{
 				"itemId": 14509,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4d9c13cf6f70c8a7eb5c3c2495be6c50.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/33978cd9da68fa9f55e4a0e34d1e93b1.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "神乐之真意",
@@ -2248,7 +2325,7 @@
 			{
 				"itemId": 11505,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6fe84585d14ca1ee10d530d307ffe1ac.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
@@ -2258,7 +2335,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -2268,7 +2345,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -2278,7 +2355,7 @@
 			{
 				"itemId": 13416,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1e7e1e19067eac1e8ea69d1918465f24.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/bdacc21c3d9d5e1ff7bc9faee90cd5ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -2288,7 +2365,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -2298,7 +2375,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -2315,7 +2392,7 @@
 			{
 				"itemId": 13504,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f30dada5d5b0b18197b20604be7036d5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4d95a6cf6d78036486324d94b5030e39.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -2325,7 +2402,7 @@
 			{
 				"itemId": 15502,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1ddf778d87cef4384b8001994b413100.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/77e38d63c05585ae5a3b5988d8169374.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -2335,7 +2412,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -2345,7 +2422,7 @@
 			{
 				"itemId": 12410,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b28b74b87cdb17d25bd875b7a40577f3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ba56eb30dfeb6ad4cd5e920128860861.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -2355,7 +2432,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2365,7 +2442,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -2375,7 +2452,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -2392,7 +2469,7 @@
 			{
 				"itemId": 13507,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/237e6f978bf1d21be1426c035102c742.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/648c1c6394b13dc80d7c1fc0c5f5e54c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "息灾",
@@ -2402,7 +2479,7 @@
 			{
 				"itemId": 13505,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f50ef79b5512acdfd54908de4c5c2490.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/2e077d2dc8be2aedf10f3240b387b5b8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -2412,7 +2489,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -2422,7 +2499,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -2432,7 +2509,7 @@
 			{
 				"itemId": 13406,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/49cf5a67051b46d29bc3047360590019.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/b2c238d475e9518cd1a1ec1e8cb1e6aa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -2442,7 +2519,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -2452,7 +2529,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -2469,7 +2546,7 @@
 			{
 				"itemId": 12510,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4641a903a70332972668ac9f2d5c4747.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3eed13b2a7816e8e3d42db23d0aaf9f0.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
@@ -2479,7 +2556,7 @@
 			{
 				"itemId": 15501,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3143b5980ceebf4f5499180396290e87.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/307a76e87ec99c8a91a654589f02298b.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之翼",
@@ -2489,7 +2566,7 @@
 			{
 				"itemId": 11410,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b16d8ffbec449eb9dfb9d3fba1f91e6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/881cda2b7a178f449f46af7ceeec55fa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -2499,7 +2576,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -2509,7 +2586,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2519,7 +2596,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -2529,7 +2606,7 @@
 			{
 				"itemId": 15412,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/7b3b5958b280b1b9f3609ac6f3a08c87.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/14dbe808d6267665d238e02eb583541d.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -2546,7 +2623,7 @@
 			{
 				"itemId": 11503,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c9be45a207a96d91985dc8271f84a616.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/23ddd73ededda2d369adb22eebd00d35.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -2556,7 +2633,7 @@
 			{
 				"itemId": 12503,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/884ba25a0e0eb6f5cc872a240b593df1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9b46b91fd7b7dcd46f72d863766cb4f8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
@@ -2566,7 +2643,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -2576,7 +2653,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -2586,7 +2663,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2596,7 +2673,7 @@
 			{
 				"itemId": 14410,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6e9c080f119d2dfe0b4e84b2f85ee6f9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/cbc6f0455c1480cc242be2ba75b1fadf.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -2606,7 +2683,7 @@
 			{
 				"itemId": 15410,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/ed1ab00a3af92bc3bf5e5aec06b23661.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/93842219c93fc604c8a0cb70dccfcb8a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -2623,7 +2700,7 @@
 			{
 				"itemId": 13501,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/22d315b9aee76c9dd160b8885fcf390a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/884e961f7207a44ba63213de3081879c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -2633,7 +2710,7 @@
 			{
 				"itemId": 15503,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/37f09bce9c6f20e0b14a78de32489d47.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4ca3270737e6402b902d3ceec7b7d7af.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -2643,7 +2720,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -2653,7 +2730,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -2663,7 +2740,7 @@
 			{
 				"itemId": 13416,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1e7e1e19067eac1e8ea69d1918465f24.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/bdacc21c3d9d5e1ff7bc9faee90cd5ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -2673,7 +2750,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -2683,7 +2760,7 @@
 			{
 				"itemId": 15416,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/700f8cbb7200ac5dd01ef70b6677b4e9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/0b0a4efbfb9d3a7f0a2829c2bd7a4309.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -2700,7 +2777,7 @@
 			{
 				"itemId": 15507,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/0ee3d88e791f7b03f61e73ccb223250e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/e82e2d1d96a932821d3cedf3377b203d.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "冬极白星",
@@ -2710,7 +2787,7 @@
 			{
 				"itemId": 14504,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/85e2956836b032f39109379be0b413e1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f1d3004d9ca980f0ec2bf04a8f9c4852.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "尘世之锁",
@@ -2720,7 +2797,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -2730,7 +2807,7 @@
 			{
 				"itemId": 12416,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3f3cf5a8d259d9580722c1f80d6962bb.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/51b0b9fffbe00d701b6eca25bb6826d4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -2740,7 +2817,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2750,7 +2827,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -2760,7 +2837,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -2777,7 +2854,7 @@
 			{
 				"itemId": 14506,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b5a18fe4d5298f0e397163bd019fbb09.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ddba7478fe2b0b53820c69dd54bc1256.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "不灭月华",
@@ -2787,7 +2864,7 @@
 			{
 				"itemId": 11505,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6fe84585d14ca1ee10d530d307ffe1ac.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
@@ -2797,7 +2874,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -2807,7 +2884,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -2817,7 +2894,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2827,7 +2904,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -2837,7 +2914,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -2854,7 +2931,7 @@
 			{
 				"itemId": 13509,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/687233a5789f2b7eb23a7c585b20ca37.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/d63f873dd0e7260e5ba918e0356d4f5c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
@@ -2864,7 +2941,7 @@
 			{
 				"itemId": 12504,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/efaee2001922d9ed359bdab6b49f5379.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/1327b4a11e615400533934597e2f8b23.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "无工之剑",
@@ -2874,7 +2951,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -2884,7 +2961,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -2894,7 +2971,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2904,7 +2981,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -2914,7 +2991,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -2931,7 +3008,7 @@
 			{
 				"itemId": 15509,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b1d7be4b66e44da88798035be9f4e756.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/57b1e6315d0c7b60d4599fdf6b4a099b.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -2941,7 +3018,7 @@
 			{
 				"itemId": 11502,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3ef1c7eea011b8594b449d70d401b8da.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/082a757de4363dcb609f37cd12c7c3d6.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之刃",
@@ -2951,7 +3028,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -2961,7 +3038,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -2971,7 +3048,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2981,7 +3058,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -2991,7 +3068,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -3008,7 +3085,7 @@
 			{
 				"itemId": 11509,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/9ec60adbbfa10fcf63a8da7791cdbf59.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/8d91c826c0855839243c4089791a124f.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "雾切之回光",
@@ -3018,7 +3095,7 @@
 			{
 				"itemId": 13502,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1c7e8d3e9c3c230ffddcefb55d59a8ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fe826581889e8cf0890b0d9e8a28c09d.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之脊",
@@ -3028,7 +3105,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -3038,7 +3115,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -3048,7 +3125,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3058,7 +3135,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -3068,7 +3145,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -3085,7 +3162,7 @@
 			{
 				"itemId": 11503,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c9be45a207a96d91985dc8271f84a616.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/23ddd73ededda2d369adb22eebd00d35.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -3095,7 +3172,7 @@
 			{
 				"itemId": 14501,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/e250fcfaa479aa1038e955b32300903e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/70cfb103178c7e4505aebdc6178b994c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之卷",
@@ -3105,7 +3182,7 @@
 			{
 				"itemId": 11410,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b16d8ffbec449eb9dfb9d3fba1f91e6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/881cda2b7a178f449f46af7ceeec55fa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -3115,7 +3192,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -3125,7 +3202,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3135,7 +3212,7 @@
 			{
 				"itemId": 14410,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6e9c080f119d2dfe0b4e84b2f85ee6f9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/cbc6f0455c1480cc242be2ba75b1fadf.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -3145,7 +3222,7 @@
 			{
 				"itemId": 15410,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/ed1ab00a3af92bc3bf5e5aec06b23661.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/93842219c93fc604c8a0cb70dccfcb8a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -3162,7 +3239,7 @@
 			{
 				"itemId": 12501,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c43bee42d1927e33081502902577f6a7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/b3c080744f6fb65361bf8002a8ba4a2e.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之傲",
@@ -3172,7 +3249,7 @@
 			{
 				"itemId": 14502,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2b7327590c0177819ab3a6fa4d424eb6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/26e44e820060a7d4d18c3881cad96ad3.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -3182,7 +3259,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -3192,7 +3269,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -3202,7 +3279,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3212,7 +3289,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -3222,7 +3299,7 @@
 			{
 				"itemId": 15412,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/7b3b5958b280b1b9f3609ac6f3a08c87.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/14dbe808d6267665d238e02eb583541d.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -3239,7 +3316,7 @@
 			{
 				"itemId": 12503,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/884ba25a0e0eb6f5cc872a240b593df1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9b46b91fd7b7dcd46f72d863766cb4f8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
@@ -3249,7 +3326,7 @@
 			{
 				"itemId": 11501,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/5fa8a17c4517bd07d6dc88c9add69769.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/d99ca37dcc5da419f99de4fe5a13e08a.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "风鹰剑",
@@ -3259,7 +3336,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -3269,7 +3346,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -3279,7 +3356,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3289,7 +3366,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -3299,7 +3376,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -3316,7 +3393,7 @@
 			{
 				"itemId": 11504,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/088f9aebbe091cb5972bd90d755f42b3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/d2687725efe48dccdbe45a315952617f.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
@@ -3326,7 +3403,7 @@
 			{
 				"itemId": 14504,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/85e2956836b032f39109379be0b413e1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f1d3004d9ca980f0ec2bf04a8f9c4852.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "尘世之锁",
@@ -3336,7 +3413,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -3346,7 +3423,7 @@
 			{
 				"itemId": 12410,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b28b74b87cdb17d25bd875b7a40577f3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ba56eb30dfeb6ad4cd5e920128860861.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -3356,7 +3433,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -3366,7 +3443,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -3376,7 +3453,7 @@
 			{
 				"itemId": 13406,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/49cf5a67051b46d29bc3047360590019.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/b2c238d475e9518cd1a1ec1e8cb1e6aa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -3393,7 +3470,7 @@
 			{
 				"itemId": 15501,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3143b5980ceebf4f5499180396290e87.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/307a76e87ec99c8a91a654589f02298b.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之翼",
@@ -3403,7 +3480,7 @@
 			{
 				"itemId": 14502,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2b7327590c0177819ab3a6fa4d424eb6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/26e44e820060a7d4d18c3881cad96ad3.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -3413,7 +3490,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -3423,7 +3500,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -3433,7 +3510,7 @@
 			{
 				"itemId": 15410,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/ed1ab00a3af92bc3bf5e5aec06b23661.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/93842219c93fc604c8a0cb70dccfcb8a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -3443,7 +3520,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -3453,7 +3530,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3470,7 +3547,7 @@
 			{
 				"itemId": 15503,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/37f09bce9c6f20e0b14a78de32489d47.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4ca3270737e6402b902d3ceec7b7d7af.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -3480,7 +3557,7 @@
 			{
 				"itemId": 11502,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3ef1c7eea011b8594b449d70d401b8da.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/082a757de4363dcb609f37cd12c7c3d6.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之刃",
@@ -3490,7 +3567,7 @@
 			{
 				"itemId": 11410,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b16d8ffbec449eb9dfb9d3fba1f91e6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/881cda2b7a178f449f46af7ceeec55fa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -3500,7 +3577,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -3510,7 +3587,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -3520,7 +3597,7 @@
 			{
 				"itemId": 14410,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6e9c080f119d2dfe0b4e84b2f85ee6f9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/cbc6f0455c1480cc242be2ba75b1fadf.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -3530,7 +3607,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3547,7 +3624,7 @@
 			{
 				"itemId": 13501,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/22d315b9aee76c9dd160b8885fcf390a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/884e961f7207a44ba63213de3081879c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -3557,7 +3634,7 @@
 			{
 				"itemId": 12502,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2a86083db232c19ff85d0b8c2a647d49.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/60e5bda9dbc2b26e79b9cc58a1b5e8da.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "狼的末路",
@@ -3567,7 +3644,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -3577,7 +3654,7 @@
 			{
 				"itemId": 12410,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/b28b74b87cdb17d25bd875b7a40577f3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/ba56eb30dfeb6ad4cd5e920128860861.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -3587,7 +3664,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -3597,7 +3674,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -3607,7 +3684,7 @@
 			{
 				"itemId": 13406,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/49cf5a67051b46d29bc3047360590019.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/b2c238d475e9518cd1a1ec1e8cb1e6aa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -3624,7 +3701,7 @@
 			{
 				"itemId": 11505,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/6fe84585d14ca1ee10d530d307ffe1ac.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
@@ -3634,7 +3711,7 @@
 			{
 				"itemId": 13505,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f50ef79b5512acdfd54908de4c5c2490.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/2e077d2dc8be2aedf10f3240b387b5b8.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -3644,7 +3721,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -3654,7 +3731,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -3664,7 +3741,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -3674,7 +3751,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -3684,7 +3761,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3701,7 +3778,7 @@
 			{
 				"itemId": 15502,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1ddf778d87cef4384b8001994b413100.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/77e38d63c05585ae5a3b5988d8169374.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -3711,7 +3788,7 @@
 			{
 				"itemId": 12501,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c43bee42d1927e33081502902577f6a7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/b3c080744f6fb65361bf8002a8ba4a2e.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之傲",
@@ -3721,7 +3798,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -3731,7 +3808,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -3741,7 +3818,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3751,7 +3828,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -3761,7 +3838,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -3778,7 +3855,7 @@
 			{
 				"itemId": 11504,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/088f9aebbe091cb5972bd90d755f42b3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/d2687725efe48dccdbe45a315952617f.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
@@ -3788,7 +3865,7 @@
 			{
 				"itemId": 14501,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/e250fcfaa479aa1038e955b32300903e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/70cfb103178c7e4505aebdc6178b994c.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之卷",
@@ -3798,7 +3875,7 @@
 			{
 				"itemId": 11401,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -3808,7 +3885,7 @@
 			{
 				"itemId": 12401,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/95de510e18f564c1da542b4bd9ee6ab6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -3818,7 +3895,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3828,7 +3905,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -3838,7 +3915,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -3855,7 +3932,7 @@
 			{
 				"itemId": 13504,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f30dada5d5b0b18197b20604be7036d5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/4d95a6cf6d78036486324d94b5030e39.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -3865,7 +3942,7 @@
 			{
 				"itemId": 12504,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/efaee2001922d9ed359bdab6b49f5379.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/1327b4a11e615400533934597e2f8b23.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "无工之剑",
@@ -3875,7 +3952,7 @@
 			{
 				"itemId": 11405,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/af1991dae092a64cb9cbcdd664d85b8c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -3885,7 +3962,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -3895,7 +3972,7 @@
 			{
 				"itemId": 14401,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -3905,7 +3982,7 @@
 			{
 				"itemId": 15401,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -3915,7 +3992,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3932,7 +4009,7 @@
 			{
 				"itemId": 15501,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/3143b5980ceebf4f5499180396290e87.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/307a76e87ec99c8a91a654589f02298b.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "天空之翼",
@@ -3942,7 +4019,7 @@
 			{
 				"itemId": 14504,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/85e2956836b032f39109379be0b413e1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/f1d3004d9ca980f0ec2bf04a8f9c4852.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "尘世之锁",
@@ -3952,7 +4029,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -3962,7 +4039,7 @@
 			{
 				"itemId": 12405,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/664a169aa0ffcc131a6eca6497a77d6a.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -3972,7 +4049,7 @@
 			{
 				"itemId": 14409,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1bc8711bc6a9e6f729a754eda759738e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/19225366e8405905a0bab517d34851ee.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -3982,7 +4059,7 @@
 			{
 				"itemId": 15405,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/952812b39e38210fd608a887ffc785ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -3992,7 +4069,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -4009,7 +4086,7 @@
 			{
 				"itemId": 14502,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2b7327590c0177819ab3a6fa4d424eb6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/26e44e820060a7d4d18c3881cad96ad3.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -4019,7 +4096,7 @@
 			{
 				"itemId": 12502,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/2a86083db232c19ff85d0b8c2a647d49.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/60e5bda9dbc2b26e79b9cc58a1b5e8da.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "狼的末路",
@@ -4029,7 +4106,7 @@
 			{
 				"itemId": 11403,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -4039,7 +4116,7 @@
 			{
 				"itemId": 12403,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/37d325bf95538e3197bcd98b47703827.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -4049,7 +4126,7 @@
 			{
 				"itemId": 14403,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/35b7645f6b9930f381f7bb873d0749fd.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -4059,7 +4136,7 @@
 			{
 				"itemId": 15403,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/feb10bb8b3efbf1c3af69a8aa394e960.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -4069,7 +4146,7 @@
 			{
 				"itemId": 13401,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -4086,7 +4163,7 @@
 			{
 				"itemId": 11501,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/5fa8a17c4517bd07d6dc88c9add69769.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/d99ca37dcc5da419f99de4fe5a13e08a.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "风鹰剑",
@@ -4096,7 +4173,7 @@
 			{
 				"itemId": 15502,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/1ddf778d87cef4384b8001994b413100.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/77e38d63c05585ae5a3b5988d8169374.png",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -4106,7 +4183,7 @@
 			{
 				"itemId": 11402,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a1f027325cdc48c2df3b53177a56c580.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -4116,7 +4193,7 @@
 			{
 				"itemId": 12402,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/c33e9ad33f01ff43ac170c640c1775f1.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -4126,7 +4203,7 @@
 			{
 				"itemId": 14402,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -4136,7 +4213,7 @@
 			{
 				"itemId": 15402,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -4146,7 +4223,7 @@
 			{
 				"itemId": 13407,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f59e/a55bef176ffc4df9a22e51c640f9994f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "西风长枪",
