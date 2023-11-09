@@ -14,17 +14,6 @@
 				"name": "希儿"
 			},
 			{
-				"itemId": 1206,
-				"damageType": "1",
-				"element": "physical",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caec4b602821569a82c698a60a2ce50b.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Character",
-				"name": "素裳"
-			},
-			{
 				"itemId": 1111,
 				"damageType": "1",
 				"element": "physical",
@@ -34,6 +23,17 @@
 				"weaponType": "warlock",
 				"itemType": "Character",
 				"name": "卢卡"
+			},
+			{
+				"itemId": 1206,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caec4b602821569a82c698a60a2ce50b.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Character",
+				"name": "素裳"
 			}
 		],
 		"start": "2023-10-27 12:00:00",

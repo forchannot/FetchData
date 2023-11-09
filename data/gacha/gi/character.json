@@ -1,5 +1,42 @@
 [
 	{
+		"version": "4.2.1",
+		"items": [
+			{
+				"itemId": 10000082,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/07e695cdbc66afaa02c536a33c45782d.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "白术",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000067,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/789a8e3c137fa8c43de3c290e29b1e24.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000024,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/093aff52952805cba0d68e22c0babf3f.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "",
+				"element": "Electro"
+			}
+		],
+		"start": "2023-11-08 06:00:00",
+		"end": "2023-11-28 17:59:59"
+	},
+	{
 		"version": "4.1.2",
 		"items": [
 			{
