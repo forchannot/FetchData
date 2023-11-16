@@ -1,5 +1,42 @@
 [
 	{
+		"version": "1.5.1",
+		"items": [
+			{
+				"itemId": 21007,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e282470edbf3fb62a874b8882f116e5d.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "同一种心情"
+			},
+			{
+				"itemId": 21017,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/98a0e7081dc3ea098d6707c37288581b.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "点个关注吧！"
+			},
+			{
+				"itemId": 21016,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/be2a245bfecd13a45db9fa245a754c7b.png",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势"
+			}
+		],
+		"start": "2023-11-15 06:00:00",
+		"end": "2023-12-06 11:59:59"
+	},
+	{
 		"version": "1.4.2",
 		"items": [
 			{

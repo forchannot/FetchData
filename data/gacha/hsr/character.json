@@ -1,5 +1,45 @@
 [
 	{
+		"version": "1.5.1",
+		"items": [
+			{
+				"itemId": 1002,
+				"damageType": "16",
+				"element": "wind",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f3ff590ad6a5073762bb1685016185c4.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Character",
+				"name": "丹恒"
+			},
+			{
+				"itemId": 1008,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/938257bd954fcaa111c70581707b70f6.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "阿兰"
+			},
+			{
+				"itemId": 1103,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b0bf597954f1b8acb83a02d6d22989ce.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Character",
+				"name": "希露瓦"
+			}
+		],
+		"start": "2023-11-15 06:00:00",
+		"end": "2023-12-06 11:59:59"
+	},
+	{
 		"version": "1.4.2",
 		"items": [
 			{
