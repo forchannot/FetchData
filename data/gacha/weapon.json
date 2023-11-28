@@ -1,5 +1,75 @@
 [
 	{
+		"version": "4.2.2",
+		"items": [
+			{
+				"itemId": 57,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Deshret.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "赤沙之杖",
+				"nameEn": "Staff of the Scarlet Sands"
+			},
+			{
+				"itemId": 54,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Amenoma.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "波乱月白经津",
+				"nameEn": "Haran Geppaku Futsu"
+			},
+			{
+				"itemId": 21,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar"
+			},
+			{
+				"itemId": 27,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "Favonius Greatsword"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance"
+			},
+			{
+				"itemId": 4,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "The Widsith"
+			},
+			{
+				"itemId": 23,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "Favonius Warbow"
+			}
+		],
+		"start": "2023-11-28 18:00:00",
+		"end": "2023-12-19 14:59:59"
+	},
+	{
 		"version": "4.2.1",
 		"items": [
 			{

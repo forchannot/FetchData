@@ -1,5 +1,57 @@
 [
 	{
+		"version": "4.2.2",
+		"items": [
+			{
+				"itemId": 45,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "赛诺",
+				"nameEn": "赛诺"
+			},
+			{
+				"itemId": 38,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "神里绫人",
+				"nameEn": "神里绫人"
+			},
+			{
+				"itemId": 58,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "绮良良",
+				"nameEn": "绮良良"
+			},
+			{
+				"itemId": 40,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "久岐忍"
+			},
+			{
+				"itemId": 3,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱"
+			}
+		],
+		"start": "2023-11-28 18:00:00",
+		"end": "2023-12-19 14:59:59"
+	},
+	{
 		"version": "4.2.1",
 		"items": [
 			{
