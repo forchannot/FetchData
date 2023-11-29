@@ -1,5 +1,82 @@
 [
 	{
+		"version": "4.2.2",
+		"items": [
+			{
+				"itemId": 13511,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/68877f3bba35652413babe6c50c0309f.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "赤沙之杖",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11510,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/fd07b603091b98f04b4ce63ba2cbb44e.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "波乱月白经津",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11405,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/de591542722d73845cabd74a30304341.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12401,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9c0f025a8be11a74d7abc3467e66ff45.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13407,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14402,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15401,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/3799ccaa638ac052fc2ff4ecc1f16aa2.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2023-11-28 18:00:00",
+		"end": "2023-12-19 14:59:59"
+	},
+	{
 		"version": "4.2.1",
 		"items": [
 			{

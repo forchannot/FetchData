@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.2.2",
+		"items": [
+			{
+				"itemId": 10000071,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/67dfbfed4589dbb17a4f18e1a148482a.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "赛诺",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000066,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/c86a7411a5a68b8759b22761f7dc66d2.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "神里绫人",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000061,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/8e8c8c18039f5441d4f2f43757781ae0.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "绮良良",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000065,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/563085936add3bb07f3f852bf6ca341d.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000023,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_uceddf/0ae647957ac3e732845b9ef3012fe33f.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2023-11-28 18:00:00",
+		"end": "2023-12-19 14:59:59"
+	},
+	{
 		"version": "4.2.1",
 		"items": [
 			{
