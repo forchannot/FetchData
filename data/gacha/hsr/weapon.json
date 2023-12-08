@@ -1,5 +1,42 @@
 [
 	{
+		"version": "1.5.2",
+		"items": [
+			{
+				"itemId": 23007,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1c4b2afae05c42d945063027da308ede.png",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Weapon",
+				"name": "雨一直下"
+			},
+			{
+				"itemId": 21019,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "在蓝天下"
+			},
+			{
+				"itemId": 21000,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/9e01214b60fd68a13792871cb08f8148.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "一场术后对话"
+			}
+		],
+		"start": "2023-12-06 12:00:00",
+		"end": "2023-12-26 14:59:59"
+	},
+	{
 		"version": "1.5.1",
 		"items": [
 			{
