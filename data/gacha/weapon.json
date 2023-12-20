@@ -1,5 +1,75 @@
 [
 	{
+		"version": "4.3.1",
+		"items": [
+			{
+				"itemId": 75,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": -1,
+				"itemType": "Weapon",
+				"name": "裁断",
+				"nameEn": "裁断"
+			},
+			{
+				"itemId": 42,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "雾切之回光",
+				"nameEn": "Mistsplitter Reforged"
+			},
+			{
+				"itemId": 48,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Maria.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "恶王丸",
+				"nameEn": "Akuoumaru"
+			},
+			{
+				"itemId": 50,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "曚云之月",
+				"nameEn": "Mouun's Moon"
+			},
+			{
+				"itemId": 2,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "The Flute"
+			},
+			{
+				"itemId": 13,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane"
+			},
+			{
+				"itemId": 22,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex"
+			}
+		],
+		"start": "2023-12-20 06:00:00",
+		"end": "2024-01-09 17:59:59"
+	},
+	{
 		"version": "4.2.2",
 		"items": [
 			{

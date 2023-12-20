@@ -1,5 +1,57 @@
 [
 	{
+		"version": "4.3.1",
+		"items": [
+			{
+				"itemId": 66,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": -1,
+				"itemType": "Character",
+				"name": "娜维娅",
+				"nameEn": "娜维娅"
+			},
+			{
+				"itemId": 26,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "神里绫华",
+				"nameEn": "神里绫华"
+			},
+			{
+				"itemId": 7,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖"
+			},
+			{
+				"itemId": 22,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚"
+			},
+			{
+				"itemId": 46,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "坎蒂丝"
+			}
+		],
+		"start": "2023-12-20 06:00:00",
+		"end": "2024-01-09 17:59:59"
+	},
+	{
 		"version": "4.2.2",
 		"items": [
 			{
