@@ -6,10 +6,10 @@
 				"itemId": 75,
 				"weaponType": "",
 				"imageUrl": "",
-				"rankType": -1,
+				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "裁断",
-				"nameEn": "裁断"
+				"nameEn": "Verdict"
 			},
 			{
 				"itemId": 42,
