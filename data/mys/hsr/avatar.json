@@ -2,7 +2,7 @@
 	{
 		"item_id": "8004",
 		"item_name": "开拓者",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/3354b130b70d301150e742cd478a2dcb.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/9be35b0f079a9951121a58c8e3ef8a30.png",
 		"damage_type": "2",
 		"rarity": "5",
 		"avatar_base_type": "6",
@@ -15,7 +15,7 @@
 	{
 		"item_id": "8003",
 		"item_name": "开拓者",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bf1f2842fbd93dcd54403063e3b8d518.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/56951405ce8fcd6245cfdb21517e0246.png",
 		"damage_type": "2",
 		"rarity": "5",
 		"avatar_base_type": "6",
@@ -28,7 +28,7 @@
 	{
 		"item_id": "8002",
 		"item_name": "开拓者",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c86d9128cff46891e47275f3b48b5eeb.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/43972ecdbf0fd230670707cc0cf6e018.png",
 		"damage_type": "1",
 		"rarity": "5",
 		"avatar_base_type": "1",
@@ -41,7 +41,7 @@
 	{
 		"item_id": "8001",
 		"item_name": "开拓者",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9d8519b58335272b9a18e0c5143dff5b.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/6c1ab7370364bd254035c91d15a0c90c.png",
 		"damage_type": "1",
 		"rarity": "5",
 		"avatar_base_type": "1",
@@ -52,9 +52,35 @@
 		"is_forward": false
 	},
 	{
+		"item_id": "1305",
+		"item_name": "真理医生",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_7c20am/e8c236658c2184ed3febb8c3cc84f207.png",
+		"damage_type": "64",
+		"rarity": "5",
+		"avatar_base_type": "2",
+		"max_level": 80,
+		"cur_level": 1,
+		"target_level": 0,
+		"vertical_icon_url": "",
+		"is_forward": true
+	},
+	{
+		"item_id": "1303",
+		"item_name": "阮•梅",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_7c20am/0d46db766389af3533a0955a6245f866.png",
+		"damage_type": "4",
+		"rarity": "5",
+		"avatar_base_type": "4",
+		"max_level": 80,
+		"cur_level": 1,
+		"target_level": 0,
+		"vertical_icon_url": "",
+		"is_forward": true
+	},
+	{
 		"item_id": "1302",
 		"item_name": "银枝",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/8946ecf07424ba243c44bddb3552695d.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/bb9f541d27741ed26a8e39ba37e1bd7f.png",
 		"damage_type": "1",
 		"rarity": "5",
 		"avatar_base_type": "3",
@@ -67,7 +93,7 @@
 	{
 		"item_id": "1217",
 		"item_name": "藿藿",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/6a27c798a96b177dba6e9f8d7c40dfc7.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/9be30fac2a98cb8e0d44e41c97decca9.png",
 		"damage_type": "16",
 		"rarity": "5",
 		"avatar_base_type": "7",
@@ -80,7 +106,7 @@
 	{
 		"item_id": "1213",
 		"item_name": "丹恒•饮月",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/474478475b1f08ef190c8077d37baf41.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/654f230cd35aa4f9f607ceac2684872f.png",
 		"damage_type": "64",
 		"rarity": "5",
 		"avatar_base_type": "1",
@@ -93,7 +119,7 @@
 	{
 		"item_id": "1212",
 		"item_name": "镜流",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c4722e396ecd9752b391bcab55066e8f.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/cd91d6e5497c78f9abe8cf018e139bcf.png",
 		"damage_type": "4",
 		"rarity": "5",
 		"avatar_base_type": "1",
@@ -106,7 +132,7 @@
 	{
 		"item_id": "1211",
 		"item_name": "白露",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/16e705ecefbaf930849539e088f1e593.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/95cac3eff947f46e05624a9cad3d4da4.png",
 		"damage_type": "8",
 		"rarity": "5",
 		"avatar_base_type": "7",
@@ -119,7 +145,7 @@
 	{
 		"item_id": "1209",
 		"item_name": "彦卿",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/786a040f34ab1531eee5560cffa8b686.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/6c6601dda9b923dd4ca580796abd38bb.png",
 		"damage_type": "4",
 		"rarity": "5",
 		"avatar_base_type": "2",
@@ -132,7 +158,7 @@
 	{
 		"item_id": "1208",
 		"item_name": "符玄",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bce56bcdcd821df0b0a8e80e5208050e.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/38659863e82605fdb743cbf1f3ad6a1c.png",
 		"damage_type": "32",
 		"rarity": "5",
 		"avatar_base_type": "6",
@@ -145,7 +171,7 @@
 	{
 		"item_id": "1205",
 		"item_name": "刃",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d395b1b01cbf387d533e9da95bc3c316.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/113db3e7541122564720a13b163a7a3c.png",
 		"damage_type": "16",
 		"rarity": "5",
 		"avatar_base_type": "1",
@@ -158,7 +184,7 @@
 	{
 		"item_id": "1204",
 		"item_name": "景元",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5fb24bd7fe2dc04a74eeae3b44124676.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/e4665c847316350a0ac3699ffed49cd9.png",
 		"damage_type": "8",
 		"rarity": "5",
 		"avatar_base_type": "3",
@@ -171,7 +197,7 @@
 	{
 		"item_id": "1203",
 		"item_name": "罗刹",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bb1537c478dfcfe51edc4f09232ea3ca.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/82b49bc1bae7d6d80a3ea7042c1404e9.png",
 		"damage_type": "64",
 		"rarity": "5",
 		"avatar_base_type": "7",
@@ -184,7 +210,7 @@
 	{
 		"item_id": "1112",
 		"item_name": "托帕&账账",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/8c7244088c9d7be8fa9865eee48e2175.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/3c4d56425989749f69201699fc7a0ff3.png",
 		"damage_type": "2",
 		"rarity": "5",
 		"avatar_base_type": "2",
@@ -197,7 +223,7 @@
 	{
 		"item_id": "1107",
 		"item_name": "克拉拉",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a5e60f9cd52664007c4395470cd46f21.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/3a8bb5065a50df55a037a9aaa2ac0d2f.png",
 		"damage_type": "1",
 		"rarity": "5",
 		"avatar_base_type": "1",
@@ -210,7 +236,7 @@
 	{
 		"item_id": "1104",
 		"item_name": "杰帕德",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1a31b9b1d02a41ce0e337ebda87c5198.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/8dea42d09a0b40a5ac25b0bf42ce78d9.png",
 		"damage_type": "4",
 		"rarity": "5",
 		"avatar_base_type": "6",
@@ -223,7 +249,7 @@
 	{
 		"item_id": "1102",
 		"item_name": "希儿",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9ba46547b08eb48c0005690c0bff0dd4.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/4a51ee1312fa174cd5bca6df059be0f9.png",
 		"damage_type": "32",
 		"rarity": "5",
 		"avatar_base_type": "2",
@@ -236,7 +262,7 @@
 	{
 		"item_id": "1101",
 		"item_name": "布洛妮娅",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5d7fbc30d3755f7203a4c61a54e02841.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/a669906332a2d4ffd4836e1c2dbe47af.png",
 		"damage_type": "16",
 		"rarity": "5",
 		"avatar_base_type": "4",
@@ -249,7 +275,7 @@
 	{
 		"item_id": "1006",
 		"item_name": "银狼",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/35ac712cc0bfb79f6be59d6dba3d9314.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/bca4b9a42eb23be5f9324609a858f05f.png",
 		"damage_type": "32",
 		"rarity": "5",
 		"avatar_base_type": "5",
@@ -262,7 +288,7 @@
 	{
 		"item_id": "1005",
 		"item_name": "卡芙卡",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/663b5ab03fe604a88720572687d50e11.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/730e1c2450327eab3855351ff2b15010.png",
 		"damage_type": "8",
 		"rarity": "5",
 		"avatar_base_type": "5",
@@ -275,7 +301,7 @@
 	{
 		"item_id": "1004",
 		"item_name": "瓦尔特",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/f9c4752ff8e0d66059098fdb5b12c673.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/059135d10c8777a54452b5e522a902d9.png",
 		"damage_type": "64",
 		"rarity": "5",
 		"avatar_base_type": "5",
@@ -288,7 +314,7 @@
 	{
 		"item_id": "1003",
 		"item_name": "姬子",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bc03c0468b2443d520594620e063ab6a.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/5c947bd7bcacfb5d86b71e0f11d27919.png",
 		"damage_type": "2",
 		"rarity": "5",
 		"avatar_base_type": "3",
@@ -301,7 +327,7 @@
 	{
 		"item_id": "1215",
 		"item_name": "寒鸦",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/df0b3ba6d340a1994ba8d1601aea9e5e.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/03b9a54ee41709670d111522045db378.png",
 		"damage_type": "1",
 		"rarity": "4",
 		"avatar_base_type": "4",
@@ -312,9 +338,22 @@
 		"is_forward": false
 	},
 	{
+		"item_id": "1214",
+		"item_name": "雪衣",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_7c20am/d875f41341a1b51b3478ed2b6e25c136.png",
+		"damage_type": "32",
+		"rarity": "4",
+		"avatar_base_type": "1",
+		"max_level": 80,
+		"cur_level": 1,
+		"target_level": 0,
+		"vertical_icon_url": "",
+		"is_forward": true
+	},
+	{
 		"item_id": "1210",
 		"item_name": "桂乃芬",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1d834eb40d269db3872aaf7d02254cd8.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/0f18a8c3ddbe8cf30c2aa43beeeeb9c7.png",
 		"damage_type": "2",
 		"rarity": "4",
 		"avatar_base_type": "5",
@@ -327,7 +366,7 @@
 	{
 		"item_id": "1207",
 		"item_name": "驭空",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/34d14ad495bbba9b527d0c1d5470b7e6.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/e583ee98f715896974ee5a14b72d313e.png",
 		"damage_type": "64",
 		"rarity": "4",
 		"avatar_base_type": "4",
@@ -340,7 +379,7 @@
 	{
 		"item_id": "1206",
 		"item_name": "素裳",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/f6f55d14aed224b29732d3d2cc1c8a2a.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/c3fba5f37fcd1cc1bfe36cab8be54286.png",
 		"damage_type": "1",
 		"rarity": "4",
 		"avatar_base_type": "2",
@@ -353,7 +392,7 @@
 	{
 		"item_id": "1202",
 		"item_name": "停云",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/52d5a657c6a1e5044be62e9fda7d7df0.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/6209dcab0e1238461adcf45422201836.png",
 		"damage_type": "8",
 		"rarity": "4",
 		"avatar_base_type": "4",
@@ -366,7 +405,7 @@
 	{
 		"item_id": "1201",
 		"item_name": "青雀",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/190e3fa93ae1b53904cb24d1b7125446.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/5cb0973d6df50d9da703382b67711c98.png",
 		"damage_type": "32",
 		"rarity": "4",
 		"avatar_base_type": "3",
@@ -379,7 +418,7 @@
 	{
 		"item_id": "1111",
 		"item_name": "卢卡",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b8e5a0141d18dc6e6c538c777a92e0bf.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/43cbbcfa3562c1d3804899122081b2fc.png",
 		"damage_type": "1",
 		"rarity": "4",
 		"avatar_base_type": "5",
@@ -392,7 +431,7 @@
 	{
 		"item_id": "1110",
 		"item_name": "玲可",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/73fec18efd4608e2915a03ef25e42b42.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/fe0dbdf81d4987172f6a192c77d63e76.png",
 		"damage_type": "32",
 		"rarity": "4",
 		"avatar_base_type": "7",
@@ -405,7 +444,7 @@
 	{
 		"item_id": "1109",
 		"item_name": "虎克",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d31fc7fcde3ca514334971a5499950c1.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/302a01c73a780957ba16f16d40d892f5.png",
 		"damage_type": "2",
 		"rarity": "4",
 		"avatar_base_type": "1",
@@ -418,7 +457,7 @@
 	{
 		"item_id": "1108",
 		"item_name": "桑博",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a664196b85a9bfd409f4c93c4ec95cfb.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/76381b7e77fb9bb66fe9e42f2f57fb23.png",
 		"damage_type": "16",
 		"rarity": "4",
 		"avatar_base_type": "5",
@@ -431,7 +470,7 @@
 	{
 		"item_id": "1106",
 		"item_name": "佩拉",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4466a0ac89556daacf10b2a44b4008d3.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/caa273670b0d1d995b96efda4c4c92a8.png",
 		"damage_type": "4",
 		"rarity": "4",
 		"avatar_base_type": "5",
@@ -444,7 +483,7 @@
 	{
 		"item_id": "1105",
 		"item_name": "娜塔莎",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/aab24dafddf1927e18124ba9564497c7.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/9ad12e6465b360a0a3435f12f6c64a2f.png",
 		"damage_type": "1",
 		"rarity": "4",
 		"avatar_base_type": "7",
@@ -457,7 +496,7 @@
 	{
 		"item_id": "1103",
 		"item_name": "希露瓦",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/13503e41f940e87278e00b7906974c05.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/04e033fdb5a58dfea1bd98e86b74c2d0.png",
 		"damage_type": "8",
 		"rarity": "4",
 		"avatar_base_type": "3",
@@ -470,7 +509,7 @@
 	{
 		"item_id": "1013",
 		"item_name": "黑塔",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4ea5ced2593f662dd04f7751d72d7135.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/22127612a997a0db56b16a87c9e51a7a.png",
 		"damage_type": "4",
 		"rarity": "4",
 		"avatar_base_type": "3",
@@ -483,7 +522,7 @@
 	{
 		"item_id": "1009",
 		"item_name": "艾丝妲",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5ddbe626b4654b68038b473c4e6ca579.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/24c169228896155c81947d1085ad0a3d.png",
 		"damage_type": "2",
 		"rarity": "4",
 		"avatar_base_type": "4",
@@ -496,7 +535,7 @@
 	{
 		"item_id": "1008",
 		"item_name": "阿兰",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e663c90d595a5bb2fe9b0095ee632d78.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/63064988bec61001653e662c3fe281c9.png",
 		"damage_type": "8",
 		"rarity": "4",
 		"avatar_base_type": "1",
@@ -509,7 +548,7 @@
 	{
 		"item_id": "1002",
 		"item_name": "丹恒",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/49d686531e05daf5baece13519023f7b.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/09bfab7c826f057c0681254b97da0ed3.png",
 		"damage_type": "16",
 		"rarity": "4",
 		"avatar_base_type": "2",
@@ -522,7 +561,7 @@
 	{
 		"item_id": "1001",
 		"item_name": "三月七",
-		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/700776273f6f36e9a5584dc5ff726630.png",
+		"icon_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/8075e8fda0b178aaba45fd1494fd2560.png",
 		"damage_type": "4",
 		"rarity": "4",
 		"avatar_base_type": "6",

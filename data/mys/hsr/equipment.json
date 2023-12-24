@@ -2,7 +2,7 @@
 	{
 		"item_id": "24003",
 		"item_name": "孤独的疗愈",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b9567c2662d20e22081f452c6f834933.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/9197455fc5b3644b4ba51543122a0616.png",
 		"avatar_base_type": "5",
 		"rarity": "5",
 		"max_level": 80,
@@ -13,7 +13,7 @@
 	{
 		"item_id": "24002",
 		"item_name": "记忆的质料",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a6fbb9220fb904ecb2a6660fec5aa2fa.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/14ce1a1f7d70eb275e64af2d35e73e42.png",
 		"avatar_base_type": "6",
 		"rarity": "5",
 		"max_level": 80,
@@ -24,7 +24,7 @@
 	{
 		"item_id": "24001",
 		"item_name": "星海巡航",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4d951585dd44b745d9a590a7a4de1661.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/4594f4e7a39a17ab4a9d83babd3780a9.png",
 		"avatar_base_type": "2",
 		"rarity": "5",
 		"max_level": 80,
@@ -35,7 +35,7 @@
 	{
 		"item_id": "24000",
 		"item_name": "记一位星神的陨落",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1ebd6d11abbe0cf309f09a61b2609557.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/dc4931f18cd1debfd9d37f0ca56fe688.png",
 		"avatar_base_type": "1",
 		"rarity": "5",
 		"max_level": 80,
@@ -44,9 +44,31 @@
 		"is_forward": false
 	},
 	{
+		"item_id": "23020",
+		"item_name": "纯粹思维的洗礼",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_7c20am/281e8d73c72a4223a5d22db99bdbc8ec.png",
+		"avatar_base_type": "2",
+		"rarity": "5",
+		"max_level": 80,
+		"cur_level": 1,
+		"target_level": 0,
+		"is_forward": true
+	},
+	{
+		"item_id": "23019",
+		"item_name": "镜中故我",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_7c20am/d3b11281f73cf21447a601fbf6644bbb.png",
+		"avatar_base_type": "4",
+		"rarity": "5",
+		"max_level": 80,
+		"cur_level": 1,
+		"target_level": 0,
+		"is_forward": true
+	},
+	{
 		"item_id": "23018",
 		"item_name": "片刻，留在眼底",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/512166297a93e056d9ee13528ea597f1.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/0006b447ef5ba09509d9b5d2e261c897.png",
 		"avatar_base_type": "3",
 		"rarity": "5",
 		"max_level": 80,
@@ -57,7 +79,7 @@
 	{
 		"item_id": "23017",
 		"item_name": "惊魂夜",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/22d9cd3e847d43815284d63941eb5ed0.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/420e49df7b34e382870d94c65c4abd56.png",
 		"avatar_base_type": "7",
 		"rarity": "5",
 		"max_level": 80,
@@ -68,7 +90,7 @@
 	{
 		"item_id": "23016",
 		"item_name": "烦恼着，幸福着",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/eafc7a271ddd5c8b7a154356ccc7f92f.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/38461dd8d02fe6d1bbdfc79030d3e2cd.png",
 		"avatar_base_type": "2",
 		"rarity": "5",
 		"max_level": 80,
@@ -79,7 +101,7 @@
 	{
 		"item_id": "23015",
 		"item_name": "比阳光更明亮的",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/599d6e92c5b31b57cbe4b4dd92849b29.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/94c17341e2c21991b736b865d14791db.png",
 		"avatar_base_type": "1",
 		"rarity": "5",
 		"max_level": 80,
@@ -90,7 +112,7 @@
 	{
 		"item_id": "23014",
 		"item_name": "此身为剑",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/77574b57f523fb0700351a8a4059eb11.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/725fc31d6daba17fa050eddb81fdf02f.png",
 		"avatar_base_type": "1",
 		"rarity": "5",
 		"max_level": 80,
@@ -101,7 +123,7 @@
 	{
 		"item_id": "23013",
 		"item_name": "时节不居",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/0bfcf05f2b1606b043ca1d24b22416f9.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/5d5acf6df80488037faa7f370ce6d9ba.png",
 		"avatar_base_type": "7",
 		"rarity": "5",
 		"max_level": 80,
@@ -112,7 +134,7 @@
 	{
 		"item_id": "23012",
 		"item_name": "如泥酣眠",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d4a4c7c7442eea6bf0239cfda6a06c7f.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/d16ca7ffa369873573a161ca7dfbb410.png",
 		"avatar_base_type": "2",
 		"rarity": "5",
 		"max_level": 80,
@@ -123,7 +145,7 @@
 	{
 		"item_id": "23011",
 		"item_name": "她已闭上双眼",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7f0e4301c71a6b219e4003e4b1ce7f85.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/8dc85071964bd043ff3116de02e212ad.png",
 		"avatar_base_type": "6",
 		"rarity": "5",
 		"max_level": 80,
@@ -134,7 +156,7 @@
 	{
 		"item_id": "23010",
 		"item_name": "拂晓之前",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/96c205e77756666394b05354504abb8f.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/a823ae219a2f04396218b2f31ee2b5eb.png",
 		"avatar_base_type": "3",
 		"rarity": "5",
 		"max_level": 80,
@@ -145,7 +167,7 @@
 	{
 		"item_id": "23009",
 		"item_name": "到不了的彼岸",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/227654bb6cc652ac5da2fe0a42fe2312.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/98e4c738a5e9722e3c6d2f9ee83619dc.png",
 		"avatar_base_type": "1",
 		"rarity": "5",
 		"max_level": 80,
@@ -156,7 +178,7 @@
 	{
 		"item_id": "23008",
 		"item_name": "棺的回响",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/19c9912fbe231afedf483e35908cb4d6.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/1267ac85d4bb20a58aa29df50a88cb7c.png",
 		"avatar_base_type": "7",
 		"rarity": "5",
 		"max_level": 80,
@@ -167,7 +189,7 @@
 	{
 		"item_id": "23007",
 		"item_name": "雨一直下",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a93da659387f3f95247874a2d717698a.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/eec83588945056ee27d51b31d8fbd29f.png",
 		"avatar_base_type": "5",
 		"rarity": "5",
 		"max_level": 80,
@@ -178,7 +200,7 @@
 	{
 		"item_id": "23006",
 		"item_name": "只需等待",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b43596c7469278083899fd4475925e0e.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/c65588424b3b320a1014914f988a7494.png",
 		"avatar_base_type": "5",
 		"rarity": "5",
 		"max_level": 80,
@@ -189,7 +211,7 @@
 	{
 		"item_id": "23005",
 		"item_name": "制胜的瞬间",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/3284db638bf40a3f29ab41b42d1e7eae.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/e3ccf0227464e4b3a4ce7d85aaff1e18.png",
 		"avatar_base_type": "6",
 		"rarity": "5",
 		"max_level": 80,
@@ -200,7 +222,7 @@
 	{
 		"item_id": "23004",
 		"item_name": "以世界之名",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a26d91b32c770667fd3aa3bac688368d.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/316e3cc7c7c100d7792fe3e6c3c23846.png",
 		"avatar_base_type": "5",
 		"rarity": "5",
 		"max_level": 80,
@@ -211,7 +233,7 @@
 	{
 		"item_id": "23003",
 		"item_name": "但战斗还未结束",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/fdda6ca37b1b25a6c8086cc0a323e0ec.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/7366647562a1ba112493f2c359a26710.png",
 		"avatar_base_type": "4",
 		"rarity": "5",
 		"max_level": 80,
@@ -222,7 +244,7 @@
 	{
 		"item_id": "23002",
 		"item_name": "无可取代的东西",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/141e218c55b98c7735e57792fff7c46a.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/3dbf31fd8d50c3d8a4159e928bb5b909.png",
 		"avatar_base_type": "1",
 		"rarity": "5",
 		"max_level": 80,
@@ -233,7 +255,7 @@
 	{
 		"item_id": "23001",
 		"item_name": "于夜色中",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/f49295a3182f08b84495338cac299ca3.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/6b5b436d606a519157b8f1be0d47fb41.png",
 		"avatar_base_type": "2",
 		"rarity": "5",
 		"max_level": 80,
@@ -244,7 +266,7 @@
 	{
 		"item_id": "23000",
 		"item_name": "银河铁道之夜",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/86c9037b9928c6d775c8bdfbd99c79d0.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/ea368ccfb1e3deae64a3381936f80047.png",
 		"avatar_base_type": "3",
 		"rarity": "5",
 		"max_level": 80,
@@ -255,7 +277,7 @@
 	{
 		"item_id": "22001",
 		"item_name": "嘿，我在这儿",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9671a4dbcc3136251f8f357311a5c33b.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/164b1917efe08930a5cec22707d7286c.png",
 		"avatar_base_type": "7",
 		"rarity": "4",
 		"max_level": 80,
@@ -266,7 +288,7 @@
 	{
 		"item_id": "22000",
 		"item_name": "新手任务开始前",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/abce5935e2beb58ce91f20a844bd8c32.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/edde7d17e5d6a0b71dbed66a713bc00d.png",
 		"avatar_base_type": "5",
 		"rarity": "4",
 		"max_level": 80,
@@ -277,7 +299,7 @@
 	{
 		"item_id": "21034",
 		"item_name": "今日亦是和平的一日",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ab42c2681170f245f64d04a3f392bc73.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/25030726f1dbb33d8c2f633756beaded.png",
 		"avatar_base_type": "3",
 		"rarity": "4",
 		"max_level": 80,
@@ -288,7 +310,7 @@
 	{
 		"item_id": "21033",
 		"item_name": "无处可逃",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1e53be9c85403f43555e0fc66834fd2b.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/6ebee2e5d35ffb4ce9c6954763a6ee17.png",
 		"avatar_base_type": "1",
 		"rarity": "4",
 		"max_level": 80,
@@ -299,7 +321,7 @@
 	{
 		"item_id": "21032",
 		"item_name": "镂月裁云之意",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4235a91c0bcada6cdcd39fdafdc43d7d.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/12480b1052fc3f1d7312a2d5104abcd9.png",
 		"avatar_base_type": "4",
 		"rarity": "4",
 		"max_level": 80,
@@ -310,7 +332,7 @@
 	{
 		"item_id": "21031",
 		"item_name": "重返幽冥",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d31452966410b9cb04aa39005195dc1f.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/f84ec4e5478cd2d50f39ddc9d77aa2a4.png",
 		"avatar_base_type": "2",
 		"rarity": "4",
 		"max_level": 80,
@@ -321,7 +343,7 @@
 	{
 		"item_id": "21030",
 		"item_name": "这就是我啦！",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/70669f244233034b81cec341375217ca.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/dd1be37dd4826dec69c1b626cd90f514.png",
 		"avatar_base_type": "6",
 		"rarity": "4",
 		"max_level": 80,
@@ -332,7 +354,7 @@
 	{
 		"item_id": "21029",
 		"item_name": "后会有期",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/cc3b060f8ba05335c1e744ba74b43533.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/60c4db8c7bee27876de55f64cd564ebc.png",
 		"avatar_base_type": "5",
 		"rarity": "4",
 		"max_level": 80,
@@ -343,7 +365,7 @@
 	{
 		"item_id": "21028",
 		"item_name": "暖夜不会漫长",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c55937917ca57dfb30468c331b1611bc.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/6cf753f0db68c0e5ebdaa9435fc532a9.png",
 		"avatar_base_type": "7",
 		"rarity": "4",
 		"max_level": 80,
@@ -354,7 +376,7 @@
 	{
 		"item_id": "21027",
 		"item_name": "早餐的仪式感",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/95932dd0e39fdd34a661d5e5fff20808.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/a939c8a59074e5d17a05698247746d7d.png",
 		"avatar_base_type": "3",
 		"rarity": "4",
 		"max_level": 80,
@@ -365,7 +387,7 @@
 	{
 		"item_id": "21026",
 		"item_name": "汪！散步时间！",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5c5af7c1c43976e5dc855b6dc77ff5c8.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/8df44aba030cc7a0428d941ab1946958.png",
 		"avatar_base_type": "1",
 		"rarity": "4",
 		"max_level": 80,
@@ -376,7 +398,7 @@
 	{
 		"item_id": "21025",
 		"item_name": "过往未来",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/87613999d26210330b61bb2d1ae40ffd.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/bf9299ebbd4d63dd1aec48460cc01e68.png",
 		"avatar_base_type": "4",
 		"rarity": "4",
 		"max_level": 80,
@@ -387,7 +409,7 @@
 	{
 		"item_id": "21024",
 		"item_name": "春水初生",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/919892df222f87cfeb01fa946db51667.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/667fc4e570cc5cd3c641bf23021dd6f8.png",
 		"avatar_base_type": "2",
 		"rarity": "4",
 		"max_level": 80,
@@ -398,7 +420,7 @@
 	{
 		"item_id": "21023",
 		"item_name": "我们是地火",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1a8cd0a6c855c3bc18e96a99959ed085.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/adfc644ee3227b56455e24d09cb8b14e.png",
 		"avatar_base_type": "6",
 		"rarity": "4",
 		"max_level": 80,
@@ -409,7 +431,7 @@
 	{
 		"item_id": "21022",
 		"item_name": "延长记号",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/3dfa9ff04d18cad3ba7c38a436ca093d.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/dd85474d1ca72f46387fe1669bb448c8.png",
 		"avatar_base_type": "5",
 		"rarity": "4",
 		"max_level": 80,
@@ -420,7 +442,7 @@
 	{
 		"item_id": "21021",
 		"item_name": "等价交换",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/73812df5786c541dc0945aeff6aa1aa5.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/039b37e49c0c0ab1bc943df189fa7e9a.png",
 		"avatar_base_type": "7",
 		"rarity": "4",
 		"max_level": 80,
@@ -431,7 +453,7 @@
 	{
 		"item_id": "21020",
 		"item_name": "天才们的休憩",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5de6e5bebb42fdb32c2bace16cdb9944.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/1847bc7b2ad30d5536f6ed6e960e4ced.png",
 		"avatar_base_type": "3",
 		"rarity": "4",
 		"max_level": 80,
@@ -442,7 +464,7 @@
 	{
 		"item_id": "21019",
 		"item_name": "在蓝天下",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4e128406e334c601e0f2bb255bf9d56e.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/753ed20b91da778174dc29c66cf2891b.png",
 		"avatar_base_type": "1",
 		"rarity": "4",
 		"max_level": 80,
@@ -453,7 +475,7 @@
 	{
 		"item_id": "21018",
 		"item_name": "舞！舞！舞！",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/876610548565dd2d27184e7b42f73044.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/b158e0c68e70eef422a9664a6169b7be.png",
 		"avatar_base_type": "4",
 		"rarity": "4",
 		"max_level": 80,
@@ -464,7 +486,7 @@
 	{
 		"item_id": "21017",
 		"item_name": "点个关注吧！",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c52d7f10827693f65950b57fe8022ee9.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/7588723240e027d000c6017ad4c4fa0c.png",
 		"avatar_base_type": "2",
 		"rarity": "4",
 		"max_level": 80,
@@ -475,7 +497,7 @@
 	{
 		"item_id": "21016",
 		"item_name": "宇宙市场趋势",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/866ff5b689f39f4fef8c981b06dee3fd.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/98e9b698f44275836bb6a956df04d363.png",
 		"avatar_base_type": "6",
 		"rarity": "4",
 		"max_level": 80,
@@ -486,7 +508,7 @@
 	{
 		"item_id": "21015",
 		"item_name": "决心如汗珠般闪耀",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ec79e34862e4104edf06688ad55a6ffd.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/dd3448a52148a0f8b4b9a8c733106fc5.png",
 		"avatar_base_type": "5",
 		"rarity": "4",
 		"max_level": 80,
@@ -497,7 +519,7 @@
 	{
 		"item_id": "21014",
 		"item_name": "此时恰好",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2abeb9ef4235ce03bef7484f36a1bff4.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/21bbdf2f144b60a68c81eb414d6d1bc5.png",
 		"avatar_base_type": "7",
 		"rarity": "4",
 		"max_level": 80,
@@ -508,7 +530,7 @@
 	{
 		"item_id": "21013",
 		"item_name": "别让世界静下来",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2655d12047a243919586199d1d4d8ec3.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/473e9d23845d3cd25438ae0c2dcca258.png",
 		"avatar_base_type": "3",
 		"rarity": "4",
 		"max_level": 80,
@@ -519,7 +541,7 @@
 	{
 		"item_id": "21012",
 		"item_name": "秘密誓心",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/6ad090cce0eb8991cd933ac11bf8712d.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/071d73912e24b2e31f5cb06a30d0cf35.png",
 		"avatar_base_type": "1",
 		"rarity": "4",
 		"max_level": 80,
@@ -530,7 +552,7 @@
 	{
 		"item_id": "21011",
 		"item_name": "与行星相会",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/57de641bf50d034f66d8effff21670df.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/263a95fb8855e322024a9354c1e72423.png",
 		"avatar_base_type": "4",
 		"rarity": "4",
 		"max_level": 80,
@@ -541,7 +563,7 @@
 	{
 		"item_id": "21010",
 		"item_name": "论剑",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/313e04c716be9088f0e587053247fcb1.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/824a0fd927e09fe7649b9a0ba3333458.png",
 		"avatar_base_type": "2",
 		"rarity": "4",
 		"max_level": 80,
@@ -552,7 +574,7 @@
 	{
 		"item_id": "21009",
 		"item_name": "朗道的选择",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2f5ad266319b938981b620940550ce7c.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/4be1fa5ec34a6404140a9536b7e7c8d9.png",
 		"avatar_base_type": "6",
 		"rarity": "4",
 		"max_level": 80,
@@ -563,7 +585,7 @@
 	{
 		"item_id": "21008",
 		"item_name": "猎物的视线",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/514016073b4901c51792646d9fd0b6c0.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/99c252636943e01770acce8da2ab5bc2.png",
 		"avatar_base_type": "5",
 		"rarity": "4",
 		"max_level": 80,
@@ -574,7 +596,7 @@
 	{
 		"item_id": "21007",
 		"item_name": "同一种心情",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bc41853a536ecfc9944ef3896fe78aea.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/2caf7f8fec14840aefe76a1c8def4948.png",
 		"avatar_base_type": "7",
 		"rarity": "4",
 		"max_level": 80,
@@ -585,7 +607,7 @@
 	{
 		"item_id": "21006",
 		"item_name": "「我」的诞生",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/479d61edf684570e50a1429548bad7d7.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/9337a8fc242adca77858be69886c1f5f.png",
 		"avatar_base_type": "3",
 		"rarity": "4",
 		"max_level": 80,
@@ -596,7 +618,7 @@
 	{
 		"item_id": "21005",
 		"item_name": "鼹鼠党欢迎你",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/62d70d5b885c2ba45d78e990b7c40d31.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/5e8f2382ad764158e545610c8bc1d206.png",
 		"avatar_base_type": "1",
 		"rarity": "4",
 		"max_level": 80,
@@ -607,7 +629,7 @@
 	{
 		"item_id": "21004",
 		"item_name": "记忆中的模样",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bb09e3cf108f57e69b8e7cd4780af204.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/f51b2cbcda59b2b8ef5a50f898c96991.png",
 		"avatar_base_type": "4",
 		"rarity": "4",
 		"max_level": 80,
@@ -618,7 +640,7 @@
 	{
 		"item_id": "21003",
 		"item_name": "唯有沉默",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/34f45f449edbf708cba6af17b9b5f695.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/b02b2907046f17a3be386b308cdb1538.png",
 		"avatar_base_type": "2",
 		"rarity": "4",
 		"max_level": 80,
@@ -629,7 +651,7 @@
 	{
 		"item_id": "21002",
 		"item_name": "余生的第一天",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/eeb03e54fcfa1df1e6fbd0c1329c2411.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/67c9d5390ef5bc97956ac3399078da3a.png",
 		"avatar_base_type": "6",
 		"rarity": "4",
 		"max_level": 80,
@@ -640,7 +662,7 @@
 	{
 		"item_id": "21001",
 		"item_name": "晚安与睡颜",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b654a5ea54849c76313c99945bc385f3.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/a9cf87015354cedb1b66a70ba4132bcd.png",
 		"avatar_base_type": "5",
 		"rarity": "4",
 		"max_level": 80,
@@ -651,7 +673,7 @@
 	{
 		"item_id": "21000",
 		"item_name": "一场术后对话",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/88e2d7b71c9b3bb62dbb93ab7d557987.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/5a1f751d39c0ec2f154a912ae53a51d6.png",
 		"avatar_base_type": "7",
 		"rarity": "4",
 		"max_level": 80,
@@ -662,7 +684,7 @@
 	{
 		"item_id": "20020",
 		"item_name": "睿见",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a3ecb3a93e4f454a3e9a974ffa2e80b1.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/4d593588f628a76cc8da71bde51d8d7b.png",
 		"avatar_base_type": "3",
 		"rarity": "3",
 		"max_level": 80,
@@ -673,7 +695,7 @@
 	{
 		"item_id": "20019",
 		"item_name": "调和",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/fd87b9e878d609f2ee76b03dd7358434.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/efdc55e4f917651a9be069ad8d279a56.png",
 		"avatar_base_type": "4",
 		"rarity": "3",
 		"max_level": 80,
@@ -684,7 +706,7 @@
 	{
 		"item_id": "20018",
 		"item_name": "匿影",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a4c4ec745833743e1eaf112724a3640d.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/52d3892a17fdaf706bd27ae89a3a248b.png",
 		"avatar_base_type": "5",
 		"rarity": "3",
 		"max_level": 80,
@@ -695,7 +717,7 @@
 	{
 		"item_id": "20017",
 		"item_name": "开疆",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ba0bcc968ae92ea6c29ce9f4b3fb409d.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/9850884b705a0a4a0c4d62eac925f131.png",
 		"avatar_base_type": "6",
 		"rarity": "3",
 		"max_level": 80,
@@ -706,7 +728,7 @@
 	{
 		"item_id": "20016",
 		"item_name": "俱殁",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1d9db304545eeab0a942189fabcb5d9f.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/a7bc6f1cbe10055ebd01a43e75db9966.png",
 		"avatar_base_type": "1",
 		"rarity": "3",
 		"max_level": 80,
@@ -717,7 +739,7 @@
 	{
 		"item_id": "20015",
 		"item_name": "蕃息",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4fe342a3e518eed135e4095e49d248bb.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/d07795c873005f55fd736da594cca95c.png",
 		"avatar_base_type": "7",
 		"rarity": "3",
 		"max_level": 80,
@@ -728,7 +750,7 @@
 	{
 		"item_id": "20014",
 		"item_name": "相抗",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/632f09b472e6d20e0101b100fa386968.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/85064f58dab4bd4fbef10a46f5684b7a.png",
 		"avatar_base_type": "2",
 		"rarity": "3",
 		"max_level": 80,
@@ -739,7 +761,7 @@
 	{
 		"item_id": "20013",
 		"item_name": "灵钥",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/abe9b42656eb33611f5f4b40544622f3.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/5e8b76576ac414be35484fa89a27bcb6.png",
 		"avatar_base_type": "3",
 		"rarity": "3",
 		"max_level": 80,
@@ -750,7 +772,7 @@
 	{
 		"item_id": "20012",
 		"item_name": "轮契",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bb79adc912d854ea7e553639a5caa072.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/8958e1ad0d76565005a7a4030d0d4235.png",
 		"avatar_base_type": "4",
 		"rarity": "3",
 		"max_level": 80,
@@ -761,7 +783,7 @@
 	{
 		"item_id": "20011",
 		"item_name": "渊环",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a6817dfaa7549b1304bdcc1fe48bbb35.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/7791f7b05e2332142e17fd41bd8b6824.png",
 		"avatar_base_type": "5",
 		"rarity": "3",
 		"max_level": 80,
@@ -772,7 +794,7 @@
 	{
 		"item_id": "20010",
 		"item_name": "戍御",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/85b6de701ffb2d9584525f0ecdb8f845.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/a53b1e06d9d551e287ab5cff0c43ce50.png",
 		"avatar_base_type": "6",
 		"rarity": "3",
 		"max_level": 80,
@@ -783,7 +805,7 @@
 	{
 		"item_id": "20009",
 		"item_name": "乐圮",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9c72a127b4a2bb2416249b05f7f176d1.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/af371679bc42af58aeea3526ff88b3e3.png",
 		"avatar_base_type": "1",
 		"rarity": "3",
 		"max_level": 80,
@@ -794,7 +816,7 @@
 	{
 		"item_id": "20008",
 		"item_name": "嘉果",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/3d5737af27c99c3f0534b3d822618ffb.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/c8135d17f9a753278be50ff9a04ac0d1.png",
 		"avatar_base_type": "7",
 		"rarity": "3",
 		"max_level": 80,
@@ -805,7 +827,7 @@
 	{
 		"item_id": "20007",
 		"item_name": "离弦",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4ddd9bd0e6dbe68da20b0bab6c40717d.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/19c7a5dc4940b5cac7556db7b335af01.png",
 		"avatar_base_type": "2",
 		"rarity": "3",
 		"max_level": 80,
@@ -816,7 +838,7 @@
 	{
 		"item_id": "20006",
 		"item_name": "智库",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/acd6f4589b5af0dd0f4f5faa61236a27.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/e0a0365a55d087a99653008d05ace2db.png",
 		"avatar_base_type": "3",
 		"rarity": "3",
 		"max_level": 80,
@@ -827,7 +849,7 @@
 	{
 		"item_id": "20005",
 		"item_name": "齐颂",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5c0cd64cf1f8b7bf055df698eeb9c550.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/d95da3ca59d602a0880b3c4e8783276b.png",
 		"avatar_base_type": "4",
 		"rarity": "3",
 		"max_level": 80,
@@ -838,7 +860,7 @@
 	{
 		"item_id": "20004",
 		"item_name": "幽邃",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/0aec6990288a0b8d478ad50c0e150724.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/38195ac752fb433c1a82640c19b86168.png",
 		"avatar_base_type": "5",
 		"rarity": "3",
 		"max_level": 80,
@@ -849,7 +871,7 @@
 	{
 		"item_id": "20003",
 		"item_name": "琥珀",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/22c2a01f3d15a3095ed8eb6fc656b5e5.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/799b3f3a1d689e889d3ae572675b129a.png",
 		"avatar_base_type": "6",
 		"rarity": "3",
 		"max_level": 80,
@@ -860,7 +882,7 @@
 	{
 		"item_id": "20002",
 		"item_name": "天倾",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ea2e319eb008400c70fdde6e53d2bd65.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/5f7083d31c9bd6aa6973f02803927e1e.png",
 		"avatar_base_type": "1",
 		"rarity": "3",
 		"max_level": 80,
@@ -871,7 +893,7 @@
 	{
 		"item_id": "20001",
 		"item_name": "物穰",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/75f722d97b8e3cd7afb7e41f70113c8e.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/54a91a8082b94091db8e7e6709331b2d.png",
 		"avatar_base_type": "7",
 		"rarity": "3",
 		"max_level": 80,
@@ -882,7 +904,7 @@
 	{
 		"item_id": "20000",
 		"item_name": "锋镝",
-		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/af53092bf149f16ce3517991fbfe7e30.png",
+		"item_url": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/b54cc3bfcfec17051543ee416ecc237f.png",
 		"avatar_base_type": "2",
 		"rarity": "3",
 		"max_level": 80,
