@@ -41,6 +41,16 @@
 				"weaponType": "priest",
 				"itemType": "Weapon",
 				"name": "一场术后对话"
+			},
+			{
+				"itemId": 21006,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u19cab/9337a8fc242adca77858be69886c1f5f.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Weapon",
+				"name": "「我」的诞生"
 			}
 		],
 		"start": "2023-12-06 12:00:00",
