@@ -27,6 +27,7 @@ const findObj = (name, Obj) => {
 let nickNames = {
     "鼬鼠党欢迎你": "鼹鼠党欢迎你",
     "点个关注吧": "点个关注吧！",
+    "『我』的诞生":"「我」的诞生",
 }
 
 const getName = name => findObj(name, nickNames)
