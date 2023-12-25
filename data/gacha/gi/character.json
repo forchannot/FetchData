@@ -1,5 +1,52 @@
 [
 	{
+		"version": "4.3.1",
+		"items": [
+			{
+				"itemId": 10000002,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/4d7170407d389973d33446c62b1e4a09.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "神里绫华",
+				"nameEn": "",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000043,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/6286745f3a88312477b9784649a82be7.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000045,
+				"weaponType": "Polearm",
+				"imageUrl": "https://uploadstatic.mihoyo.com/hk4e/e20200928calculate/common/rosaria_623de3bc25a21b6e516ea0489ddd11f8.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000072,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/b71fc7155fdff1cf8260f927f621af53.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "",
+				"element": "Hydro"
+			}
+		],
+		"start": "2023-12-20 06:00:00",
+		"end": "2024-01-09 17:59:59"
+	},
+	{
 		"version": "4.2.2",
 		"items": [
 			{
