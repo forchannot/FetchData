@@ -1,5 +1,45 @@
 [
 	{
+		"version": "1.6.1",
+		"items": [
+			{
+				"itemId": 1205,
+				"damageType": "16",
+				"element": "wind",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/df179e2af97db27fb53756082f78a31b.png",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "刃"
+			},
+			{
+				"itemId": 1001,
+				"damageType": "4",
+				"element": "ice",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/44571ef951bc3025f1df9c844846cde1.png",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Character",
+				"name": "三月七"
+			},
+			{
+				"itemId": 1202,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/83c9d5f434555dd91ae4989d56c9535d.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Character",
+				"name": "停云"
+			}
+		],
+		"start": "2023-12-27 06:00:00",
+		"end": "2024-01-17 11:59:59"
+	},
+	{
 		"version": "1.5.2",
 		"items": [
 			{
