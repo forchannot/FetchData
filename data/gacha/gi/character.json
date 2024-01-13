@@ -1,11 +1,68 @@
 [
 	{
+		"version": "4.3.2",
+		"items": [
+			{
+				"itemId": 10000052,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/ee1f62562a33da60207e300796621d6f.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000049,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3ded3a4646bb426e3b01551bf25433ec.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "宵宫",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000090,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a8e07b8e993d2ef5fa12b0772734e8cb.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000056,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/da344b8763b1a063bd9b9f52523905e6.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-01-09 18:00:00",
+		"end": "2024-01-30 14:59:59"
+	},
+	{
 		"version": "4.3.1",
 		"items": [
 			{
 				"itemId": 10000091,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/b8994b6161af79e9bb637fc8d7bfb355.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c73ba85e9d13721bfc0ca9695354ba04.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "娜维娅",
@@ -15,7 +72,7 @@
 			{
 				"itemId": 10000002,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f311b4ed169e86e17ac070b638c3e935.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/cc071f65e93826d09df6a3f08b49800f.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "神里绫华",
@@ -25,7 +82,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -45,7 +102,7 @@
 			{
 				"itemId": 10000072,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/2ab68df575cd6a94baa4ce411cff0260.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a3c8e7073d3c6dac41a9884c5a549cb5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "坎蒂丝",
@@ -62,7 +119,7 @@
 			{
 				"itemId": 10000071,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a3105674add79317130e3d73419eb9df.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/f327ccf7d334fb413cc7197f037eccb4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "赛诺",
@@ -72,7 +129,7 @@
 			{
 				"itemId": 10000066,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/303330bddd242f0468a6442c88e8da4b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/eefdf5120b9cbf29d41e2609d5b81aa5.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "神里绫人",
@@ -82,7 +139,7 @@
 			{
 				"itemId": 10000061,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/b23732e16d9ea26e9adc8c6a99bd5695.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/4ef83bc11f74887d3adea3555d3b6cc5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "绮良良",
@@ -92,7 +149,7 @@
 			{
 				"itemId": 10000065,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4fa643e9c180fd97af6538821efde3e3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c5e1254945d592760167b73cf1cd3349.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "久岐忍",
@@ -102,7 +159,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
@@ -119,7 +176,7 @@
 			{
 				"itemId": 10000089,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9b616bb8c8dc7bd16a066a321ea01ea3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/5cc3a376d573950cd229727616b33665.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "芙宁娜",
@@ -129,7 +186,7 @@
 			{
 				"itemId": 10000082,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e528a42afe5cf6364fa94cfae188ac7a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/9c721eb9ace64c5fafa1265f10644a3e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "白术",
@@ -139,7 +196,7 @@
 			{
 				"itemId": 10000088,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7ca5fae600ac811a5fc9b821f9d1ff97.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/87b60b73cc30ff42342155d6ee7e16d6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "夏洛蒂",
@@ -149,7 +206,7 @@
 			{
 				"itemId": 10000067,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1568829535275421801ad7becd1c03ce.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/4c9616ec6a0e35da9a5fda9723fcde5a.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "柯莱",
@@ -159,7 +216,7 @@
 			{
 				"itemId": 10000024,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f13f8df4357641343cfde442cb9591a2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bb79c7c4295b49810cfd07fecc3cee55.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "北斗",
@@ -176,7 +233,7 @@
 			{
 				"itemId": 10000086,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/3deca14d43c3e26a405fccaa3d18ce46.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/50806b29dd9acbdb18c4443b9a9f2556.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "莱欧斯利",
@@ -186,7 +243,7 @@
 			{
 				"itemId": 10000022,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/82130a0e581061ca021f80749885d474.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3f7442da4da6d2a6e98157e31cb779e4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "温迪",
@@ -196,7 +253,7 @@
 			{
 				"itemId": 10000036,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1a1e77cc62ba5a1838b7c496cfedb002.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/8c0ca4306f53574e229495e4b77446c5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "重云",
@@ -206,7 +263,7 @@
 			{
 				"itemId": 10000050,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9f6b86090f0e3b0380c73bb331bd21f5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/30232aa09299ce4136db846fdd7fef83.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "托马",
@@ -216,7 +273,7 @@
 			{
 				"itemId": 10000068,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/b86cbf23be52dadf5009c8781ebafb5d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/2d5a2db6807514c0851ab9fba2fcbed7.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "多莉",
@@ -233,7 +290,7 @@
 			{
 				"itemId": 10000087,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/aa93fee5dd7e10f313838553ff7d3f63.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/21c76928b7b0981702966396c9c51eea.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "那维莱特",
@@ -243,7 +300,7 @@
 			{
 				"itemId": 10000046,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4ac38d234f928a54a0c9101f4ed7b588.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e17298d8397f43e9f0793fe0934ca028.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "胡桃",
@@ -253,7 +310,7 @@
 			{
 				"itemId": 10000031,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/c2313ef35f702fed66a4fdbb0d2d43ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e1a9233aefc57e18da3c9ff8e8c30f63.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲谢尔",
@@ -263,7 +320,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -273,7 +330,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -290,7 +347,7 @@
 			{
 				"itemId": 10000030,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/611a5366713ab043cafc508b19848904.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/6ace4fff7fbefe4c31089e4e585b898e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "钟离",
@@ -300,7 +357,7 @@
 			{
 				"itemId": 10000033,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ef28264fa569ccc8c0fc7ae2b7e57674.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/fdcee381d2ee49e18c274c99c136a578.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "达达利亚",
@@ -310,7 +367,7 @@
 			{
 				"itemId": 10000085,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7b5b5fa8b0d7c160809b8184ea1a7744.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/715b2418492cbb20bae225f63b89a169.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲米尼",
@@ -320,7 +377,7 @@
 			{
 				"itemId": 10000053,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d35da2ad32e223f77d877f53451c894a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e8a97de2f7d84e9d39b9f0d7ae99738d.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "早柚",
@@ -330,7 +387,7 @@
 			{
 				"itemId": 10000034,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a67cbeaa6f7b5ceef28467205c113b5f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e92b88f08496ee81df15eda397a78410.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "诺艾尔",
@@ -347,7 +404,7 @@
 			{
 				"itemId": 10000084,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7767fc97599de9d81c523c05736f056c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3d431f4a6813fedfc7a31a4183ec506f.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "林尼",
@@ -357,7 +414,7 @@
 			{
 				"itemId": 10000060,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7ac60c31284863ed88dec45bc7536c7e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/0df633170d31e72bad5b41ae6210c4ae.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "夜兰",
@@ -367,7 +424,7 @@
 			{
 				"itemId": 10000083,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1d9a826a89f11e174420df23ebc17232.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c819755de79bc444bc9b1e7972cc4a5d.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "琳妮特",
@@ -377,7 +434,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -387,7 +444,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -404,7 +461,7 @@
 			{
 				"itemId": 10000054,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ea0e0717e846dc2288b8ba7cf4f5bb77.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/2dc215bef8831f32daea080f6e64bb05.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "珊瑚宫心海",
@@ -414,7 +471,7 @@
 			{
 				"itemId": 10000075,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/5f70d5b4f4a65352817746e7464ed864.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/89bc18b7023505ae96cce9fa15b3f073.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "流浪者",
@@ -424,7 +481,7 @@
 			{
 				"itemId": 10000076,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab0856e0aecb3e99a239298b9636b636.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/b292311e1496cd94f05f0bb27893bf4c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "珐露珊",
@@ -444,7 +501,7 @@
 			{
 				"itemId": 10000048,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/42ae7a081a4c6e88daeff49eee9cd650.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/db9a6448479eb382b76df0836def2f7c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "烟绯",
@@ -461,7 +518,7 @@
 			{
 				"itemId": 10000051,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d55f45c2d08b175af4e1dafebc36c9bc.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/9de6f6b267d0ca9e4f198827b42683e3.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "优菈",
@@ -471,7 +528,7 @@
 			{
 				"itemId": 10000029,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/afe4873bcfb53a4df9c3f6bf9edf1c6d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/464fac7dfdcda0c3e0fcd40096689c70.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "可莉",
@@ -481,7 +538,7 @@
 			{
 				"itemId": 10000080,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/de5975fbb942601cd087e5e9454b6262.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/631b55c870c764f31a829c3e64e512a7.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "米卡",
@@ -491,7 +548,7 @@
 			{
 				"itemId": 10000020,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9977142f4a8698c6991b51e665713b81.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c6a56a19be380f449d560603bb57bee6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "雷泽",
@@ -501,7 +558,7 @@
 			{
 				"itemId": 10000050,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9f6b86090f0e3b0380c73bb331bd21f5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/30232aa09299ce4136db846fdd7fef83.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "托马",
@@ -518,7 +575,7 @@
 			{
 				"itemId": 10000078,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/db3bead19072754216140fcbb2d1d814.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/6f57da09f96486cb05d3770f6fba8872.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "艾尔海森",
@@ -528,7 +585,7 @@
 			{
 				"itemId": 10000047,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/442541879ba94caaaa085150a4387f7c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/4532b17e6284332f8840d98dfaecd30b.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "枫原万叶",
@@ -538,7 +595,7 @@
 			{
 				"itemId": 10000077,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/5daf237a6a627a480f207077beba82bb.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a9ed6a6488c41934d09b762d7f3fbd07.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "瑶瑶",
@@ -548,7 +605,7 @@
 			{
 				"itemId": 10000059,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a9d84a18f0499b736ef45206efa18ff7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/25de584bc11e2b28fa461fbb6c11d329.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "鹿野院平藏",
@@ -558,7 +615,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
@@ -575,7 +632,7 @@
 			{
 				"itemId": 10000049,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/2b9075a12f4cc221cfe1b4b46ca76412.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3ded3a4646bb426e3b01551bf25433ec.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "宵宫",
@@ -585,7 +642,7 @@
 			{
 				"itemId": 10000058,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/3c3ff3183e7f4bdd9a251639f62dc400.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/44ace3b1024f46b373897c0a84809e06.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "八重神子",
@@ -595,7 +652,7 @@
 			{
 				"itemId": 10000061,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/b23732e16d9ea26e9adc8c6a99bd5695.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/4ef83bc11f74887d3adea3555d3b6cc5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "绮良良",
@@ -605,7 +662,7 @@
 			{
 				"itemId": 10000064,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e0eb93d6c844769e4e40f3c76e9197c4.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/515694ea5e857ae2d8f6d89539d085f1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "云堇",
@@ -615,7 +672,7 @@
 			{
 				"itemId": 10000036,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1a1e77cc62ba5a1838b7c496cfedb002.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/8c0ca4306f53574e229495e4b77446c5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "重云",
@@ -632,7 +689,7 @@
 			{
 				"itemId": 10000082,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e528a42afe5cf6364fa94cfae188ac7a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/9c721eb9ace64c5fafa1265f10644a3e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "白术",
@@ -642,7 +699,7 @@
 			{
 				"itemId": 10000037,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4fed0a0cac71e1e98368079bf3a28e1b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/29601a430763d70164a278e3f53045a8.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "甘雨",
@@ -652,7 +709,7 @@
 			{
 				"itemId": 10000081,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0d0b11a14b8c12e39f30f2682555b33c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/73f883d3cc9ea8c35562dffdfd496f5a.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "卡维",
@@ -662,7 +719,7 @@
 			{
 				"itemId": 10000072,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/2ab68df575cd6a94baa4ce411cff0260.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a3c8e7073d3c6dac41a9884c5a549cb5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "坎蒂丝",
@@ -672,7 +729,7 @@
 			{
 				"itemId": 10000031,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/c2313ef35f702fed66a4fdbb0d2d43ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e1a9233aefc57e18da3c9ff8e8c30f63.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲谢尔",
@@ -689,7 +746,7 @@
 			{
 				"itemId": 10000073,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e6f0484733cb904df18d7d38b91c13cf.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a42b8d5ca5e9576c050bc3c29dd21ef2.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "纳西妲",
@@ -699,7 +756,7 @@
 			{
 				"itemId": 10000070,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7d31029fb97bbe83033325125f397bea.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/9fa528fcb44cf5ef161dcc5983f03b94.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "妮露",
@@ -709,7 +766,7 @@
 			{
 				"itemId": 10000065,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4fa643e9c180fd97af6538821efde3e3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c5e1254945d592760167b73cf1cd3349.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "久岐忍",
@@ -719,7 +776,7 @@
 			{
 				"itemId": 10000068,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/b86cbf23be52dadf5009c8781ebafb5d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/2d5a2db6807514c0851ab9fba2fcbed7.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "多莉",
@@ -729,7 +786,7 @@
 			{
 				"itemId": 10000074,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7da6396ad8281bfe52b99afab7d438d5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a47619d5d9297eb57163496456b6bf74.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "莱依拉",
@@ -746,7 +803,7 @@
 			{
 				"itemId": 10000063,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e9e346155c1cbe2ccdd33fb6163cc497.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/ca658361985fccb05468cb3f3293295e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "申鹤",
@@ -756,7 +813,7 @@
 			{
 				"itemId": 10000002,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f311b4ed169e86e17ac070b638c3e935.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/cc071f65e93826d09df6a3f08b49800f.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "神里绫华",
@@ -766,7 +823,7 @@
 			{
 				"itemId": 10000080,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/de5975fbb942601cd087e5e9454b6262.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/631b55c870c764f31a829c3e64e512a7.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "米卡",
@@ -776,7 +833,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -786,7 +843,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -803,7 +860,7 @@
 			{
 				"itemId": 10000079,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/057c98b69a0ce2bdf87934d83a44341c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/834510bea23091568c8acd6cbce2763d.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "迪希雅",
@@ -813,7 +870,7 @@
 			{
 				"itemId": 10000071,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a3105674add79317130e3d73419eb9df.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/f327ccf7d334fb413cc7197f037eccb4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "赛诺",
@@ -823,7 +880,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -833,7 +890,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -843,7 +900,7 @@
 			{
 				"itemId": 10000067,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1568829535275421801ad7becd1c03ce.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/4c9616ec6a0e35da9a5fda9723fcde5a.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "柯莱",
@@ -860,7 +917,7 @@
 			{
 				"itemId": 10000046,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4ac38d234f928a54a0c9101f4ed7b588.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e17298d8397f43e9f0793fe0934ca028.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "胡桃",
@@ -870,7 +927,7 @@
 			{
 				"itemId": 10000060,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7ac60c31284863ed88dec45bc7536c7e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/0df633170d31e72bad5b41ae6210c4ae.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "夜兰",
@@ -880,7 +937,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -890,7 +947,7 @@
 			{
 				"itemId": 10000027,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e581e60d9f22518f70582036e5426622.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3fdce673cebb688148db68a4517ef9df.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "凝光",
@@ -900,7 +957,7 @@
 			{
 				"itemId": 10000024,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f13f8df4357641343cfde442cb9591a2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bb79c7c4295b49810cfd07fecc3cee55.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "北斗",
@@ -917,7 +974,7 @@
 			{
 				"itemId": 10000078,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/db3bead19072754216140fcbb2d1d814.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/6f57da09f96486cb05d3770f6fba8872.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "艾尔海森",
@@ -927,7 +984,7 @@
 			{
 				"itemId": 10000026,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/149e04a7b68f88dd17fd2ee736bae959.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/06ec9aaba29a9d11cacab640e48e9d1b.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "魈",
@@ -937,7 +994,7 @@
 			{
 				"itemId": 10000044,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/59be4e0e2a9d92da3c07f60587cb571b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/032987a9311501e52a836e73a0bba3a1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "辛焱",
@@ -947,7 +1004,7 @@
 			{
 				"itemId": 10000064,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e0eb93d6c844769e4e40f3c76e9197c4.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/515694ea5e857ae2d8f6d89539d085f1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "云堇",
@@ -957,7 +1014,7 @@
 			{
 				"itemId": 10000077,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/5daf237a6a627a480f207077beba82bb.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a9ed6a6488c41934d09b762d7f3fbd07.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "瑶瑶",
@@ -974,7 +1031,7 @@
 			{
 				"itemId": 10000052,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7c813d992736cda1fdce58591519eb03.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/ee1f62562a33da60207e300796621d6f.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "雷电将军",
@@ -984,7 +1041,7 @@
 			{
 				"itemId": 10000066,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/303330bddd242f0468a6442c88e8da4b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/eefdf5120b9cbf29d41e2609d5b81aa5.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "神里绫人",
@@ -1004,7 +1061,7 @@
 			{
 				"itemId": 10000053,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d35da2ad32e223f77d877f53451c894a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e8a97de2f7d84e9d39b9f0d7ae99738d.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "早柚",
@@ -1014,7 +1071,7 @@
 			{
 				"itemId": 10000056,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/67e62146eed2060cebf33049b31b1250.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/da344b8763b1a063bd9b9f52523905e6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "九条裟罗",
@@ -1031,7 +1088,7 @@
 			{
 				"itemId": 10000075,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/5f70d5b4f4a65352817746e7464ed864.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/89bc18b7023505ae96cce9fa15b3f073.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "流浪者",
@@ -1041,7 +1098,7 @@
 			{
 				"itemId": 10000057,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7be2b506db8c0bff896c13c9d0a5aef6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e71aa3a87e9571ec5b1635415023eb55.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "荒泷一斗",
@@ -1051,7 +1108,7 @@
 			{
 				"itemId": 10000076,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab0856e0aecb3e99a239298b9636b636.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/b292311e1496cd94f05f0bb27893bf4c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "珐露珊",
@@ -1061,7 +1118,7 @@
 			{
 				"itemId": 10000055,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a43169b840031b521bb26e007f408112.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/02555a934a14b0090244052427c7b87e.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "五郎",
@@ -1071,7 +1128,7 @@
 			{
 				"itemId": 10000048,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/42ae7a081a4c6e88daeff49eee9cd650.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/db9a6448479eb382b76df0836def2f7c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "烟绯",
@@ -1088,7 +1145,7 @@
 			{
 				"itemId": 10000058,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/3c3ff3183e7f4bdd9a251639f62dc400.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/44ace3b1024f46b373897c0a84809e06.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "八重神子",
@@ -1098,7 +1155,7 @@
 			{
 				"itemId": 10000033,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ef28264fa569ccc8c0fc7ae2b7e57674.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/fdcee381d2ee49e18c274c99c136a578.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "达达利亚",
@@ -1108,7 +1165,7 @@
 			{
 				"itemId": 10000074,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7da6396ad8281bfe52b99afab7d438d5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a47619d5d9297eb57163496456b6bf74.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "莱依拉",
@@ -1118,7 +1175,7 @@
 			{
 				"itemId": 10000059,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a9d84a18f0499b736ef45206efa18ff7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/25de584bc11e2b28fa461fbb6c11d329.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "鹿野院平藏",
@@ -1128,7 +1185,7 @@
 			{
 				"itemId": 10000050,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9f6b86090f0e3b0380c73bb331bd21f5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/30232aa09299ce4136db846fdd7fef83.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "托马",
@@ -1145,7 +1202,7 @@
 			{
 				"itemId": 10000073,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e6f0484733cb904df18d7d38b91c13cf.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a42b8d5ca5e9576c050bc3c29dd21ef2.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "纳西妲",
@@ -1155,7 +1212,7 @@
 			{
 				"itemId": 10000049,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/2b9075a12f4cc221cfe1b4b46ca76412.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3ded3a4646bb426e3b01551bf25433ec.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "宵宫",
@@ -1165,7 +1222,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -1175,7 +1232,7 @@
 			{
 				"itemId": 10000020,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9977142f4a8698c6991b51e665713b81.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c6a56a19be380f449d560603bb57bee6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "雷泽",
@@ -1185,7 +1242,7 @@
 			{
 				"itemId": 10000034,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a67cbeaa6f7b5ceef28467205c113b5f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e92b88f08496ee81df15eda397a78410.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "诺艾尔",
@@ -1202,7 +1259,7 @@
 			{
 				"itemId": 10000070,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7d31029fb97bbe83033325125f397bea.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/9fa528fcb44cf5ef161dcc5983f03b94.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "妮露",
@@ -1212,7 +1269,7 @@
 			{
 				"itemId": 10000038,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/633f134111a455471c41ed9121477e99.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/babc0cb3ed626b2fb7867e73f2cbd637.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "阿贝多",
@@ -1222,7 +1279,7 @@
 			{
 				"itemId": 10000024,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f13f8df4357641343cfde442cb9591a2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bb79c7c4295b49810cfd07fecc3cee55.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "北斗",
@@ -1232,7 +1289,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -1242,7 +1299,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
@@ -1259,7 +1316,7 @@
 			{
 				"itemId": 10000071,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a3105674add79317130e3d73419eb9df.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/f327ccf7d334fb413cc7197f037eccb4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "赛诺",
@@ -1269,7 +1326,7 @@
 			{
 				"itemId": 10000022,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/82130a0e581061ca021f80749885d474.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3f7442da4da6d2a6e98157e31cb779e4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "温迪",
@@ -1279,7 +1336,7 @@
 			{
 				"itemId": 10000065,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4fa643e9c180fd97af6538821efde3e3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c5e1254945d592760167b73cf1cd3349.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "久岐忍",
@@ -1289,7 +1346,7 @@
 			{
 				"itemId": 10000053,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d35da2ad32e223f77d877f53451c894a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e8a97de2f7d84e9d39b9f0d7ae99738d.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "早柚",
@@ -1299,7 +1356,7 @@
 			{
 				"itemId": 10000072,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/2ab68df575cd6a94baa4ce411cff0260.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/a3c8e7073d3c6dac41a9884c5a549cb5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "坎蒂丝",
@@ -1316,7 +1373,7 @@
 			{
 				"itemId": 10000037,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4fed0a0cac71e1e98368079bf3a28e1b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/29601a430763d70164a278e3f53045a8.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "甘雨",
@@ -1326,7 +1383,7 @@
 			{
 				"itemId": 10000054,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ea0e0717e846dc2288b8ba7cf4f5bb77.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/2dc215bef8831f32daea080f6e64bb05.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "珊瑚宫心海",
@@ -1336,7 +1393,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -1346,7 +1403,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -1356,7 +1413,7 @@
 			{
 				"itemId": 10000068,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/b86cbf23be52dadf5009c8781ebafb5d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/2d5a2db6807514c0851ab9fba2fcbed7.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "多莉",
@@ -1373,7 +1430,7 @@
 			{
 				"itemId": 10000069,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/dd6170d43e28dc7cbdf2b9c94eb971c9.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/cbe8c52fd92858ef8aed3c02b56769d4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "提纳里",
@@ -1383,7 +1440,7 @@
 			{
 				"itemId": 10000030,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/611a5366713ab043cafc508b19848904.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/6ace4fff7fbefe4c31089e4e585b898e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "钟离",
@@ -1393,7 +1450,7 @@
 			{
 				"itemId": 10000067,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1568829535275421801ad7becd1c03ce.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/4c9616ec6a0e35da9a5fda9723fcde5a.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "柯莱",
@@ -1403,7 +1460,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -1413,7 +1470,7 @@
 			{
 				"itemId": 10000031,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/c2313ef35f702fed66a4fdbb0d2d43ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e1a9233aefc57e18da3c9ff8e8c30f63.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲谢尔",
@@ -1430,7 +1487,7 @@
 			{
 				"itemId": 10000049,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/2b9075a12f4cc221cfe1b4b46ca76412.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3ded3a4646bb426e3b01551bf25433ec.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "宵宫",
@@ -1440,7 +1497,7 @@
 			{
 				"itemId": 10000064,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e0eb93d6c844769e4e40f3c76e9197c4.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/515694ea5e857ae2d8f6d89539d085f1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "云堇",
@@ -1450,7 +1507,7 @@
 			{
 				"itemId": 10000044,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/59be4e0e2a9d92da3c07f60587cb571b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/032987a9311501e52a836e73a0bba3a1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "辛焱",
@@ -1460,7 +1517,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -1477,7 +1534,7 @@
 			{
 				"itemId": 10000047,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/442541879ba94caaaa085150a4387f7c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/4532b17e6284332f8840d98dfaecd30b.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "枫原万叶",
@@ -1487,7 +1544,7 @@
 			{
 				"itemId": 10000029,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/afe4873bcfb53a4df9c3f6bf9edf1c6d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/464fac7dfdcda0c3e0fcd40096689c70.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "可莉",
@@ -1497,7 +1554,7 @@
 			{
 				"itemId": 10000027,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e581e60d9f22518f70582036e5426622.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3fdce673cebb688148db68a4517ef9df.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "凝光",
@@ -1507,7 +1564,7 @@
 			{
 				"itemId": 10000059,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a9d84a18f0499b736ef45206efa18ff7.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/25de584bc11e2b28fa461fbb6c11d329.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "鹿野院平藏",
@@ -1517,7 +1574,7 @@
 			{
 				"itemId": 10000050,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9f6b86090f0e3b0380c73bb331bd21f5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/30232aa09299ce4136db846fdd7fef83.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "托马",
@@ -1534,7 +1591,7 @@
 			{
 				"itemId": 10000057,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7be2b506db8c0bff896c13c9d0a5aef6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e71aa3a87e9571ec5b1635415023eb55.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "荒泷一斗",
@@ -1544,7 +1601,7 @@
 			{
 				"itemId": 10000036,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1a1e77cc62ba5a1838b7c496cfedb002.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/8c0ca4306f53574e229495e4b77446c5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "重云",
@@ -1554,7 +1611,7 @@
 			{
 				"itemId": 10000055,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a43169b840031b521bb26e007f408112.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/02555a934a14b0090244052427c7b87e.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "五郎",
@@ -1564,7 +1621,7 @@
 			{
 				"itemId": 10000065,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4fa643e9c180fd97af6538821efde3e3.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c5e1254945d592760167b73cf1cd3349.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "久岐忍",
@@ -1581,7 +1638,7 @@
 			{
 				"itemId": 10000060,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7ac60c31284863ed88dec45bc7536c7e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/0df633170d31e72bad5b41ae6210c4ae.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "夜兰",
@@ -1591,7 +1648,7 @@
 			{
 				"itemId": 10000026,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/149e04a7b68f88dd17fd2ee736bae959.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/06ec9aaba29a9d11cacab640e48e9d1b.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "魈",
@@ -1601,7 +1658,7 @@
 			{
 				"itemId": 10000048,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/42ae7a081a4c6e88daeff49eee9cd650.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/db9a6448479eb382b76df0836def2f7c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "烟绯",
@@ -1611,7 +1668,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -1621,7 +1678,7 @@
 			{
 				"itemId": 10000034,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a67cbeaa6f7b5ceef28467205c113b5f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e92b88f08496ee81df15eda397a78410.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "诺艾尔",
@@ -1638,7 +1695,7 @@
 			{
 				"itemId": 10000002,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f311b4ed169e86e17ac070b638c3e935.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/cc071f65e93826d09df6a3f08b49800f.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "神里绫华",
@@ -1658,7 +1715,7 @@
 			{
 				"itemId": 10000053,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d35da2ad32e223f77d877f53451c894a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e8a97de2f7d84e9d39b9f0d7ae99738d.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "早柚",
@@ -1668,7 +1725,7 @@
 			{
 				"itemId": 10000020,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9977142f4a8698c6991b51e665713b81.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c6a56a19be380f449d560603bb57bee6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "雷泽",
@@ -1685,7 +1742,7 @@
 			{
 				"itemId": 10000066,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/303330bddd242f0468a6442c88e8da4b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/eefdf5120b9cbf29d41e2609d5b81aa5.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "神里绫人",
@@ -1695,7 +1752,7 @@
 			{
 				"itemId": 10000022,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/82130a0e581061ca021f80749885d474.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3f7442da4da6d2a6e98157e31cb779e4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "温迪",
@@ -1705,7 +1762,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
@@ -1715,7 +1772,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -1725,7 +1782,7 @@
 			{
 				"itemId": 10000064,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e0eb93d6c844769e4e40f3c76e9197c4.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/515694ea5e857ae2d8f6d89539d085f1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "云堇",
@@ -1742,7 +1799,7 @@
 			{
 				"itemId": 10000052,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7c813d992736cda1fdce58591519eb03.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/ee1f62562a33da60207e300796621d6f.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "雷电将军",
@@ -1752,7 +1809,7 @@
 			{
 				"itemId": 10000054,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ea0e0717e846dc2288b8ba7cf4f5bb77.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/2dc215bef8831f32daea080f6e64bb05.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "珊瑚宫心海",
@@ -1762,7 +1819,7 @@
 			{
 				"itemId": 10000044,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/59be4e0e2a9d92da3c07f60587cb571b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/032987a9311501e52a836e73a0bba3a1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "辛焱",
@@ -1772,7 +1829,7 @@
 			{
 				"itemId": 10000056,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/67e62146eed2060cebf33049b31b1250.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/da344b8763b1a063bd9b9f52523905e6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "九条裟罗",
@@ -1782,7 +1839,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -1799,7 +1856,7 @@
 			{
 				"itemId": 10000058,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/3c3ff3183e7f4bdd9a251639f62dc400.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/44ace3b1024f46b373897c0a84809e06.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "八重神子",
@@ -1809,7 +1866,7 @@
 			{
 				"itemId": 10000031,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/c2313ef35f702fed66a4fdbb0d2d43ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e1a9233aefc57e18da3c9ff8e8c30f63.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲谢尔",
@@ -1819,7 +1876,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -1829,7 +1886,7 @@
 			{
 				"itemId": 10000050,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9f6b86090f0e3b0380c73bb331bd21f5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/30232aa09299ce4136db846fdd7fef83.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "托马",
@@ -1846,7 +1903,7 @@
 			{
 				"itemId": 10000037,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4fed0a0cac71e1e98368079bf3a28e1b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/29601a430763d70164a278e3f53045a8.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "甘雨",
@@ -1856,7 +1913,7 @@
 			{
 				"itemId": 10000030,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/611a5366713ab043cafc508b19848904.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/6ace4fff7fbefe4c31089e4e585b898e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "钟离",
@@ -1866,7 +1923,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -1876,7 +1933,7 @@
 			{
 				"itemId": 10000024,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f13f8df4357641343cfde442cb9591a2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bb79c7c4295b49810cfd07fecc3cee55.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "北斗",
@@ -1886,7 +1943,7 @@
 			{
 				"itemId": 10000048,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/42ae7a081a4c6e88daeff49eee9cd650.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/db9a6448479eb382b76df0836def2f7c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "烟绯",
@@ -1903,7 +1960,7 @@
 			{
 				"itemId": 10000063,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e9e346155c1cbe2ccdd33fb6163cc497.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/ca658361985fccb05468cb3f3293295e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "申鹤",
@@ -1913,7 +1970,7 @@
 			{
 				"itemId": 10000026,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/149e04a7b68f88dd17fd2ee736bae959.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/06ec9aaba29a9d11cacab640e48e9d1b.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "魈",
@@ -1923,7 +1980,7 @@
 			{
 				"itemId": 10000064,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e0eb93d6c844769e4e40f3c76e9197c4.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/515694ea5e857ae2d8f6d89539d085f1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "云堇",
@@ -1933,7 +1990,7 @@
 			{
 				"itemId": 10000027,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e581e60d9f22518f70582036e5426622.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3fdce673cebb688148db68a4517ef9df.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "凝光",
@@ -1943,7 +2000,7 @@
 			{
 				"itemId": 10000036,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1a1e77cc62ba5a1838b7c496cfedb002.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/8c0ca4306f53574e229495e4b77446c5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "重云",
@@ -1960,7 +2017,7 @@
 			{
 				"itemId": 10000057,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7be2b506db8c0bff896c13c9d0a5aef6.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e71aa3a87e9571ec5b1635415023eb55.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "荒泷一斗",
@@ -1970,7 +2027,7 @@
 			{
 				"itemId": 10000055,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a43169b840031b521bb26e007f408112.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/02555a934a14b0090244052427c7b87e.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "五郎",
@@ -1980,7 +2037,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -1990,7 +2047,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
@@ -2007,7 +2064,7 @@
 			{
 				"itemId": 10000038,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/633f134111a455471c41ed9121477e99.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/babc0cb3ed626b2fb7867e73f2cbd637.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "阿贝多",
@@ -2017,7 +2074,7 @@
 			{
 				"itemId": 10000051,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d55f45c2d08b175af4e1dafebc36c9bc.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/9de6f6b267d0ca9e4f198827b42683e3.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "优菈",
@@ -2027,7 +2084,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -2037,7 +2094,7 @@
 			{
 				"itemId": 10000034,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a67cbeaa6f7b5ceef28467205c113b5f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e92b88f08496ee81df15eda397a78410.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "诺艾尔",
@@ -2064,7 +2121,7 @@
 			{
 				"itemId": 10000046,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4ac38d234f928a54a0c9101f4ed7b588.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e17298d8397f43e9f0793fe0934ca028.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "胡桃",
@@ -2074,7 +2131,7 @@
 			{
 				"itemId": 10000050,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9f6b86090f0e3b0380c73bb331bd21f5.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/30232aa09299ce4136db846fdd7fef83.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "托马",
@@ -2084,7 +2141,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -2094,7 +2151,7 @@
 			{
 				"itemId": 10000053,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d35da2ad32e223f77d877f53451c894a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e8a97de2f7d84e9d39b9f0d7ae99738d.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "早柚",
@@ -2111,7 +2168,7 @@
 			{
 				"itemId": 10000033,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ef28264fa569ccc8c0fc7ae2b7e57674.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/fdcee381d2ee49e18c274c99c136a578.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "达达利亚",
@@ -2121,7 +2178,7 @@
 			{
 				"itemId": 10000027,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e581e60d9f22518f70582036e5426622.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3fdce673cebb688148db68a4517ef9df.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "凝光",
@@ -2131,7 +2188,7 @@
 			{
 				"itemId": 10000036,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1a1e77cc62ba5a1838b7c496cfedb002.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/8c0ca4306f53574e229495e4b77446c5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "重云",
@@ -2141,7 +2198,7 @@
 			{
 				"itemId": 10000048,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/42ae7a081a4c6e88daeff49eee9cd650.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/db9a6448479eb382b76df0836def2f7c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "烟绯",
@@ -2158,7 +2215,7 @@
 			{
 				"itemId": 10000054,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ea0e0717e846dc2288b8ba7cf4f5bb77.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/2dc215bef8831f32daea080f6e64bb05.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "珊瑚宫心海",
@@ -2178,7 +2235,7 @@
 			{
 				"itemId": 10000024,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f13f8df4357641343cfde442cb9591a2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bb79c7c4295b49810cfd07fecc3cee55.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "北斗",
@@ -2188,7 +2245,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -2205,7 +2262,7 @@
 			{
 				"itemId": 10000052,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7c813d992736cda1fdce58591519eb03.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/ee1f62562a33da60207e300796621d6f.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "雷电将军",
@@ -2215,7 +2272,7 @@
 			{
 				"itemId": 10000056,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/67e62146eed2060cebf33049b31b1250.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/da344b8763b1a063bd9b9f52523905e6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "九条裟罗",
@@ -2225,7 +2282,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
@@ -2235,7 +2292,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -2252,7 +2309,7 @@
 			{
 				"itemId": 10000049,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/2b9075a12f4cc221cfe1b4b46ca76412.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3ded3a4646bb426e3b01551bf25433ec.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "宵宫",
@@ -2262,7 +2319,7 @@
 			{
 				"itemId": 10000053,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d35da2ad32e223f77d877f53451c894a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e8a97de2f7d84e9d39b9f0d7ae99738d.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "早柚",
@@ -2272,7 +2329,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -2282,7 +2339,7 @@
 			{
 				"itemId": 10000044,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/59be4e0e2a9d92da3c07f60587cb571b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/032987a9311501e52a836e73a0bba3a1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "辛焱",
@@ -2299,7 +2356,7 @@
 			{
 				"itemId": 10000002,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f311b4ed169e86e17ac070b638c3e935.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/cc071f65e93826d09df6a3f08b49800f.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "神里绫华",
@@ -2309,7 +2366,7 @@
 			{
 				"itemId": 10000027,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e581e60d9f22518f70582036e5426622.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3fdce673cebb688148db68a4517ef9df.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "凝光",
@@ -2319,7 +2376,7 @@
 			{
 				"itemId": 10000036,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1a1e77cc62ba5a1838b7c496cfedb002.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/8c0ca4306f53574e229495e4b77446c5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "重云",
@@ -2329,7 +2386,7 @@
 			{
 				"itemId": 10000048,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/42ae7a081a4c6e88daeff49eee9cd650.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/db9a6448479eb382b76df0836def2f7c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "烟绯",
@@ -2346,7 +2403,7 @@
 			{
 				"itemId": 10000047,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/442541879ba94caaaa085150a4387f7c.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/4532b17e6284332f8840d98dfaecd30b.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "枫原万叶",
@@ -2366,7 +2423,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -2376,7 +2433,7 @@
 			{
 				"itemId": 10000020,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9977142f4a8698c6991b51e665713b81.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c6a56a19be380f449d560603bb57bee6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "雷泽",
@@ -2393,7 +2450,7 @@
 			{
 				"itemId": 10000029,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/afe4873bcfb53a4df9c3f6bf9edf1c6d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/464fac7dfdcda0c3e0fcd40096689c70.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "可莉",
@@ -2403,7 +2460,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -2413,7 +2470,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -2423,7 +2480,7 @@
 			{
 				"itemId": 10000031,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/c2313ef35f702fed66a4fdbb0d2d43ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e1a9233aefc57e18da3c9ff8e8c30f63.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲谢尔",
@@ -2440,7 +2497,7 @@
 			{
 				"itemId": 10000051,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/d55f45c2d08b175af4e1dafebc36c9bc.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/9de6f6b267d0ca9e4f198827b42683e3.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "优菈",
@@ -2450,7 +2507,7 @@
 			{
 				"itemId": 10000044,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/59be4e0e2a9d92da3c07f60587cb571b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/032987a9311501e52a836e73a0bba3a1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "辛焱",
@@ -2460,7 +2517,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -2470,7 +2527,7 @@
 			{
 				"itemId": 10000024,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f13f8df4357641343cfde442cb9591a2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bb79c7c4295b49810cfd07fecc3cee55.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "北斗",
@@ -2487,7 +2544,7 @@
 			{
 				"itemId": 10000030,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/611a5366713ab043cafc508b19848904.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/6ace4fff7fbefe4c31089e4e585b898e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "钟离",
@@ -2497,7 +2554,7 @@
 			{
 				"itemId": 10000048,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/42ae7a081a4c6e88daeff49eee9cd650.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/db9a6448479eb382b76df0836def2f7c.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "烟绯",
@@ -2507,7 +2564,7 @@
 			{
 				"itemId": 10000034,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a67cbeaa6f7b5ceef28467205c113b5f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e92b88f08496ee81df15eda397a78410.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "诺艾尔",
@@ -2517,7 +2574,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -2534,7 +2591,7 @@
 			{
 				"itemId": 10000033,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ef28264fa569ccc8c0fc7ae2b7e57674.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/fdcee381d2ee49e18c274c99c136a578.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "达达利亚",
@@ -2554,7 +2611,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -2564,7 +2621,7 @@
 			{
 				"itemId": 10000031,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/c2313ef35f702fed66a4fdbb0d2d43ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e1a9233aefc57e18da3c9ff8e8c30f63.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲谢尔",
@@ -2581,7 +2638,7 @@
 			{
 				"itemId": 10000022,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/82130a0e581061ca021f80749885d474.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3f7442da4da6d2a6e98157e31cb779e4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "温迪",
@@ -2591,7 +2648,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -2601,7 +2658,7 @@
 			{
 				"itemId": 10000020,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9977142f4a8698c6991b51e665713b81.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c6a56a19be380f449d560603bb57bee6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "雷泽",
@@ -2611,7 +2668,7 @@
 			{
 				"itemId": 10000034,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a67cbeaa6f7b5ceef28467205c113b5f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e92b88f08496ee81df15eda397a78410.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "诺艾尔",
@@ -2628,7 +2685,7 @@
 			{
 				"itemId": 10000046,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4ac38d234f928a54a0c9101f4ed7b588.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e17298d8397f43e9f0793fe0934ca028.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "胡桃",
@@ -2638,7 +2695,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -2648,7 +2705,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
@@ -2658,7 +2715,7 @@
 			{
 				"itemId": 10000036,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1a1e77cc62ba5a1838b7c496cfedb002.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/8c0ca4306f53574e229495e4b77446c5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "重云",
@@ -2675,7 +2732,7 @@
 			{
 				"itemId": 10000042,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f601ec0babc77aeb00e8f90be577c194.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/0f5fe99d19b5daa2149e2d4f75df141c.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "刻晴",
@@ -2685,7 +2742,7 @@
 			{
 				"itemId": 10000027,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e581e60d9f22518f70582036e5426622.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3fdce673cebb688148db68a4517ef9df.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "凝光",
@@ -2695,7 +2752,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -2705,7 +2762,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -2722,7 +2779,7 @@
 			{
 				"itemId": 10000026,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/149e04a7b68f88dd17fd2ee736bae959.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/06ec9aaba29a9d11cacab640e48e9d1b.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "魈",
@@ -2732,7 +2789,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -2742,7 +2799,7 @@
 			{
 				"itemId": 10000024,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f13f8df4357641343cfde442cb9591a2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bb79c7c4295b49810cfd07fecc3cee55.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "北斗",
@@ -2752,7 +2809,7 @@
 			{
 				"itemId": 10000044,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/59be4e0e2a9d92da3c07f60587cb571b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/032987a9311501e52a836e73a0bba3a1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "辛焱",
@@ -2769,7 +2826,7 @@
 			{
 				"itemId": 10000037,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/4fed0a0cac71e1e98368079bf3a28e1b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/29601a430763d70164a278e3f53045a8.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "甘雨",
@@ -2779,7 +2836,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
@@ -2789,7 +2846,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -2799,7 +2856,7 @@
 			{
 				"itemId": 10000034,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a67cbeaa6f7b5ceef28467205c113b5f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e92b88f08496ee81df15eda397a78410.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "诺艾尔",
@@ -2816,7 +2873,7 @@
 			{
 				"itemId": 10000038,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/633f134111a455471c41ed9121477e99.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/babc0cb3ed626b2fb7867e73f2cbd637.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "阿贝多",
@@ -2826,7 +2883,7 @@
 			{
 				"itemId": 10000031,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/c2313ef35f702fed66a4fdbb0d2d43ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e1a9233aefc57e18da3c9ff8e8c30f63.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲谢尔",
@@ -2836,7 +2893,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -2846,7 +2903,7 @@
 			{
 				"itemId": 10000032,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/804a63bdd321677767a9bd18e094c195.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/60b7bc2afa7399747ac30137d2e04111.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "班尼特",
@@ -2863,7 +2920,7 @@
 			{
 				"itemId": 10000030,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/611a5366713ab043cafc508b19848904.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/6ace4fff7fbefe4c31089e4e585b898e.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "钟离",
@@ -2873,7 +2930,7 @@
 			{
 				"itemId": 10000044,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/59be4e0e2a9d92da3c07f60587cb571b.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/032987a9311501e52a836e73a0bba3a1.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "辛焱",
@@ -2883,7 +2940,7 @@
 			{
 				"itemId": 10000020,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/9977142f4a8698c6991b51e665713b81.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/c6a56a19be380f449d560603bb57bee6.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "雷泽",
@@ -2893,7 +2950,7 @@
 			{
 				"itemId": 10000036,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/1a1e77cc62ba5a1838b7c496cfedb002.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/8c0ca4306f53574e229495e4b77446c5.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "重云",
@@ -2910,7 +2967,7 @@
 			{
 				"itemId": 10000033,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ef28264fa569ccc8c0fc7ae2b7e57674.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/fdcee381d2ee49e18c274c99c136a578.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "达达利亚",
@@ -2920,7 +2977,7 @@
 			{
 				"itemId": 10000039,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/0173ec9fdb2fe7291db82fe98eccdc48.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/71cc4cfef288ea01f837929d7d44e269.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "迪奥娜",
@@ -2930,7 +2987,7 @@
 			{
 				"itemId": 10000024,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/f13f8df4357641343cfde442cb9591a2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bb79c7c4295b49810cfd07fecc3cee55.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "北斗",
@@ -2940,7 +2997,7 @@
 			{
 				"itemId": 10000027,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e581e60d9f22518f70582036e5426622.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3fdce673cebb688148db68a4517ef9df.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "凝光",
@@ -2957,7 +3014,7 @@
 			{
 				"itemId": 10000029,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/afe4873bcfb53a4df9c3f6bf9edf1c6d.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/464fac7dfdcda0c3e0fcd40096689c70.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "可莉",
@@ -2967,7 +3024,7 @@
 			{
 				"itemId": 10000025,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/e3d2b0affc5a630c34c1397367ad3e2e.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/bfdd13fb5cb4fbe296b7bd94719dab50.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "行秋",
@@ -2977,7 +3034,7 @@
 			{
 				"itemId": 10000034,
 				"weaponType": "Claymore",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/a67cbeaa6f7b5ceef28467205c113b5f.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e92b88f08496ee81df15eda397a78410.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "诺艾尔",
@@ -2987,7 +3044,7 @@
 			{
 				"itemId": 10000043,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/7a381a20668cb4fdaeadda1779c91ac2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/acba6b1afb4a72d09af41cab8bce7f97.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "砂糖",
@@ -3004,7 +3061,7 @@
 			{
 				"itemId": 10000022,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/82130a0e581061ca021f80749885d474.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/3f7442da4da6d2a6e98157e31cb779e4.png",
 				"rankType": 5,
 				"itemType": "Character",
 				"name": "温迪",
@@ -3014,7 +3071,7 @@
 			{
 				"itemId": 10000014,
 				"weaponType": "Catalyst",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/785c27a5b0808d0c956537daf93eb56a.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/faf310e97b39cac1e26e3ac279af849f.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "芭芭拉",
@@ -3024,7 +3081,7 @@
 			{
 				"itemId": 10000031,
 				"weaponType": "Bow",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/c2313ef35f702fed66a4fdbb0d2d43ec.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/e1a9233aefc57e18da3c9ff8e8c30f63.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "菲谢尔",
@@ -3034,7 +3091,7 @@
 			{
 				"itemId": 10000023,
 				"weaponType": "Polearm",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u084qf/ab4bc1d014ba57486d4552c5ad6e00b2.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u85drf/7624c9b471684621a812a4a46bc63793.png",
 				"rankType": 4,
 				"itemType": "Character",
 				"name": "香菱",
