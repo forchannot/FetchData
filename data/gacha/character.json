@@ -1,5 +1,57 @@
 [
 	{
+		"version": "4.3.2",
+		"items": [
+			{
+				"itemId": 29,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "雷电将军"
+			},
+			{
+				"itemId": 27,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "宵宫",
+				"nameEn": "宵宫"
+			},
+			{
+				"itemId": 67,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "夏沃蕾"
+			},
+			{
+				"itemId": 30,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "九条裟罗"
+			},
+			{
+				"itemId": 17,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特"
+			}
+		],
+		"start": "2024-01-09 18:00:00",
+		"end": "2024-01-30 14:59:59"
+	},
+	{
 		"version": "4.3.1",
 		"items": [
 			{

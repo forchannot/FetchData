@@ -1,5 +1,75 @@
 [
 	{
+		"version": "4.3.2",
+		"items": [
+			{
+				"itemId": 45,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "薙草之稻光",
+				"nameEn": "Engulfing Lightning"
+			},
+			{
+				"itemId": 44,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Narukami.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "飞雷之弦振",
+				"nameEn": "Thundering Pulse"
+			},
+			{
+				"itemId": 49,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "断浪长鳍",
+				"nameEn": "Wavebreaker's Fin"
+			},
+			{
+				"itemId": 26,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "Favonius Sword"
+			},
+			{
+				"itemId": 16,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "Rainslasher"
+			},
+			{
+				"itemId": 17,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "Eye of Perception"
+			},
+			{
+				"itemId": 18,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "Rust"
+			}
+		],
+		"start": "2024-01-09 18:00:00",
+		"end": "2024-01-30 14:59:59"
+	},
+	{
 		"version": "4.3.1",
 		"items": [
 			{

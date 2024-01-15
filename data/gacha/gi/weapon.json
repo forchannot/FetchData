@@ -1,5 +1,82 @@
 [
 	{
+		"version": "4.3.2",
+		"items": [
+			{
+				"itemId": 13509,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/512634b95b6cf31f2c0d8f7e6fff49e1.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "薙草之稻光",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15509,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/06d6034dadf4d12f1cd8cf6cae5dffa0.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "飞雷之弦振",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13416,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/88c67e8947268cbcc1316ed3732d00a0.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "断浪长鳍",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11401,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/2b90c81c624f52cb232d74088af97adf.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12405,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/88407cb7934bd262bd9bdae051a5d874.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14409,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/edf06b37a5f6547b3c5e5c9315b17f70.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15405,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/e8634af7e86e88d02907c3c7e0b7aba1.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-01-09 18:00:00",
+		"end": "2024-01-30 14:59:59"
+	},
+	{
 		"version": "4.3.1",
 		"items": [
 			{

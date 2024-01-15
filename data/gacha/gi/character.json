@@ -1,5 +1,52 @@
 [
 	{
+		"version": "4.3.2",
+		"items": [
+			{
+				"itemId": 10000052,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/1454c59a217067754644e91894f74f99.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000049,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/b4375fb6d7f19475864b617c8560694b.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "宵宫",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000056,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/50d2475b831fba51c34b11cb1c17d2fa.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/5c4f913c2975ecb6a53fe042e45315dc.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-01-09 18:00:00",
+		"end": "2024-01-30 14:59:59"
+	},
+	{
 		"version": "4.3.1",
 		"items": [
 			{
