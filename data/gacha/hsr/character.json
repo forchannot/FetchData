@@ -1,5 +1,56 @@
 [
 	{
+		"version": "1.6.2",
+		"items": [
+			{
+				"itemId": 1005,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/741f1960f0b0548689fd7ca3cdef185b.png",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "卡芙卡"
+			},
+			{
+				"itemId": 1206,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caec4b602821569a82c698a60a2ce50b.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Character",
+				"name": "素裳"
+			},
+			{
+				"itemId": 1105,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/281455e4018e6fba97fc7d3f23792bab.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Character",
+				"name": "娜塔莎"
+			},
+			{
+				"itemId": 1109,
+				"damageType": "2",
+				"element": "fire",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4ff9b312df9c47c3ac333c242b633760.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "虎克"
+			}
+		],
+		"start": "2024-01-17 12:00:00",
+		"end": "2024-02-05 14:59:59"
+	},
+	{
 		"version": "1.6.1",
 		"items": [
 			{

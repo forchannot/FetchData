@@ -1,5 +1,52 @@
 [
 	{
+		"version": "1.6.2",
+		"items": [
+			{
+				"itemId": 23006,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/08d62dda96c2c3218a2fec91de20753e.png",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Weapon",
+				"name": "只需等待"
+			},
+			{
+				"itemId": 21014,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4a15de167756f281aa0a6dc9caecd218.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "此时恰好"
+			},
+			{
+				"itemId": 21003,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b5451c79defe0eb47238793bf02bd620.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "唯有沉默"
+			},
+			{
+				"itemId": 21009,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/279fd1ad23b5312341ab3c9813c347a6.png",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Weapon",
+				"name": "朗道的选择"
+			}
+		],
+		"start": "2024-01-17 12:00:00",
+		"end": "2024-02-05 14:59:59"
+	},
+	{
 		"version": "1.6.1",
 		"items": [
 			{
