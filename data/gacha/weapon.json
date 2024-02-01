@@ -1,5 +1,145 @@
 [
 	{
+		"version": "4.4.2",
+		"items": [
+			{
+				"itemId": 30,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "和璞鸢",
+				"nameEn": "Primordial Jade Winged-Spear"
+			},
+			{
+				"itemId": 53,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "神乐之真意",
+				"nameEn": "Kagura's Verity"
+			},
+			{
+				"itemId": 32,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Lapis.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "千岩古剑",
+				"nameEn": "Lithic Blade"
+			},
+			{
+				"itemId": 21,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance"
+			},
+			{
+				"itemId": 4,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "The Widsith"
+			},
+			{
+				"itemId": 5,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "绝弦",
+				"nameEn": "The Stringless"
+			}
+		],
+		"start": "2024-02-20 18:00:00",
+		"end": "2024-03-12 14:59:59"
+	},
+	{
+		"version": "4.4.1",
+		"items": [
+			{
+				"itemId": 76,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "鹤鸣余音",
+				"nameEn": "Crane's Echoing Call"
+			},
+			{
+				"itemId": 62,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ayus.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "千夜浮梦",
+				"nameEn": "A Thousand Floating Dreams"
+			},
+			{
+				"itemId": 33,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Lapis.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "千岩长枪",
+				"nameEn": "Lithic Spear"
+			},
+			{
+				"itemId": 9,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼剑",
+				"nameEn": "Sacrificial Sword"
+			},
+			{
+				"itemId": 10,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword"
+			},
+			{
+				"itemId": 11,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "Sacrificial Fragments"
+			},
+			{
+				"itemId": 12,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "Sacrificial Bow"
+			}
+		],
+		"start": "2024-01-31 06:00:00",
+		"end": "2024-02-20 17:59:59"
+	},
+	{
 		"version": "4.3.2",
 		"items": [
 			{

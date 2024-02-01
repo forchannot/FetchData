@@ -1,5 +1,109 @@
 [
 	{
+		"version": "4.4.2",
+		"items": [
+			{
+				"itemId": 19,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "魈",
+				"nameEn": "魈"
+			},
+			{
+				"itemId": 37,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "八重神子",
+				"nameEn": "八重神子"
+			},
+			{
+				"itemId": 53,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "瑶瑶"
+			},
+			{
+				"itemId": 13,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱"
+			},
+			{
+				"itemId": 11,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光"
+			}
+		],
+		"start": "2024-02-20 18:00:00",
+		"end": "2024-03-12 14:59:59"
+	},
+	{
+		"version": "4.4.1",
+		"items": [
+			{
+				"itemId": 68,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "闲云",
+				"nameEn": "闲云"
+			},
+			{
+				"itemId": 48,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "纳西妲"
+			},
+			{
+				"itemId": 69,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "嘉明",
+				"nameEn": "嘉明"
+			},
+			{
+				"itemId": 51,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔"
+			}
+		],
+		"start": "2024-01-31 06:00:00",
+		"end": "2024-02-20 17:59:59"
+	},
+	{
 		"version": "4.3.2",
 		"items": [
 			{
