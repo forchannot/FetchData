@@ -2,7 +2,7 @@
 	{
 		"id": 15512,
 		"name": "最初的大魔术",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/99eca418cf795da28037cc7e0f2af67f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/794ffe5ff918a788c92d1935e44256cf.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 5,
 		"max_level": 90
@@ -10,7 +10,7 @@
 	{
 		"id": 15511,
 		"name": "猎人之径",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/157cb5a5565e6253ecf41e8d1da63112.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4c0aad840918ee85bc20292ceca04d63.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 5,
 		"max_level": 90
@@ -18,7 +18,7 @@
 	{
 		"id": 15509,
 		"name": "飞雷之弦振",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/dc29670190d8563af2324abb58bb4895.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/6b4ff78a85111cc45d91879da43bab80.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 5,
 		"max_level": 90
@@ -26,7 +26,7 @@
 	{
 		"id": 15508,
 		"name": "若水",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/9968c37c0dbae22ed23c94111f4ee623.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/414439f5c5568e94efbfcc003dd64878.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 5,
 		"max_level": 90
@@ -34,7 +34,7 @@
 	{
 		"id": 15507,
 		"name": "冬极白星",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/302382d356e7389150a4bbe7dce638f8.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/a69235c13c6728bd50c12e91b2f6afc3.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 5,
 		"max_level": 90
@@ -42,7 +42,7 @@
 	{
 		"id": 15503,
 		"name": "终末嗟叹之诗",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/66d4db681f4b5155f4ae9ee0381f405e.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/00b83a9e012b7addd52a9426f8b1f73d.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 5,
 		"max_level": 90
@@ -50,7 +50,7 @@
 	{
 		"id": 15502,
 		"name": "阿莫斯之弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/23939c1f13135c76b04306a6e41cff1d.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/9d2b18441edc971a839e836a9c267a80.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 5,
 		"max_level": 90
@@ -58,7 +58,7 @@
 	{
 		"id": 15501,
 		"name": "天空之翼",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/10d33e25e26acc4edcebe14138c0aa41.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/f948946cb1a22c406e04d94bd9134b36.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 5,
 		"max_level": 90
@@ -66,7 +66,7 @@
 	{
 		"id": 14515,
 		"name": "鹤鸣余音",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1a7c098ec21eb4ede9120e75bbe457c9.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/99587d6a93519944e5c33dba6a060e02.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -74,7 +74,7 @@
 	{
 		"id": 14514,
 		"name": "万世流涌大典",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/872d2814946a36f9b1d53d712706e253.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/b71f3329aec4bdb9bbd7b548d0863a62.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -82,7 +82,7 @@
 	{
 		"id": 14513,
 		"name": "金流监督",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/26ab8474d0d92f1946ed1652960744f5.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/7d5a982cdc99db0ef76a0013e609f592.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -90,7 +90,7 @@
 	{
 		"id": 14512,
 		"name": "图莱杜拉的回忆",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/0ef72bf04565fa7afbc49b8d97cd74a0.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/7bef666c5acc96bac276f6ba0c466ec4.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -98,7 +98,7 @@
 	{
 		"id": 14511,
 		"name": "千夜浮梦",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/970db66871082fbfe478c4d6494bbea7.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/afba97f31c81782367351d000183dad1.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -106,7 +106,7 @@
 	{
 		"id": 14509,
 		"name": "神乐之真意",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/518e6cc41c5740453c7d20db3bfcbd48.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/24e59467da377b5fce4709fb36354959.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -114,7 +114,7 @@
 	{
 		"id": 14506,
 		"name": "不灭月华",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/91156f993f703dd8925883bb402a4123.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/28ef4d45688f05c5b9211605fdeccd9d.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -122,7 +122,7 @@
 	{
 		"id": 14505,
 		"name": "碧落之珑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/ec3069bd4e4cc323bf859e1773986d6a.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/12d87fa3cf816c43472d96002a8bfa65.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -130,7 +130,7 @@
 	{
 		"id": 14504,
 		"name": "尘世之锁",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/dd1d324c4f2179217d10452c79d1ac2f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/c8d0056e0d072a6415283e957e99e5bd.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -138,7 +138,7 @@
 	{
 		"id": 14502,
 		"name": "四风原典",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/5dbffe188e5b6117b4420acd918a6cf1.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1250cd4741f170d321967b7bbdffa0cd.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -146,7 +146,7 @@
 	{
 		"id": 14501,
 		"name": "天空之卷",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/659518e43fa5f168e081cbdb50be31d0.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/111230e4500b0fc554244bc7764fc5e4.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 5,
 		"max_level": 90
@@ -154,7 +154,7 @@
 	{
 		"id": 13511,
 		"name": "赤沙之杖",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/431c3bb87c040ff948e33c4335a3e39d.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/2953bcafc37eb6621a9641a4b148f6c4.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 5,
 		"max_level": 90
@@ -162,7 +162,7 @@
 	{
 		"id": 13509,
 		"name": "薙草之稻光",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b6f488f65e0137630e648856472ac4b3.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4b6c995fb96eff75ea5c2053c2a1785d.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 5,
 		"max_level": 90
@@ -170,7 +170,7 @@
 	{
 		"id": 13507,
 		"name": "息灾",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/edcdb2a403b2f14cf88ded0642406d8a.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0ed947c1e216d5e8451d092d02124b82.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 5,
 		"max_level": 90
@@ -178,7 +178,7 @@
 	{
 		"id": 13505,
 		"name": "和璞鸢",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/e17150fff63b0ac2cddbb811f81521cd.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/304004904c5a37a11b53daa775350fa4.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 5,
 		"max_level": 90
@@ -186,7 +186,7 @@
 	{
 		"id": 13504,
 		"name": "贯虹之槊",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/c359c248600163f934e560394d187811.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4f388d04e60eeea6228dbc8aed5a555b.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 5,
 		"max_level": 90
@@ -194,7 +194,7 @@
 	{
 		"id": 13502,
 		"name": "天空之脊",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/15024433ffc74bb617393bef277ba3b7.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/73d6928f34eb14092095e961e1f52346.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 5,
 		"max_level": 90
@@ -202,7 +202,7 @@
 	{
 		"id": 13501,
 		"name": "护摩之杖",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/995b89ca4d1bfd5f890961ae434fb7cb.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4e2d8d1de3dec97a80e3591fd5b256ea.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 5,
 		"max_level": 90
@@ -210,7 +210,7 @@
 	{
 		"id": 12512,
 		"name": "裁断",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/3b6a546a79fef90347f0231e9831b201.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d90f65101273cdeed47a4441e51273fa.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 5,
 		"max_level": 90
@@ -218,7 +218,7 @@
 	{
 		"id": 12511,
 		"name": "苇海信标",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/c1e874d9bdf46455e12793f621468364.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/c80c21427fc75e600d1458349bd87b86.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 5,
 		"max_level": 90
@@ -226,7 +226,7 @@
 	{
 		"id": 12510,
 		"name": "赤角石溃杵",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/6ec8d2006c8790679a22b53dd1f21c10.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/041f7833f37242ec19ce24ba7dca0ae9.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 5,
 		"max_level": 90
@@ -234,7 +234,7 @@
 	{
 		"id": 12504,
 		"name": "无工之剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/9593c095a53a3afe1ce1021170efa9e8.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/115897259a2206132fa98a51218934b1.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 5,
 		"max_level": 90
@@ -242,7 +242,7 @@
 	{
 		"id": 12503,
 		"name": "松籁响起之时",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/bb35b3a284635a23b4441c045014457e.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1a1cad1df42b47a4c944dc7b0d6940a6.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 5,
 		"max_level": 90
@@ -250,7 +250,7 @@
 	{
 		"id": 12502,
 		"name": "狼的末路",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/d2543b3409dfa70877d84df19cc0d0d7.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/89832cc7b6041beb365e7c0d430f21b2.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 5,
 		"max_level": 90
@@ -258,7 +258,7 @@
 	{
 		"id": 12501,
 		"name": "天空之傲",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/66bd71753c25653171b35ed6ff1a9994.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/e5180553583fa40f0b014e186ec10be0.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 5,
 		"max_level": 90
@@ -266,7 +266,7 @@
 	{
 		"id": 11514,
 		"name": "有乐御簾切",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/0845da59f8b59bed1aa55b41dfc4c0f3.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/79c31e0e3e74248b78f6c7ad462f0133.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -274,7 +274,7 @@
 	{
 		"id": 11513,
 		"name": "静水流涌之辉",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/621b5186c32e03ed4ffae3b754984ff0.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/e6d5600998d48f9ca38449057e56a216.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -282,7 +282,7 @@
 	{
 		"id": 11512,
 		"name": "裁叶萃光",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/36f32fc2a13e54c57f800ca1287d6be1.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ea7b75a1e0c24eb2cb08877047b9a860.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -290,7 +290,7 @@
 	{
 		"id": 11511,
 		"name": "圣显之钥",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/33b7ae6862f2622fd88543691c08d923.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/fe241e1534434c371402db9d334d07dc.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -298,7 +298,7 @@
 	{
 		"id": 11510,
 		"name": "波乱月白经津",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/377a1da6df25e88002b71d9c77062467.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d774e25bfc6c7696d6cb5de1ddf34586.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -306,7 +306,7 @@
 	{
 		"id": 11509,
 		"name": "雾切之回光",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1e25ef27dfe2518d1032e12ddc2fcc0e.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/36ee15c59558ce87a8647bea2a9d70c5.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -314,7 +314,7 @@
 	{
 		"id": 11505,
 		"name": "磐岩结绿",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/6d450508f600c9951dce8da2118df24b.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/42472c1e78504639246afb0485eebff4.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -322,7 +322,7 @@
 	{
 		"id": 11504,
 		"name": "斫峰之刃",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/36d6ce1873ef29bc041b9537e1978ecc.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/072704764169b9777cb63eddf6027cd5.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -330,7 +330,7 @@
 	{
 		"id": 11503,
 		"name": "苍古自由之誓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/203b55c4e6eae7f1e626ce7b8db7cd0d.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/8ed468dc13a5adc03dac8ab40ed6269c.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -338,7 +338,7 @@
 	{
 		"id": 11502,
 		"name": "天空之刃",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/8a6cd22274c76a28bb676a8255af42c6.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/294da4bedf2c1b620ffbcd281a9d936f.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -346,7 +346,7 @@
 	{
 		"id": 11501,
 		"name": "风鹰剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/52e10a1809f2b31ef18ae182c47ccc66.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/a9f78ae51fba922a1ddcf1b01af51aac.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 5,
 		"max_level": 90
@@ -354,7 +354,7 @@
 	{
 		"id": 15427,
 		"name": "测距规",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/c73c7c37374440206a1d66130784e6aa.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/8a48935ce501c722f87ebf2bc77ae119.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -362,7 +362,7 @@
 	{
 		"id": 15425,
 		"name": "静谧之曲",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/5fe4edebe79e39b01edaa4c494f51ffb.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0874b650ba7e0b585ac79c536dd6a05c.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -370,7 +370,7 @@
 	{
 		"id": 15424,
 		"name": "烈阳之嗣",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/06c29d89ffda2c561694a9fd002851cc.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d83aae0d7c9d9a008c5187704e972bc6.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -378,7 +378,7 @@
 	{
 		"id": 15419,
 		"name": "鹮穿之喙",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/883bc232d32ca8cdda04a76cafa0d748.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/bd813263be6701b668c328deadf75181.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -386,7 +386,7 @@
 	{
 		"id": 15418,
 		"name": "竭泽",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/4d43fa651affed1924620a848369948f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/8ceb2e24053c6bc449d06601d955d32a.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -394,7 +394,7 @@
 	{
 		"id": 15417,
 		"name": "王下近侍",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/0eee0c479756a4cd8a98af065d82f47e.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4981cda732780ca6b69e3a77fb681b5a.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -402,7 +402,7 @@
 	{
 		"id": 15416,
 		"name": "曚云之月",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/27bea124466d6b51235ca40cc44a0fac.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/20e5b8ab19ae745c49b23fa99ed5518d.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -410,7 +410,7 @@
 	{
 		"id": 15415,
 		"name": "掠食者",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/284dc80b47513cdc0caa81d90b9779f5.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/3041b173c5bc5f693e3a70c0c9d5ce06.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -418,7 +418,7 @@
 	{
 		"id": 15414,
 		"name": "破魔之弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/9422960503ec8acd2e716ee77c26f0be.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/fe25ba0918c5d971441686cbfffa92ea.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -426,7 +426,7 @@
 	{
 		"id": 15413,
 		"name": "风花之颂",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/e143979c05283e18df16c869103fd060.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1ebd80331f0b4a3583376a3b125d7796.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -434,7 +434,7 @@
 	{
 		"id": 15412,
 		"name": "幽夜华尔兹",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/a4dadd2a1b0ec540dd15748f82f3abac.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/c50c21346fe5ffadcbcb31d94d59bf46.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -442,7 +442,7 @@
 	{
 		"id": 15411,
 		"name": "落霞",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/5a94e424c500f37940cac6bd069646c5.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/6a94e48c91375e8c9dc649d001a8e322.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -450,7 +450,7 @@
 	{
 		"id": 15410,
 		"name": "暗巷猎手",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/126c5f6817015881dac7a3f4f327aa33.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/93f7306b6fef6e097fa0e168c8e76f1d.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -458,7 +458,7 @@
 	{
 		"id": 15409,
 		"name": "苍翠猎弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/fa47919d29f02a89a98f9a0e11c5c3ec.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d99377247de92993529f8cbcbb995702.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -466,7 +466,7 @@
 	{
 		"id": 15408,
 		"name": "黑岩战弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/9885d3ab0edf21228ca9405a6258741f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/9c53d0825c2244f2997c679d17b55c26.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -474,7 +474,7 @@
 	{
 		"id": 15407,
 		"name": "钢轮弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/a6b3e582ff36074b85d58cfedc0d4a07.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ebaf78ec3aa9ac37a8a76b6876c2830e.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -482,7 +482,7 @@
 	{
 		"id": 15406,
 		"name": "试作澹月",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/15dd1b6d1e6c5a2154afa72dae6d4457.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d1858e45a7c9d5e6bdc6e052a034689a.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -490,7 +490,7 @@
 	{
 		"id": 15405,
 		"name": "弓藏",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/8a097b9f11f89875e515f09783dd36d3.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d856acfd5fb04185af22d9e5afc8394a.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -498,7 +498,7 @@
 	{
 		"id": 15404,
 		"name": "宗室长弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/acb9b620080cc7127dfa4efd6b337b99.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/91bb4cffed05196e340ea27e83b7a2bc.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -506,7 +506,7 @@
 	{
 		"id": 15403,
 		"name": "祭礼弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b27508794a07c97b776cbcabcc15d149.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4eaa827e4febf12fea4d6f6c4358bce3.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -514,7 +514,7 @@
 	{
 		"id": 15402,
 		"name": "绝弦",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1e4b5c0e607061f63994d99175b9ab82.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/e2ac477cb05ace31b795897b9a4167ff.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -522,7 +522,7 @@
 	{
 		"id": 15401,
 		"name": "西风猎弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/289281904bf6e2498e9f7238d8cabb5b.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/3e7a4cadb9e66991e8ac810e6bd935c2.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 4,
 		"max_level": 90
@@ -530,7 +530,7 @@
 	{
 		"id": 14426,
 		"name": "无垠蔚蓝之歌",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/92e980cad4a14b269a7440475fb7d9c0.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0adc77e6d5293170e0658bec949ff92c.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -538,7 +538,7 @@
 	{
 		"id": 14425,
 		"name": "纯水流华",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/f60ee800f102600c74b24b1ff997ea85.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/faf0134d4a08284bf68f51b94482f34d.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -546,7 +546,7 @@
 	{
 		"id": 14424,
 		"name": "遗祀玉珑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/92d0aabe73af8145b34f0c1459fe92b8.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/6ff1ee85e834cc4d242ba9f047fcb864.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -554,7 +554,7 @@
 	{
 		"id": 14417,
 		"name": "盈满之实",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/cf950c3d9c30da44b96ed9b964dfeded.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/870a0fc1a1c52ef67d50458063d95e61.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -562,7 +562,7 @@
 	{
 		"id": 14416,
 		"name": "流浪的晚星",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/336072a4ff3ea769cdf0bf5aa1a898d6.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/49f40abbd29becabe3b01c12bdf5e6ac.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -570,7 +570,7 @@
 	{
 		"id": 14415,
 		"name": "证誓之明瞳",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b92290e9d8757fe109a69f345450ac6c.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/37fabe70fa45b6c057a754860844f2a6.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -578,7 +578,7 @@
 	{
 		"id": 14414,
 		"name": "白辰之环",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/bf62da268a411935d25fe252f0f80eab.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/6771141af7983fd951cc8b189798b93c.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -586,7 +586,7 @@
 	{
 		"id": 14413,
 		"name": "嘟嘟可故事集",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/cb38c326e03dbce0439e2ec54f84224b.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/b60cc1c92c0821fca1fea2529e9fdbba.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -594,7 +594,7 @@
 	{
 		"id": 14412,
 		"name": "忍冬之果",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/911f76b562837c2be52e241f5202a1e1.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1d8ff6eca2c56e54c4047651d6b68a93.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -602,7 +602,7 @@
 	{
 		"id": 14410,
 		"name": "暗巷的酒与诗",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1928bf0ffff01506043b60cfcd3f02e4.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/c292d210a1016ea329fa79fe0c4cc284.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -610,7 +610,7 @@
 	{
 		"id": 14409,
 		"name": "昭心",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/51379814ee2d72bdc3035439a8c37831.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/2b74d2d6aaef7fbc8ce1f03a558512a2.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -618,7 +618,7 @@
 	{
 		"id": 14408,
 		"name": "黑岩绯玉",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/d1585ea5abcf8b588a202cb41e2b8296.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1d00973e86a1fb15ea187ef72b7e978c.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -626,7 +626,7 @@
 	{
 		"id": 14407,
 		"name": "万国诸海图谱",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b2d9fd06912ed41ee327dc989a83aa67.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/fee5966762b259c87bc7f42708e37742.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -634,7 +634,7 @@
 	{
 		"id": 14406,
 		"name": "试作金珀",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/f849bc690a9a41156bf2e4050280249f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/816bd83293179f9ba35b774e9f8ee081.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -642,7 +642,7 @@
 	{
 		"id": 14405,
 		"name": "匣里日月",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/4da4227bce4bffea10dbaf1a6e455f09.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/7b2a95d597f34208db32991d99fec540.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -650,7 +650,7 @@
 	{
 		"id": 14404,
 		"name": "宗室秘法录",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/586f4a1ae50b926a4b45b2dda25e0ae4.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/c98ca6e8458a99878cd341fd21836be2.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -658,7 +658,7 @@
 	{
 		"id": 14403,
 		"name": "祭礼残章",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/88380c232821d4627c92475fcc5103fb.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/f4c5e0ce59b27a23fc32a39d0e4e369a.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -666,7 +666,7 @@
 	{
 		"id": 14402,
 		"name": "流浪乐章",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/89b1908b64fd52cfd871fd8cb17ca806.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/3c4125dbe709749ed68d5c49ec0a1985.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -674,7 +674,7 @@
 	{
 		"id": 14401,
 		"name": "西风秘典",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/a2e63060cc252b6306aff79a526fbbcb.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/da1774097a35d609529f8fa0224fe754.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 4,
 		"max_level": 90
@@ -682,7 +682,7 @@
 	{
 		"id": 13427,
 		"name": "勘探钻机",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/faac42b0ff2d36ccc1cea29901efb36d.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/3cfbc8a9c4c2c38abbe91e32d5cd0e25.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -690,7 +690,7 @@
 	{
 		"id": 13426,
 		"name": "沙中伟贤的对答",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/ba66ddd3288749d45c3e79e62d41b1f7.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/6c73b2f776005b27bf557c779749df66.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -698,7 +698,7 @@
 	{
 		"id": 13425,
 		"name": "公义的酬报",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1a35b16d0226b9e56841b8ede12b3477.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/77c915da9f0949f2653bccfd207b6358.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -706,7 +706,7 @@
 	{
 		"id": 13424,
 		"name": "峡湾长歌",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/54cbc0ab2000231570651f2253861a18.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/95190f8759124e1033a9c4a87fde9532.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -714,7 +714,7 @@
 	{
 		"id": 13419,
 		"name": "风信之锋",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/8ad08b2598dc9c0c9fe1c3eb84bb16a7.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/64e6251012ab0c7d1d38a3d0e6808832.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -722,7 +722,7 @@
 	{
 		"id": 13417,
 		"name": "贯月矢",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b90b1380e9980b7fb9f0874a028d7f45.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/691ccc946cd96ccdee82e45d6711a5a4.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -730,7 +730,7 @@
 	{
 		"id": 13416,
 		"name": "断浪长鳍",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/894005bc2f8f4280c136d59e437e6010.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/2ddd59518fe2ccbfa5a4f88eac31fa29.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -738,7 +738,7 @@
 	{
 		"id": 13415,
 		"name": "「渔获」",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/51231f99cca1f9f136068bf7b137c614.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/a6bc2b9ba5ccf05a6046bc060c1f32d5.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -746,7 +746,7 @@
 	{
 		"id": 13414,
 		"name": "喜多院十文字",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/0be4568769becd09244bc5491f9526b5.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/daaee1a0f1e8a47af33c4b78159d59cc.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -754,7 +754,7 @@
 	{
 		"id": 13409,
 		"name": "龙脊长枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/f61c404989a5bc317e04296e710e7daf.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/8578c7012d792002621a69d5f06e424f.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -762,7 +762,7 @@
 	{
 		"id": 13408,
 		"name": "宗室猎枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/761e3862e872fba100b0bb4658b6629c.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/42242a0a4ba0a657cf1e3287698c1524.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -770,7 +770,7 @@
 	{
 		"id": 13407,
 		"name": "西风长枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/e0b24fa39aa0faa17dd92fcc3f0176b0.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4e75c9c91a812913d32bad61a27b921e.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -778,7 +778,7 @@
 	{
 		"id": 13406,
 		"name": "千岩长枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/6a21b073ed8fd31642479bf8c205cbca.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/e8d4d7bc9f6c65f51e7101fb591f5eba.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -786,7 +786,7 @@
 	{
 		"id": 13405,
 		"name": "决斗之枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/e39c1fcbbe93ebe585beb820689bd26f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0e47542ac4828ee769dca11af6125dee.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -794,7 +794,7 @@
 	{
 		"id": 13404,
 		"name": "黑岩刺枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1980d6a96e51347f3267f693c659959c.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/18be8286e0252ddbca9b34dd29db7758.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -802,7 +802,7 @@
 	{
 		"id": 13403,
 		"name": "流月针",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/eb7ec805cd821845e7401d4c61670736.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ffaa319639cf7eed5c78f88dc6510291.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -810,7 +810,7 @@
 	{
 		"id": 13402,
 		"name": "试作星镰",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/f4e08d2112917ed8e8b159da8ebe59e9.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/71a061b1a8a8d3465e1ec492032a015a.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -818,7 +818,7 @@
 	{
 		"id": 13401,
 		"name": "匣里灭辰",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/d77def5f2ea0331339e6b05a559a2024.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0416af3fb933c9ef107b1bdf4b486f3b.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 4,
 		"max_level": 90
@@ -826,7 +826,7 @@
 	{
 		"id": 12427,
 		"name": "便携动力锯",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/ab9244a15a473df2618c73e730b35359.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/a56f10a9ae0bf3e2456020d2c6003060.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -834,7 +834,7 @@
 	{
 		"id": 12426,
 		"name": "「究极霸王超级魔剑」",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/f507be1988aaeca26ad659b038ec71a6.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/02d694e7436f64b87ba7e4bae3869bde.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -842,7 +842,7 @@
 	{
 		"id": 12425,
 		"name": "浪影阔剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1b4d467790b6a38e450472b1dd02fdff.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/2b7ed27ce87f77b58d1af03082d38c93.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -850,7 +850,7 @@
 	{
 		"id": 12424,
 		"name": "聊聊棒",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/867e385c075ae143228d4ac668b5ea38.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/3fe3bf1dadb7cdc11634e59399f4a40f.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -858,7 +858,7 @@
 	{
 		"id": 12418,
 		"name": "饰铁之花",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1c2ee595b42b1e90662bc8f1340f1410.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/90146d9f33597bd6151a7d532978a104.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -866,7 +866,7 @@
 	{
 		"id": 12417,
 		"name": "森林王器",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/7297d176936f404387ba22425493b1fe.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/67b8574f066bcc077711235303f38554.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -874,7 +874,7 @@
 	{
 		"id": 12416,
 		"name": "恶王丸",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/45bdaf3824420f7b8dd3c5669ddd0b4f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/f0e8d122bf6ef4eda6b7c287b457dad0.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -882,7 +882,7 @@
 	{
 		"id": 12415,
 		"name": "玛海菈的水色",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1405d7c4371d2d8c76da2bcbb142ed9e.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ecc6bdcea066059882ae0080f082e5cc.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -890,7 +890,7 @@
 	{
 		"id": 12414,
 		"name": "桂木斩长正",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/0bf672e14425a038a897e773b938ca9e.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/df9369680e384d638739f0f5b0fd6c7d.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -898,7 +898,7 @@
 	{
 		"id": 12412,
 		"name": "衔珠海皇",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/259679ecea35ae781d78433af052777f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0862e545f6dc28b7ff92482f5ce59d54.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -906,7 +906,7 @@
 	{
 		"id": 12411,
 		"name": "雪葬的星银",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/ec2c1bdc4b2de259e81ec55a425e0d79.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/46f328c6456a000f10568f181916a9a2.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -914,7 +914,7 @@
 	{
 		"id": 12410,
 		"name": "千岩古剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/4b71db00630cebb30c20b817fff7df31.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/c485baf14d8437952cfcd63bde047dca.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -922,7 +922,7 @@
 	{
 		"id": 12409,
 		"name": "螭骨剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/fa3213c765ee2c07c1b6ca66d86b381d.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/97734cdb5fa121bc9563c0131eb7ec9f.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -930,7 +930,7 @@
 	{
 		"id": 12408,
 		"name": "黑岩斩刀",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/4846f63e6a655b3f41017f847b9e46bc.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0d0dffbcb40486c48be8f86c1e9b0335.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -938,7 +938,7 @@
 	{
 		"id": 12407,
 		"name": "白影剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/6ff651ebf5c496cf0259e27fe4bc2f32.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/6467fff671b88a9e00b5b94ac963eae2.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -946,7 +946,7 @@
 	{
 		"id": 12406,
 		"name": "试作古华",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/c2a316979ed2c4220a01848af22ebbc5.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1b7eef6d9404ccf6adacfaf765d047c3.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -954,7 +954,7 @@
 	{
 		"id": 12405,
 		"name": "雨裁",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/97d0fbfbc3f3f890ddd1ff93c0c2c369.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/480c34af49b98f3b0228b2f5bcc47496.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -962,7 +962,7 @@
 	{
 		"id": 12404,
 		"name": "宗室大剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/6233db36a735e50820ff121de9d0cbfa.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/307bebf96fbc2ffa9c223a2e88669ff6.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -970,7 +970,7 @@
 	{
 		"id": 12403,
 		"name": "祭礼大剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/46a94440c654080013d48a093a94aaca.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/3f9cc13a03179a97be935ec17495cfca.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -978,7 +978,7 @@
 	{
 		"id": 12402,
 		"name": "钟剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/68c66ae86ddcbf372f4d67627fd0c65a.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1e457ec5b8399201b9f488d5679d41ac.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -986,7 +986,7 @@
 	{
 		"id": 12401,
 		"name": "西风大剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/206e4eb754add6bd71e6e827d8a1baa7.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/2b4af64b0d7b402a0a02cf890f517153.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 4,
 		"max_level": 90
@@ -994,7 +994,7 @@
 	{
 		"id": 11428,
 		"name": "水仙十字之剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1d835238d9385d50d2b1ac6d5b6bc6c9.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/91ba26e8f55f0b1a246e0ba7473417d8.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1002,7 +1002,7 @@
 	{
 		"id": 11427,
 		"name": "船坞长剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/49bfe160f2b1d360709c3df955f2c011.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d31e863a515db3db3d177baa625da5f6.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1010,7 +1010,7 @@
 	{
 		"id": 11426,
 		"name": "灰河渡手",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/e8532507e56fc763a53b8cc40349f979.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/9d42a464b5f0c59ae6e5157f288e6053.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1018,7 +1018,7 @@
 	{
 		"id": 11425,
 		"name": "海渊终曲",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/6d8d471e7968ad072ae0f027a4020a1a.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/61412a1a5382d6518cfd37dbc96f0cb7.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1026,7 +1026,7 @@
 	{
 		"id": 11424,
 		"name": "狼牙",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b3471f4dcb851ef45dd6476967a1ac60.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ffa50267a7ed5536ca11eda8f61a0ca1.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1034,7 +1034,7 @@
 	{
 		"id": 11422,
 		"name": "东花坊时雨",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/e7bae9277f76ab388ceb2b0536dc570c.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/afc8b32b2bf5cbef38a3044ddf1f682b.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1042,7 +1042,7 @@
 	{
 		"id": 11418,
 		"name": "西福斯的月光",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/c8ec5cf9e2dfa1b0fac1c6456f8ceef4.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1c78b96334fa30d54ef6a6cd8c1a0206.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1050,7 +1050,7 @@
 	{
 		"id": 11417,
 		"name": "原木刀",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/8f07a716defc435e2abb2bf91e962a2a.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/71fc8d6fcc1911624e037acc4898299b.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1058,7 +1058,7 @@
 	{
 		"id": 11416,
 		"name": "笼钓瓶一心",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/5d74e8e940d14645a86a156c42343c79.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/66520de9b4eb81f4c641fb891b5b6a5b.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1066,7 +1066,7 @@
 	{
 		"id": 11415,
 		"name": "辰砂之纺锤",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/396a8b145332e98f10b3132fdfc04cbd.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/68ee346557147cb277668b8c7fd74423.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1074,7 +1074,7 @@
 	{
 		"id": 11414,
 		"name": "天目影打刀",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/4ef3aba02547d78cb170bdfac933f56a.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/e8216c0dcf97d8f18ba5e1dc299c58f1.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1082,7 +1082,7 @@
 	{
 		"id": 11413,
 		"name": "腐殖之剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/f2fd8ac5f726782a9ab47efaecf54876.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d8c51bbc2b1cfb89d2327a7ecbd31c4d.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1090,7 +1090,7 @@
 	{
 		"id": 11412,
 		"name": "降临之剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/047b8ac924c5b0088e5800ef228ed717.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/bdc2cf667b5091b55721e46b0441e5ea.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1098,7 +1098,7 @@
 	{
 		"id": 11410,
 		"name": "暗巷闪光",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/166c43f629b0606226a43073f5f54d60.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/127c08cf3c6a15c214c4aea61aae6f42.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1106,7 +1106,7 @@
 	{
 		"id": 11409,
 		"name": "黑剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/90ffe805f90cd09c541358da782f6816.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0c1d454a88bfe1079ef7f898f1e5acf0.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1114,7 +1114,7 @@
 	{
 		"id": 11408,
 		"name": "黑岩长剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/8a612f64624bb83fd8f2df38270c6041.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/603c79d878399cc32ce0d2e0dfbd3288.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1122,7 +1122,7 @@
 	{
 		"id": 11407,
 		"name": "铁蜂刺",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/44a91274cb360af86c1b62500dc19263.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/a1217ffa1b2dc531348205ced87f7150.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1130,7 +1130,7 @@
 	{
 		"id": 11406,
 		"name": "试作斩岩",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/a65b7a7e1cb46fb96bee24dc9a6c7248.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/bf4cd1063aea7f478ae1295449bfca08.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1138,7 +1138,7 @@
 	{
 		"id": 11405,
 		"name": "匣里龙吟",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/edc8f2859192160317ebd379ab23b2c3.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/e366dff5d67590db1bc19aa952039ab7.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1146,7 +1146,7 @@
 	{
 		"id": 11404,
 		"name": "宗室长剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/271ac47d63d203e71ee014535ea7cec2.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ba3bc178f0dcffcbd3665267663d3fe2.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1154,7 +1154,7 @@
 	{
 		"id": 11403,
 		"name": "祭礼剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/0d06e82b6bef3a83ef55eb41cffa8647.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/9538566cd7c2507518f4d7a55ec21ebb.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1162,7 +1162,7 @@
 	{
 		"id": 11402,
 		"name": "笛剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/233aa3f3a7f017515545295d8622f56e.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/1830548cddd915b6745f117f231f9097.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1170,7 +1170,7 @@
 	{
 		"id": 11401,
 		"name": "西风剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/941cf5dc17192318f1b70137214e3465.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/250512931086aefbb98160a9bd74c340.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 4,
 		"max_level": 90
@@ -1178,7 +1178,7 @@
 	{
 		"id": 15305,
 		"name": "信使",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/0a4bf6f258546eaa735a38be71ad8e02.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/cc9f2d94beb38f3544d336bf1c599266.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1186,7 +1186,7 @@
 	{
 		"id": 15304,
 		"name": "弹弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/c6055111a804d173b662723e6c8fb939.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/96152fd1bdb28721ad94a05a496f0e1e.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1194,7 +1194,7 @@
 	{
 		"id": 15303,
 		"name": "反曲弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/bb7627c0d91503cb7394c4136458f6f1.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/bd29d99d5f6672cc13d2c4a130d5010f.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1202,7 +1202,7 @@
 	{
 		"id": 15302,
 		"name": "神射手之誓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/bce84dca223b275b1d208eff15592dce.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ed75cd0fd2dbf0b0ca6b788a24cd7645.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1210,7 +1210,7 @@
 	{
 		"id": 15301,
 		"name": "鸦羽弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/ac2645b980844c18096407af20ce9e5f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/a7f294218c57861d687497e5162f8b84.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1218,7 +1218,7 @@
 	{
 		"id": 14305,
 		"name": "甲级宝珏",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/3bbe351168824bd48e3698f42e5f4f53.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/b77ac5e532bd03b19154568f74020377.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1226,7 +1226,7 @@
 	{
 		"id": 14304,
 		"name": "翡玉法球",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/5aad80fc9491622303c7872ee70e5930.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/25921fbcf83fefeb06dd1416d8e9b1c4.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1234,7 +1234,7 @@
 	{
 		"id": 14303,
 		"name": "异世界行记",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b35b975330901b8f6f2e30b772204bdf.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0155194b420363798ff031bc21289e10.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1242,7 +1242,7 @@
 	{
 		"id": 14302,
 		"name": "讨龙英杰谭",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b38918efb657266f85828af727a98414.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/0b62b4d1a15d9c485e18afa74040d3f7.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1250,7 +1250,7 @@
 	{
 		"id": 14301,
 		"name": "魔导绪论",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/9b616c7e57905f831999cee9f471380a.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/78708a2118455d21c81616db5611d553.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1258,7 +1258,7 @@
 	{
 		"id": 13303,
 		"name": "黑缨枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/9fe9132b4e4d86032bfec125f0af7c7b.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/a4d6595ecf75fe8881bee327330b1473.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1266,7 +1266,7 @@
 	{
 		"id": 13302,
 		"name": "钺矛",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b9c6c8c0a4f2c4c58430099931ce3261.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/b712cc7b9d75241792d77c1abbce5a0b.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1274,7 +1274,7 @@
 	{
 		"id": 13301,
 		"name": "白缨枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/b2e607b7ed8407ca3af2ba5bdc3a11e6.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/bf045594df06492e20f20dab85da209e.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1282,7 +1282,7 @@
 	{
 		"id": 12306,
 		"name": "飞天大御剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/5bf7fc67d4e3dae61bc8689592a28da9.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ed81b285991348090f3f6b6a81e0eb78.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1290,7 +1290,7 @@
 	{
 		"id": 12305,
 		"name": "以理服人",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/22961f8ab632c323f8aa94c26a90c752.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4be2ee9fafeea75b87d2ec3cc4a20377.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1298,7 +1298,7 @@
 	{
 		"id": 12303,
 		"name": "白铁大剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/3e0245ff67e0f31648e1226f8faf4c5e.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/2a48797f963b53dbf7acae395ee42067.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1306,7 +1306,7 @@
 	{
 		"id": 12302,
 		"name": "沐浴龙血的剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/4db6bf1f83cf8b9265f867f8e7f03145.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/e13705de29497e3eee77244fd2429b34.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1314,7 +1314,7 @@
 	{
 		"id": 12301,
 		"name": "铁影阔剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/61a4ba821692cf3473f80937c7c58267.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/5e496f519b825b31e73395c6f3ef5048.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1322,7 +1322,7 @@
 	{
 		"id": 11306,
 		"name": "飞天御剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/6fefec2629bac7e4def948fe608dc362.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/6477a80560682a58f9281d5e4fa6f3d3.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1330,7 +1330,7 @@
 	{
 		"id": 11305,
 		"name": "吃虎鱼刀",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/79eb74e18fc2fc97e3b7cf2f17f56cea.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/c65b0710d91677ad309b29c133c508e4.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1338,7 +1338,7 @@
 	{
 		"id": 11304,
 		"name": "暗铁剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/ef3783a2aa7cb2dab81245f87e52e3b7.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/e2c46f00ade422d61c7785d3428a0c99.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1346,7 +1346,7 @@
 	{
 		"id": 11303,
 		"name": "旅行剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/f4c7da87b24d17d020da037fdcade181.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/f180a75e0b3e9e64eb63065b35bc3373.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1354,7 +1354,7 @@
 	{
 		"id": 11302,
 		"name": "黎明神剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/77bc92e82531a7f3b02dc30e76b4b3f7.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/8488718028a364dc78c4382f41d76c72.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1362,7 +1362,7 @@
 	{
 		"id": 11301,
 		"name": "冷刃",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/c51062974f5137f9a8f3738ddaafeff3.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/7e80e8738dce2d7a655288963056df8e.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 3,
 		"max_level": 90
@@ -1370,7 +1370,7 @@
 	{
 		"id": 15201,
 		"name": "历练的猎弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/8505e6d81ef12dbebf18595f506d1f7f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/f3d75f8504f8580ff488387da9a4559f.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 2,
 		"max_level": 70
@@ -1378,7 +1378,7 @@
 	{
 		"id": 14201,
 		"name": "口袋魔导书",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/d58ae25800e3ddf959effed617cc568d.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/af0dbe7584f7754b2fb20444d38f8488.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 2,
 		"max_level": 70
@@ -1386,7 +1386,7 @@
 	{
 		"id": 13201,
 		"name": "铁尖枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/c89817c04948876ce9278ba90d44431f.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/12dd35f4a87c411beade137399a2aa15.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 2,
 		"max_level": 70
@@ -1394,7 +1394,7 @@
 	{
 		"id": 12201,
 		"name": "佣兵重剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/99c8286933ade4d35c0aaab42c168d9a.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/f5df3ba762617a271da316d25881f184.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 2,
 		"max_level": 70
@@ -1402,7 +1402,7 @@
 	{
 		"id": 11201,
 		"name": "银剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/84ed90b3d7739063c365f543acb35205.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/ebb0bc50462d4d0ca53dacf59ff4fc26.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 2,
 		"max_level": 70
@@ -1410,7 +1410,7 @@
 	{
 		"id": 15101,
 		"name": "猎弓",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/e0b55e5588886a864aff3783b3beb137.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/b7477762e3f04a6cf20390ca92644a34.png",
 		"weapon_cat_id": 12,
 		"weapon_level": 1,
 		"max_level": 70
@@ -1418,7 +1418,7 @@
 	{
 		"id": 14101,
 		"name": "学徒笔记",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/1241d2e804241524ea7a37dd59912ead.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/d73ff378e18db3afac17acd6ee3b93b4.png",
 		"weapon_cat_id": 10,
 		"weapon_level": 1,
 		"max_level": 70
@@ -1426,7 +1426,7 @@
 	{
 		"id": 13101,
 		"name": "新手长枪",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/035029bb64fb6ad91e76ffb6cc5d5be6.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/54f584304026daa818be6a6c95843982.png",
 		"weapon_cat_id": 13,
 		"weapon_level": 1,
 		"max_level": 70
@@ -1434,7 +1434,7 @@
 	{
 		"id": 12101,
 		"name": "训练大剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/84eed9416b7f0ed7fd3539fc1971c0fe.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/4a29200a598535bd1c220a54d6482749.png",
 		"weapon_cat_id": 11,
 		"weapon_level": 1,
 		"max_level": 70
@@ -1442,7 +1442,7 @@
 	{
 		"id": 11101,
 		"name": "无锋剑",
-		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u69a1f/2a541e0742397556070bcc7fbf9c9fc5.png",
+		"icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon_u0912f/da80234eedf96f0d1b97ab3c37871f9d.png",
 		"weapon_cat_id": 1,
 		"weapon_level": 1,
 		"max_level": 70
