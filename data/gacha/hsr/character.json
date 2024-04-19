@@ -1,5 +1,165 @@
 [
 	{
+		"version": "2.1.2",
+		"items": [
+			{
+				"itemId": 1212,
+				"damageType": "4",
+				"element": "ice",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/732443ba2ad3f973f571afcb3fcf3cf6.png",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "镜流"
+			},
+			{
+				"itemId": 1110,
+				"damageType": "32",
+				"element": "quantum",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/351f0436aa452d5d6367a4d1cb2dbf77.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Character",
+				"name": "玲可"
+			},
+			{
+				"itemId": 1111,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/63bce564ac550300e6b93f05e95759f9.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "卢卡"
+			},
+			{
+				"itemId": 1103,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b0bf597954f1b8acb83a02d6d22989ce.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Character",
+				"name": "希露瓦"
+			}
+		],
+		"start": "2024-04-17 12:00:00",
+		"end": "2024-05-07 14:59:59"
+	},
+	{
+		"version": "2.1.1",
+		"items": [
+			{
+				"itemId": 1203,
+				"damageType": "64",
+				"element": "imaginary",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b70456f0344e891eb90b24cd242922af.png",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Character",
+				"name": "罗刹"
+			},
+			{
+				"itemId": 1106,
+				"damageType": "4",
+				"element": "ice",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f36b2110281773cc26976b1163ab112b.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "佩拉"
+			},
+			{
+				"itemId": 1002,
+				"damageType": "16",
+				"element": "wind",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f3ff590ad6a5073762bb1685016185c4.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Character",
+				"name": "丹恒"
+			}
+		],
+		"start": "2024-03-27 06:00:00",
+		"end": "2024-04-17 11:59:59"
+	},
+	{
+		"version": "2.0.2",
+		"items": [
+			{
+				"itemId": 1204,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6d8e367aa0a584a9c79fe506aaa69761.png",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Character",
+				"name": "景元"
+			},
+			{
+				"itemId": 1108,
+				"damageType": "16",
+				"element": "wind",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/89cde6573d363bd5b0986e080983d699.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "桑博"
+			},
+			{
+				"itemId": 1201,
+				"damageType": "32",
+				"element": "quantum",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/5239c3979592fd6330082974215c48fd.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Character",
+				"name": "青雀"
+			}
+		],
+		"start": "2024-02-29 12:00:00",
+		"end": "2024-03-26 14:59:59"
+	},
+	{
+		"version": "2.0.1",
+		"items": [
+			{
+				"itemId": 1213,
+				"damageType": "64",
+				"element": "imaginary",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a0524fb3e756f44e66c35393c4de80ae.png",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "丹恒•饮月"
+			},
+			{
+				"itemId": 1202,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/83c9d5f434555dd91ae4989d56c9535d.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Character",
+				"name": "停云"
+			}
+		],
+		"start": "2024-02-06 06:00:00",
+		"end": "2024-02-29 11:59:59"
+	},
+	{
 		"version": "1.6.2",
 		"items": [
 			{

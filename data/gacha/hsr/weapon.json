@@ -1,5 +1,173 @@
 [
 	{
+		"version": "2.1.2",
+		"items": [
+			{
+				"itemId": 23014,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/c8b98384bcda9ecd9f16d074628ecf69.png",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "此身为剑"
+			},
+			{
+				"itemId": 21007,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e282470edbf3fb62a874b8882f116e5d.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "同一种心情"
+			},
+			{
+				"itemId": 21013,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f86c80fbe7f3c74e79fa2d89e70a353.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Weapon",
+				"name": "别让世界静下来"
+			}
+		],
+		"start": "2024-04-17 12:00:00",
+		"end": "2024-05-07 14:59:59"
+	},
+	{
+		"version": "2.1.1",
+		"items": [
+			{
+				"itemId": 23008,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e515fb4ba21bb1332274760cbb9549bb.png",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "棺的回响"
+			},
+			{
+				"itemId": 21001,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/cc4b126e0f88d5e265d303a05fffcf7a.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜"
+			},
+			{
+				"itemId": 21000,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/9e01214b60fd68a13792871cb08f8148.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "一场术后对话"
+			},
+			{
+				"itemId": 21017,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/98a0e7081dc3ea098d6707c37288581b.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "点个关注吧！"
+			}
+		],
+		"start": "2024-03-27 06:00:00",
+		"end": "2024-04-17 11:59:59"
+	},
+	{
+		"version": "2.0.2",
+		"items": [
+			{
+				"itemId": 23010,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d461457032f3f4f905fabc59d78402c1.png",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Weapon",
+				"name": "拂晓之前"
+			},
+			{
+				"itemId": 21011,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/926d0a1562239416577708751d467caa.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Weapon",
+				"name": "与行星相会"
+			},
+			{
+				"itemId": 21019,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "在蓝天下"
+			},
+			{
+				"itemId": 21020,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a48164b59efb445a3bff14ea39d293e8.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Weapon",
+				"name": "天才们的休憩"
+			}
+		],
+		"start": "2024-02-29 12:00:00",
+		"end": "2024-03-26 14:59:59"
+	},
+	{
+		"version": "2.0.1",
+		"items": [
+			{
+				"itemId": 23015,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/431acbf55d69a74c02ddaab652ad8fed.png",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "比阳光更明亮的"
+			},
+			{
+				"itemId": 21015,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/312ee2a317a277fa6eb0c75256f30824.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀"
+			},
+			{
+				"itemId": 21018,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caa017f211398442b4860158b630daa9.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！"
+			}
+		],
+		"start": "2024-02-06 06:00:00",
+		"end": "2024-02-29 11:59:59"
+	},
+	{
 		"version": "1.6.2",
 		"items": [
 			{

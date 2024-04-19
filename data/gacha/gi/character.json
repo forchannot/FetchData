@@ -1,5 +1,203 @@
 [
 	{
+		"version": "4.5.2",
+		"items": [
+			{
+				"itemId": 10000087,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/f5e009b649e699fb4cfdc5d6460e89f7.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000047,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/2f2f3d2211c909fdc2fdaf0d2d373ed7.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "枫原万叶",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000014,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/ac98049477cb0e2874912948c5196152.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000025,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/824d3ceb202f5ed2c8985c45e794ea22.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000048,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/0649d0875d352eb2b80b47154c1b45a2.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-04-02 18:00:00",
+		"end": "2024-04-23 14:59:59"
+	},
+	{
+		"version": "4.5.1",
+		"items": [
+			{
+				"itemId": 10000057,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/be9dab6b9b729692d0d11bb5a8439c4c.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "荒泷一斗",
+				"nameEn": "",
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000055,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/cb9ff521583a88948a2230468b5ddee3.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "",
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000064,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/29e4b39ef63b8693ee3b9b82feaa1c8f.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "",
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000068,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/687912327dc462361bab8bbd36c421b7.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "",
+				"element": "Electro"
+			}
+		],
+		"start": "2024-03-13 06:00:00",
+		"end": "2024-04-02 17:59:59"
+	},
+	{
+		"version": "4.4.2",
+		"items": [
+			{
+				"itemId": 10000026,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/1415be5854b87b2411f1ecff40eaa713.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "魈",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000058,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/d4dc260db9ebe2e48660743aed8aa69a.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "八重神子",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000077,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/0eacf739de3ff0da64d1a08a24c78135.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000044,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/708063d069bb1b08f401814a1ccdf53b.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000027,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/79425f55938054e30cfad12ae4bd4845.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "",
+				"element": "Geo"
+			}
+		],
+		"start": "2024-02-20 18:00:00",
+		"end": "2024-03-12 14:59:59"
+	},
+	{
+		"version": "4.4.1",
+		"items": [
+			{
+				"itemId": 10000073,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/a49f038170006b6279d5f221da73f319.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000076,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/d52e4e1c03eecfcf73b996bae4ee807d.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000034,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/f0ca85aee1dc650e5cbac57827ac4a3b.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "",
+				"element": "Geo"
+			}
+		],
+		"start": "2024-01-31 06:00:00",
+		"end": "2024-02-20 17:59:59"
+	},
+	{
 		"version": "4.3.2",
 		"items": [
 			{
