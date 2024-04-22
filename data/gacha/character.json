@@ -1,5 +1,109 @@
 [
 	{
+		"version": "4.5.2",
+		"items": [
+			{
+				"itemId": 62,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "那维莱特"
+			},
+			{
+				"itemId": 25,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "枫原万叶",
+				"nameEn": "枫原万叶"
+			},
+			{
+				"itemId": 1,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉"
+			},
+			{
+				"itemId": 5,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋"
+			},
+			{
+				"itemId": 23,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯"
+			}
+		],
+		"start": "2024-04-02 18:00:00",
+		"end": "2024-04-23 14:59:59"
+	},
+	{
+		"version": "4.5.1",
+		"items": [
+			{
+				"itemId": 70,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "千织",
+				"nameEn": "千织"
+			},
+			{
+				"itemId": 33,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "荒泷一斗",
+				"nameEn": "荒泷一斗"
+			},
+			{
+				"itemId": 34,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "五郎"
+			},
+			{
+				"itemId": 36,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "云堇"
+			},
+			{
+				"itemId": 44,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "多莉"
+			}
+		],
+		"start": "2024-03-13 06:00:00",
+		"end": "2024-04-02 17:59:59"
+	},
+	{
 		"version": "4.4.2",
 		"items": [
 			{
