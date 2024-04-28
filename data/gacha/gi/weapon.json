@@ -1,5 +1,72 @@
 [
 	{
+		"version": "4.6.1",
+		"items": [
+			{
+				"itemId": 15512,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/677bbcfbbf0f2cd5cb9bc3c63ee0aadb.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "最初的大魔术",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11427,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/1c828a723207e1315806d02c70322f41.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "船坞长剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12427,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/ae1c14ce523986448d0202b5ae541b62.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "便携动力锯",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13401,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/1d8abfb25a5e8a7285b715ef51a3aec9.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14409,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/edf06b37a5f6547b3c5e5c9315b17f70.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15401,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/c1b99f157792bebd0af61a6d6f0015ac.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-04-24 06:00:00",
+		"end": "2024-05-14 17:59:59"
+	},
+	{
 		"version": "4.5.2",
 		"items": [
 			{
