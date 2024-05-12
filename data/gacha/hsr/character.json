@@ -1,5 +1,23 @@
 [
 	{
+		"version": "2.2.1",
+		"items": [
+			{
+				"itemId": 1001,
+				"damageType": "4",
+				"element": "ice",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/44571ef951bc3025f1df9c844846cde1.png",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Character",
+				"name": "三月七"
+			}
+		],
+		"start": "2024-05-08 06:00:00",
+		"end": "2024-05-29 11:59:59"
+	},
+	{
 		"version": "2.1.2",
 		"items": [
 			{

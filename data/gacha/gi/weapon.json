@@ -1,5 +1,82 @@
 [
 	{
+		"version": "4.6.2",
+		"items": [
+			{
+				"itemId": 14512,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/07f075f6051955aa87189fb560c0af9e.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "图莱杜拉的回忆",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14505,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/d527f5925de73a5831c5059dc0305952.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "碧落之珑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13427,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/4a9b8abc392c87c20044d292fbd5f9f7.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "勘探钻机",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15427,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/8e92c93e64c20bb59d565790a918583e.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "测距规",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11401,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/2b90c81c624f52cb232d74088af97adf.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12405,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/88407cb7934bd262bd9bdae051a5d874.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14403,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/ac52a62902d55d471db654200bc24b55.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-05-14 18:00:00",
+		"end": "2024-06-04 14:59:59"
+	},
+	{
 		"version": "4.6.1",
 		"items": [
 			{

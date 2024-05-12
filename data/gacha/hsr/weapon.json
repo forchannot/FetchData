@@ -1,5 +1,32 @@
 [
 	{
+		"version": "2.2.1",
+		"items": [
+			{
+				"itemId": 21010,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d69bcc8262c84533e3216593e4c9af50.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "论剑"
+			},
+			{
+				"itemId": 21014,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4a15de167756f281aa0a6dc9caecd218.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "此时恰好"
+			}
+		],
+		"start": "2024-05-08 06:00:00",
+		"end": "2024-05-29 11:59:59"
+	},
+	{
 		"version": "2.1.2",
 		"items": [
 			{

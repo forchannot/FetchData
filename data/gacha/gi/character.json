@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.6.2",
+		"items": [
+			{
+				"itemId": 10000075,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/c67f9552c6c3575de62ac4d23467531d.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "流浪者",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000082,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/07e695cdbc66afaa02c536a33c45782d.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "白术",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000074,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/7982593b85e1efd138b1d8e5a38fab74.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "莱依拉",
+				"nameEn": "",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000076,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/d52e4e1c03eecfcf73b996bae4ee807d.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000024,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/093aff52952805cba0d68e22c0babf3f.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "",
+				"element": "Electro"
+			}
+		],
+		"start": "2024-05-14 18:00:00",
+		"end": "2024-06-04 14:59:59"
+	},
+	{
 		"version": "4.6.1",
 		"items": [
 			{
