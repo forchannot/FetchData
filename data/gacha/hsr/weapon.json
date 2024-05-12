@@ -13,6 +13,16 @@
 				"name": "夜色流光溢彩"
 			},
 			{
+				"itemId": 23016,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ec9ff80871883dc27993262106700e5b.png",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "烦恼着，幸福着"
+			},
+			{
 				"itemId": 21044,
 				"element": "",
 				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c01f3c0c4f66e4a5b0d8a38451f3c973.png",
