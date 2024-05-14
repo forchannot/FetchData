@@ -1,5 +1,109 @@
 [
 	{
+		"version": "4.6.2",
+		"items": [
+			{
+				"itemId": 50,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "流浪者",
+				"nameEn": "流浪者"
+			},
+			{
+				"itemId": 56,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "白术",
+				"nameEn": "白术"
+			},
+			{
+				"itemId": 49,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "莱依拉",
+				"nameEn": "莱依拉"
+			},
+			{
+				"itemId": 51,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊"
+			},
+			{
+				"itemId": 10,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗"
+			}
+		],
+		"start": "2024-05-14 18:00:00",
+		"end": "2024-06-04 14:59:59"
+	},
+	{
+		"version": "4.6.1",
+		"items": [
+			{
+				"itemId": 71,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "阿蕾奇诺",
+				"nameEn": "阿蕾奇诺"
+			},
+			{
+				"itemId": 59,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "林尼",
+				"nameEn": "林尼"
+			},
+			{
+				"itemId": 61,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "菲米尼",
+				"nameEn": "菲米尼"
+			},
+			{
+				"itemId": 60,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "琳妮特",
+				"nameEn": "琳妮特"
+			},
+			{
+				"itemId": 3,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱"
+			}
+		],
+		"start": "2024-04-24 06:00:00",
+		"end": "2024-05-14 17:59:59"
+	},
+	{
 		"version": "4.5.2",
 		"items": [
 			{
