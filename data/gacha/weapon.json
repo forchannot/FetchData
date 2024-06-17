@@ -1,11 +1,221 @@
 [
 	{
+		"version": "4.3.2",
+		"items": [
+			{
+				"itemId": 45,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "薙草之稻光",
+				"nameEn": "Engulfing Lightning"
+			},
+			{
+				"itemId": 44,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Narukami.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "飞雷之弦振",
+				"nameEn": "Thundering Pulse"
+			},
+			{
+				"itemId": 49,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "断浪长鳍",
+				"nameEn": "Wavebreaker's Fin"
+			},
+			{
+				"itemId": 26,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "Favonius Sword"
+			},
+			{
+				"itemId": 16,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "Rainslasher"
+			},
+			{
+				"itemId": 17,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "Eye of Perception"
+			},
+			{
+				"itemId": 18,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "Rust"
+			}
+		],
+		"start": "2024-01-09 18:00:00",
+		"end": "2024-01-30 14:59:59"
+	},
+	{
+		"version": "4.3.1",
+		"items": [
+			{
+				"itemId": 75,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "裁断",
+				"nameEn": "Verdict"
+			},
+			{
+				"itemId": 42,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "雾切之回光",
+				"nameEn": "Mistsplitter Reforged"
+			},
+			{
+				"itemId": 48,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Maria.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "恶王丸",
+				"nameEn": "Akuoumaru"
+			},
+			{
+				"itemId": 50,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "曚云之月",
+				"nameEn": "Mouun's Moon"
+			},
+			{
+				"itemId": 2,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "The Flute"
+			},
+			{
+				"itemId": 13,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane"
+			},
+			{
+				"itemId": 22,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex"
+			}
+		],
+		"start": "2023-12-20 06:00:00",
+		"end": "2024-01-09 17:59:59"
+	},
+	{
+		"version": "4.2.2",
+		"items": [
+			{
+				"itemId": 57,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Deshret.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "赤沙之杖",
+				"nameEn": "Staff of the Scarlet Sands"
+			},
+			{
+				"itemId": 54,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Amenoma.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "波乱月白经津",
+				"nameEn": "Haran Geppaku Futsu"
+			},
+			{
+				"itemId": 21,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar"
+			},
+			{
+				"itemId": 27,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "Favonius Greatsword"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance"
+			},
+			{
+				"itemId": 4,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "The Widsith"
+			},
+			{
+				"itemId": 23,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "Favonius Warbow"
+			}
+		],
+		"start": "2023-11-28 18:00:00",
+		"end": "2023-12-19 14:59:59"
+	},
+	{
 		"version": "4.2.1",
 		"items": [
 			{
 				"itemId": 74,
-				"weaponType": "Sword",
-				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Regalis.png",
+				"weaponType": "",
+				"imageUrl": "",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "静水流涌之辉",
@@ -13,7 +223,7 @@
 			},
 			{
 				"itemId": 66,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -22,7 +232,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -31,7 +241,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -40,7 +250,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -49,7 +259,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -58,7 +268,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -74,8 +284,8 @@
 		"items": [
 			{
 				"itemId": 71,
-				"weaponType": "Catalyst",
-				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Wheatley.png",
+				"weaponType": "",
+				"imageUrl": "",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "金流监督",
@@ -83,7 +293,7 @@
 			},
 			{
 				"itemId": 34,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -92,8 +302,8 @@
 			},
 			{
 				"itemId": 72,
-				"weaponType": "Polearm",
-				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Mechanic.png",
+				"weaponType": "",
+				"imageUrl": "",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "勘探钻机",
@@ -101,8 +311,8 @@
 			},
 			{
 				"itemId": 73,
-				"weaponType": "Bow",
-				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Mechanic.png",
+				"weaponType": "",
+				"imageUrl": "",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "测距规",
@@ -110,7 +320,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -119,7 +329,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -128,7 +338,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -144,8 +354,8 @@
 		"items": [
 			{
 				"itemId": 68,
-				"weaponType": "Catalyst",
-				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Iudex.png",
+				"weaponType": "",
+				"imageUrl": "",
 				"rankType": 5,
 				"itemType": "Weapon",
 				"name": "万世流涌大典",
@@ -153,7 +363,7 @@
 			},
 			{
 				"itemId": 31,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -162,8 +372,8 @@
 			},
 			{
 				"itemId": 69,
-				"weaponType": "Sword",
-				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Mechanic.png",
+				"weaponType": "",
+				"imageUrl": "",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "船坞长剑",
@@ -171,8 +381,8 @@
 			},
 			{
 				"itemId": 70,
-				"weaponType": "Claymore",
-				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Mechanic.png",
+				"weaponType": "",
+				"imageUrl": "",
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "便携动力锯",
@@ -180,7 +390,7 @@
 			},
 			{
 				"itemId": 40,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Nachtblind.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -189,7 +399,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -198,7 +408,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -214,7 +424,7 @@
 		"items": [
 			{
 				"itemId": 19,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -223,7 +433,7 @@
 			},
 			{
 				"itemId": 47,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Worldbane.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -232,7 +442,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -241,7 +451,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -250,7 +460,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -259,7 +469,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -268,7 +478,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -284,7 +494,7 @@
 		"items": [
 			{
 				"itemId": 67,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Pledge.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -293,7 +503,7 @@
 			},
 			{
 				"itemId": 55,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Kirin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -302,7 +512,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -311,7 +521,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -320,7 +530,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -329,7 +539,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -338,7 +548,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -354,7 +564,7 @@
 		"items": [
 			{
 				"itemId": 46,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kaleido.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -363,7 +573,7 @@
 			},
 			{
 				"itemId": 63,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Alaya.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -372,7 +582,7 @@
 			},
 			{
 				"itemId": 37,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -381,7 +591,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -390,7 +600,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -399,7 +609,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -408,7 +618,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -424,7 +634,7 @@
 		"items": [
 			{
 				"itemId": 39,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -433,7 +643,7 @@
 			},
 			{
 				"itemId": 7,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -442,7 +652,7 @@
 			},
 			{
 				"itemId": 36,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -451,7 +661,7 @@
 			},
 			{
 				"itemId": 38,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -460,7 +670,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -469,7 +679,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -478,7 +688,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -494,7 +704,7 @@
 		"items": [
 			{
 				"itemId": 64,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -503,7 +713,7 @@
 			},
 			{
 				"itemId": 41,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -512,7 +722,7 @@
 			},
 			{
 				"itemId": 49,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -521,7 +731,7 @@
 			},
 			{
 				"itemId": 50,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -530,7 +740,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -539,7 +749,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -548,7 +758,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -564,7 +774,7 @@
 		"items": [
 			{
 				"itemId": 44,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -573,7 +783,7 @@
 			},
 			{
 				"itemId": 53,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -582,7 +792,7 @@
 			},
 			{
 				"itemId": 48,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -591,7 +801,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -600,7 +810,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -609,7 +819,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -618,7 +828,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -634,7 +844,7 @@
 		"items": [
 			{
 				"itemId": 66,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -643,7 +853,7 @@
 			},
 			{
 				"itemId": 1,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -652,7 +862,7 @@
 			},
 			{
 				"itemId": 58,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Pleroma.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -661,7 +871,7 @@
 			},
 			{
 				"itemId": 61,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pleroma.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -670,7 +880,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -679,7 +889,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -688,7 +898,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -704,7 +914,7 @@
 		"items": [
 			{
 				"itemId": 62,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ayus.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -713,7 +923,7 @@
 			},
 			{
 				"itemId": 59,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Deshret.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -722,7 +932,7 @@
 			},
 			{
 				"itemId": 60,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Pleroma.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -731,7 +941,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -740,7 +950,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -749,7 +959,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -758,7 +968,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -774,7 +984,7 @@
 		"items": [
 			{
 				"itemId": 52,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Santika.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -783,7 +993,7 @@
 			},
 			{
 				"itemId": 42,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -792,7 +1002,7 @@
 			},
 			{
 				"itemId": 37,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -801,7 +1011,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -810,7 +1020,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -819,7 +1029,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -828,7 +1038,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -844,7 +1054,7 @@
 		"items": [
 			{
 				"itemId": 65,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Deshret.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -853,7 +1063,7 @@
 			},
 			{
 				"itemId": 57,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Deshret.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -862,7 +1072,7 @@
 			},
 			{
 				"itemId": 36,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -871,7 +1081,7 @@
 			},
 			{
 				"itemId": 38,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -880,7 +1090,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -889,7 +1099,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -898,7 +1108,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -914,7 +1124,7 @@
 		"items": [
 			{
 				"itemId": 31,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -923,7 +1133,7 @@
 			},
 			{
 				"itemId": 55,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Kirin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -932,7 +1142,7 @@
 			},
 			{
 				"itemId": 32,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -941,7 +1151,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -950,7 +1160,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -959,7 +1169,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -968,7 +1178,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -984,7 +1194,7 @@
 		"items": [
 			{
 				"itemId": 64,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -993,7 +1203,7 @@
 			},
 			{
 				"itemId": 30,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1002,7 +1212,7 @@
 			},
 			{
 				"itemId": 33,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1011,7 +1221,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1020,7 +1230,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1029,7 +1239,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1038,7 +1248,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1054,7 +1264,7 @@
 		"items": [
 			{
 				"itemId": 45,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1063,7 +1273,7 @@
 			},
 			{
 				"itemId": 54,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Amenoma.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1072,7 +1282,7 @@
 			},
 			{
 				"itemId": 48,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1081,7 +1291,7 @@
 			},
 			{
 				"itemId": 50,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1090,7 +1300,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1099,7 +1309,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1108,7 +1318,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1124,7 +1334,7 @@
 		"items": [
 			{
 				"itemId": 63,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Alaya.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1133,7 +1343,7 @@
 			},
 			{
 				"itemId": 51,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Itadorimaru.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1142,7 +1352,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1151,7 +1361,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1160,7 +1370,7 @@
 			},
 			{
 				"itemId": 49,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1169,7 +1379,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1178,7 +1388,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1194,7 +1404,7 @@
 		"items": [
 			{
 				"itemId": 53,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1203,7 +1413,7 @@
 			},
 			{
 				"itemId": 47,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Worldbane.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1212,7 +1422,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1221,7 +1431,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1230,7 +1440,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1239,7 +1449,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1248,7 +1458,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1264,7 +1474,7 @@
 		"items": [
 			{
 				"itemId": 62,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ayus.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1273,7 +1483,7 @@
 			},
 			{
 				"itemId": 44,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1282,7 +1492,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1291,7 +1501,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1300,7 +1510,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1309,7 +1519,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1318,7 +1528,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1334,7 +1544,7 @@
 		"items": [
 			{
 				"itemId": 59,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Deshret.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1343,7 +1553,7 @@
 			},
 			{
 				"itemId": 29,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1352,7 +1562,7 @@
 			},
 			{
 				"itemId": 60,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Pleroma.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1361,7 +1571,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1370,7 +1580,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1379,7 +1589,7 @@
 			},
 			{
 				"itemId": 61,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pleroma.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1388,7 +1598,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1404,7 +1614,7 @@
 		"items": [
 			{
 				"itemId": 57,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Deshret.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1413,7 +1623,7 @@
 			},
 			{
 				"itemId": 34,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1422,7 +1632,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1431,7 +1641,7 @@
 			},
 			{
 				"itemId": 58,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Pleroma.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1440,7 +1650,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1449,7 +1659,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1458,7 +1668,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1474,7 +1684,7 @@
 		"items": [
 			{
 				"itemId": 1,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1483,7 +1693,7 @@
 			},
 			{
 				"itemId": 46,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kaleido.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1492,7 +1702,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1501,7 +1711,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1510,7 +1720,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1519,7 +1729,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1528,7 +1738,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1544,7 +1754,7 @@
 		"items": [
 			{
 				"itemId": 56,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Ayus.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1553,7 +1763,7 @@
 			},
 			{
 				"itemId": 19,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1562,7 +1772,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1571,7 +1781,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1580,7 +1790,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1589,7 +1799,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1598,7 +1808,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1614,7 +1824,7 @@
 		"items": [
 			{
 				"itemId": 44,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1623,7 +1833,7 @@
 			},
 			{
 				"itemId": 24,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1632,7 +1842,7 @@
 			},
 			{
 				"itemId": 37,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1641,7 +1851,7 @@
 			},
 			{
 				"itemId": 38,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1650,7 +1860,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1659,7 +1869,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1668,7 +1878,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1684,7 +1894,7 @@
 		"items": [
 			{
 				"itemId": 41,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1693,7 +1903,7 @@
 			},
 			{
 				"itemId": 7,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1702,7 +1912,7 @@
 			},
 			{
 				"itemId": 36,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1711,7 +1921,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1720,7 +1930,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1729,7 +1939,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1738,7 +1948,7 @@
 			},
 			{
 				"itemId": 40,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Nachtblind.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1754,7 +1964,7 @@
 		"items": [
 			{
 				"itemId": 51,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Itadorimaru.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1763,7 +1973,7 @@
 			},
 			{
 				"itemId": 15,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1772,7 +1982,7 @@
 			},
 			{
 				"itemId": 32,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1781,7 +1991,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1790,7 +2000,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1799,7 +2009,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1808,7 +2018,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1824,7 +2034,7 @@
 		"items": [
 			{
 				"itemId": 55,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Kirin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1833,7 +2043,7 @@
 			},
 			{
 				"itemId": 30,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1842,7 +2052,7 @@
 			},
 			{
 				"itemId": 33,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1851,7 +2061,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1860,7 +2070,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1869,7 +2079,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1878,7 +2088,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1894,7 +2104,7 @@
 		"items": [
 			{
 				"itemId": 42,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1903,7 +2113,7 @@
 			},
 			{
 				"itemId": 20,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1912,7 +2122,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1921,7 +2131,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1930,7 +2140,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1939,7 +2149,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1948,7 +2158,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1964,7 +2174,7 @@
 		"items": [
 			{
 				"itemId": 54,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Amenoma.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1973,7 +2183,7 @@
 			},
 			{
 				"itemId": 34,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -1982,7 +2192,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -1991,7 +2201,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2000,7 +2210,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2009,7 +2219,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2018,7 +2228,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2034,7 +2244,7 @@
 		"items": [
 			{
 				"itemId": 45,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2043,7 +2253,7 @@
 			},
 			{
 				"itemId": 46,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kaleido.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2052,7 +2262,7 @@
 			},
 			{
 				"itemId": 48,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2061,7 +2271,7 @@
 			},
 			{
 				"itemId": 50,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2070,7 +2280,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2079,7 +2289,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2088,7 +2298,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2104,7 +2314,7 @@
 		"items": [
 			{
 				"itemId": 53,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2113,7 +2323,7 @@
 			},
 			{
 				"itemId": 29,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2122,7 +2332,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2131,7 +2341,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2140,7 +2350,7 @@
 			},
 			{
 				"itemId": 49,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2149,7 +2359,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2158,7 +2368,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2174,7 +2384,7 @@
 		"items": [
 			{
 				"itemId": 19,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2183,7 +2393,7 @@
 			},
 			{
 				"itemId": 1,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2192,7 +2402,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2201,7 +2411,7 @@
 			},
 			{
 				"itemId": 32,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2210,7 +2420,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2219,7 +2429,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2228,7 +2438,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2244,7 +2454,7 @@
 		"items": [
 			{
 				"itemId": 52,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Santika.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2253,7 +2463,7 @@
 			},
 			{
 				"itemId": 30,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2262,7 +2472,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2271,7 +2481,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2280,7 +2490,7 @@
 			},
 			{
 				"itemId": 33,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2289,7 +2499,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2298,7 +2508,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2314,7 +2524,7 @@
 		"items": [
 			{
 				"itemId": 51,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Itadorimaru.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2323,7 +2533,7 @@
 			},
 			{
 				"itemId": 14,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2332,7 +2542,7 @@
 			},
 			{
 				"itemId": 36,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2341,7 +2551,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2350,7 +2560,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2359,7 +2569,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2368,7 +2578,7 @@
 			},
 			{
 				"itemId": 40,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Nachtblind.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2384,7 +2594,7 @@
 		"items": [
 			{
 				"itemId": 41,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2393,7 +2603,7 @@
 			},
 			{
 				"itemId": 39,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2402,7 +2612,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2411,7 +2621,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2420,7 +2630,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2429,7 +2639,7 @@
 			},
 			{
 				"itemId": 37,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2438,7 +2648,7 @@
 			},
 			{
 				"itemId": 38,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2454,7 +2664,7 @@
 		"items": [
 			{
 				"itemId": 31,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2463,7 +2673,7 @@
 			},
 			{
 				"itemId": 34,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2472,7 +2682,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2481,7 +2691,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2490,7 +2700,7 @@
 			},
 			{
 				"itemId": 49,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2499,7 +2709,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2508,7 +2718,7 @@
 			},
 			{
 				"itemId": 50,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2524,7 +2734,7 @@
 		"items": [
 			{
 				"itemId": 47,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Worldbane.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2533,7 +2743,7 @@
 			},
 			{
 				"itemId": 15,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2542,7 +2752,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2551,7 +2761,7 @@
 			},
 			{
 				"itemId": 48,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Maria.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2560,7 +2770,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2569,7 +2779,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2578,7 +2788,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2594,7 +2804,7 @@
 		"items": [
 			{
 				"itemId": 46,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kaleido.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2603,7 +2813,7 @@
 			},
 			{
 				"itemId": 29,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2612,7 +2822,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2621,7 +2831,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2630,7 +2840,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2639,7 +2849,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2648,7 +2858,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2664,7 +2874,7 @@
 		"items": [
 			{
 				"itemId": 45,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2673,7 +2883,7 @@
 			},
 			{
 				"itemId": 20,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2682,7 +2892,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2691,7 +2901,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2700,7 +2910,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2709,7 +2919,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2718,7 +2928,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2734,7 +2944,7 @@
 		"items": [
 			{
 				"itemId": 44,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2743,7 +2953,7 @@
 			},
 			{
 				"itemId": 35,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2752,7 +2962,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2761,7 +2971,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2770,7 +2980,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2779,7 +2989,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2788,7 +2998,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2804,7 +3014,7 @@
 		"items": [
 			{
 				"itemId": 42,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2813,7 +3023,7 @@
 			},
 			{
 				"itemId": 43,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2822,7 +3032,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2831,7 +3041,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2840,7 +3050,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2849,7 +3059,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2858,7 +3068,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2874,7 +3084,7 @@
 		"items": [
 			{
 				"itemId": 41,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2883,7 +3093,7 @@
 			},
 			{
 				"itemId": 25,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2892,7 +3102,7 @@
 			},
 			{
 				"itemId": 36,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2901,7 +3111,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2910,7 +3120,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2919,7 +3129,7 @@
 			},
 			{
 				"itemId": 37,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2928,7 +3138,7 @@
 			},
 			{
 				"itemId": 38,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2944,7 +3154,7 @@
 		"items": [
 			{
 				"itemId": 28,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2953,7 +3163,7 @@
 			},
 			{
 				"itemId": 7,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -2962,7 +3172,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2971,7 +3181,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2980,7 +3190,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2989,7 +3199,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -2998,7 +3208,7 @@
 			},
 			{
 				"itemId": 40,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Nachtblind.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3014,7 +3224,7 @@
 		"items": [
 			{
 				"itemId": 39,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3023,7 +3233,7 @@
 			},
 			{
 				"itemId": 0,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3032,7 +3242,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3041,7 +3251,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3050,7 +3260,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3059,7 +3269,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3068,7 +3278,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3084,7 +3294,7 @@
 		"items": [
 			{
 				"itemId": 24,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3093,7 +3303,7 @@
 			},
 			{
 				"itemId": 15,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3102,7 +3312,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3111,7 +3321,7 @@
 			},
 			{
 				"itemId": 32,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3120,7 +3330,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3129,7 +3339,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3138,7 +3348,7 @@
 			},
 			{
 				"itemId": 33,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3154,7 +3364,7 @@
 		"items": [
 			{
 				"itemId": 14,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3163,7 +3373,7 @@
 			},
 			{
 				"itemId": 7,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3172,7 +3382,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3181,7 +3391,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3190,7 +3400,7 @@
 			},
 			{
 				"itemId": 38,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3199,7 +3409,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3208,7 +3418,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3224,7 +3434,7 @@
 		"items": [
 			{
 				"itemId": 34,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3233,7 +3443,7 @@
 			},
 			{
 				"itemId": 35,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3242,7 +3452,7 @@
 			},
 			{
 				"itemId": 36,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3251,7 +3461,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3260,7 +3470,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3269,7 +3479,7 @@
 			},
 			{
 				"itemId": 37,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Outlaw.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3278,7 +3488,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3294,7 +3504,7 @@
 		"items": [
 			{
 				"itemId": 31,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3303,7 +3513,7 @@
 			},
 			{
 				"itemId": 8,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Wolfmound.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3312,7 +3522,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3321,7 +3531,7 @@
 			},
 			{
 				"itemId": 32,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3330,7 +3540,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3339,7 +3549,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3348,7 +3558,7 @@
 			},
 			{
 				"itemId": 33,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Lapis.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3364,7 +3574,7 @@
 		"items": [
 			{
 				"itemId": 29,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3373,7 +3583,7 @@
 			},
 			{
 				"itemId": 30,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3382,7 +3592,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3391,7 +3601,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3400,7 +3610,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3409,7 +3619,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3418,7 +3628,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3434,7 +3644,7 @@
 		"items": [
 			{
 				"itemId": 1,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3443,7 +3653,7 @@
 			},
 			{
 				"itemId": 28,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3452,7 +3662,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3461,7 +3671,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3470,7 +3680,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3479,7 +3689,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3488,7 +3698,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3504,7 +3714,7 @@
 		"items": [
 			{
 				"itemId": 24,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3513,7 +3723,7 @@
 			},
 			{
 				"itemId": 25,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3522,7 +3732,7 @@
 			},
 			{
 				"itemId": 26,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3531,7 +3741,7 @@
 			},
 			{
 				"itemId": 27,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3540,7 +3750,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3549,7 +3759,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3558,7 +3768,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3574,7 +3784,7 @@
 		"items": [
 			{
 				"itemId": 19,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3583,7 +3793,7 @@
 			},
 			{
 				"itemId": 20,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3592,7 +3802,7 @@
 			},
 			{
 				"itemId": 21,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3601,7 +3811,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3610,7 +3820,7 @@
 			},
 			{
 				"itemId": 22,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3619,7 +3829,7 @@
 			},
 			{
 				"itemId": 23,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3628,7 +3838,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3644,7 +3854,7 @@
 		"items": [
 			{
 				"itemId": 14,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3653,7 +3863,7 @@
 			},
 			{
 				"itemId": 15,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kunwu.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3662,7 +3872,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3671,7 +3881,7 @@
 			},
 			{
 				"itemId": 16,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Perdue.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3680,7 +3890,7 @@
 			},
 			{
 				"itemId": 17,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3689,7 +3899,7 @@
 			},
 			{
 				"itemId": 18,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3698,7 +3908,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3714,7 +3924,7 @@
 		"items": [
 			{
 				"itemId": 7,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3723,7 +3933,7 @@
 			},
 			{
 				"itemId": 8,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Wolfmound.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3732,7 +3942,7 @@
 			},
 			{
 				"itemId": 9,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3741,7 +3951,7 @@
 			},
 			{
 				"itemId": 10,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3750,7 +3960,7 @@
 			},
 			{
 				"itemId": 11,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3759,7 +3969,7 @@
 			},
 			{
 				"itemId": 12,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3768,7 +3978,7 @@
 			},
 			{
 				"itemId": 13,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3784,7 +3994,7 @@
 		"items": [
 			{
 				"itemId": 0,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3793,7 +4003,7 @@
 			},
 			{
 				"itemId": 1,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png",
 				"rankType": 5,
 				"itemType": "Weapon",
@@ -3802,7 +4012,7 @@
 			},
 			{
 				"itemId": 2,
-				"weaponType": "Sword",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3811,7 +4021,7 @@
 			},
 			{
 				"itemId": 3,
-				"weaponType": "Claymore",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3820,7 +4030,7 @@
 			},
 			{
 				"itemId": 4,
-				"weaponType": "Catalyst",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3829,7 +4039,7 @@
 			},
 			{
 				"itemId": 5,
-				"weaponType": "Bow",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
 				"rankType": 4,
 				"itemType": "Weapon",
@@ -3838,7 +4048,7 @@
 			},
 			{
 				"itemId": 6,
-				"weaponType": "Polearm",
+				"weaponType": "",
 				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
 				"rankType": 4,
 				"itemType": "Weapon",
