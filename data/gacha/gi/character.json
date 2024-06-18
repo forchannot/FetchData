@@ -1,5 +1,42 @@
 [
 	{
+		"version": "4.7.1",
+		"items": [
+			{
+				"itemId": 10000078,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/147043a4e44062d735c6a87d121f7845.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "艾尔海森",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000032,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/5c4f913c2975ecb6a53fe042e45315dc.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000050,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/5b75c1730937a9810e9a74e5f425bf24.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-06-05 06:00:00",
+		"end": "2024-06-25 17:59:59"
+	},
+	{
 		"version": "4.6.2",
 		"items": [
 			{

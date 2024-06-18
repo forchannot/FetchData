@@ -1,5 +1,62 @@
 [
 	{
+		"version": "2.3.1",
+		"items": [],
+		"start": "2024-06-19 06:00:00",
+		"end": "2024-07-10 11:59:59"
+	},
+	{
+		"version": "2.2.2",
+		"items": [
+			{
+				"itemId": 1208,
+				"damageType": "32",
+				"element": "quantum",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/62a6512ae0f6475d72d308fb8dec634c.png",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Character",
+				"name": "符玄"
+			},
+			{
+				"itemId": 1106,
+				"damageType": "4",
+				"element": "ice",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f36b2110281773cc26976b1163ab112b.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "佩拉"
+			},
+			{
+				"itemId": 1111,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/63bce564ac550300e6b93f05e95759f9.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "卢卡"
+			},
+			{
+				"itemId": 1109,
+				"damageType": "2",
+				"element": "fire",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4ff9b312df9c47c3ac333c242b633760.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "虎克"
+			}
+		],
+		"start": "2024-05-29 12:00:00",
+		"end": "2024-06-18 14:59:59"
+	},
+	{
 		"version": "2.2.1",
 		"items": [
 			{

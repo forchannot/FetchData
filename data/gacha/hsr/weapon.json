@@ -1,5 +1,89 @@
 [
 	{
+		"version": "2.3.1",
+		"items": [
+			{
+				"itemId": 21004,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/829078be089078e9598fdb78001b31bd.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Weapon",
+				"name": "记忆中的模样"
+			},
+			{
+				"itemId": 21002,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e8fba2c6292c460e7fdbde2fa1ae973.png",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Weapon",
+				"name": "余生的第一天"
+			},
+			{
+				"itemId": 21008,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a5dc5388252bfba52b641433d67f0df6.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Weapon",
+				"name": "猎物的视线"
+			}
+		],
+		"start": "2024-06-19 06:00:00",
+		"end": "2024-07-10 11:59:59"
+	},
+	{
+		"version": "2.2.2",
+		"items": [
+			{
+				"itemId": 23011,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/aff4b62184adcf2f2c6a938409b40612.png",
+				"rankType": 5,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Weapon",
+				"name": "她已闭上双眼"
+			},
+			{
+				"itemId": 21020,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a48164b59efb445a3bff14ea39d293e8.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Weapon",
+				"name": "天才们的休憩"
+			},
+			{
+				"itemId": 21012,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "秘密誓心"
+			},
+			{
+				"itemId": 21009,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/279fd1ad23b5312341ab3c9813c347a6.png",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Weapon",
+				"name": "朗道的选择"
+			}
+		],
+		"start": "2024-05-29 12:00:00",
+		"end": "2024-06-18 14:59:59"
+	},
+	{
 		"version": "2.2.1",
 		"items": [
 			{
