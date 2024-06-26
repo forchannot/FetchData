@@ -1,5 +1,145 @@
 [
 	{
+		"version": "4.7.2",
+		"items": [
+			{
+				"itemId": 81,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "白雨心弦",
+				"nameEn": "Silvershower Heartstrings"
+			},
+			{
+				"itemId": 74,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "静水流涌之辉",
+				"nameEn": "Splendor of Tranquil Waters"
+			},
+			{
+				"itemId": 32,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Lapis.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "千岩古剑",
+				"nameEn": "Lithic Blade"
+			},
+			{
+				"itemId": 21,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar"
+			},
+			{
+				"itemId": 6,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance"
+			},
+			{
+				"itemId": 22,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex"
+			},
+			{
+				"itemId": 12,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "Sacrificial Bow"
+			}
+		],
+		"start": "2024-06-25 18:00:00",
+		"end": "2024-07-16 14:59:59"
+	},
+	{
+		"version": "4.7.1",
+		"items": [
+			{
+				"itemId": 80,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "赦罪",
+				"nameEn": "Absolution"
+			},
+			{
+				"itemId": 64,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "裁叶萃光",
+				"nameEn": "Light of Foliar Incision"
+			},
+			{
+				"itemId": 33,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Pole_Lapis.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "千岩长枪",
+				"nameEn": "Lithic Spear"
+			},
+			{
+				"itemId": 9,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼剑",
+				"nameEn": "Sacrificial Sword"
+			},
+			{
+				"itemId": 10,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword"
+			},
+			{
+				"itemId": 4,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "The Widsith"
+			},
+			{
+				"itemId": 5,
+				"weaponType": "",
+				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "绝弦",
+				"nameEn": "The Stringless"
+			}
+		],
+		"start": "2024-06-05 06:00:00",
+		"end": "2024-06-25 17:59:59"
+	},
+	{
 		"version": "4.6.2",
 		"items": [
 			{
@@ -57,13 +197,13 @@
 				"nameEn": "Rainslasher"
 			},
 			{
-				"itemId": 11,
+				"itemId": 79,
 				"weaponType": "",
-				"imageUrl": "/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png",
-				"rankType": 4,
+				"imageUrl": "",
+				"rankType": -1,
 				"itemType": "Weapon",
-				"name": "祭礼残章",
-				"nameEn": "Sacrificial Fragments"
+				"name": "礼祭残章",
+				"nameEn": "礼祭残章"
 			}
 		],
 		"start": "2024-05-14 18:00:00",

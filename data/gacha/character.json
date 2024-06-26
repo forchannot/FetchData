@@ -1,5 +1,109 @@
 [
 	{
+		"version": "4.7.2",
+		"items": [
+			{
+				"itemId": 64,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "芙宁娜"
+			},
+			{
+				"itemId": 74,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "希格雯",
+				"nameEn": "希格雯"
+			},
+			{
+				"itemId": 22,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚"
+			},
+			{
+				"itemId": 67,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "夏沃蕾"
+			},
+			{
+				"itemId": 69,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "嘉明",
+				"nameEn": "嘉明"
+			}
+		],
+		"start": "2024-06-25 18:00:00",
+		"end": "2024-07-16 14:59:59"
+	},
+	{
+		"version": "4.7.1",
+		"items": [
+			{
+				"itemId": 72,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "克洛琳德",
+				"nameEn": "克洛琳德"
+			},
+			{
+				"itemId": 52,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "艾尔海森",
+				"nameEn": "艾尔海森"
+			},
+			{
+				"itemId": 17,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特"
+			},
+			{
+				"itemId": 32,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马"
+			},
+			{
+				"itemId": 73,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "赛索斯"
+			}
+		],
+		"start": "2024-06-05 06:00:00",
+		"end": "2024-06-25 17:59:59"
+	},
+	{
 		"version": "4.6.2",
 		"items": [
 			{
