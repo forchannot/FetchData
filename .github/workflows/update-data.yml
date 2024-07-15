@@ -15,12 +15,12 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Build
-        run: npm install -g pnpm && pnpm install --no-frozen-lockfile 
+        run: npm install -g pnpm && pnpm install --no-frozen-lockfile
 
-      - name: Get Mys Data
-        env:
-          MYS_TOKEN: ${{ secrets.MYS_TOKEN }}
-        run: node src/mys.js $MYS_TOKEN
+#      - name: Get Mys Data
+#        env:
+#          MYS_TOKEN: ${{ secrets.MYS_TOKEN }}
+#        run: node src/mys.js $MYS_TOKEN
 
       - name: Get Gacha Data
         run: node src/fetchGachaDataV2.js
