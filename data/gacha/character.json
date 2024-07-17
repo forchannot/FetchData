@@ -1,5 +1,57 @@
 [
 	{
+		"version": "4.8.1",
+		"items": [
+			{
+				"itemId": 66,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "娜维娅",
+				"nameEn": "娜维娅"
+			},
+			{
+				"itemId": 47,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "妮露",
+				"nameEn": "妮露"
+			},
+			{
+				"itemId": 58,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "绮良良",
+				"nameEn": "绮良良"
+			},
+			{
+				"itemId": 57,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "卡维",
+				"nameEn": "卡维"
+			},
+			{
+				"itemId": 11,
+				"weaponType": "",
+				"imageUrl": "",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光"
+			}
+		],
+		"start": "2024-07-17 06:00:00",
+		"end": "2024-08-06 17:59:59"
+	},
+	{
 		"version": "4.7.2",
 		"items": [
 			{

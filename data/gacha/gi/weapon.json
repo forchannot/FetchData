@@ -1,5 +1,129 @@
 [
 	{
+		"version": "4.8.1",
+		"items": [
+			{
+				"itemId": 11511,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/8b2f283d5cce8d1465b2a28d71eaab0f.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "圣显之钥",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11418,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/2e5a1f07af47642e4bb90dd8208449bc.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西福斯的月光",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12402,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/1e60f445f22b0c49917909eaaf7a3173.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13401,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/1d8abfb25a5e8a7285b715ef51a3aec9.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14409,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/edf06b37a5f6547b3c5e5c9315b17f70.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15405,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/e8634af7e86e88d02907c3c7e0b7aba1.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-07-17 06:00:00",
+		"end": "2024-08-06 17:59:59"
+	},
+	{
+		"version": "4.7.2",
+		"items": [
+			{
+				"itemId": 11405,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/ac6b37a9c2ef1c3265382aae99214bbc.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12410,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/09937b0fd7e2fa2098bfd9bd84e83feb.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "千岩古剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13407,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/d9d3855d86868596117b6108bfea1f93.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14401,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/4db3265f0f8d9361067407d252d79342.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15403,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/60a84a1599d7b42e4a86318ba5ac8711.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-06-25 18:00:00",
+		"end": "2024-07-16 14:59:59"
+	},
+	{
 		"version": "4.7.1",
 		"items": [
 			{

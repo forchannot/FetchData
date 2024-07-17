@@ -1,5 +1,45 @@
 [
 	{
+		"version": "2.3.2",
+		"items": [
+			{
+				"itemId": 1103,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b0bf597954f1b8acb83a02d6d22989ce.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Character",
+				"name": "希露瓦"
+			},
+			{
+				"itemId": 1105,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/281455e4018e6fba97fc7d3f23792bab.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Character",
+				"name": "娜塔莎"
+			},
+			{
+				"itemId": 1009,
+				"damageType": "2",
+				"element": "fire",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/dcad49e78f93d548f094b9b3193300b5.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Character",
+				"name": "艾丝妲"
+			}
+		],
+		"start": "2024-07-10 12:00:00",
+		"end": "2024-07-30 14:59:59"
+	},
+	{
 		"version": "2.3.1",
 		"items": [],
 		"start": "2024-06-19 06:00:00",
