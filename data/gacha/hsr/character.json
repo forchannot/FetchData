@@ -1,5 +1,56 @@
 [
 	{
+		"version": "2.4.1",
+		"items": [
+			{
+				"itemId": 1217,
+				"damageType": "16",
+				"element": "wind",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u32bac/7a9f4b1cc1b378dc77d6d3b4c2361a58.png",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Character",
+				"name": "藿藿"
+			},
+			{
+				"itemId": 1215,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u32bac/f3c5b975eb0cac30641aad63dd8f0c3c.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Character",
+				"name": "寒鸦"
+			},
+			{
+				"itemId": 1207,
+				"damageType": "64",
+				"element": "imaginary",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u32bac/6515b9138c00259a1a75a7e3678d2784.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Character",
+				"name": "驭空"
+			},
+			{
+				"itemId": 1110,
+				"damageType": "32",
+				"element": "quantum",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u32bac/5fb1606f6dc1da7f4ba76718ee0666b6.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Character",
+				"name": "玲可"
+			}
+		],
+		"start": "2024-07-31 06:00:00",
+		"end": "2024-08-21 11:59:59"
+	},
+	{
 		"version": "2.3.2",
 		"items": [
 			{

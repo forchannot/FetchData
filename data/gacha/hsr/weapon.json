@@ -1,5 +1,52 @@
 [
 	{
+		"version": "2.4.1",
+		"items": [
+			{
+				"itemId": 23017,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u32bac/2294a2ee445c127c13b8cde109c52c5c.png",
+				"rankType": 5,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "惊魂夜"
+			},
+			{
+				"itemId": 21005,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u32bac/042f2e40ef7150dc63da01e5803c2629.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你"
+			},
+			{
+				"itemId": 21014,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u32bac/b91ee43114f41e14ce353d25597481e6.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Weapon",
+				"name": "此时恰好"
+			},
+			{
+				"itemId": 21006,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u32bac/b1d66b9342c1a881a509a698fee79bf8.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Weapon",
+				"name": "「我」的诞生"
+			}
+		],
+		"start": "2024-07-31 06:00:00",
+		"end": "2024-08-21 11:59:59"
+	},
+	{
 		"version": "2.3.2",
 		"items": [
 			{

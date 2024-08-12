@@ -1,5 +1,72 @@
 [
 	{
+		"version": "4.8.2",
+		"items": [
+			{
+				"itemId": 15508,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/bafb31885021e99910b1c334d140d3b8.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "若水",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12415,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/158b902766f12637cad48e030051c589.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "玛海菈的水色",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14416,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/b5150e94136e45b94022cf3e5b43805f.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪的晚星",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11402,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/19b705a67d5d924b2d245df8f22acc1e.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13407,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/f46c3ffc8ac274e4233b56ae2d44efa4.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15401,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/94207c4d5a91ed98aa78b1fa14e334e6.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-08-06 18:00:00",
+		"end": "2024-08-27 14:59:59"
+	},
+	{
 		"version": "4.8.1",
 		"items": [
 			{
@@ -80,16 +147,6 @@
 		"version": "4.7.2",
 		"items": [
 			{
-				"itemId": 11513,
-				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/fd51ed457b48d28034f2fd3ab367291b.png",
-				"rankType": 5,
-				"itemType": "Weapon",
-				"name": "静水流涌之辉",
-				"nameEn": "",
-				"element": ""
-			},
-			{
 				"itemId": 15513,
 				"weaponType": "Bow",
 				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/3c3b9ec9c69fe78571f315f1006a7b87.png",
@@ -100,12 +157,12 @@
 				"element": ""
 			},
 			{
-				"itemId": 11405,
+				"itemId": 11513,
 				"weaponType": "Sword",
-				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/453b4b31a904ffac6c999a91a9691055.png",
-				"rankType": 4,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/fd51ed457b48d28034f2fd3ab367291b.png",
+				"rankType": 5,
 				"itemType": "Weapon",
-				"name": "匣里龙吟",
+				"name": "静水流涌之辉",
 				"nameEn": "",
 				"element": ""
 			},
@@ -116,6 +173,16 @@
 				"rankType": 4,
 				"itemType": "Weapon",
 				"name": "千岩古剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11405,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/453b4b31a904ffac6c999a91a9691055.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
 				"nameEn": "",
 				"element": ""
 			},
