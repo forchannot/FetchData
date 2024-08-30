@@ -1,0 +1,1987 @@
+[
+	{
+		"entry_page_id": "3",
+		"name": "Demara Battery Mark II",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/05/29/98205622/b6651e1b9a63cc8215587a089734d310_2980011689473290533.png",
+		"display_field": {
+			"materials": "[]"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "45",
+		"name": "[Lunar] Pleniluna",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/23/178d2c1c97fbb89e8a436fa385c66d8c_8742380242085275183.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Full Moon<p>Basic Attack, Dash Attack, and Dodge Counter DMG increase by <span style=\"color: rgb(106, 168, 79)\">12%</span>.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "46",
+		"name": "[Lunar] Decrescent",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/9aea5bd2c53106611d8aecc0b156a221_5356768188165806311.png",
+		"display_field": {
+			"equipment_skill": "Waning Moon<p>Launching a Chain Attack or Ultimate increases the equipper's DMG by <span style=\"color: rgb(106, 168, 79)\">15%</span> for 6s.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "47",
+		"name": "[Lunar] Noviluna",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/c6d76cbc954b8e3a4d1ff8f48a38b5c1_8338384547198949610.png",
+		"display_field": {
+			"equipment_skill": "New Moon<p>Launching an EX Special Attack generates <span style=\"color: rgb(106, 168, 79)\">3</span> Energy for the equipper. This effect can trigger once every 12s.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "48",
+		"name": "[Reverb] Mark I",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/a2f3e67c61dab5429e92a0ca6bc5ed9d_2358166179725728251.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Changing Tides<p>Launching an EX Special Attack increases all squad members' Impact by <span style=\"color: rgb(106, 168, 79)\">8%</span> for 10s. This effect can trigger once every 20s. Passive effects of the same name do not stack.</p>"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "49",
+		"name": "[Reverb] Mark II",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/4c9a238da84c85a1879117f97f917aab_7735619464145873450.png",
+		"display_field": {
+			"equipment_skill": "Roaring Waves<p>Launching an EX Special Attack or Chain Attack increases all squad members' Anomaly Mastery and Anomaly Proficiency by <span style=\"color: rgb(147, 196, 125)\">10</span> for 10s. This effect can trigger once every 20s. Passive effects of the same name do not stack.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "50",
+		"name": "[Reverb] Mark III",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/4cb9dedbbfad708401fb3207f75fc1af_1064419650821889438.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Booming Sound<p>Launching a Chain Attack or Ultimate increases all squad members' ATK by <span style=\"color: rgb(0, 0, 0)\">&nbsp;</span><span style=\"color: rgb(106, 168, 79)\">8%</span> for 10s. This effect can trigger once every 20s. Passive effects of the same name do not stack.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "51",
+		"name": "[Vortex] Revolver",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/4a26a6db9d9defde0493552842c0d792_2673118712069976797.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Undercurrent<p>EX Special Attacks inflict <span style=\"color: rgb(106, 168, 79)\">10%</span> more Daze.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "52",
+		"name": "[Vortex] Arrow",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/8ca501a7b1cb018e715bcc16ec42dc83_5265377747145853973.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Tsunami<p>The equipper's attacks inflict <span style=\"color: rgb(106, 168, 79)\">8%</span> more Daze on their main target.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "53",
+		"name": "[Vortex] Hatchet",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/c737a49f294b49447af590c341469fda_4940823944840506938.png",
+		"display_field": {
+			"equipment_skill": "Riptide<p>Upon entering combat or switching in, the equipper's Impact increases by <span style=\"color: rgb(106, 168, 79)\">9%</span> for 10s. This effect can trigger once every 20s.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "54",
+		"name": "[Magnetic Storm] Alpha",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/34a4ccec245eb9227cb132b9d2d482b0_4569440803693444228.png",
+		"display_field": {
+			"equipment_skill": "Disordered Current<p>Accumulating Anomaly Buildup increases the equipper's Anomaly Mastery by <span style=\"color: rgb(106, 168, 79)\">25</span> for 10s. This effect can trigger once every 20s.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Anomaly"
+				],
+				"value_types": [
+					{
+						"id": "50",
+						"value": "Anomaly",
+						"mi18n_key": "filter_custom_52",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "55",
+		"name": "[Magnetic Storm] Bravo",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/0583fe10df2bce056e32eac538907076_5352268814944419541.png",
+		"display_field": {
+			"equipment_skill": "High-Voltage Surge<p>Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper generates <span style=\"color: rgb(106, 168, 79)\">25</span> Energy. This effect can trigger once every 20s.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Anomaly"
+				],
+				"value_types": [
+					{
+						"id": "50",
+						"value": "Anomaly",
+						"mi18n_key": "filter_custom_52",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "56",
+		"name": "[Magnetic Storm] Charlie",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/ee4aad73d3c9cb99d0c7f220157287a5_890915002414521580.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Charge Overload<p>Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper generates <span style=\"color: rgb(106, 168, 79)\">3.5</span> Energy. This effect can trigger once every 12s.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Anomaly"
+				],
+				"value_types": [
+					{
+						"id": "50",
+						"value": "Anomaly",
+						"mi18n_key": "filter_custom_52",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "57",
+		"name": "[Identity] Base",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/e120078fc9937ed0eb1066492e487f95_2527983435510495971.png",
+		"display_field": {
+			"equipment_skill": "Sinking Strike<p>When attacked, the equipper's DEF increases by <span style=\"color: rgb(103, 174, 32)\">20%</span> for 8s.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Defense"
+				],
+				"value_types": [
+					{
+						"id": "52",
+						"value": "Defense",
+						"mi18n_key": "filter_custom_54",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/ba974570d0627f78131b5c09ffb630f2_1789718693549714050.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "58",
+		"name": "[Identity] Inflection",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/f3125208abf98cd6e43e2a685245d41f_7210308984793219075.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Dazzle<p>When attacked, reduces the attacker's DMG by <span style=\"color: rgb(103, 174, 32)\">6%</span> for 12s.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"B"
+				],
+				"value_types": [
+					{
+						"id": "24",
+						"value": "B",
+						"mi18n_key": "filter_custom_46",
+						"icon": "",
+						"enum_string": "b"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Defense"
+				],
+				"value_types": [
+					{
+						"id": "52",
+						"value": "Defense",
+						"mi18n_key": "filter_custom_54",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/ba974570d0627f78131b5c09ffb630f2_1789718693549714050.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "59",
+		"name": "Street Superstar",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/c0dde6fed90278aa89031c9f9f37ec7a_8614161933780309250.png",
+		"display_field": {
+			"equipment_skill": "Flaming Bars<p>Whenever a squad member launches a Chain Attack, the equipper gains a Charge stack, stacking up to 3 times. Upon activating their own Ultimate, the equipper consumes all Charge stacks, and each stack increases the skill's DMG by <span style=\"color: rgb(75, 152, 35)\">15%</span>.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "60",
+		"name": "Slice of Time",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/6c94c2a105cb4bbcf09b01e00581f10b_5994255127158190523.png",
+		"display_field": {
+			"materials": "[]"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "61",
+		"name": "Rainforest Gourmet",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/247d9d4dc8e23b6a4072835356d2792e_2674252433195249997.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Dinner's Ready!<p>Whenever your squad consumes 10 Energy, the equipper gains a buff that increases ATK by <span style=\"color: rgb(75, 152, 35)\">2.5%</span> for 10s, stacking up to 10 times. The duration of each stack is calculated separately.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Anomaly"
+				],
+				"value_types": [
+					{
+						"id": "50",
+						"value": "Anomaly",
+						"mi18n_key": "filter_custom_52",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "62",
+		"name": "Starlight Engine",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/ce67c4580b653f4487b17b409e76d888_6604204669033803289.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Knight Plummel<p>Launching an Assist Attack increases the equipper's ATK by <span style=\"color: rgb(75, 152, 35)\">16%</span> for 12s.</p>"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "63",
+		"name": "Steam Oven",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/cdc8672cca4b08f85b6805ee255b0990_8217408805846710874.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Thick Broth<p>For every 10 Energy accumulated by your squad, the equipper's Impact increases by <span style=\"color: rgb(106, 168, 79)\">2%</span>, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "64",
+		"name": "Precious Fossilized Core",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/68cd79b8cc5fc3c21d68ac1d64c74b9c_4141920817216082416.png",
+		"display_field": {
+			"equipment_skill": "Behemoth Hunter<p>When the target's HP is no lower than <span style=\"color: rgb(106, 168, 79)\">50%</span>, the equipper inflicts <span style=\"color: rgb(106, 168, 79)\">10%</span> more Daze. When the target's HP is no lower than <span style=\"color: rgb(106, 168, 79)\">75%</span>, this bonus is further enhanced by <span style=\"color: rgb(106, 168, 79)\">10%</span>.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "65",
+		"name": "Original Transmorpher",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/dfd5648949aa1a5286dc189335bcc8f4_3307768919842540691.png",
+		"display_field": {
+			"equipment_skill": "Starlight Knight Flying Kick<p>Increases Max HP by <span style=\"color: rgb(106, 168, 79)\">8%</span>. When attacked, the equipper's Impact is increased by <span style=\"color: rgb(106, 168, 79)\">10%</span> for 12s.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Defense"
+				],
+				"value_types": [
+					{
+						"id": "52",
+						"value": "Defense",
+						"mi18n_key": "filter_custom_54",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/ba974570d0627f78131b5c09ffb630f2_1789718693549714050.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "66",
+		"name": "Weeping Gemini",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/b38daaf10a4a617ab983128bcb9ede1b_8053171427379220504.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Lingering Cries<p>Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by <span style=\"color: rgb(106, 168, 79)\">30</span>, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Anomaly"
+				],
+				"value_types": [
+					{
+						"id": "50",
+						"value": "Anomaly",
+						"mi18n_key": "filter_custom_52",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "67",
+		"name": "Electro-Lip Gloss",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/336e1dec31d4240f95655aff94d3730f_3065410309352357180.png",
+		"display_field": {},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Anomaly"
+				],
+				"value_types": [
+					{
+						"id": "50",
+						"value": "Anomaly",
+						"mi18n_key": "filter_custom_52",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "68",
+		"name": "Bunny Band",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/86fc6746614138de80d380b8c284c975_1112372090618892522.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Pet the Bunny<p>Increases Max HP by <span style=\"color: rgb(106, 168, 79)\">8%</span>. Increases the equipper's ATK by <span style=\"color: rgb(106, 168, 79)\">10%</span> when they are shielded.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Defense"
+				],
+				"value_types": [
+					{
+						"id": "52",
+						"value": "Defense",
+						"mi18n_key": "filter_custom_54",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/ba974570d0627f78131b5c09ffb630f2_1789718693549714050.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "69",
+		"name": "Spring Embrace",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/77d13a1b07199eca1184947cbfc5dca6_362982672893142375.png",
+		"display_field": {},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Defense"
+				],
+				"value_types": [
+					{
+						"id": "52",
+						"value": "Defense",
+						"mi18n_key": "filter_custom_54",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/ba974570d0627f78131b5c09ffb630f2_1789718693549714050.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "71",
+		"name": "The Vault",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/2021b8577a58805c3a25c7ac63e827de_3065549949730004307.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Money-Lover<p>When equipped, dealing <span style=\"color: rgb(223, 84, 255)\">Ether DMG</span> using an EX Special Attack, Chain Attack, or Ultimate increases all squad members' DMG against the target by <span style=\"color: rgb(106, 168, 79)\">15%</span> and increases the equipper's Energy Regen by <span style=\"color: rgb(106, 168, 79)\">0.5</span>/s for 2s. Passive effects of the same name do not stack.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "72",
+		"name": "Housekeeper",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/db725981632c467d5c6cbb77657498ce_7207189592451608323.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Safe Household Saw<p>While off-field, Energy Regen increases by <span style=\"color: rgb(75, 152, 35)\">0.45</span>/s. When an EX Special Attack hits an enemy, the equipper's <span style=\"color: rgb(255, 235, 97)\">Physical DMG</span> increases by <span style=\"color: rgb(75, 152, 35)\">3%</span>, stacking up to 15 times and lasting 1s. Retriggering refreshes duration.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "73",
+		"name": "Starlight Engine Replica",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/da1d61b78ac58994267108d486e1d607_4604412153787348452.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Knight Beam: Change<p>Increases the equipper's <span style=\"color: rgb(255, 235, 97)\">Physical DMG</span> by <span style=\"color: rgb(75, 152, 35)\">36%</span> for 8s upon hitting an enemy no less than 6 meters away with a Basic Attack or Dash Attack.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "74",
+		"name": "Drill Rig - Red Axis",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/51eea17bcd948bb74f838276c6637121_152065707901586759.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Hell's Generator<p>When launching an EX Special Attack, <span style=\"color: rgb(71, 199, 253)\">Electric DMG</span> from Basic Attacks and Dash Attacks increases by <span style=\"color: rgb(106, 168, 79)\">50%</span> for 10s. This effect can trigger once every 15s.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "75",
+		"name": "Big Cylinder",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/2516f089225f5e24a3b94e2fc5c4efd9_419873227136385435.png",
+		"display_field": {
+			"equipment_skill": "Ten Ton Top<p>Reduces DMG taken by <span style=\"color: rgb(103, 174, 32)\">7.5%</span>. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal <span style=\"color: rgb(103, 174, 32)\">600%</span> of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.</p>",
+			"materials": "[]"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Defense"
+				],
+				"value_types": [
+					{
+						"id": "52",
+						"value": "Defense",
+						"mi18n_key": "filter_custom_54",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/ba974570d0627f78131b5c09ffb630f2_1789718693549714050.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "76",
+		"name": "Bashful Demon",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/1f30c15bf69442c4d4194f38b12ffc70_913108221502838372.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Visage of Greed<p>Increases <span style=\"color: rgb(152, 239, 240)\">Ice DMG</span> by <span style=\"color: rgb(106, 168, 79)\">15%</span>. When launching an EX Special Attack, all squad members' ATK increases by <span style=\"color: rgb(106, 168, 79)\">2%</span> for 12s, stacking up to 4 times. Retriggering refreshes duration. Passive effects of the same name do not stack.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "77",
+		"name": "Cannon Rotor",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/d70339497b7220ed85fe6cc88524d991_2331968646945133750.png",
+		"display_field": {},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "78",
+		"name": "Unfettered Game Ball",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/a659e9bd89593804c966577ea05674b1_1691654266621243181.png",
+		"display_field": {},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "79",
+		"name": "Six Shooter",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/a0744ea07b5a4d542cde0ee4b81f7084_6339759383361167585.png",
+		"display_field": {},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "80",
+		"name": "Steel Cushion",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/27/a7fc40013025c8ed2839deac526f2a6e_8950822861191014269.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Metal Cat Claws<p>Increases <span style=\"color: rgb(255, 235, 97)\">Physical DMG</span> by <span style=\"color: rgb(106, 168, 79)\">20%</span>. The equipper's DMG increases by <span style=\"color: rgb(106, 168, 79)\">25%</span> when attacking the enemy from behind.</p>"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "81",
+		"name": "The Brimstone",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/24ddd958687a9320d3c4c021d7c21183_9036957407421452984.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Scorching Breath<p>Increases <span style=\"color: rgb(248, 79, 54)\">Fire DMG</span> by <span style=\"color: rgb(106, 168, 79)\">20%</span>. Upon hitting an enemy with a Basic Attack, Dash Attack, or Dodge Counter, the equipper's ATK increases by <span style=\"color: rgb(106, 168, 79)\">2%</span> for 8s, stacking up to 8 times. This effect can trigger once every 0.5s. The duration of each stack is calculated separately.</p>"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "82",
+		"name": "Hellfire Gears",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/8c3175f84212c34583bcbfdd1625508d_4767881933208113143.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Passionate Construction<p>Increases <span style=\"color: rgb(248, 79, 54)\">Fire DMG</span> by <span style=\"color: rgb(106, 168, 79)\">20%</span>. When using an EX Special Attack, the equipper's Impact increases by <span style=\"color: rgb(106, 168, 79)\">10%</span> for 10s, stacking up to 2 times. The duration of each stack is calculated separately.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "83",
+		"name": "The Restrained",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/639c8fe847c4cb93ae21a9b3ef0784e0_2201212053026817330.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Binding Chains<p>Increases <span style=\"color: rgb(152, 239, 240)\">Ice DMG</span> by <span style=\"color: rgb(106, 168, 79)\">20%</span>. Basic Attack DMG and Daze increases by <span style=\"color: rgb(106, 168, 79)\">20%</span>.</p>"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "84",
+		"name": "Fusion Compiler",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/bb37a8b17006c2a4f0b67c912dbf8638_7324575882580030643.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Data Flood<p>Increases <span style=\"color: rgb(71, 199, 253)\">Electric DMG</span> by <span style=\"color: rgb(106, 168, 79)\">20%</span>. When using a Special Attack or an EX Special Attack, the equipper's Anomaly Proficiency is increased by <span style=\"color: rgb(106, 168, 79)\">25</span> for 8s, stacking up to 3 times. The duration of each stack is calculated separately.</p>"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Anomaly"
+				],
+				"value_types": [
+					{
+						"id": "50",
+						"value": "Anomaly",
+						"mi18n_key": "filter_custom_52",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "85",
+		"name": "Deep Sea Visitor",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/dae26d43c0d188d2f4e555e52a18962c_2740317081228095773.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Lord of Seas<p>Increases <span style=\"color: rgb(152, 239, 240)\">Ice DMG</span> by <span style=\"color: rgb(106, 168, 79)\">25%</span>. Dealing <span style=\"color: rgb(152, 239, 240)\">Ice DMG</span> using<strong> </strong>Dash Attacks or Dodge Counters increases the equipper's CRIT Rate by <span style=\"color: rgb(106, 168, 79)\">20%</span> for 8s.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "86",
+		"name": "Weeping Cradle",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/9f4924ffe81c410503bae88fa2091112_3523828991100569349.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Punishment<p>While off-field, Energy Regen increases by <span style=\"color: rgb(106, 168, 79)\">0.6</span>/s. Dealing <span style=\"color: rgb(71, 199, 253)\">Electric DMG</span> increases the DMG taken by the target from all squad members by <span style=\"color: rgb(106, 168, 79)\">15%</span> for 3s. During this period, this effect is further increased by <span style=\"color: rgb(106, 168, 79)\">2.5%</span> every 0.5s, up to a maximum additional increase of <span style=\"color: rgb(106, 168, 79)\">15%</span>. Repeated triggers only refreshes its duration without refreshing the DMG increase effect. Passive effects of the same name do not stack.</p>"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "87",
+		"name": "Riot Suppressor Mark VI",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/ea6e21561ddb1c48023bae5cfbee674d_1735414023453250545.png",
+		"display_field": {
+			"materials": "[]",
+			"equipment_skill": "Security Patrol<p>Increases <span style=\"color: rgb(223, 84, 255)\">Ether DMG</span> by <span style=\"color: rgb(75, 152, 35)\">25%</span>. Launching an EX Special Attack grants the equipper 8 Charge stacks, stacking up to 8 times. Whenever the equipper's Basic Attack or<strong> </strong>Dash Attack deals <span style=\"color: rgb(223, 84, 255)\">Ether DMG</span>, consumes a Charge stack and increases the skill's DMG by <span style=\"color: rgb(75, 152, 35)\">45%</span>.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "273",
+		"name": "Kaboom the Cannon",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/07/10/98205622/891107f23e56cbac361562e236d64db7_7673917629847429576.png",
+		"display_field": {
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_0": "{\"dynamic\":{}}",
+			"materials": "[]",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"equipment_skill": "Stampede Accident<p>When any friendly unit in the squad attacks and hits an enemy, all squad member’s ATK increases by <span style=\"color: rgb(43, 173, 0)\">2.5%</span>/<span style=\"color: #2bad00\">2.8%</span>/<span style=\"color: #2bad00\">3.2%</span>/<span style=\"color: #2bad00\">2.6%</span>/<span style=\"color: #2bad00\">4%</span> for 8s, stacking up to 4 times. The duration of each stack is calculated separately, and each friendly unit can provide 1 stack of the buff. Passive effects of the same name do not stack.</p>"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "51",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "274",
+		"name": "Roaring Ride",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/07/10/98205622/217697cd68f202661dc1480bdaca4414_9009881563518274210.png",
+		"display_field": {
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"materials": "[]",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"attr_level_0": "{\"dynamic\":{}}",
+			"equipment_skill": "Collision Potential<p>When EX Special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. The same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once:</p><p>Increases the equipper’s ATK by <span style=\"color: rgb(43, 173, 0)\">8%</span>/<span style=\"color: #2bad00\">9.2%</span>/<span style=\"color: #2bad00\">10.4%</span>/<span style=\"color: #2bad00\">11.6%</span>/<span style=\"color: #2bad00\">12.8%</span>, increases the equipper’s Anomaly Proficiency by <span style=\"color: rgb(43, 173, 0)\">40</span>/<span style=\"color: #2bad00\">46</span>/<span style=\"color: #2bad00\">52</span>/<span style=\"color: #2bad00\">58</span>/<span style=\"color: #2bad00\">64</span>, or increases the equipper’s Anomaly Buildup Rate by <span style=\"color: rgb(43, 173, 0)\">25%</span>/<span style=\"color: #2bad00\">28%</span>/<span style=\"color: #2bad00\">32%</span>/<span style=\"color: #2bad00\">36%</span>/<span style=\"color: #2bad00\">40%</span>.</p>",
+			"attr_level_10": "{\"dynamic\":{}}"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Anomaly"
+				],
+				"value_types": [
+					{
+						"id": "50",
+						"value": "Anomaly",
+						"mi18n_key": "filter_custom_52",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "354",
+		"name": "Gilded Blossom",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/12/5b63bca946b316faea7131615d2fcb6c_4411052846777763566.png",
+		"display_field": {
+			"equipment_skill": "Extraordinary Anti-Theft Measures<p>ATK increases by <span style=\"color: #2bad00\">6%</span>/<span style=\"color: #2bad00\">6.9%</span>/<span style=\"color: #2bad00\">7.8%</span>/<span style=\"color: #2bad00\">8.7%</span>/<span style=\"color: #2bad00\">9.6%</span>, and DMG dealt by EX Special Attack increases by <span style=\"color: #2bad00\">15%</span>/<span style=\"color: #2bad00\">17.2%</span>/<span style=\"color: #2bad00\">19.5%</span>/<span style=\"color: #2bad00\">21.8%</span>/<span style=\"color: #2bad00\">24%</span>.</p>",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_0": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_10": "{\"dynamic\":{}}",
+			"materials": "[]",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}"
+		},
+		"filter_values": {
+			"filter_key_13": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "48",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"w_engine_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "23",
+						"value": "A",
+						"mi18n_key": "filter_custom_47",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "355",
+		"name": "Ice-Jade Teapot",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/12/7e8bd5f214e038f98f2f8d11a66855d6_2591466064871786241.png",
+		"display_field": {
+			"equipment_skill": "Ringing Melody<p>When a Basic Attack hits an enemy, gain 1 stack of Tea-riffic. Each stack of Tea-riffic increases the user’s Impact by <span style=\"color: rgb(43, 173, 0)\">0.7%/0.88%/1.05%/1.22%/1.4%</span>, stacking up to 30 times, and lasting for 8s. The duration of each stack is calculated separately. Upon acquiring Tea-riffic, if the equipper possesses stacks of Tea-riffic greater than or equal to 15, all squad members’ DMG is increased by <span style=\"color: rgb(43, 173, 0)\">20%</span>/<span style=\"color: rgb(43, 173, 0)\">23%</span>/<span style=\"color: rgb(43, 173, 0)\">26%</span>/<span style=\"color: rgb(43, 173, 0)\">29%</span>/<span style=\"color: rgb(43, 173, 0)\">32%</span> for 10s.</p><p>Passive effects of the same name do not stack.</p>",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"materials": "[]",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_0": "{\"dynamic\":{}}"
+		},
+		"filter_values": {
+			"w_engine_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "22",
+						"value": "S",
+						"mi18n_key": "filter_custom_48",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			},
+			"filter_key_13": {
+				"values": [
+					"Stun"
+				],
+				"value_types": [
+					{
+						"id": "49",
+						"value": "Stun",
+						"mi18n_key": "filter_custom_51",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	}
+]
