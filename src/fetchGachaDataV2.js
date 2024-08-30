@@ -9,7 +9,7 @@ const data302 = require("../data/mys/gi/weapon.json")
 const data11 = require("../data/mys/hsr/avatar.json")
 const data12 = require("../data/mys/hsr/equipment.json")
 
-const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8]]
+const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8],[5, 8]]
 
 const versions = versionNum.map(([a, b]) => Array.from(new Array(b + 1).keys()).map(v => [`${a}.${v}.1`, `${a}.${v}.2`].join(';')).join(";")).join(";").split(";")
 
