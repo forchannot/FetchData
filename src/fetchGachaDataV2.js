@@ -3,11 +3,50 @@ const YAML = require('yaml')
 const fs = require('fs')
 const path = require('path')
 
+// 动态加载JSON文件的函数
+function requireJson(relativePath) {
+    try {
+        const fullPath = path.join(__dirname, relativePath); // 构建完整的文件路径
+        const fileContent = fs.readFileSync(fullPath, 'utf8'); // 读取文件内容
+        return JSON.parse(fileContent); // 解析JSON并返回
+    } catch (error) {
+        console.error('Error reading JSON file:', error);
+        return null;
+    }
+}
 
-const data301 = require("../data/mys/gi/avatar.json")
-const data302 = require("../data/mys/gi/weapon.json")
-const data11 = require("../data/mys/hsr/avatar.json")
-const data12 = require("../data/mys/hsr/equipment.json")
+function getRelativePath(game, type, language = "zh-cn") {
+    return `../data/hoyowiki/${game}/${language}/${type}.json`
+}
+
+//首字母大写
+const capitalizeFirstLetter = (string) => string.charAt(0).toUpperCase() + string.slice(1);
+
+const getNameEN=(game,type,id)=>{
+    let data = requireJson(getRelativePath(game, type.toLowerCase(),"en-us"))
+    let find = data.find(a=>+a.entry_page_id===id)
+    return find?.name;
+
+}
+
+let params = {
+    11: {
+        game: "hsr",
+        type: "Character"
+    },
+    12: {
+        game: "hsr",
+        type: "Weapon"
+    },
+    301: {
+        game: "genshin",
+        type: "Character"
+    },
+    302: {
+        game: "genshin",
+        type: "Weapon"
+    },
+}
 
 const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8],[5, 8]]
 
@@ -28,16 +67,17 @@ let nickNames = {
     "鼬鼠党欢迎你": "鼹鼠党欢迎你",
     "点个关注吧": "点个关注吧！",
     "『我』的诞生":"「我」的诞生",
+    "三月七":"三月七 - 存护",
 }
 
 const getName = name => findObj(name, nickNames)
 
 let weaponTypes = {
-    "1": "Sword",
-    "10": "Catalyst",
-    "11": "Claymore",
-    "12": "Bow",
-    "13": "Polearm"
+    "单手剑": "Sword",
+    "法器": "Catalyst",
+    "双手剑": "Claymore",
+    "弓": "Bow",
+    "长柄武器": "Polearm"
 }
 
 let elements = {
@@ -51,23 +91,17 @@ let elements = {
 }
 
 let damageTypes = {
-    "1": "physical",
-    "2": "fire",
-    "4": "ice",
-    "8": "thunder",
-    "16": "wind",
-    "32": "quantum",
-    "64": "imaginary",
+    "lightning": "thunder",
 }
 
 let paths = {
-    "1": "warrior",
-    "2": "rogue",
-    "3": "mage",
-    "4": "shaman",
-    "5": "warlock",
-    "6": "knight",
-    "7": "priest",
+    "destruction": "warrior",
+    "hunt": "rogue",
+    "erudition": "mage",
+    "harmony": "shaman",
+    "nihility": "warlock",
+    "preservation": "knight",
+    "abundance": "priest",
 }
 
 const getWeaponType = name => findObj(name, weaponTypes)
@@ -76,56 +110,89 @@ const getDamageType = name => findObj(name, damageTypes)
 const getPath = name => findObj(name, paths)
 
 const getId2 = (name, pool) => {
+    let {game, type} = params[pool]
+    let data = requireJson(getRelativePath(game, type.toLowerCase()))
+    let name2 = getName(name)
+
+    let find = data.find(a => a.name === name2)
+    if (!find) {
+        console.log(`${pool},${name}无对应数据`)
+        return
+    }
+
+    let returnObj={
+        itemId: +find.entry_page_id,
+        imageUrl: new URL(find.icon_url).pathname,
+        itemType: type,
+        name: find.name,
+        nameEn:getNameEN(game,type.toLowerCase(),+find.entry_page_id)
+    }
+
     switch (pool) {
-        case 11:
-        case 12: {
-            let data = pool === 11 ? data11 : data12
-            let name2 = getName(name)
-
-            let find = data.find(a => a.item_name === name2)
-            if (!find) {
-                console.log(`${pool},${name}无对应数据`)
-                return
-            }
-            let imageUrl = find.icon_url ? find.icon_url : find.item_url
+        case 11: {
+            let {
+                filter_values: {
+                    character_combat_type: {value_types: [{enum_string: character_combat_type}]},
+                    character_paths: {value_types: [{enum_string: character_paths}]},
+                    character_rarity: {value_types: [{enum_string: rarity}]}
+                }
+            } = find
             return {
-                itemId: +find.item_id,
-                damageType: find.damage_type,
-                element: getDamageType(find.damage_type),
-                imageUrl: imageUrl?.replace("https://act-webstatic.mihoyo.com", ""),
-                rankType: +find.rarity,
-                avatarBaseType: find.avatar_base_type,
-                weaponType: getPath(find.avatar_base_type),
-                itemType: pool === 11 ? "Character" : "Weapon",
-                name: find.item_name,
-
+                ...returnObj,
+                damageType: character_combat_type,
+                element: getDamageType(character_combat_type),
+                rankType: +rarity,
+                avatarBaseType: character_paths,
+                weaponType: getPath(character_paths),
             }
         }
-        case 301:
-        case 302: {
-            let data = pool === 301 ? data301 : data302
-            let name2 = getName(name)
-            let find = data.find(a => a.name === name2)
-            if (!find) {
-                console.log(`${pool},${name}无对应数据`)
-                return
-            }
+        case 12: {
+            let {
+                filter_values: {
+                    equipment_paths: {value_types: [{enum_string: character_paths}]},
+                    equipment_rarity: {value_types: [{enum_string: rarity}]}
+                }
+            } = find
             return {
-                itemId: find.id,
-                weaponType: getWeaponType(find.weapon_cat_id),
-                imageUrl: find.icon?.replace("https://act-webstatic.mihoyo.com", ""),
-                rankType: find.avatar_level ? find.avatar_level : find.weapon_level,
-                itemType: pool === 301 ? "Character" : "Weapon",
-                name: find.name,
-                nameEn: "",
-                element: getElement(find.element_attr_id)
+                ...returnObj,
+                rankType: +rarity,
+                avatarBaseType: character_paths,
+                weaponType: getPath(character_paths),
+            }
+        }
+        case 301: {
+            let {
+                filter_values: {
+                    character_vision: {value_types: [{enum_string: character_vision}]},
+                    character_weapon: {values: [character_weapon]},
+                    character_rarity: {value_types: [{enum_string: rarity}]}
+                }
+            } = find
+            return {
+                ...returnObj,
+                weaponType: getWeaponType(character_weapon),
+                rankType: +rarity,
+                itemType: type,
+                element: capitalizeFirstLetter(character_vision)
+            }
+        }
+        case 302: {
+            let {
+                filter_values: {
+                    weapon_type: {values: [character_weapon]},
+                    weapon_rarity: {value_types: [{enum_string: rarity}]}
+                }
+            } = find
+            return {
+                ...returnObj,
+                weaponType: getWeaponType(character_weapon),
+                rankType: +rarity,
             }
         }
         default:
             console.log(`${pool},${name}无对应数据`)
     }
 }
-
 
 const getVersion = (i, pool) => {
     let versionsTemp = versions.slice(0)
