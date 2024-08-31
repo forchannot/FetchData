@@ -1,5 +1,71 @@
 [
 	{
+		"items": [
+			{
+				"itemId": 11503,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/a0ad4c3c20809737d657127435308e1f.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "苍古自由之誓",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11401,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/2b90c81c624f52cb232d74088af97adf.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12401,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/2fe4201bed1fa4828596f6d52e1b6ba3.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13401,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/1d8abfb25a5e8a7285b715ef51a3aec9.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14403,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/ac52a62902d55d471db654200bc24b55.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15402,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/85c82d0a76efa0cce91c3c6c9455fd25.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "绝弦",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-08-28 06:00:00",
+		"end": "2024-09-17 17:59:59"
+	},
+	{
 		"version": "4.8.2",
 		"items": [
 			{

@@ -1,5 +1,74 @@
 [
 	{
+		"version": "2.5.1",
+		"items": [
+			{
+				"itemId": 1005,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/741f1960f0b0548689fd7ca3cdef185b.png",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "卡芙卡"
+			},
+			{
+				"itemId": 1009,
+				"damageType": "2",
+				"element": "fire",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/dcad49e78f93d548f094b9b3193300b5.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Character",
+				"name": "艾丝妲"
+			},
+			{
+				"itemId": 1111,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/63bce564ac550300e6b93f05e95759f9.png",
+				"rankType": 4,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Character",
+				"name": "卢卡"
+			}
+		],
+		"start": "2024-09-10 06:00:00",
+		"end": "2024-10-02 11:59:59"
+	},
+	{
+		"version": "2.4.2",
+		"items": [
+			{
+				"itemId": 1109,
+				"damageType": "2",
+				"element": "fire",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4ff9b312df9c47c3ac333c242b633760.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "虎克"
+			},
+			{
+				"itemId": 1008,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/938257bd954fcaa111c70581707b70f6.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "阿兰"
+			}
+		],
+		"start": "2024-08-21 12:00:00",
+		"end": "2024-09-09 14:59:59"
+	},
+	{
 		"version": "2.4.1",
 		"items": [
 			{
