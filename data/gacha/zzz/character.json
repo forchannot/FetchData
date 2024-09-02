@@ -3,30 +3,16 @@
 		"version": "1.1.2",
 		"items": [
 			{
-				"itemId": 368,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/26/87fcb83576a57e1aae31dfa0d6445b68_3499070425918560638.png",
-				"itemType": "Character",
-				"name": "Jane Doe",
-				"nameEn": "Jane Doe"
-			},
-			{
-				"itemId": 369,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/26/b2f8135275830a304ab2e92b2543d95c_927816365385918993.png",
-				"itemType": "Character",
-				"name": "Seth Lowell",
-				"nameEn": "Seth Lowell"
-			},
-			{
 				"itemId": 2,
 				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/43aeb29d176e10c9713b3b9b6ac0dd3a_2384682618213467101.png",
 				"itemType": "Character",
 				"name": "安比·德玛拉",
 				"nameEn": "Anby Demara",
-				"weaponType": "breakthrough",
-				"weaponTypeCN": "Stun",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
 				"rankType": 4,
-				"element": "electric",
-				"elementCN": "Electric"
+				"element": "Electric",
+				"elementCN": "电属性"
 			}
 		],
 		"start": "2024-09-04 12:00:00",
@@ -41,11 +27,11 @@
 				"itemType": "Character",
 				"name": "青衣",
 				"nameEn": "Qingyi",
-				"weaponType": "breakthrough",
-				"weaponTypeCN": "Stun",
-				"rankType": 4,
-				"element": "electric",
-				"elementCN": "Electric"
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
 			},
 			{
 				"itemId": 19,
@@ -53,11 +39,11 @@
 				"itemType": "Character",
 				"name": "比利·奇德",
 				"nameEn": "Billy Kid",
-				"weaponType": "attack",
-				"weaponTypeCN": "Attack",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 4,
-				"element": "physical",
-				"elementCN": "Physical"
+				"element": "Physical",
+				"elementCN": "物理"
 			},
 			{
 				"itemId": 23,
@@ -65,11 +51,11 @@
 				"itemType": "Character",
 				"name": "可琳·威克斯",
 				"nameEn": "Corin Wickes",
-				"weaponType": "attack",
-				"weaponTypeCN": "Attack",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 4,
-				"element": "physical",
-				"elementCN": "Physical"
+				"element": "Physical",
+				"elementCN": "物理"
 			}
 		],
 		"start": "2024-08-14 06:00:00",
@@ -84,11 +70,11 @@
 				"itemType": "Character",
 				"name": "朱鸢",
 				"nameEn": "Zhu Yuan",
-				"weaponType": "attack",
-				"weaponTypeCN": "Attack",
-				"rankType": 4,
-				"element": "ether",
-				"elementCN": "Ether"
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
 			},
 			{
 				"itemId": 20,
@@ -96,11 +82,11 @@
 				"itemType": "Character",
 				"name": "妮可·德玛拉",
 				"nameEn": "Nicole Demara",
-				"weaponType": "support",
-				"weaponTypeCN": "Support",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
 				"rankType": 4,
-				"element": "ether",
-				"elementCN": "Ether"
+				"element": "Ether",
+				"elementCN": "以太"
 			},
 			{
 				"itemId": 25,
@@ -108,11 +94,11 @@
 				"itemType": "Character",
 				"name": "本·比格",
 				"nameEn": "Ben Bigger",
-				"weaponType": "defensive",
-				"weaponTypeCN": "Defense",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
 				"rankType": 4,
-				"element": "fire",
-				"elementCN": "Fire"
+				"element": "Fire",
+				"elementCN": "火属性"
 			}
 		],
 		"start": "2024-07-24 12:00:00",
@@ -127,11 +113,11 @@
 				"itemType": "Character",
 				"name": "艾莲·乔",
 				"nameEn": "Ellen Joe",
-				"weaponType": "attack",
-				"weaponTypeCN": "Attack",
-				"rankType": 4,
-				"element": "ice",
-				"elementCN": "Ice"
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
 			},
 			{
 				"itemId": 89,
@@ -139,11 +125,11 @@
 				"itemType": "Character",
 				"name": "苍角",
 				"nameEn": "Soukaku",
-				"weaponType": "support",
-				"weaponTypeCN": "Support",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
 				"rankType": 4,
-				"element": "ice",
-				"elementCN": "Ice"
+				"element": "Ice",
+				"elementCN": "冰属性"
 			},
 			{
 				"itemId": 24,
@@ -151,11 +137,11 @@
 				"itemType": "Character",
 				"name": "安东 · 伊万诺夫",
 				"nameEn": "Anton Ivanov",
-				"weaponType": "attack",
-				"weaponTypeCN": "Attack",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 4,
-				"element": "electric",
-				"elementCN": "Electric"
+				"element": "Electric",
+				"elementCN": "电属性"
 			}
 		],
 		"start": "2024-07-04 06:00:00",

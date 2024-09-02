@@ -9,6 +9,7 @@
 				"name": "德玛拉电池Ⅱ型",
 				"nameEn": "Demara Battery Mark II",
 				"weaponType": "Stun",
+				"weaponTypeCN": "Stun",
 				"rankType": 4
 			}
 		],
@@ -25,6 +26,7 @@
 				"name": "玉壶青冰",
 				"nameEn": "Ice-Jade Teapot",
 				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
 				"rankType": 5
 			},
 			{
@@ -34,6 +36,7 @@
 				"name": "仿制星徽引擎",
 				"nameEn": "Starlight Engine Replica",
 				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 4
 			},
 			{
@@ -43,6 +46,7 @@
 				"name": "家政员",
 				"nameEn": "Housekeeper",
 				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 4
 			}
 		],
@@ -59,6 +63,7 @@
 				"name": "防暴者VI型",
 				"nameEn": "Riot Suppressor Mark VI",
 				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 5
 			},
 			{
@@ -68,6 +73,7 @@
 				"name": "聚宝箱",
 				"nameEn": "The Vault",
 				"weaponType": "Support",
+				"weaponTypeCN": "支援",
 				"rankType": 4
 			},
 			{
@@ -77,6 +83,7 @@
 				"name": "比格气缸",
 				"nameEn": "Big Cylinder",
 				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
 				"rankType": 4
 			}
 		],
@@ -93,6 +100,7 @@
 				"name": "深海访客",
 				"nameEn": "Deep Sea Visitor",
 				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 5
 			},
 			{
@@ -102,6 +110,7 @@
 				"name": "含羞恶面",
 				"nameEn": "Bashful Demon",
 				"weaponType": "Support",
+				"weaponTypeCN": "支援",
 				"rankType": 4
 			},
 			{
@@ -111,6 +120,7 @@
 				"name": "旋钻机-赤轴",
 				"nameEn": "Drill Rig - Red Axis",
 				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 4
 			}
 		],
