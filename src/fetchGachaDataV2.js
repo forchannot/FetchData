@@ -6,12 +6,12 @@ const path = require('path')
 // 动态加载JSON文件的函数
 function requireJson(relativePath) {
     try {
-        const fullPath = path.join(__dirname, relativePath); // 构建完整的文件路径
-        const fileContent = fs.readFileSync(fullPath, 'utf8'); // 读取文件内容
-        return JSON.parse(fileContent); // 解析JSON并返回
+        const fullPath = path.join(__dirname, relativePath) // 构建完整的文件路径
+        const fileContent = fs.readFileSync(fullPath, 'utf8') // 读取文件内容
+        return JSON.parse(fileContent) // 解析JSON并返回
     } catch (error) {
-        console.error('Error reading JSON file:', error);
-        return null;
+        console.error('Error reading JSON file:', error)
+        return null
     }
 }
 
@@ -20,13 +20,16 @@ function getRelativePath(game, type, language = "zh-cn") {
 }
 
 //首字母大写
-const capitalizeFirstLetter = (string) => string.charAt(0).toUpperCase() + string.slice(1);
+const capitalizeFirstLetter = (string) => string.charAt(0).toUpperCase() + string.slice(1)
 
-const getNameEN=(game,type,id)=>{
-    let data = requireJson(getRelativePath(game, type.toLowerCase(),"en-us"))
-    let find = data.find(a=>+a.entry_page_id===id)
-    return find?.name;
+const getDataEN = (game, type, id, language = "en-us") => {
+    let data = requireJson(getRelativePath(game, type.toLowerCase(), language))
+    return data.find(a => +a.entry_page_id === id)
+}
 
+const getNameEN = (game, type, id, language = "en-us") => {
+    let find = getDataEN(game, type, id, language)
+    return find?.name
 }
 
 let params = {
@@ -46,9 +49,18 @@ let params = {
         game: "genshin",
         type: "Weapon"
     },
+    2001: {
+        game: "zzz",
+        type: "Character"
+    },
+    3001: {
+        game: "zzz",
+        type: "Weapon"
+    },
+
 }
 
-const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8],[5, 8]]
+const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8], [5, 8]]
 
 const versions = versionNum.map(([a, b]) => Array.from(new Array(b + 1).keys()).map(v => [`${a}.${v}.1`, `${a}.${v}.2`].join(';')).join(";")).join(";").split(";")
 
@@ -66,8 +78,8 @@ const findObj = (name, Obj) => {
 let nickNames = {
     "鼬鼠党欢迎你": "鼹鼠党欢迎你",
     "点个关注吧": "点个关注吧！",
-    "『我』的诞生":"「我」的诞生",
-    "三月七":"三月七 - 存护",
+    "『我』的诞生": "「我」的诞生",
+    "三月七": "三月七 - 存护",
 }
 
 const getName = name => findObj(name, nickNames)
@@ -114,18 +126,22 @@ const getId2 = (name, pool) => {
     let data = requireJson(getRelativePath(game, type.toLowerCase()))
     let name2 = getName(name)
 
-    let find = data.find(a => a.name === name2)
+    let find = data.find(a => (pool === 2001 ? a.name.includes(name2) : a.name === name2))
     if (!find) {
         console.log(`${pool},${name}无对应数据`)
         return
     }
 
-    let returnObj={
+    if (pool === 2001 || pool === 3001) {
+        find = getDataEN(game, type.toLowerCase(), +find.entry_page_id)
+    }
+
+    let returnObj = {
         itemId: +find.entry_page_id,
         imageUrl: new URL(find.icon_url).pathname,
         itemType: type,
         name: find.name,
-        nameEn:getNameEN(game,type.toLowerCase(),+find.entry_page_id)
+        nameEn: getNameEN(game, type.toLowerCase(), +find.entry_page_id)
     }
 
     switch (pool) {
@@ -172,7 +188,6 @@ const getId2 = (name, pool) => {
                 ...returnObj,
                 weaponType: getWeaponType(character_weapon),
                 rankType: +rarity,
-                itemType: type,
                 element: capitalizeFirstLetter(character_vision)
             }
         }
@@ -189,6 +204,47 @@ const getId2 = (name, pool) => {
                 rankType: +rarity,
             }
         }
+        case 2001: {
+
+            let {filter_values} = find
+            if (!filter_values || Object.keys(filter_values).length === 0) {
+                return returnObj
+            }
+            let {
+                filter_values: {
+                    agent_stats: {values: [elementCN], value_types: [{enum_string: element}]},
+                    agent_specialties: {values: [weaponTypeCN], value_types: [{enum_string: character_weapon}]},
+                    agent_rarity: {value_types: [{enum_string: rarity}]}
+                }
+            } = find
+            return {
+                ...returnObj,
+                weaponType: character_weapon,
+                weaponTypeCN: weaponTypeCN,
+                rankType: rarity === "S" ? 5 : 4,
+                element: element,
+                elementCN: elementCN,
+                name: getNameEN(game, type.toLowerCase(), +find.entry_page_id,"zh-cn")
+            }
+        }
+        case 3001: {
+            let {filter_values} = find
+            if (!filter_values || Object.keys(filter_values).length === 0) {
+                return returnObj
+            }
+            let {
+                filter_values: {
+                    filter_key_13: {values: [character_weapon]},
+                    w_engine_rarity: {values: [rarity]},
+                }
+            } = find
+            return {
+                ...returnObj,
+                weaponType: getWeaponType(character_weapon),
+                rankType: rarity === "S" ? 5 : 4,
+                name: getNameEN(game, type.toLowerCase(), +find.entry_page_id,"zh-cn")
+            }
+        }
         default:
             console.log(`${pool},${name}无对应数据`)
     }
@@ -202,7 +258,7 @@ const getVersion = (i, pool) => {
     }
     return versionsTemp[i]
 }
-const fetchGachaData = async (pool, savePath) => {
+const fetchGachaData = async (pool, game, type) => {
 
     //https://gitee.com/yoimiya-kokomi/Yunzai-Bot/raw/main/plugins/genshin/defSet/pool/${pool}.yaml
     //https://gitee.com/yoimiya-kokomi/Miao-Yunzai/raw/master/plugins/genshin/defSet/pool/${pool}.yaml
@@ -225,14 +281,28 @@ const fetchGachaData = async (pool, savePath) => {
             version: getVersion(i, pool), items: [...info5, ...info4].filter(a => !!a), start: from, end: to,
         }
     })
-    const characterFilePath = path.join(__dirname, `../data/gacha/${savePath.toLowerCase()}.json`)
+    if (game === "genshin") {
+        game = "gi"
+    }
+    let directoryPath = path.join(__dirname, `../data/gacha/${game}`)
+    if (!fs.existsSync(directoryPath)) {
+        fs.mkdirSync(directoryPath, {recursive: true})
+    }
+    const characterFilePath = path.join(__dirname, `../data/gacha/${game}`,`${type.toLowerCase()}.json`)
     fs.writeFileSync(characterFilePath, JSON.stringify(data.reverse(), "", "\t"))
 }
 
-(async () => {
-    await fetchGachaData(301, "GI/Character")
-    await fetchGachaData(302, "GI/Weapon")
-    await fetchGachaData(11, "HSR/Character")
-    await fetchGachaData(12, "HSR/Weapon")
-})()
+
+
+async function fetchData(id) {
+    for (let key of Object.keys(params)) {
+        let {game, type} = params[key]
+        if (!id || game===id){
+            await fetchGachaData(+key, game, type)
+        }
+    }
+}
+
+let id = process.argv.slice(2)[0] || ""
+fetchData(id)
 

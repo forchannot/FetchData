@@ -97,7 +97,7 @@ async function fetchAllPages(id) {
     }
 }
 
-let [id] = process.argv.slice(2) || [""]
+let id = process.argv.slice(2)[0] || ""
 fetchAllPages(id)
 
 
