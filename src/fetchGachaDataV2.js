@@ -216,7 +216,7 @@ const getId2 = (name, pool) => {
                 filter_values: {
                     agent_stats: {values: [element]},
                     agent_specialties: {values: [weaponType]},
-                    agent_rarity: {value_types: [{enum_string: rarity}]}
+                    agent_rarity: {values: [rarity]}
                 }
             } = find
             return {
