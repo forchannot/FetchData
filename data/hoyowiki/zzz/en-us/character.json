@@ -4,14 +4,14 @@
 		"name": "Anby Demara",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/43aeb29d176e10c9713b3b9b6ac0dd3a_2384682618213467101.png",
 		"display_field": {
-			"attr_level_60": "{\"base_hp\":\"7500\",\"base_atk\":\"583\",\"base_def\":\"612\",\"dynamic\":{}}",
-			"attr_level_50": "{\"base_hp\":\"6682\",\"base_atk\":\"529\",\"base_def\":\"545\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"5450\",\"base_atk\":\"441\",\"base_def\":\"444\",\"dynamic\":{}}",
 			"materials": "[]",
 			"attr_level_30": "{\"base_hp\":\"4218\",\"base_atk\":\"354\",\"base_def\":\"343\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"2986\",\"base_atk\":\"266\",\"base_def\":\"244\",\"dynamic\":{}}",
 			"attr_level_10": "{\"base_hp\":\"1753\",\"base_atk\":\"177\",\"base_def\":\"109\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"603\",\"base_atk\":\"95\",\"base_def\":\"49\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"603\",\"base_atk\":\"95\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"7500\",\"base_atk\":\"583\",\"base_def\":\"612\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6682\",\"base_atk\":\"529\",\"base_def\":\"545\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"agent_rarity": {
@@ -97,16 +97,46 @@
 		"name": "Billy Kid",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/3db23765159cef54aecb564a310aa214_5875819227834946917.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"555\",\"base_atk\":\"113\",\"base_def\":\"49\",\"dynamic\":{}}",
-			"attr_level_60": "{\"base_hp\":\"6907\",\"base_atk\":\"712\",\"base_def\":\"606\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"6153\",\"base_atk\":\"644\",\"base_def\":\"540\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"5018\",\"base_atk\":\"537\",\"base_def\":\"441\",\"dynamic\":{}}",
 			"attr_level_30": "{\"base_hp\":\"3883\",\"base_atk\":\"429\",\"base_def\":\"340\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"2748\",\"base_atk\":\"321\",\"base_def\":\"241\",\"dynamic\":{}}",
 			"attr_level_10": "{\"base_hp\":\"1614\",\"base_atk\":\"213\",\"base_def\":\"141\",\"dynamic\":{}}",
-			"materials": "[]"
+			"materials": "[]",
+			"attr_level_1": "{\"base_hp\":\"555\",\"base_atk\":\"113\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"6907\",\"base_atk\":\"712\",\"base_def\":\"606\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"agent_faction": {
+				"values": [
+					"Cunning Hares"
+				],
+				"value_types": [
+					{
+						"id": "16",
+						"value": "Cunning Hares",
+						"mi18n_key": "filter_custom_34",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/31645d75c2009b667abc29bfda9c4e0e_3135215487461325630.png",
+						"enum_string": "cunning_hares"
+					}
+				],
+				"key": null
+			},
+			"agent_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "1",
+						"value": "A",
+						"mi18n_key": "filter_custom_41",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
 			"agent_specialties": {
 				"values": [
 					"Attack"
@@ -151,36 +181,6 @@
 					}
 				],
 				"key": null
-			},
-			"agent_faction": {
-				"values": [
-					"Cunning Hares"
-				],
-				"value_types": [
-					{
-						"id": "16",
-						"value": "Cunning Hares",
-						"mi18n_key": "filter_custom_34",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/31645d75c2009b667abc29bfda9c4e0e_3135215487461325630.png",
-						"enum_string": "cunning_hares"
-					}
-				],
-				"key": null
-			},
-			"agent_rarity": {
-				"values": [
-					"A"
-				],
-				"value_types": [
-					{
-						"id": "1",
-						"value": "A",
-						"mi18n_key": "filter_custom_41",
-						"icon": "",
-						"enum_string": "a"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -200,21 +200,6 @@
 			"attr_level_50": "{\"base_hp\":\"7257\",\"base_atk\":\"520\",\"base_def\":\"554\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"agent_rarity": {
-				"values": [
-					"A"
-				],
-				"value_types": [
-					{
-						"id": "1",
-						"value": "A",
-						"mi18n_key": "filter_custom_41",
-						"icon": "",
-						"enum_string": "a"
-					}
-				],
-				"key": null
-			},
 			"agent_specialties": {
 				"values": [
 					"Support"
@@ -274,6 +259,21 @@
 					}
 				],
 				"key": null
+			},
+			"agent_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "1",
+						"value": "A",
+						"mi18n_key": "filter_custom_41",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -293,6 +293,36 @@
 			"attr_level_1": "{\"base_hp\":\"608\",\"base_atk\":\"131\",\"base_def\":\"47\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"agent_faction": {
+				"values": [
+					"Cunning Hares"
+				],
+				"value_types": [
+					{
+						"id": "16",
+						"value": "Cunning Hares",
+						"mi18n_key": "filter_custom_34",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/31645d75c2009b667abc29bfda9c4e0e_3135215487461325630.png",
+						"enum_string": "cunning_hares"
+					}
+				],
+				"key": null
+			},
+			"agent_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "2",
+						"value": "S",
+						"mi18n_key": "filter_custom_42",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			},
 			"agent_specialties": {
 				"values": [
 					"Attack"
@@ -337,36 +367,6 @@
 					}
 				],
 				"key": null
-			},
-			"agent_faction": {
-				"values": [
-					"Cunning Hares"
-				],
-				"value_types": [
-					{
-						"id": "16",
-						"value": "Cunning Hares",
-						"mi18n_key": "filter_custom_34",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/31645d75c2009b667abc29bfda9c4e0e_3135215487461325630.png",
-						"enum_string": "cunning_hares"
-					}
-				],
-				"key": null
-			},
-			"agent_rarity": {
-				"values": [
-					"S"
-				],
-				"value_types": [
-					{
-						"id": "2",
-						"value": "S",
-						"mi18n_key": "filter_custom_42",
-						"icon": "",
-						"enum_string": "s"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -376,46 +376,16 @@
 		"name": "Soldier 11",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/16/e0d2c585da7186984e2a1e66714131f8_348745644031971587.png",
 		"display_field": {
-			"attr_level_50": "{\"base_hp\":\"6836\",\"base_atk\":\"736\",\"base_def\":\"545\",\"dynamic\":{}}",
-			"attr_level_40": "{\"base_hp\":\"5576\",\"base_atk\":\"613\",\"base_def\":\"444\",\"dynamic\":{}}",
-			"attr_level_30": "{\"base_hp\":\"4314\",\"base_atk\":\"489\",\"base_def\":\"343\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"3054\",\"base_atk\":\"366\",\"base_def\":\"244\",\"dynamic\":{}}",
 			"attr_level_10": "{\"base_hp\":\"1793\",\"base_atk\":\"243\",\"base_def\":\"143\",\"dynamic\":{}}",
 			"materials": "[]",
 			"attr_level_1": "{\"base_hp\":\"617\",\"base_atk\":\"128\",\"base_def\":\"49\",\"dynamic\":{}}",
-			"attr_level_60": "{\"base_hp\":\"7673\",\"base_atk\":\"813\",\"base_def\":\"612\",\"dynamic\":{}}"
+			"attr_level_60": "{\"base_hp\":\"7673\",\"base_atk\":\"813\",\"base_def\":\"612\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6836\",\"base_atk\":\"736\",\"base_def\":\"545\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5576\",\"base_atk\":\"613\",\"base_def\":\"444\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4314\",\"base_atk\":\"489\",\"base_def\":\"343\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"agent_specialties": {
-				"values": [
-					"Attack"
-				],
-				"value_types": [
-					{
-						"id": "3",
-						"value": "Attack",
-						"mi18n_key": "filter_custom_50",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/78d407e2839038da13d26ad84b99a6b8_8151225937174652019.png",
-						"enum_string": "attack"
-					}
-				],
-				"key": null
-			},
-			"agent_attack_type": {
-				"values": [
-					"Slash"
-				],
-				"value_types": [
-					{
-						"id": "13",
-						"value": "Slash",
-						"mi18n_key": "filter_custom_9",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
-						"enum_string": "slash"
-					}
-				],
-				"key": null
-			},
 			"agent_faction": {
 				"values": [
 					"Obol Squad"
@@ -445,6 +415,36 @@
 					}
 				],
 				"key": null
+			},
+			"agent_specialties": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "3",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/78d407e2839038da13d26ad84b99a6b8_8151225937174652019.png",
+						"enum_string": "attack"
+					}
+				],
+				"key": null
+			},
+			"agent_attack_type": {
+				"values": [
+					"Slash"
+				],
+				"value_types": [
+					{
+						"id": "13",
+						"value": "Slash",
+						"mi18n_key": "filter_custom_9",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
+						"enum_string": "slash"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -464,6 +464,36 @@
 			"attr_level_30": "{\"base_hp\":\"3538\",\"base_atk\":\"400\",\"base_def\":\"307\",\"base_imp\":\"93\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"agent_specialties": {
+				"values": [
+					"Attack"
+				],
+				"value_types": [
+					{
+						"id": "3",
+						"value": "Attack",
+						"mi18n_key": "filter_custom_50",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/78d407e2839038da13d26ad84b99a6b8_8151225937174652019.png",
+						"enum_string": "attack"
+					}
+				],
+				"key": null
+			},
+			"agent_stats": {
+				"values": [
+					"Physical"
+				],
+				"value_types": [
+					{
+						"id": "11",
+						"value": "Physical",
+						"mi18n_key": "filter_custom_7",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/b34f33a07ddfae7bbd014a5e36443ea4_127526883819084638.png",
+						"enum_string": "physical"
+					}
+				],
+				"key": null
+			},
 			"agent_attack_type": {
 				"values": [
 					"Slash"
@@ -508,36 +538,6 @@
 					}
 				],
 				"key": null
-			},
-			"agent_specialties": {
-				"values": [
-					"Attack"
-				],
-				"value_types": [
-					{
-						"id": "3",
-						"value": "Attack",
-						"mi18n_key": "filter_custom_50",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/78d407e2839038da13d26ad84b99a6b8_8151225937174652019.png",
-						"enum_string": "attack"
-					}
-				],
-				"key": null
-			},
-			"agent_stats": {
-				"values": [
-					"Physical"
-				],
-				"value_types": [
-					{
-						"id": "11",
-						"value": "Physical",
-						"mi18n_key": "filter_custom_7",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/b34f33a07ddfae7bbd014a5e36443ea4_127526883819084638.png",
-						"enum_string": "physical"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -551,21 +551,6 @@
 			"materials": "[]"
 		},
 		"filter_values": {
-			"agent_stats": {
-				"values": [
-					"Electric"
-				],
-				"value_types": [
-					{
-						"id": "12",
-						"value": "Electric",
-						"mi18n_key": "filter_custom_8",
-						"icon": "\thttps://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/23f0846bd60219d09ab419b831ce2de7_2106359761671844521.png",
-						"enum_string": "electric"
-					}
-				],
-				"key": null
-			},
 			"agent_attack_type": {
 				"values": [
 					"Pierce"
@@ -625,6 +610,21 @@
 					}
 				],
 				"key": null
+			},
+			"agent_stats": {
+				"values": [
+					"Electric"
+				],
+				"value_types": [
+					{
+						"id": "12",
+						"value": "Electric",
+						"mi18n_key": "filter_custom_8",
+						"icon": "\thttps://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/23f0846bd60219d09ab419b831ce2de7_2106359761671844521.png",
+						"enum_string": "electric"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -634,31 +634,16 @@
 		"name": "Ben Bigger",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/17/96c8a05b61d8a7a3d5c4ba5bfb76fd58_860957641937035940.png",
 		"display_field": {
-			"attr_level_10": "{\"base_hp\":\"2005\",\"base_atk\":\"243\",\"base_def\":\"169\",\"dynamic\":{}}",
-			"materials": "[]",
-			"attr_level_1": "{\"base_hp\":\"690\",\"base_atk\":\"117\",\"base_def\":\"58\",\"dynamic\":{}}",
-			"attr_level_60": "{\"base_hp\":\"8577\",\"base_atk\":\"867\",\"base_def\":\"724\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"7641\",\"base_atk\":\"782\",\"base_def\":\"645\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"6232\",\"base_atk\":\"646\",\"base_def\":\"526\",\"dynamic\":{}}",
 			"attr_level_30": "{\"base_hp\":\"4823\",\"base_atk\":\"512\",\"base_def\":\"407\",\"dynamic\":{}}",
-			"attr_level_20": "{\"base_hp\":\"3425\",\"base_atk\":\"377\",\"base_def\":\"288\",\"dynamic\":{}}"
+			"attr_level_20": "{\"base_hp\":\"3425\",\"base_atk\":\"377\",\"base_def\":\"288\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"2005\",\"base_atk\":\"243\",\"base_def\":\"169\",\"dynamic\":{}}",
+			"materials": "[]",
+			"attr_level_1": "{\"base_hp\":\"690\",\"base_atk\":\"117\",\"base_def\":\"58\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"8577\",\"base_atk\":\"867\",\"base_def\":\"724\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"agent_attack_type": {
-				"values": [
-					"Strike"
-				],
-				"value_types": [
-					{
-						"id": "15",
-						"value": "Strike",
-						"mi18n_key": "filter_custom_11",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/5968cd96bfaa65d8d30e6d2275c4fa4e_1934106277785949805.png",
-						"enum_string": "strike"
-					}
-				],
-				"key": null
-			},
 			"agent_faction": {
 				"values": [
 					"Belobog Heavy Industries"
@@ -718,6 +703,21 @@
 					}
 				],
 				"key": null
+			},
+			"agent_attack_type": {
+				"values": [
+					"Strike"
+				],
+				"value_types": [
+					{
+						"id": "15",
+						"value": "Strike",
+						"mi18n_key": "filter_custom_11",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/5968cd96bfaa65d8d30e6d2275c4fa4e_1934106277785949805.png",
+						"enum_string": "strike"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -727,14 +727,14 @@
 		"name": "Koleda Belobog",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/f2dcd3f680b1e3873406fa4132f26178_4686138976346855105.png",
 		"display_field": {
-			"attr_level_20": "{\"base_hp\":\"3234\",\"base_atk\":\"299\",\"base_def\":\"237\",\"dynamic\":{}}",
-			"attr_level_10": "{\"base_hp\":\"1899\",\"base_atk\":\"199\",\"base_def\":\"139\",\"dynamic\":{}}",
 			"materials": "[]",
 			"attr_level_1": "{\"base_hp\":\"653\",\"base_atk\":\"106\",\"base_def\":\"48\",\"dynamic\":{}}",
 			"attr_level_60": "{\"base_hp\":\"8127\",\"base_atk\":\"660\",\"base_def\":\"594\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"7240\",\"base_atk\":\"598\",\"base_def\":\"529\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"5905\",\"base_atk\":\"498\",\"base_def\":\"431\",\"dynamic\":{}}",
-			"attr_level_30": "{\"base_hp\":\"4569\",\"base_atk\":\"398\",\"base_def\":\"334\",\"dynamic\":{}}"
+			"attr_level_30": "{\"base_hp\":\"4569\",\"base_atk\":\"398\",\"base_def\":\"334\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"3234\",\"base_atk\":\"299\",\"base_def\":\"237\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1899\",\"base_atk\":\"199\",\"base_def\":\"139\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"agent_stats": {
@@ -820,31 +820,16 @@
 		"name": "Grace Howard",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/b25a8a6174b97cc4c559029aafbe4a22_5090726243759751843.png",
 		"display_field": {
+			"attr_level_20": "{\"base_hp\":\"3795\",\"base_atk\":\"410\",\"base_def\":\"304\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"2566\",\"base_atk\":\"296\",\"base_def\":\"205\",\"dynamic\":{}}",
+			"materials": "[]",
 			"attr_level_1": "{\"base_hp\":\"1336\",\"base_atk\":\"183\",\"base_def\":\"106\",\"dynamic\":{}}",
 			"attr_level_60": "{\"base_hp\":\"-\",\"base_atk\":\"-\",\"base_def\":\"-\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"7482\",\"base_atk\":\"750\",\"base_def\":\"600\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"6253\",\"base_atk\":\"637\",\"base_def\":\"502\",\"dynamic\":{}}",
-			"attr_level_30": "{\"base_hp\":\"5024\",\"base_atk\":\"523\",\"base_def\":\"402\",\"dynamic\":{}}",
-			"attr_level_20": "{\"base_hp\":\"3795\",\"base_atk\":\"410\",\"base_def\":\"304\",\"dynamic\":{}}",
-			"attr_level_10": "{\"base_hp\":\"2566\",\"base_atk\":\"296\",\"base_def\":\"205\",\"dynamic\":{}}",
-			"materials": "[]"
+			"attr_level_30": "{\"base_hp\":\"5024\",\"base_atk\":\"523\",\"base_def\":\"402\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"agent_attack_type": {
-				"values": [
-					"Pierce"
-				],
-				"value_types": [
-					{
-						"id": "14",
-						"value": "Pierce",
-						"mi18n_key": "filter_custom_10",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/8d73540a22fd463a1f70942fca93ee9b_5768967548377443146.png",
-						"enum_string": "pierce"
-					}
-				],
-				"key": null
-			},
 			"agent_faction": {
 				"values": [
 					"Belobog Heavy Industries"
@@ -904,6 +889,21 @@
 					}
 				],
 				"key": null
+			},
+			"agent_attack_type": {
+				"values": [
+					"Pierce"
+				],
+				"value_types": [
+					{
+						"id": "14",
+						"value": "Pierce",
+						"mi18n_key": "filter_custom_10",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/8d73540a22fd463a1f70942fca93ee9b_5768967548377443146.png",
+						"enum_string": "pierce"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -913,14 +913,14 @@
 		"name": "Von Lycaon",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/127f1076f431a56918ba080bd7084c85_3329381659090289799.png",
 		"display_field": {
+			"attr_level_40": "{\"base_hp\":\"6114\",\"base_atk\":\"494\",\"base_def\":\"441\",\"dynamic\":{}}",
+			"materials": "[]",
 			"attr_level_30": "{\"base_hp\":\"4732\",\"base_atk\":\"394\",\"base_def\":\"340\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"3350\",\"base_atk\":\"296\",\"base_def\":\"241\",\"dynamic\":{}}",
 			"attr_level_10": "{\"base_hp\":\"1967\",\"base_atk\":\"197\",\"base_def\":\"141\",\"dynamic\":{}}",
 			"attr_level_1": "{\"base_hp\":\"677\",\"base_atk\":\"105\",\"base_def\":\"49\",\"dynamic\":{}}",
 			"attr_level_60": "{\"base_hp\":\"8416\",\"base_atk\":\"653\",\"base_def\":\"606\",\"dynamic\":{}}",
-			"attr_level_50": "{\"base_hp\":\"7498\",\"base_atk\":\"592\",\"base_def\":\"540\",\"dynamic\":{}}",
-			"attr_level_40": "{\"base_hp\":\"6114\",\"base_atk\":\"494\",\"base_def\":\"441\",\"dynamic\":{}}",
-			"materials": "[]"
+			"attr_level_50": "{\"base_hp\":\"7498\",\"base_atk\":\"592\",\"base_def\":\"540\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"agent_specialties": {
@@ -1006,14 +1006,14 @@
 		"name": "Ellen Joe",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/71b99a24f7864beec31370cf07cbcafb_7099117086480817211.png",
 		"display_field": {
-			"attr_level_50": "{\"base_hp\":\"6836\",\"base_atk\":\"780\",\"base_def\":\"540\",\"dynamic\":{}}",
-			"attr_level_40": "{\"base_hp\":\"5576\",\"base_atk\":\"650\",\"base_def\":\"441\",\"dynamic\":{}}",
-			"materials": "[]",
 			"attr_level_30": "{\"base_hp\":\"4314\",\"base_atk\":\"519\",\"base_def\":\"340\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"3054\",\"base_atk\":\"387\",\"base_def\":\"241\",\"dynamic\":{}}",
 			"attr_level_10": "{\"base_hp\":\"1793\",\"base_atk\":\"257\",\"base_def\":\"141\",\"dynamic\":{}}",
 			"attr_level_1": "{\"base_hp\":\"617\",\"base_atk\":\"135\",\"base_def\":\"49\",\"dynamic\":{}}",
-			"attr_level_60": "{\"base_hp\":\"7673\",\"base_atk\":\"863\",\"base_def\":\"606\",\"dynamic\":{}}"
+			"attr_level_60": "{\"base_hp\":\"7673\",\"base_atk\":\"863\",\"base_def\":\"606\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6836\",\"base_atk\":\"780\",\"base_def\":\"540\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5576\",\"base_atk\":\"650\",\"base_def\":\"441\",\"dynamic\":{}}",
+			"materials": "[]"
 		},
 		"filter_values": {
 			"agent_faction": {
@@ -1099,16 +1099,46 @@
 		"name": "Alexandrina Sebastiane",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/af07b5681d49fb22a818dbf24536f347_3882748344546395498.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"692\",\"base_atk\":\"103\",\"base_def\":\"48\",\"dynamic\":{}}",
+			"materials": "[]",
 			"attr_level_60": "{\"base_hp\":\"8609\",\"base_atk\":\"692\",\"base_def\":\"600\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"7669\",\"base_atk\":\"631\",\"base_def\":\"535\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"6255\",\"base_atk\":\"509\",\"base_def\":\"436\",\"dynamic\":{}}",
 			"attr_level_30": "{\"base_hp\":\"4841\",\"base_atk\":\"413\",\"base_def\":\"337\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"3426\",\"base_atk\":\"291\",\"base_def\":\"238\",\"dynamic\":{}}",
-			"attr_level_10": "{\"base_hp\":\"2012\",\"base_atk\":\"194\",\"base_def\":\"139\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"692\",\"base_atk\":\"103\",\"base_def\":\"48\",\"dynamic\":{}}",
-			"materials": "[]"
+			"attr_level_10": "{\"base_hp\":\"2012\",\"base_atk\":\"194\",\"base_def\":\"139\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"agent_specialties": {
+				"values": [
+					"Support"
+				],
+				"value_types": [
+					{
+						"id": "6",
+						"value": "Support",
+						"mi18n_key": "filter_custom_53",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/e1ce1ff7a8c3debf3235b2bbd94bd4c0_2060958246427347333.png",
+						"enum_string": "support"
+					}
+				],
+				"key": null
+			},
+			"agent_stats": {
+				"values": [
+					"Electric"
+				],
+				"value_types": [
+					{
+						"id": "12",
+						"value": "Electric",
+						"mi18n_key": "filter_custom_8",
+						"icon": "\thttps://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/23f0846bd60219d09ab419b831ce2de7_2106359761671844521.png",
+						"enum_string": "electric"
+					}
+				],
+				"key": null
+			},
 			"agent_attack_type": {
 				"values": [
 					"Strike"
@@ -1153,36 +1183,6 @@
 					}
 				],
 				"key": null
-			},
-			"agent_specialties": {
-				"values": [
-					"Support"
-				],
-				"value_types": [
-					{
-						"id": "6",
-						"value": "Support",
-						"mi18n_key": "filter_custom_53",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/e1ce1ff7a8c3debf3235b2bbd94bd4c0_2060958246427347333.png",
-						"enum_string": "support"
-					}
-				],
-				"key": null
-			},
-			"agent_stats": {
-				"values": [
-					"Electric"
-				],
-				"value_types": [
-					{
-						"id": "12",
-						"value": "Electric",
-						"mi18n_key": "filter_custom_8",
-						"icon": "\thttps://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/23f0846bd60219d09ab419b831ce2de7_2106359761671844521.png",
-						"enum_string": "electric"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1192,16 +1192,46 @@
 		"name": "Zhu Yuan",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/391008a843e6a6e35b134b54dd498049_1301244787212807256.png",
 		"display_field": {
-			"attr_level_20": "{\"base_hp\":\"2979\",\"base_atk\":\"380\",\"base_def\":\"238\",\"dynamic\":{}}",
-			"attr_level_10": "{\"base_hp\":\"1749\",\"base_atk\":\"251\",\"base_def\":\"106\",\"dynamic\":{}}",
 			"materials": "[]",
 			"attr_level_1": "{\"base_hp\":\"602\",\"base_atk\":\"132\",\"base_def\":\"48\",\"dynamic\":{}}",
 			"attr_level_60": "{\"base_hp\":\"7482\",\"base_atk\":\"844\",\"base_def\":\"600\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"6666\",\"base_atk\":\"763\",\"base_def\":\"535\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"5436\",\"base_atk\":\"635\",\"base_def\":\"436\",\"dynamic\":{}}",
-			"attr_level_30": "{\"base_hp\":\"4208\",\"base_atk\":\"508\",\"base_def\":\"337\",\"dynamic\":{}}"
+			"attr_level_30": "{\"base_hp\":\"4208\",\"base_atk\":\"508\",\"base_def\":\"337\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"2979\",\"base_atk\":\"380\",\"base_def\":\"238\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1749\",\"base_atk\":\"251\",\"base_def\":\"106\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"agent_faction": {
+				"values": [
+					"Criminal Investigation Special Response Team"
+				],
+				"value_types": [
+					{
+						"id": "21",
+						"value": "Criminal Investigation Special Response Team",
+						"mi18n_key": "filter_custom_40",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/3032e43426c144513ed0a37ae5ee5064_1669530555383529781.png",
+						"enum_string": "new_eridu_public_security"
+					}
+				],
+				"key": null
+			},
+			"agent_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "2",
+						"value": "S",
+						"mi18n_key": "filter_custom_42",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			},
 			"agent_specialties": {
 				"values": [
 					"Attack"
@@ -1246,36 +1276,6 @@
 					}
 				],
 				"key": null
-			},
-			"agent_faction": {
-				"values": [
-					"Criminal Investigation Special Response Team"
-				],
-				"value_types": [
-					{
-						"id": "21",
-						"value": "Criminal Investigation Special Response Team",
-						"mi18n_key": "filter_custom_40",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/3032e43426c144513ed0a37ae5ee5064_1669530555383529781.png",
-						"enum_string": "new_eridu_public_security"
-					}
-				],
-				"key": null
-			},
-			"agent_rarity": {
-				"values": [
-					"S"
-				],
-				"value_types": [
-					{
-						"id": "2",
-						"value": "S",
-						"mi18n_key": "filter_custom_42",
-						"icon": "",
-						"enum_string": "s"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1285,16 +1285,31 @@
 		"name": "Soukaku",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/23/f7e89a3278d04fc252011df8b9230b7b_1724004390987084817.png",
 		"display_field": {
+			"materials": "[]",
+			"attr_level_1": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"7150\",\"base_atk\":\"535\",\"base_def\":\"532\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"5832\",\"base_atk\":\"447\",\"base_def\":\"434\",\"dynamic\":{}}",
 			"attr_level_30": "{\"base_hp\":\"4513\",\"base_atk\":\"358\",\"base_def\":\"336\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"3194\",\"base_atk\":\"268\",\"base_def\":\"237\",\"dynamic\":{}}",
-			"attr_level_10": "{\"base_hp\":\"1876\",\"base_atk\":\"179\",\"base_def\":\"139\",\"dynamic\":{}}",
-			"materials": "[]",
-			"attr_level_1": "{\"dynamic\":{}}",
-			"attr_level_60": "{\"dynamic\":{}}"
+			"attr_level_10": "{\"base_hp\":\"1876\",\"base_atk\":\"179\",\"base_def\":\"139\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"agent_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "1",
+						"value": "A",
+						"mi18n_key": "filter_custom_41",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
+			},
 			"agent_specialties": {
 				"values": [
 					"Support"
@@ -1354,21 +1369,6 @@
 					}
 				],
 				"key": null
-			},
-			"agent_rarity": {
-				"values": [
-					"A"
-				],
-				"value_types": [
-					{
-						"id": "1",
-						"value": "A",
-						"mi18n_key": "filter_custom_41",
-						"icon": "",
-						"enum_string": "a"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1378,46 +1378,16 @@
 		"name": "Luciana de Montefio",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/02/0005cb04259b2f2101e5aeac52033299_4730938854595310447.png",
 		"display_field": {
-			"attr_level_60": "{\"base_hp\":\"8025\",\"base_atk\":\"583\",\"base_def\":\"612\",\"dynamic\":{}}",
-			"attr_level_50": "{\"base_hp\":\"7150\",\"base_atk\":\"529\",\"base_def\":\"545\",\"dynamic\":{}}",
-			"attr_level_40": "{\"base_hp\":\"5832\",\"base_atk\":\"441\",\"base_def\":\"444\",\"dynamic\":{}}",
 			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/69ed7f75f0b803f4f2d77e2077841cd0_2424329342631275705.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/4db164430abeab5f7590c70c23114bb2_8015121763135205409.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/a797b1edbc18fd8af6eb2d88afd5cb29_3491349215653496962.png\"]",
 			"attr_level_30": "{\"base_hp\":\"4513\",\"base_atk\":\"354\",\"base_def\":\"343\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"3194\",\"base_atk\":\"266\",\"base_def\":\"244\",\"dynamic\":{}}",
 			"attr_level_10": "{\"base_hp\":\"1876\",\"base_atk\":\"177\",\"base_def\":\"143\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"645\",\"base_atk\":\"95\",\"base_def\":\"49\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"645\",\"base_atk\":\"95\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"8025\",\"base_atk\":\"583\",\"base_def\":\"612\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"7150\",\"base_atk\":\"529\",\"base_def\":\"545\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5832\",\"base_atk\":\"441\",\"base_def\":\"444\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"agent_attack_type": {
-				"values": [
-					"Strike"
-				],
-				"value_types": [
-					{
-						"id": "15",
-						"value": "Strike",
-						"mi18n_key": "filter_custom_11",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/5968cd96bfaa65d8d30e6d2275c4fa4e_1934106277785949805.png",
-						"enum_string": "strike"
-					}
-				],
-				"key": null
-			},
-			"agent_rarity": {
-				"values": [
-					"A"
-				],
-				"value_types": [
-					{
-						"id": "1",
-						"value": "A",
-						"mi18n_key": "filter_custom_41",
-						"icon": "",
-						"enum_string": "a"
-					}
-				],
-				"key": null
-			},
 			"agent_specialties": {
 				"values": [
 					"Support"
@@ -1447,36 +1417,18 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "126",
-		"name": "Piper Wheel",
-		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/02/4a3910f9aad150df3aed53c5de28768e_8578434738157565712.png",
-		"display_field": {
-			"attr_level_20": "{\"base_hp\":\"2777\",\"base_atk\":\"309\",\"base_def\":\"244\",\"dynamic\":{}}",
-			"attr_level_10": "{\"base_hp\":\"1631\",\"base_atk\":\"205\",\"base_def\":\"146\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"561\",\"base_atk\":\"109\",\"base_def\":\"49\",\"dynamic\":{}}",
-			"attr_level_60": "{\"base_hp\":\"6976\",\"base_atk\":\"683\",\"base_def\":\"612\",\"dynamic\":{}}",
-			"attr_level_50": "{\"base_hp\":\"6215\",\"base_atk\":\"619\",\"base_def\":\"545\",\"dynamic\":{}}",
-			"attr_level_40": "{\"base_hp\":\"5069\",\"base_atk\":\"515\",\"base_def\":\"444\",\"dynamic\":{}}",
-			"materials": "[]",
-			"attr_level_30": "{\"base_hp\":\"3923\",\"base_atk\":\"412\",\"base_def\":\"343\",\"dynamic\":{}}"
-		},
-		"filter_values": {
+			},
 			"agent_attack_type": {
 				"values": [
-					"Slash"
+					"Strike"
 				],
 				"value_types": [
 					{
-						"id": "13",
-						"value": "Slash",
-						"mi18n_key": "filter_custom_9",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
-						"enum_string": "slash"
+						"id": "15",
+						"value": "Strike",
+						"mi18n_key": "filter_custom_11",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/5968cd96bfaa65d8d30e6d2275c4fa4e_1934106277785949805.png",
+						"enum_string": "strike"
 					}
 				],
 				"key": null
@@ -1495,7 +1447,25 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "126",
+		"name": "Piper Wheel",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/02/4a3910f9aad150df3aed53c5de28768e_8578434738157565712.png",
+		"display_field": {
+			"materials": "[]",
+			"attr_level_30": "{\"base_hp\":\"3923\",\"base_atk\":\"412\",\"base_def\":\"343\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"2777\",\"base_atk\":\"309\",\"base_def\":\"244\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1631\",\"base_atk\":\"205\",\"base_def\":\"146\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"561\",\"base_atk\":\"109\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"6976\",\"base_atk\":\"683\",\"base_def\":\"612\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6215\",\"base_atk\":\"619\",\"base_def\":\"545\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5069\",\"base_atk\":\"515\",\"base_def\":\"444\",\"dynamic\":{}}"
+		},
+		"filter_values": {
 			"agent_specialties": {
 				"values": [
 					"Anomaly"
@@ -1525,6 +1495,36 @@
 					}
 				],
 				"key": null
+			},
+			"agent_attack_type": {
+				"values": [
+					"Slash"
+				],
+				"value_types": [
+					{
+						"id": "13",
+						"value": "Slash",
+						"mi18n_key": "filter_custom_9",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
+						"enum_string": "slash"
+					}
+				],
+				"key": null
+			},
+			"agent_rarity": {
+				"values": [
+					"A"
+				],
+				"value_types": [
+					{
+						"id": "1",
+						"value": "A",
+						"mi18n_key": "filter_custom_41",
+						"icon": "",
+						"enum_string": "a"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1544,6 +1544,21 @@
 			"attr_level_10": "{\"base_hp\":\"1928\",\"base_atk\":\"205\",\"base_def\":\"143\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"agent_rarity": {
+				"values": [
+					"S"
+				],
+				"value_types": [
+					{
+						"id": "2",
+						"value": "S",
+						"mi18n_key": "filter_custom_42",
+						"icon": "",
+						"enum_string": "s"
+					}
+				],
+				"key": null
+			},
 			"agent_specialties": {
 				"values": [
 					"Stun"
@@ -1600,21 +1615,6 @@
 						"mi18n_key": "filter_custom_40",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/3032e43426c144513ed0a37ae5ee5064_1669530555383529781.png",
 						"enum_string": "new_eridu_public_security"
-					}
-				],
-				"key": null
-			},
-			"agent_rarity": {
-				"values": [
-					"S"
-				],
-				"value_types": [
-					{
-						"id": "2",
-						"value": "S",
-						"mi18n_key": "filter_custom_42",
-						"icon": "",
-						"enum_string": "s"
 					}
 				],
 				"key": null

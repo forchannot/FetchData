@@ -1,0 +1,164 @@
+[
+	{
+		"version": "1.1.2",
+		"items": [
+			{
+				"itemId": 368,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/08/26/87fcb83576a57e1aae31dfa0d6445b68_3499070425918560638.png",
+				"itemType": "Character",
+				"name": "Jane Doe",
+				"nameEn": "Jane Doe"
+			},
+			{
+				"itemId": 369,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/08/26/b2f8135275830a304ab2e92b2543d95c_927816365385918993.png",
+				"itemType": "Character",
+				"name": "Seth Lowell",
+				"nameEn": "Seth Lowell"
+			},
+			{
+				"itemId": 2,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/43aeb29d176e10c9713b3b9b6ac0dd3a_2384682618213467101.png",
+				"itemType": "Character",
+				"name": "安比·德玛拉",
+				"nameEn": "Anby Demara",
+				"weaponType": "breakthrough",
+				"weaponTypeCN": "Stun",
+				"rankType": 4,
+				"element": "electric",
+				"elementCN": "Electric"
+			}
+		],
+		"start": "2024-09-04 12:00:00",
+		"end": "2024-09-24 14:59:59"
+	},
+	{
+		"version": "1.1.1",
+		"items": [
+			{
+				"itemId": 350,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/08/12/ed5601b7cde9bda222181258a3a312d4_4632136586354055308.png",
+				"itemType": "Character",
+				"name": "青衣",
+				"nameEn": "Qingyi",
+				"weaponType": "breakthrough",
+				"weaponTypeCN": "Stun",
+				"rankType": 4,
+				"element": "electric",
+				"elementCN": "Electric"
+			},
+			{
+				"itemId": 19,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/3db23765159cef54aecb564a310aa214_5875819227834946917.png",
+				"itemType": "Character",
+				"name": "比利·奇德",
+				"nameEn": "Billy Kid",
+				"weaponType": "attack",
+				"weaponTypeCN": "Attack",
+				"rankType": 4,
+				"element": "physical",
+				"elementCN": "Physical"
+			},
+			{
+				"itemId": 23,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/16/6f351122be7781f8cd6f21722dd13661_2661769272105172713.png",
+				"itemType": "Character",
+				"name": "可琳·威克斯",
+				"nameEn": "Corin Wickes",
+				"weaponType": "attack",
+				"weaponTypeCN": "Attack",
+				"rankType": 4,
+				"element": "physical",
+				"elementCN": "Physical"
+			}
+		],
+		"start": "2024-08-14 06:00:00",
+		"end": "2024-09-04 11:59:59"
+	},
+	{
+		"version": "1.0.2",
+		"items": [
+			{
+				"itemId": 31,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/391008a843e6a6e35b134b54dd498049_1301244787212807256.png",
+				"itemType": "Character",
+				"name": "朱鸢",
+				"nameEn": "Zhu Yuan",
+				"weaponType": "attack",
+				"weaponTypeCN": "Attack",
+				"rankType": 4,
+				"element": "ether",
+				"elementCN": "Ether"
+			},
+			{
+				"itemId": 20,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/23/3815b87d0e526b12127e69f5baed3fa7_2071488341033625974.png",
+				"itemType": "Character",
+				"name": "妮可·德玛拉",
+				"nameEn": "Nicole Demara",
+				"weaponType": "support",
+				"weaponTypeCN": "Support",
+				"rankType": 4,
+				"element": "ether",
+				"elementCN": "Ether"
+			},
+			{
+				"itemId": 25,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/17/96c8a05b61d8a7a3d5c4ba5bfb76fd58_860957641937035940.png",
+				"itemType": "Character",
+				"name": "本·比格",
+				"nameEn": "Ben Bigger",
+				"weaponType": "defensive",
+				"weaponTypeCN": "Defense",
+				"rankType": 4,
+				"element": "fire",
+				"elementCN": "Fire"
+			}
+		],
+		"start": "2024-07-24 12:00:00",
+		"end": "2024-08-13 14:59:59"
+	},
+	{
+		"version": "1.0.1",
+		"items": [
+			{
+				"itemId": 29,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/71b99a24f7864beec31370cf07cbcafb_7099117086480817211.png",
+				"itemType": "Character",
+				"name": "艾莲·乔",
+				"nameEn": "Ellen Joe",
+				"weaponType": "attack",
+				"weaponTypeCN": "Attack",
+				"rankType": 4,
+				"element": "ice",
+				"elementCN": "Ice"
+			},
+			{
+				"itemId": 89,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/23/f7e89a3278d04fc252011df8b9230b7b_1724004390987084817.png",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "Soukaku",
+				"weaponType": "support",
+				"weaponTypeCN": "Support",
+				"rankType": 4,
+				"element": "ice",
+				"elementCN": "Ice"
+			},
+			{
+				"itemId": 24,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/17/4ad598ef6760d23196d488cba5c1af8a_5032015665623889570.png",
+				"itemType": "Character",
+				"name": "安东 · 伊万诺夫",
+				"nameEn": "Anton Ivanov",
+				"weaponType": "attack",
+				"weaponTypeCN": "Attack",
+				"rankType": 4,
+				"element": "electric",
+				"elementCN": "Electric"
+			}
+		],
+		"start": "2024-07-04 06:00:00",
+		"end": "2024-07-24 11:59:59"
+	}
+]
