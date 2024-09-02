@@ -132,7 +132,9 @@ const getId2 = (name, pool) => {
         return
     }
 
+    let findCN
     if (pool === 2001 || pool === 3001) {
+        findCN = find
         find = getDataEN(game, type.toLowerCase(), +find.entry_page_id)
     }
 
@@ -212,19 +214,19 @@ const getId2 = (name, pool) => {
             }
             let {
                 filter_values: {
-                    agent_stats: {values: [elementCN], value_types: [{enum_string: element}]},
-                    agent_specialties: {values: [weaponTypeCN], value_types: [{enum_string: character_weapon}]},
+                    agent_stats: {values: [element]},
+                    agent_specialties: {values: [weaponType]},
                     agent_rarity: {value_types: [{enum_string: rarity}]}
                 }
             } = find
             return {
                 ...returnObj,
-                weaponType: character_weapon,
-                weaponTypeCN: weaponTypeCN,
+                weaponType: weaponType,
+                weaponTypeCN: findCN?.filter_values?.agent_specialties?.values[0] || weaponType,
                 rankType: rarity === "S" ? 5 : 4,
                 element: element,
-                elementCN: elementCN,
-                name: getNameEN(game, type.toLowerCase(), +find.entry_page_id,"zh-cn")
+                elementCN: findCN?.filter_values?.agent_stats?.values[0] || element,
+                name: getNameEN(game, type.toLowerCase(), +find.entry_page_id, "zh-cn")
             }
         }
         case 3001: {
@@ -234,15 +236,16 @@ const getId2 = (name, pool) => {
             }
             let {
                 filter_values: {
-                    filter_key_13: {values: [character_weapon]},
+                    filter_key_13: {values: [weaponType]},
                     w_engine_rarity: {values: [rarity]},
                 }
             } = find
             return {
                 ...returnObj,
-                weaponType: getWeaponType(character_weapon),
+                weaponType: weaponType,
+                weaponTypeCN: findCN?.filter_values?.filter_key_13?.values[0] || weaponType,
                 rankType: rarity === "S" ? 5 : 4,
-                name: getNameEN(game, type.toLowerCase(), +find.entry_page_id,"zh-cn")
+                name: getNameEN(game, type.toLowerCase(), +find.entry_page_id, "zh-cn")
             }
         }
         default:
@@ -278,7 +281,10 @@ const fetchGachaData = async (pool, game, type) => {
         const info5 = five.map(c => getId2(c, pool))
         const info4 = four.map(c => getId2(c, pool))
         return {
-            version: getVersion(i, pool), items: [...info5, ...info4].filter(a => !!a), start: from, end: to,
+            version: getVersion(i, pool),
+            items: [...info5, ...info4].filter(a => !!a && !!a.rankType),
+            start: from,
+            end: to,
         }
     })
     if (game === "genshin") {
@@ -288,16 +294,15 @@ const fetchGachaData = async (pool, game, type) => {
     if (!fs.existsSync(directoryPath)) {
         fs.mkdirSync(directoryPath, {recursive: true})
     }
-    const characterFilePath = path.join(__dirname, `../data/gacha/${game}`,`${type.toLowerCase()}.json`)
+    const characterFilePath = path.join(__dirname, `../data/gacha/${game}`, `${type.toLowerCase()}.json`)
     fs.writeFileSync(characterFilePath, JSON.stringify(data.reverse(), "", "\t"))
 }
-
 
 
 async function fetchData(id) {
     for (let key of Object.keys(params)) {
         let {game, type} = params[key]
-        if (!id || game===id){
+        if (!id || game === id) {
             await fetchGachaData(+key, game, type)
         }
     }
