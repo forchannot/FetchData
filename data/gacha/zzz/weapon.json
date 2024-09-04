@@ -3,6 +3,16 @@
 		"version": "1.1.2",
 		"items": [
 			{
+				"itemId": 377,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/08/28/7d43ac475a690e89607792e0709ab03e_6293804496721304749.png",
+				"itemType": "Weapon",
+				"name": "淬锋钳刺",
+				"nameEn": "Sharpened Stinger",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
 				"itemId": 3,
 				"imageUrl": "/event-ugc-hoyowiki/2024/05/29/98205622/b6651e1b9a63cc8215587a089734d310_2980011689473290533.png",
 				"itemType": "Weapon",
