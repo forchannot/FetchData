@@ -13,6 +13,16 @@
 				"rankType": 5
 			},
 			{
+				"itemId": 378,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/08/28/f84873777a2ed7d6facedd7c042da7e5_5691856675079823003.png",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "Peacekeeper - Specialized",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			},
+			{
 				"itemId": 3,
 				"imageUrl": "/event-ugc-hoyowiki/2024/05/29/98205622/b6651e1b9a63cc8215587a089734d310_2980011689473290533.png",
 				"itemType": "Weapon",
