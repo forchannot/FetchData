@@ -11,7 +11,7 @@ on:
         type: choice
         default: 'zzz'
         options:
-          - 'gi'
+          - 'genshin'
           - 'hsr'
           - 'zzz'
 
