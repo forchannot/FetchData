@@ -2,6 +2,42 @@
 	{
 		"items": [
 			{
+				"itemId": 10000052,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/1454c59a217067754644e91894f74f99.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000050,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/5b75c1730937a9810e9a74e5f425bf24.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000056,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/50d2475b831fba51c34b11cb1c17d2fa.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "",
+				"element": "Electro"
+			}
+		],
+		"start": "2024-09-17 18:00:00",
+		"end": "2024-10-08 14:59:59"
+	},
+	{
+		"items": [
+			{
 				"itemId": 10000047,
 				"weaponType": "Sword",
 				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/2f2f3d2211c909fdc2fdaf0d2d373ed7.png",

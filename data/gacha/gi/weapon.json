@@ -2,6 +2,72 @@
 	{
 		"items": [
 			{
+				"itemId": 13509,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/512634b95b6cf31f2c0d8f7e6fff49e1.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "薙草之稻光",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11403,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/86f49e8b9825feb735ffae0d64b3772f.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12405,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/88407cb7934bd262bd9bdae051a5d874.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13407,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/d9d3855d86868596117b6108bfea1f93.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14402,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/87cfb60a01d377b362434e99f6b48124.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15403,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/60a84a1599d7b42e4a86318ba5ac8711.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-09-17 18:00:00",
+		"end": "2024-10-08 14:59:59"
+	},
+	{
+		"items": [
+			{
 				"itemId": 11503,
 				"weaponType": "Sword",
 				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/a0ad4c3c20809737d657127435308e1f.png",
