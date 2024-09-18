@@ -5,21 +5,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/「渔获」.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -49,6 +34,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -59,21 +59,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/万国诸海图谱.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Elemental Mastery"
-				],
-				"value_types": [
-					{
-						"id": "207",
-						"value": "Elemental Mastery",
-						"mi18n_key": "filter_207",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -98,6 +83,21 @@
 						"id": "442",
 						"value": "Catalyst",
 						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Elemental Mastery"
+				],
+				"value_types": [
+					{
+						"id": "207",
+						"value": "Elemental Mastery",
+						"mi18n_key": "filter_207",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -167,6 +167,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/以理服人.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Claymore"
+				],
+				"value_types": [
+					{
+						"id": "405",
+						"value": "Claymore",
+						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -193,21 +208,6 @@
 						"mi18n_key": "filter_695",
 						"icon": "",
 						"enum_string": "3"
-					}
-				],
-				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Claymore"
-				],
-				"value_types": [
-					{
-						"id": "405",
-						"value": "Claymore",
-						"mi18n_key": "filter_405",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -368,6 +368,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/决斗之枪.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"CRIT Rate"
+				],
+				"value_types": [
+					{
+						"id": "170",
+						"value": "CRIT Rate",
+						"mi18n_key": "filter_170",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -397,21 +412,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"CRIT Rate"
-				],
-				"value_types": [
-					{
-						"id": "170",
-						"value": "CRIT Rate",
-						"mi18n_key": "filter_170",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -422,6 +422,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/冷刃.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -451,21 +466,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -476,6 +476,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/匣里日月.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"CRIT Rate"
@@ -505,21 +520,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -530,21 +530,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/匣里灭辰.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Elemental Mastery"
-				],
-				"value_types": [
-					{
-						"id": "207",
-						"value": "Elemental Mastery",
-						"mi18n_key": "filter_207",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -574,6 +559,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Elemental Mastery"
+				],
+				"value_types": [
+					{
+						"id": "207",
+						"value": "Elemental Mastery",
+						"mi18n_key": "filter_207",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -584,21 +584,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/匣里龙吟.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -628,6 +613,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -638,21 +638,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/千岩古剑.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Claymore"
-				],
-				"value_types": [
-					{
-						"id": "405",
-						"value": "Claymore",
-						"mi18n_key": "filter_405",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -682,6 +667,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Claymore"
+				],
+				"value_types": [
+					{
+						"id": "405",
+						"value": "Claymore",
+						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -692,6 +692,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/千岩长枪.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -721,21 +736,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -746,6 +746,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/历练的猎弓.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Bow"
+				],
+				"value_types": [
+					{
+						"id": "417",
+						"value": "Bow",
+						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"2-Star"
@@ -760,21 +775,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Bow"
-				],
-				"value_types": [
-					{
-						"id": "417",
-						"value": "Bow",
-						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -785,21 +785,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/反曲弓.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Bow"
-				],
-				"value_types": [
-					{
-						"id": "417",
-						"value": "Bow",
-						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"HP Percentage"
@@ -826,6 +811,21 @@
 						"mi18n_key": "filter_695",
 						"icon": "",
 						"enum_string": "3"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Bow"
+				],
+				"value_types": [
+					{
+						"id": "417",
+						"value": "Bow",
+						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -878,21 +878,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/吃虎鱼刀.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"3-Star"
@@ -922,6 +907,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -932,21 +932,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/和璞鸢.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "671",
-						"value": "5-Star",
-						"mi18n_key": "filter_671",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Polearm"
@@ -976,6 +961,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -986,6 +986,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/喜多院十文字.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"Elemental Mastery"
+				],
+				"value_types": [
+					{
+						"id": "207",
+						"value": "Elemental Mastery",
+						"mi18n_key": "filter_207",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -1010,21 +1025,6 @@
 						"id": "448",
 						"value": "Polearm",
 						"mi18n_key": "filter_448",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"Elemental Mastery"
-				],
-				"value_types": [
-					{
-						"id": "207",
-						"value": "Elemental Mastery",
-						"mi18n_key": "filter_207",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -1094,21 +1094,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/四风原典.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"CRIT Rate"
@@ -1138,6 +1123,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1148,21 +1148,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/天目影打刀.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -1192,6 +1177,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1202,6 +1202,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/天空之傲.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -1231,21 +1246,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1256,21 +1256,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/天空之刃.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"Energy Recharge"
@@ -1300,6 +1285,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1310,21 +1310,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/天空之卷.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -1349,6 +1334,21 @@
 						"id": "442",
 						"value": "Catalyst",
 						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -1418,21 +1418,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/天空之脊.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -1462,6 +1447,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1472,21 +1472,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/学徒笔记.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"1-Star"
-				],
-				"value_types": [
-					{
-						"id": "723",
-						"value": "1-Star",
-						"mi18n_key": "filter_723",
-						"icon": "",
-						"enum_string": "1"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Catalyst"
@@ -1501,6 +1486,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"1-Star"
+				],
+				"value_types": [
+					{
+						"id": "723",
+						"value": "1-Star",
+						"mi18n_key": "filter_723",
+						"icon": "",
+						"enum_string": "1"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1511,6 +1511,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/宗室大剑.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Claymore"
@@ -1540,21 +1555,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1565,36 +1565,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/宗室猎枪.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Polearm"
@@ -1609,30 +1579,6 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "1961",
-		"name": "Royal Grimoire",
-		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/宗室秘法录.png",
-		"display_field": {},
-		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			},
 			"weapon_property": {
 				"values": [
@@ -1660,6 +1606,60 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "1961",
+		"name": "Royal Grimoire",
+		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/宗室秘法录.png",
+		"display_field": {},
+		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -1727,21 +1727,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/宗室长弓.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -1766,6 +1751,21 @@
 						"id": "417",
 						"value": "Bow",
 						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -1889,6 +1889,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/异世界行记.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"3-Star"
@@ -1913,21 +1928,6 @@
 						"id": "442",
 						"value": "Catalyst",
 						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -2105,21 +2105,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/息灾.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Polearm"
-				],
-				"value_types": [
-					{
-						"id": "448",
-						"value": "Polearm",
-						"mi18n_key": "filter_448",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -2149,6 +2134,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Polearm"
+				],
+				"value_types": [
+					{
+						"id": "448",
+						"value": "Polearm",
+						"mi18n_key": "filter_448",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2159,6 +2159,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/恶王丸.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -2188,21 +2203,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2213,21 +2213,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/护摩之杖.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "188",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_188",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -2257,6 +2242,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "188",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_188",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2267,6 +2267,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/掠食者.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Bow"
@@ -2296,21 +2311,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2321,21 +2321,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/斫峰之刃.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -2365,16 +2350,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "1975",
-		"name": "Wavebreaker's Fin",
-		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/断浪长鳍.png",
-		"display_field": {},
-		"filter_values": {
+			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -2389,7 +2365,16 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "1975",
+		"name": "Wavebreaker's Fin",
+		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/断浪长鳍.png",
+		"display_field": {},
+		"filter_values": {
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -2419,6 +2404,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2429,21 +2429,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/新手长枪.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Polearm"
-				],
-				"value_types": [
-					{
-						"id": "448",
-						"value": "Polearm",
-						"mi18n_key": "filter_448",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"1-Star"
@@ -2455,6 +2440,21 @@
 						"mi18n_key": "filter_723",
 						"icon": "",
 						"enum_string": "1"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Polearm"
+				],
+				"value_types": [
+					{
+						"id": "448",
+						"value": "Polearm",
+						"mi18n_key": "filter_448",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -2576,21 +2576,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/无锋剑.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"1-Star"
@@ -2602,6 +2587,21 @@
 						"mi18n_key": "filter_723",
 						"icon": "",
 						"enum_string": "1"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -2669,6 +2669,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/暗巷猎手.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Bow"
+				],
+				"value_types": [
+					{
+						"id": "417",
+						"value": "Bow",
+						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -2695,21 +2710,6 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Bow"
-				],
-				"value_types": [
-					{
-						"id": "417",
-						"value": "Bow",
-						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -2777,21 +2777,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/暗巷闪光.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"Elemental Mastery"
@@ -2821,6 +2806,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2831,21 +2831,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/暗铁剑.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Elemental Mastery"
-				],
-				"value_types": [
-					{
-						"id": "207",
-						"value": "Elemental Mastery",
-						"mi18n_key": "filter_207",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"3-Star"
@@ -2875,6 +2860,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Elemental Mastery"
+				],
+				"value_types": [
+					{
+						"id": "207",
+						"value": "Elemental Mastery",
+						"mi18n_key": "filter_207",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2885,21 +2885,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/曚云之月.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Bow"
@@ -2929,6 +2914,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2939,6 +2939,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/松籁响起之时.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Claymore"
+				],
+				"value_types": [
+					{
+						"id": "405",
+						"value": "Claymore",
+						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"Physical DMG Bonus"
@@ -2965,21 +2980,6 @@
 						"mi18n_key": "filter_671",
 						"icon": "",
 						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Claymore"
-				],
-				"value_types": [
-					{
-						"id": "405",
-						"value": "Claymore",
-						"mi18n_key": "filter_405",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -3047,6 +3047,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/沐浴龙血的剑.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"3-Star"
+				],
+				"value_types": [
+					{
+						"id": "695",
+						"value": "3-Star",
+						"mi18n_key": "filter_695",
+						"icon": "",
+						"enum_string": "3"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Claymore"
@@ -3076,21 +3091,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"3-Star"
-				],
-				"value_types": [
-					{
-						"id": "695",
-						"value": "3-Star",
-						"mi18n_key": "filter_695",
-						"icon": "",
-						"enum_string": "3"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3101,6 +3101,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/波乱月白经津.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"CRIT Rate"
+				],
+				"value_types": [
+					{
+						"id": "170",
+						"value": "CRIT Rate",
+						"mi18n_key": "filter_170",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -3130,21 +3145,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"CRIT Rate"
-				],
-				"value_types": [
-					{
-						"id": "170",
-						"value": "CRIT Rate",
-						"mi18n_key": "filter_170",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3155,6 +3155,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/流月针.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Polearm"
@@ -3184,21 +3199,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3209,21 +3209,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/流浪乐章.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"CRIT DMG"
@@ -3250,6 +3235,21 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -3356,6 +3356,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/甲级宝珏.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"CRIT Rate"
@@ -3382,21 +3397,6 @@
 						"mi18n_key": "filter_695",
 						"icon": "",
 						"enum_string": "3"
-					}
-				],
-				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -3464,6 +3464,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/白缨枪.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Polearm"
+				],
+				"value_types": [
+					{
+						"id": "448",
+						"value": "Polearm",
+						"mi18n_key": "filter_448",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"CRIT Rate"
@@ -3493,21 +3508,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Polearm"
-				],
-				"value_types": [
-					{
-						"id": "448",
-						"value": "Polearm",
-						"mi18n_key": "filter_448",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3518,21 +3518,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/白辰之环.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -3557,6 +3542,21 @@
 						"id": "442",
 						"value": "Catalyst",
 						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -3680,6 +3680,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/磐岩结绿.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"CRIT Rate"
+				],
+				"value_types": [
+					{
+						"id": "170",
+						"value": "CRIT Rate",
+						"mi18n_key": "filter_170",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -3709,21 +3724,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"CRIT Rate"
-				],
-				"value_types": [
-					{
-						"id": "170",
-						"value": "CRIT Rate",
-						"mi18n_key": "filter_170",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3734,6 +3734,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/神乐之真意.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"CRIT DMG"
@@ -3763,21 +3778,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3788,6 +3788,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/神射手之誓.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Bow"
+				],
+				"value_types": [
+					{
+						"id": "417",
+						"value": "Bow",
+						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"CRIT DMG"
@@ -3814,21 +3829,6 @@
 						"mi18n_key": "filter_695",
 						"icon": "",
 						"enum_string": "3"
-					}
-				],
-				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Bow"
-				],
-				"value_types": [
-					{
-						"id": "417",
-						"value": "Bow",
-						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -3896,6 +3896,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/祭礼大剑.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -3925,21 +3940,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3950,6 +3950,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/祭礼弓.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Bow"
@@ -3979,7 +3994,16 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "2006",
+		"name": "Sacrificial Fragments",
+		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/祭礼残章.png",
+		"display_field": {},
+		"filter_values": {
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -3994,16 +4018,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "2006",
-		"name": "Sacrificial Fragments",
-		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/祭礼残章.png",
-		"display_field": {},
-		"filter_values": {
+			},
 			"weapon_type": {
 				"values": [
 					"Catalyst"
@@ -4033,21 +4048,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -4058,21 +4058,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/笛剑.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Sword"
@@ -4102,6 +4087,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -4112,6 +4112,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/终末嗟叹之诗.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -4141,21 +4156,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -4166,6 +4166,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/绝弦.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"Elemental Mastery"
+				],
+				"value_types": [
+					{
+						"id": "207",
+						"value": "Elemental Mastery",
+						"mi18n_key": "filter_207",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -4190,21 +4205,6 @@
 						"id": "417",
 						"value": "Bow",
 						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"Elemental Mastery"
-				],
-				"value_types": [
-					{
-						"id": "207",
-						"value": "Elemental Mastery",
-						"mi18n_key": "filter_207",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -4274,6 +4274,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/腐殖之剑.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -4298,21 +4313,6 @@
 						"id": "403",
 						"value": "Sword",
 						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -4382,6 +4382,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/苍翠猎弓.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"CRIT Rate"
+				],
+				"value_types": [
+					{
+						"id": "170",
+						"value": "CRIT Rate",
+						"mi18n_key": "filter_170",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -4411,21 +4426,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"CRIT Rate"
-				],
-				"value_types": [
-					{
-						"id": "170",
-						"value": "CRIT Rate",
-						"mi18n_key": "filter_170",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -4436,21 +4436,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/薙草之稻光.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -4480,6 +4465,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -4490,6 +4490,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/螭骨剑.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Claymore"
@@ -4519,7 +4534,16 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "2016",
+		"name": "Luxurious Sea-Lord",
+		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/衔珠海皇.png",
+		"display_field": {},
+		"filter_values": {
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -4534,16 +4558,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "2016",
-		"name": "Luxurious Sea-Lord",
-		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/衔珠海皇.png",
-		"display_field": {},
-		"filter_values": {
+			},
 			"weapon_type": {
 				"values": [
 					"Claymore"
@@ -4573,21 +4588,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -4598,21 +4598,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/西风剑.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"Energy Recharge"
@@ -4639,6 +4624,21 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -4706,21 +4706,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/西风猎弓.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -4745,6 +4730,21 @@
 						"id": "417",
 						"value": "Bow",
 						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -5069,6 +5069,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/试作斩岩.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Sword"
@@ -5098,21 +5113,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5123,6 +5123,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/试作星镰.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Polearm"
+				],
+				"value_types": [
+					{
+						"id": "448",
+						"value": "Polearm",
+						"mi18n_key": "filter_448",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"Energy Recharge"
@@ -5152,21 +5167,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Polearm"
-				],
-				"value_types": [
-					{
-						"id": "448",
-						"value": "Polearm",
-						"mi18n_key": "filter_448",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5177,21 +5177,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/试作澹月.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Bow"
-				],
-				"value_types": [
-					{
-						"id": "417",
-						"value": "Bow",
-						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -5218,6 +5203,21 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Bow"
+				],
+				"value_types": [
+					{
+						"id": "417",
+						"value": "Bow",
+						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -5339,6 +5339,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/赤角石溃杵.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Claymore"
@@ -5368,21 +5383,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "671",
-						"value": "5-Star",
-						"mi18n_key": "filter_671",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5393,6 +5393,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/辰砂之纺锤.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"DEF Percentage"
@@ -5422,21 +5437,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5447,21 +5447,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/钟剑.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Claymore"
@@ -5491,6 +5476,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -5501,6 +5501,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/钢轮弓.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Bow"
+				],
+				"value_types": [
+					{
+						"id": "417",
+						"value": "Bow",
+						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"Physical DMG Bonus"
@@ -5530,21 +5545,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Bow"
-				],
-				"value_types": [
-					{
-						"id": "417",
-						"value": "Bow",
-						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5555,6 +5555,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/钺矛.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"3-Star"
@@ -5584,21 +5599,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5609,21 +5609,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/铁尖枪.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"2-Star"
-				],
-				"value_types": [
-					{
-						"id": "711",
-						"value": "2-Star",
-						"mi18n_key": "filter_711",
-						"icon": "",
-						"enum_string": "2"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Polearm"
@@ -5635,6 +5620,21 @@
 						"mi18n_key": "filter_448",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"2-Star"
+				],
+				"value_types": [
+					{
+						"id": "711",
+						"value": "2-Star",
+						"mi18n_key": "filter_711",
+						"icon": "",
+						"enum_string": "2"
 					}
 				],
 				"key": null
@@ -5795,6 +5795,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/阿莫斯之弓.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -5819,21 +5834,6 @@
 						"id": "417",
 						"value": "Bow",
 						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -5957,21 +5957,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/雪葬的星银.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Physical DMG Bonus"
-				],
-				"value_types": [
-					{
-						"id": "149",
-						"value": "Physical DMG Bonus",
-						"mi18n_key": "filter_149",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -6001,6 +5986,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Physical DMG Bonus"
+				],
+				"value_types": [
+					{
+						"id": "149",
+						"value": "Physical DMG Bonus",
+						"mi18n_key": "filter_149",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -6011,6 +6011,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/雾切之回光.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Sword"
@@ -6040,21 +6055,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "671",
-						"value": "5-Star",
-						"mi18n_key": "filter_671",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6065,6 +6065,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/风花之颂.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Bow"
@@ -6091,21 +6106,6 @@
 						"mi18n_key": "filter_207",
 						"icon": "",
 						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
 					}
 				],
 				"key": null
@@ -6281,21 +6281,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/飞雷之弦振.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "188",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_188",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -6325,6 +6310,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "188",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_188",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -6335,6 +6335,36 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/魔导绪论.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"Elemental Mastery"
+				],
+				"value_types": [
+					{
+						"id": "207",
+						"value": "Elemental Mastery",
+						"mi18n_key": "filter_207",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"3-Star"
+				],
+				"value_types": [
+					{
+						"id": "695",
+						"value": "3-Star",
+						"mi18n_key": "filter_695",
+						"icon": "",
+						"enum_string": "3"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Catalyst"
@@ -6349,7 +6379,16 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "2051",
+		"name": "Raven Bow",
+		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/鸦羽弓.png",
+		"display_field": {},
+		"filter_values": {
 			"weapon_property": {
 				"values": [
 					"Elemental Mastery"
@@ -6379,16 +6418,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "2051",
-		"name": "Raven Bow",
-		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/鸦羽弓.png",
-		"display_field": {},
-		"filter_values": {
+			},
 			"weapon_type": {
 				"values": [
 					"Bow"
@@ -6403,36 +6433,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"Elemental Mastery"
-				],
-				"value_types": [
-					{
-						"id": "207",
-						"value": "Elemental Mastery",
-						"mi18n_key": "filter_207",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"3-Star"
-				],
-				"value_types": [
-					{
-						"id": "695",
-						"value": "3-Star",
-						"mi18n_key": "filter_695",
-						"icon": "",
-						"enum_string": "3"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6443,6 +6443,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/黎明神剑.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "188",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_188",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"3-Star"
@@ -6472,21 +6487,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "188",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_188",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6497,6 +6497,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/黑剑.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"CRIT Rate"
@@ -6523,21 +6538,6 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -6659,36 +6659,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/黑岩斩刀.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "188",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_188",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Claymore"
@@ -6703,16 +6673,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "2057",
-		"name": "Blackcliff Agate",
-		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/黑岩绯玉.png",
-		"display_field": {},
-		"filter_values": {
+			},
 			"weapon_property": {
 				"values": [
 					"CRIT DMG"
@@ -6742,7 +6703,16 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "2057",
+		"name": "Blackcliff Agate",
+		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/黑岩绯玉.png",
+		"display_field": {},
+		"filter_values": {
 			"weapon_type": {
 				"values": [
 					"Catalyst"
@@ -6757,6 +6727,36 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "188",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_188",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -6767,6 +6767,21 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/黑岩长剑.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "188",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_188",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -6796,21 +6811,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "188",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_188",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6821,21 +6821,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/黑缨枪.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Polearm"
-				],
-				"value_types": [
-					{
-						"id": "448",
-						"value": "Polearm",
-						"mi18n_key": "filter_448",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"HP Percentage"
@@ -6862,6 +6847,21 @@
 						"mi18n_key": "filter_695",
 						"icon": "",
 						"enum_string": "3"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Polearm"
+				],
+				"value_types": [
+					{
+						"id": "448",
+						"value": "Polearm",
+						"mi18n_key": "filter_448",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -6929,21 +6929,6 @@
 		"icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/若水.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "671",
-						"value": "5-Star",
-						"mi18n_key": "filter_671",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Bow"
@@ -6970,6 +6955,21 @@
 						"mi18n_key": "filter_188",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
 					}
 				],
 				"key": null
@@ -7091,21 +7091,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/23/194600931/110a33dca005873d039a32c6c931d405_5358077549703882796.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Bow"
-				],
-				"value_types": [
-					{
-						"id": "417",
-						"value": "Bow",
-						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"CRIT Rate"
@@ -7132,6 +7117,21 @@
 						"mi18n_key": "filter_671",
 						"icon": "",
 						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Bow"
+				],
+				"value_types": [
+					{
+						"id": "417",
+						"value": "Bow",
+						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -7199,21 +7199,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/26/194600931/b7dc579e8ad60147a049d14fc277629c_8193231495693842461.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"Energy Recharge"
@@ -7243,6 +7228,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -7253,6 +7253,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/26/194600931/2ab37345c6972292fda8b3095c15f971_8878508254336755657.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Polearm"
+				],
+				"value_types": [
+					{
+						"id": "448",
+						"value": "Polearm",
+						"mi18n_key": "filter_448",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"Elemental Mastery"
@@ -7279,21 +7294,6 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Polearm"
-				],
-				"value_types": [
-					{
-						"id": "448",
-						"value": "Polearm",
-						"mi18n_key": "filter_448",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -7361,6 +7361,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/26/194600931/e3b554a4032b5b738d056ab7a44e9e37_7655698488024418107.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -7385,21 +7400,6 @@
 						"id": "417",
 						"value": "Bow",
 						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -7523,21 +7523,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/28/194600931/e945b4d60271cc0560627c16f4a0a7dd_2629837070953493651.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Elemental Mastery"
-				],
-				"value_types": [
-					{
-						"id": "207",
-						"value": "Elemental Mastery",
-						"mi18n_key": "filter_207",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -7567,6 +7552,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Elemental Mastery"
+				],
+				"value_types": [
+					{
+						"id": "207",
+						"value": "Elemental Mastery",
+						"mi18n_key": "filter_207",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -7577,6 +7577,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/28/194600931/fc9a85ad2a47dc0386d55ac4e8596440_7909203100593110405.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Polearm"
@@ -7603,21 +7618,6 @@
 						"mi18n_key": "filter_170",
 						"icon": "",
 						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "671",
-						"value": "5-Star",
-						"mi18n_key": "filter_671",
-						"icon": "",
-						"enum_string": "5"
 					}
 				],
 				"key": null
@@ -7685,6 +7685,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/12/35428890/06be2dc5c5b80671ddf01cc9dc01bb49_6360458851061396642.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Sword"
@@ -7711,21 +7726,6 @@
 						"mi18n_key": "filter_207",
 						"icon": "",
 						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
 					}
 				],
 				"key": null
@@ -7793,6 +7793,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/31/35428890/afd146c520b3a0bd72489a3426d8f283_7854516109466365358.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"Elemental Mastery"
@@ -7822,21 +7837,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -7847,21 +7847,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/15/194600931/e611885dcef509e0ced1b3aec547ebf0_8005422016701349311.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Sword"
@@ -7891,6 +7876,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -7901,21 +7901,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/05/35428890/8de363bf716e4538ba86014fbea827ef_1659819870214382408.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "188",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_188",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"5-Star"
@@ -7940,6 +7925,21 @@
 						"id": "442",
 						"value": "Catalyst",
 						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "188",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_188",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -7955,21 +7955,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/18/35428890/bf4ef5696afdf695a26fab9510228060_1761507291577300383.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"CRIT DMG"
@@ -7996,6 +7981,21 @@
 						"mi18n_key": "filter_671",
 						"icon": "",
 						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -8063,6 +8063,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/02/28/35428890/374cad27eb39f01436d6f52446804e6b_7142308678889222851.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Claymore"
+				],
+				"value_types": [
+					{
+						"id": "405",
+						"value": "Claymore",
+						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"CRIT Rate"
@@ -8092,21 +8107,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Claymore"
-				],
-				"value_types": [
-					{
-						"id": "405",
-						"value": "Claymore",
-						"mi18n_key": "filter_405",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -8117,21 +8117,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/35428890/0a88b9e311e28c9ae89138a10c48601a_3822390923121875698.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "671",
-						"value": "5-Star",
-						"mi18n_key": "filter_671",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Catalyst"
@@ -8161,6 +8146,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -8171,6 +8171,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/26/194600931/3c33fbd1aeadf27dc00617c3f4d31c55_8985435652169839567.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Bow"
@@ -8200,21 +8215,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -8225,21 +8225,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/11/35428890/150d6ae6dec75c2af1e4c37a084bf80f_93661134642122637.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Bow"
-				],
-				"value_types": [
-					{
-						"id": "417",
-						"value": "Bow",
-						"mi18n_key": "filter_417",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"CRIT DMG"
@@ -8266,6 +8251,21 @@
 						"mi18n_key": "filter_671",
 						"icon": "",
 						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Bow"
+				],
+				"value_types": [
+					{
+						"id": "417",
+						"value": "Bow",
+						"mi18n_key": "filter_417",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -8333,6 +8333,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/14/35428890/17a33544c58e2a45ad5f1a4a5a68906a_3812897365671640245.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Claymore"
+				],
+				"value_types": [
+					{
+						"id": "405",
+						"value": "Claymore",
+						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -8359,21 +8374,6 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Claymore"
-				],
-				"value_types": [
-					{
-						"id": "405",
-						"value": "Claymore",
-						"mi18n_key": "filter_405",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -8495,21 +8495,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/14/35428890/0130ca8183d3daa2eddbb9200a1d776f_1451142999894885216.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -8539,6 +8524,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -8549,21 +8549,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/12/35428890/920ca2fe25ca2db1796848099b59b2d8_9037857887405548950.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"Energy Recharge"
-				],
-				"value_types": [
-					{
-						"id": "217",
-						"value": "Energy Recharge",
-						"mi18n_key": "filter_217",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -8588,6 +8573,21 @@
 						"id": "403",
 						"value": "Sword",
 						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"Energy Recharge"
+				],
+				"value_types": [
+					{
+						"id": "217",
+						"value": "Energy Recharge",
+						"mi18n_key": "filter_217",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -8603,21 +8603,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/12/35428890/e1d10d55b8b96e0695000018664e17ef_8234591885133749148.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Sword"
-				],
-				"value_types": [
-					{
-						"id": "403",
-						"value": "Sword",
-						"mi18n_key": "filter_403",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"CRIT Rate"
@@ -8647,6 +8632,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Sword"
+				],
+				"value_types": [
+					{
+						"id": "403",
+						"value": "Sword",
+						"mi18n_key": "filter_403",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -8657,21 +8657,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/12/35428890/6e0130263c2de43a0bd7863edce22df3_1490535884850747976.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"CRIT Rate"
-				],
-				"value_types": [
-					{
-						"id": "170",
-						"value": "CRIT Rate",
-						"mi18n_key": "filter_170",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -8696,6 +8681,21 @@
 						"id": "405",
 						"value": "Claymore",
 						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"CRIT Rate"
+				],
+				"value_types": [
+					{
+						"id": "170",
+						"value": "CRIT Rate",
+						"mi18n_key": "filter_170",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -8927,6 +8927,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/27/35428890/ac81c1e26d35d3742320975fffe21ee8_1604254334456103094.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Claymore"
+				],
+				"value_types": [
+					{
+						"id": "405",
+						"value": "Claymore",
+						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"HP Percentage"
@@ -8956,21 +8971,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_type": {
-				"values": [
-					"Claymore"
-				],
-				"value_types": [
-					{
-						"id": "405",
-						"value": "Claymore",
-						"mi18n_key": "filter_405",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -8981,6 +8981,21 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/16/35428890/4bfc21303d8ff98cd546aae980b55090_6373501799982920044.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Polearm"
@@ -9010,21 +9025,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -9035,21 +9035,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/16/35428890/4e67e6c313220ea1ca84a48d42d78806_8702041612949933944.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"ATK Percentage"
-				],
-				"value_types": [
-					{
-						"id": "142",
-						"value": "ATK Percentage",
-						"mi18n_key": "filter_142",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_rarity": {
 				"values": [
 					"4-Star"
@@ -9079,6 +9064,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"ATK Percentage"
+				],
+				"value_types": [
+					{
+						"id": "142",
+						"value": "ATK Percentage",
+						"mi18n_key": "filter_142",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -9089,21 +9089,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/22/35428890/079c8ff2c28a14f02c40af831e9b5179_5407660022702405104.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"Energy Recharge"
@@ -9133,6 +9118,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -9143,21 +9143,6 @@
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/26/35428890/5828ed7b48c39e5d15aaf6f2495ddabc_4077399461570238363.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "671",
-						"value": "5-Star",
-						"mi18n_key": "filter_671",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Catalyst"
@@ -9184,6 +9169,21 @@
 						"mi18n_key": "filter_188",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
 					}
 				],
 				"key": null
@@ -9359,6 +9359,21 @@
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/18/35428890/4f35f9bf1bceead8fa216873ce321847_580447322497057561.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Claymore"
@@ -9388,21 +9403,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "671",
-						"value": "5-Star",
-						"mi18n_key": "filter_671",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -9413,21 +9413,6 @@
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/23/35428890/9eb77ebc428cc08b695d166c70d72012_6536152954173802112.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Claymore"
-				],
-				"value_types": [
-					{
-						"id": "405",
-						"value": "Claymore",
-						"mi18n_key": "filter_405",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"Energy Recharge"
@@ -9457,6 +9442,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Claymore"
+				],
+				"value_types": [
+					{
+						"id": "405",
+						"value": "Claymore",
+						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -9467,21 +9467,6 @@
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/29/35428890/7d49f94bfb8725b8c04332b11eb7df60_2329485834347949734.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_type": {
-				"values": [
-					"Catalyst"
-				],
-				"value_types": [
-					{
-						"id": "442",
-						"value": "Catalyst",
-						"mi18n_key": "filter_442",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -9511,6 +9496,21 @@
 					}
 				],
 				"key": null
+			},
+			"weapon_type": {
+				"values": [
+					"Catalyst"
+				],
+				"value_types": [
+					{
+						"id": "442",
+						"value": "Catalyst",
+						"mi18n_key": "filter_442",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -9521,6 +9521,21 @@
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/12/35428890/97083537849c199bc3fa7fed8a49d010_4537988792766091765.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "188",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_188",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Sword"
@@ -9547,21 +9562,6 @@
 						"mi18n_key": "filter_671",
 						"icon": "",
 						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "188",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_188",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -9683,21 +9683,6 @@
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/06/25/bbfcbecb44910640904415c4c8f7a71d_6233228634431101260.png",
 		"display_field": {},
 		"filter_values": {
-			"weapon_property": {
-				"values": [
-					"HP Percentage"
-				],
-				"value_types": [
-					{
-						"id": "226",
-						"value": "HP Percentage",
-						"mi18n_key": "filter_226",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"weapon_type": {
 				"values": [
 					"Bow"
@@ -9724,6 +9709,21 @@
 						"mi18n_key": "filter_671",
 						"icon": "",
 						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"HP Percentage"
+				],
+				"value_types": [
+					{
+						"id": "226",
+						"value": "HP Percentage",
+						"mi18n_key": "filter_226",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -9894,11 +9894,80 @@
 		"desc": ""
 	},
 	{
+		"entry_page_id": "6545",
+		"name": "Fang of the Mountain King",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/23/1fd3c498faccab68bfa5d961477a8c29_2936359463997877474.png",
+		"display_field": {},
+		"filter_values": {
+			"weapon_type": {
+				"values": [
+					"Claymore"
+				],
+				"value_types": [
+					{
+						"id": "405",
+						"value": "Claymore",
+						"mi18n_key": "filter_405",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_property": {
+				"values": [
+					"CRIT Rate"
+				],
+				"value_types": [
+					{
+						"id": "170",
+						"value": "CRIT Rate",
+						"mi18n_key": "filter_170",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"weapon_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "671",
+						"value": "5-Star",
+						"mi18n_key": "filter_671",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
 		"entry_page_id": "6546",
 		"name": "Surf's Up",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/23/6ce2e0da75fbdc19fc4b6f9e7bae9049_5151463723015160354.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "188",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_188",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Catalyst"
@@ -9928,21 +9997,6 @@
 					}
 				],
 				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "188",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_188",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -9953,6 +10007,21 @@
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/23/bdd740ad879d22a1fc4e3770cc9c73bd_5479414831341401728.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_property": {
+				"values": [
+					"DEF Percentage"
+				],
+				"value_types": [
+					{
+						"id": "157",
+						"value": "DEF Percentage",
+						"mi18n_key": "filter_157",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"weapon_type": {
 				"values": [
 					"Sword"
@@ -9979,21 +10048,6 @@
 						"mi18n_key": "filter_689",
 						"icon": "",
 						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"weapon_property": {
-				"values": [
-					"DEF Percentage"
-				],
-				"value_types": [
-					{
-						"id": "157",
-						"value": "DEF Percentage",
-						"mi18n_key": "filter_157",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -10223,6 +10277,21 @@
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/23/8a6b418598f555deba7da922385254a2_8112788546506820868.png",
 		"display_field": {},
 		"filter_values": {
+			"weapon_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "689",
+						"value": "4-Star",
+						"mi18n_key": "filter_689",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"weapon_property": {
 				"values": [
 					"ATK Percentage"
@@ -10249,21 +10318,6 @@
 						"mi18n_key": "filter_417",
 						"icon": "",
 						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"weapon_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "689",
-						"value": "4-Star",
-						"mi18n_key": "filter_689",
-						"icon": "",
-						"enum_string": "4"
 					}
 				],
 				"key": null
