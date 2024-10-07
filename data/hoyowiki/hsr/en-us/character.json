@@ -8,6 +8,21 @@
 			"attr_level_1": "{\"base_hp\":\"163\",\"base_atk\":\"84\",\"base_def\":\"62\",\"base_speed\":\"100\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "5-Star",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"character_combat_type": {
 				"values": [
 					"Physical"
@@ -52,21 +67,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "5-Star",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -80,6 +80,21 @@
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"511\",\"base_def\":\"573\",\"base_speed\":\"101\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"Astral Express"
+				],
+				"value_types": [
+					{
+						"id": "1496",
+						"value": "Astral Express",
+						"mi18n_key": "filter_1496",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"The Preservation"
@@ -124,21 +139,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"Astral Express"
-				],
-				"value_types": [
-					{
-						"id": "1496",
-						"value": "Astral Express",
-						"mi18n_key": "filter_1496",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -148,8 +148,8 @@
 		"name": "Dan Heng",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/f22589fcc8472c64f735d67ca72f0432_7471037767326702542.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"120\",\"base_atk\":\"74\",\"base_def\":\"54\",\"base_speed\":\"110\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"882\",\"base_atk\":\"546\",\"base_def\":\"396\",\"base_speed\":\"110\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"882\",\"base_atk\":\"546\",\"base_def\":\"396\",\"base_speed\":\"110\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"120\",\"base_atk\":\"74\",\"base_def\":\"54\",\"base_speed\":\"110\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_paths": {
@@ -224,6 +224,21 @@
 			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"102\",\"base_def\":\"59\",\"base_speed\":\"96\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_paths": {
+				"values": [
+					"The Erudition"
+				],
+				"value_types": [
+					{
+						"id": "1405",
+						"value": "The Erudition",
+						"mi18n_key": "filter_1405",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"enum_string": "erudition"
+					}
+				],
+				"key": null
+			},
 			"character_rarity": {
 				"values": [
 					"5-Star"
@@ -268,21 +283,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"The Erudition"
-				],
-				"value_types": [
-					{
-						"id": "1405",
-						"value": "The Erudition",
-						"mi18n_key": "filter_1405",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
-						"enum_string": "erudition"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -296,36 +296,6 @@
 			"attr_level_80": "{\"base_hp\":\"1125\",\"base_atk\":\"620\",\"base_def\":\"509\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"Imaginary"
-				],
-				"value_types": [
-					{
-						"id": "1341",
-						"value": "Imaginary",
-						"mi18n_key": "filter_1341",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
-						"enum_string": "imaginary"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"Astral Express"
-				],
-				"value_types": [
-					{
-						"id": "1496",
-						"value": "Astral Express",
-						"mi18n_key": "filter_1496",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Nihility"
@@ -355,6 +325,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Imaginary"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "Imaginary",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Astral Express"
+				],
+				"value_types": [
+					{
+						"id": "1496",
+						"value": "Astral Express",
+						"mi18n_key": "filter_1496",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -368,36 +368,6 @@
 			"attr_level_80": "{\"base_hp\":\"1199\",\"base_atk\":\"599\",\"base_def\":\"330\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1468",
-						"value": "4-Star",
-						"mi18n_key": "filter_1468",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"Lightning"
-				],
-				"value_types": [
-					{
-						"id": "1357",
-						"value": "Lightning",
-						"mi18n_key": "filter_1357",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
-						"enum_string": "lightning"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"Herta Space Station"
@@ -427,6 +397,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1468",
+						"value": "4-Star",
+						"mi18n_key": "filter_1468",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Lightning"
+				],
+				"value_types": [
+					{
+						"id": "1357",
+						"value": "Lightning",
+						"mi18n_key": "filter_1357",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
+						"enum_string": "lightning"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -436,25 +436,10 @@
 		"name": "Asta",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9ac18d37eab70ad1b7485d8025ec7499_4987547298490400207.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1023\",\"base_atk\":\"511\",\"base_def\":\"463\",\"base_speed\":\"106\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"139\",\"base_atk\":\"69\",\"base_def\":\"63\",\"base_speed\":\"106\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"139\",\"base_atk\":\"69\",\"base_def\":\"63\",\"base_speed\":\"106\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1023\",\"base_atk\":\"511\",\"base_def\":\"463\",\"base_speed\":\"106\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"The Harmony"
-				],
-				"value_types": [
-					{
-						"id": "1421",
-						"value": "The Harmony",
-						"mi18n_key": "filter_1421",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
-						"enum_string": "harmony"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"4-Star"
@@ -499,6 +484,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Harmony"
+				],
+				"value_types": [
+					{
+						"id": "1421",
+						"value": "The Harmony",
+						"mi18n_key": "filter_1421",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
+						"enum_string": "harmony"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -512,21 +512,6 @@
 			"attr_level_1": "{\"base_hp\":\"129\",\"base_atk\":\"79\",\"base_def\":\"54\",\"base_speed\":\"100\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"Ice"
-				],
-				"value_types": [
-					{
-						"id": "1371",
-						"value": "Ice",
-						"mi18n_key": "filter_1371",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e7fda5adc3b8ee20cef753b61ff0ed08_8813940564670780996.png",
-						"enum_string": "ice"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"Herta Space Station"
@@ -571,6 +556,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Ice"
+				],
+				"value_types": [
+					{
+						"id": "1371",
+						"value": "Ice",
+						"mi18n_key": "filter_1371",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e7fda5adc3b8ee20cef753b61ff0ed08_8813940564670780996.png",
+						"enum_string": "ice"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -580,10 +580,25 @@
 		"name": "Bronya",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/7c97499ec8dac5bd41a0ab91b8bba9a2_9011443874790929649.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"79\",\"base_def\":\"72\",\"base_speed\":\"99\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"582\",\"base_def\":\"533\",\"base_speed\":\"99\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"582\",\"base_def\":\"533\",\"base_speed\":\"99\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"79\",\"base_def\":\"72\",\"base_speed\":\"99\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"Jarilo-VI"
+				],
+				"value_types": [
+					{
+						"id": "1524",
+						"value": "Jarilo-VI",
+						"mi18n_key": "filter_1524",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"The Harmony"
@@ -625,21 +640,6 @@
 						"mi18n_key": "filter_1314",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/8d2992ae95dfe1469af254b923b1129c_5790926101190505253.png",
 						"enum_string": "wind"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"Jarilo-VI"
-				],
-				"value_types": [
-					{
-						"id": "1524",
-						"value": "Jarilo-VI",
-						"mi18n_key": "filter_1524",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -724,8 +724,8 @@
 		"name": "Serval",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/6660b8c2be9a0db0130a8a2bd1825e0c_115117260001571580.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"88\",\"base_def\":\"51\",\"base_speed\":\"104\"}",
-			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"652\",\"base_def\":\"374\",\"base_speed\":\"104\"}"
+			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"88\",\"base_def\":\"51\",\"base_speed\":\"104\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"652\",\"base_def\":\"374\",\"base_speed\":\"104\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_factions": {
@@ -739,6 +739,21 @@
 						"mi18n_key": "filter_1524",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Erudition"
+				],
+				"value_types": [
+					{
+						"id": "1405",
+						"value": "The Erudition",
+						"mi18n_key": "filter_1405",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"enum_string": "erudition"
 					}
 				],
 				"key": null
@@ -772,21 +787,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"The Erudition"
-				],
-				"value_types": [
-					{
-						"id": "1405",
-						"value": "The Erudition",
-						"mi18n_key": "filter_1405",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
-						"enum_string": "erudition"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -796,25 +796,10 @@
 		"name": "Gepard",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/21ae001edc80f597d35df15f35537d00_4983283866355038276.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"190\",\"base_atk\":\"73\",\"base_def\":\"89\",\"base_speed\":\"92\"}",
-			"attr_level_80": "{\"base_hp\":\"1397\",\"base_atk\":\"543\",\"base_def\":\"654\",\"base_speed\":\"92\"}"
+			"attr_level_1": "{\"base_hp\":\"190\",\"base_atk\":\"73\",\"base_def\":\"89\",\"base_speed\":\"92\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1397\",\"base_atk\":\"543\",\"base_def\":\"654\",\"base_speed\":\"92\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Jarilo-VI"
-				],
-				"value_types": [
-					{
-						"id": "1524",
-						"value": "Jarilo-VI",
-						"mi18n_key": "filter_1524",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"5-Star"
@@ -859,6 +844,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Jarilo-VI"
+				],
+				"value_types": [
+					{
+						"id": "1524",
+						"value": "Jarilo-VI",
+						"mi18n_key": "filter_1524",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -868,8 +868,8 @@
 		"name": "Natasha",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/59abc9abc0795ead8a3d3ac2c03530f1_1713347165320581354.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"158\",\"base_atk\":\"64\",\"base_def\":\"69\",\"base_speed\":\"98\"}",
-			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"476\",\"base_def\":\"507\",\"base_speed\":\"98\"}"
+			"attr_level_1": "{\"base_hp\":\"158\",\"base_atk\":\"64\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"476\",\"base_def\":\"507\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_combat_type": {
@@ -940,25 +940,10 @@
 		"name": "Pela",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9ca6f9a8509b3e8dd05fb551056d273d_933159568797000001.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"134\",\"base_atk\":\"74\",\"base_def\":\"63\",\"base_speed\":\"105\"}",
-			"attr_level_80": "{\"base_hp\":\"987\",\"base_atk\":\"546\",\"base_def\":\"463\",\"base_speed\":\"105\"}"
+			"attr_level_80": "{\"base_hp\":\"987\",\"base_atk\":\"546\",\"base_def\":\"463\",\"base_speed\":\"105\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"134\",\"base_atk\":\"74\",\"base_def\":\"63\",\"base_speed\":\"105\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1468",
-						"value": "4-Star",
-						"mi18n_key": "filter_1468",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"Ice"
@@ -1000,6 +985,21 @@
 						"mi18n_key": "filter_1524",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1468",
+						"value": "4-Star",
+						"mi18n_key": "filter_1468",
+						"icon": "",
+						"enum_string": "4"
 					}
 				],
 				"key": null
@@ -1084,8 +1084,8 @@
 		"name": "Sampo",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/8cc98741a00c642fd5e47c86b22bf8d9_1867355418239514355.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1023\",\"base_atk\":\"617\",\"base_def\":\"396\",\"base_speed\":\"102\"}",
-			"attr_level_1": "{\"base_hp\":\"139\",\"base_atk\":\"84\",\"base_def\":\"54\",\"base_speed\":\"102\"}"
+			"attr_level_1": "{\"base_hp\":\"139\",\"base_atk\":\"84\",\"base_def\":\"54\",\"base_speed\":\"102\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1023\",\"base_atk\":\"617\",\"base_def\":\"396\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_rarity": {
@@ -1160,17 +1160,17 @@
 			"attr_level_80": "{\"base_hp\":\"1340\",\"base_atk\":\"617\",\"base_def\":\"352\",\"base_speed\":\"94\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
+			"character_factions": {
 				"values": [
-					"Fire"
+					"Jarilo-VI"
 				],
 				"value_types": [
 					{
-						"id": "1322",
-						"value": "Fire",
-						"mi18n_key": "filter_1322",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
-						"enum_string": "fire"
+						"id": "1524",
+						"value": "Jarilo-VI",
+						"mi18n_key": "filter_1524",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -1190,21 +1190,6 @@
 				],
 				"key": null
 			},
-			"character_factions": {
-				"values": [
-					"Jarilo-VI"
-				],
-				"value_types": [
-					{
-						"id": "1524",
-						"value": "Jarilo-VI",
-						"mi18n_key": "filter_1524",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"4-Star"
@@ -1216,6 +1201,21 @@
 						"mi18n_key": "filter_1468",
 						"icon": "",
 						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Fire"
+				],
+				"value_types": [
+					{
+						"id": "1322",
+						"value": "Fire",
+						"mi18n_key": "filter_1322",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
+						"enum_string": "fire"
 					}
 				],
 				"key": null
@@ -1247,21 +1247,6 @@
 				],
 				"key": null
 			},
-			"character_factions": {
-				"values": [
-					"Astral Express"
-				],
-				"value_types": [
-					{
-						"id": "1496",
-						"value": "Astral Express",
-						"mi18n_key": "filter_1496",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"5-Star"
@@ -1291,6 +1276,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Astral Express"
+				],
+				"value_types": [
+					{
+						"id": "1496",
+						"value": "Astral Express",
+						"mi18n_key": "filter_1496",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1300,25 +1300,10 @@
 		"name": "Qingque",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/e8150c747e37c2b29ebb426291a062d9_7335309365701961860.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"139\",\"base_atk\":\"88\",\"base_def\":\"60\",\"base_speed\":\"98\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1023\",\"base_atk\":\"652\",\"base_def\":\"441\",\"base_speed\":\"98\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"1023\",\"base_atk\":\"652\",\"base_def\":\"441\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"139\",\"base_atk\":\"88\",\"base_def\":\"60\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Xianzhou Luofu"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "Xianzhou Luofu",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"4-Star"
@@ -1349,6 +1334,21 @@
 				],
 				"key": null
 			},
+			"character_factions": {
+				"values": [
+					"Xianzhou Luofu"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "Xianzhou Luofu",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"The Erudition"
@@ -1372,25 +1372,10 @@
 		"name": "Tingyun",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/96067b8aa9c14528544fbc50c8ce7ec5_4740490797942876174.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"115\",\"base_atk\":\"72\",\"base_def\":\"54\",\"base_speed\":\"112\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"529\",\"base_def\":\"396\",\"base_speed\":\"112\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"529\",\"base_def\":\"396\",\"base_speed\":\"112\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"115\",\"base_atk\":\"72\",\"base_def\":\"54\",\"base_speed\":\"112\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1468",
-						"value": "4-Star",
-						"mi18n_key": "filter_1468",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"Lightning"
@@ -1402,6 +1387,21 @@
 						"mi18n_key": "filter_1357",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
 						"enum_string": "lightning"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Xianzhou Luofu"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "Xianzhou Luofu",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -1421,17 +1421,17 @@
 				],
 				"key": null
 			},
-			"character_factions": {
+			"character_rarity": {
 				"values": [
-					"Xianzhou Luofu"
+					"4-Star"
 				],
 				"value_types": [
 					{
-						"id": "1538",
-						"value": "Xianzhou Luofu",
-						"mi18n_key": "filter_1538",
+						"id": "1468",
+						"value": "4-Star",
+						"mi18n_key": "filter_1468",
 						"icon": "",
-						"enum_string": ""
+						"enum_string": "4"
 					}
 				],
 				"key": null
@@ -1448,21 +1448,6 @@
 			"attr_level_1": "{\"base_hp\":\"158\",\"base_atk\":\"95\",\"base_def\":\"66\",\"base_speed\":\"99\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Xianzhou Luofu"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "Xianzhou Luofu",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Erudition"
@@ -1507,19 +1492,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "27",
-		"name": "Sushang",
-		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/34ed53d517bff61c71243b3ef9985a2a_9011443874790929649.png",
-		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"76\",\"base_def\":\"57\",\"base_speed\":\"107\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"564\",\"base_def\":\"418\",\"base_speed\":\"107\",\"dynamic\":{}}"
-		},
-		"filter_values": {
+			},
 			"character_factions": {
 				"values": [
 					"Xianzhou Luofu"
@@ -1534,7 +1507,19 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "27",
+		"name": "Sushang",
+		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/34ed53d517bff61c71243b3ef9985a2a_9011443874790929649.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"76\",\"base_def\":\"57\",\"base_speed\":\"107\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"564\",\"base_def\":\"418\",\"base_speed\":\"107\",\"dynamic\":{}}"
+		},
+		"filter_values": {
 			"character_paths": {
 				"values": [
 					"The Hunt"
@@ -1579,6 +1564,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Xianzhou Luofu"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "Xianzhou Luofu",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1592,6 +1592,36 @@
 			"attr_level_1": "{\"base_hp\":\"121\",\"base_atk\":\"92\",\"base_def\":\"56\",\"base_speed\":\"109\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"Xianzhou Luofu"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "Xianzhou Luofu",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1394",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1394",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
+			},
 			"character_rarity": {
 				"values": [
 					"5-Star"
@@ -1621,36 +1651,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"Xianzhou Luofu"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "Xianzhou Luofu",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"The Hunt"
-				],
-				"value_types": [
-					{
-						"id": "1394",
-						"value": "The Hunt",
-						"mi18n_key": "filter_1394",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1660,10 +1660,25 @@
 		"name": "Bailu",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9c766b0feb6256141c1ec7afcd3dff35_6990891585355987615.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1319\",\"base_atk\":\"562\",\"base_def\":\"485\",\"base_speed\":\"98\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"179\",\"base_atk\":\"76\",\"base_def\":\"66\",\"base_speed\":\"98\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"179\",\"base_atk\":\"76\",\"base_def\":\"66\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1319\",\"base_atk\":\"562\",\"base_def\":\"485\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "5-Star",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"character_combat_type": {
 				"values": [
 					"Lightning"
@@ -1708,21 +1723,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "5-Star",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1732,40 +1732,10 @@
 		"name": "Silver Wolf",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/06/05/5308864/b59604087f67ed3d1828c08a104be302_1832310283239375798.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"640\",\"base_def\":\"460\",\"base_speed\":\"107\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"87\",\"base_def\":\"62\",\"base_speed\":\"107\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"87\",\"base_def\":\"62\",\"base_speed\":\"107\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"640\",\"base_def\":\"460\",\"base_speed\":\"107\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Stellaron Hunters"
-				],
-				"value_types": [
-					{
-						"id": "1544",
-						"value": "Stellaron Hunters",
-						"mi18n_key": "filter_1544",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1429",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1429",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"5-Star"
@@ -1795,6 +1765,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Stellaron Hunters"
+				],
+				"value_types": [
+					{
+						"id": "1544",
+						"value": "Stellaron Hunters",
+						"mi18n_key": "filter_1544",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1429",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1429",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1804,10 +1804,25 @@
 		"name": "Luocha",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/11/5308864/65121c1056e26cfe184da72a5bf3ef0c_8289176652754699928.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1280\",\"base_atk\":\"756\",\"base_def\":\"363\",\"base_speed\":\"101\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"174\",\"base_atk\":\"102\",\"base_def\":\"49\",\"base_speed\":\"101\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"174\",\"base_atk\":\"102\",\"base_def\":\"49\",\"base_speed\":\"101\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1280\",\"base_atk\":\"756\",\"base_def\":\"363\",\"base_speed\":\"101\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "5-Star",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"character_factions": {
 				"values": [
 					"Xianzhou Luofu"
@@ -1852,21 +1867,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "5-Star",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1876,25 +1876,10 @@
 		"name": "Yukong",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/12/6799252/767cb7131b41bb1058c2ee329b77593e_1356198414386477791.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"916\",\"base_atk\":\"599\",\"base_def\":\"374\",\"base_speed\":\"107\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"81\",\"base_def\":\"51\",\"base_speed\":\"107\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"81\",\"base_def\":\"51\",\"base_speed\":\"107\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"916\",\"base_atk\":\"599\",\"base_def\":\"374\",\"base_speed\":\"107\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"Imaginary"
-				],
-				"value_types": [
-					{
-						"id": "1341",
-						"value": "Imaginary",
-						"mi18n_key": "filter_1341",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
-						"enum_string": "imaginary"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Harmony"
@@ -1939,6 +1924,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Imaginary"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "Imaginary",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1952,36 +1952,6 @@
 			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"543\",\"base_def\":\"485\",\"base_speed\":\"97\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Stellaron Hunters"
-				],
-				"value_types": [
-					{
-						"id": "1544",
-						"value": "Stellaron Hunters",
-						"mi18n_key": "filter_1544",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"The Destruction"
-				],
-				"value_types": [
-					{
-						"id": "1384",
-						"value": "The Destruction",
-						"mi18n_key": "filter_1384",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
-						"enum_string": "destruction"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"5-Star"
@@ -2011,6 +1981,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Stellaron Hunters"
+				],
+				"value_types": [
+					{
+						"id": "1544",
+						"value": "Stellaron Hunters",
+						"mi18n_key": "filter_1544",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Destruction"
+				],
+				"value_types": [
+					{
+						"id": "1384",
+						"value": "The Destruction",
+						"mi18n_key": "filter_1384",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"enum_string": "destruction"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2024,21 +2024,6 @@
 			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"679\",\"base_def\":\"485\",\"base_speed\":\"100\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"Lightning"
-				],
-				"value_types": [
-					{
-						"id": "1357",
-						"value": "Lightning",
-						"mi18n_key": "filter_1357",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
-						"enum_string": "lightning"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"Stellaron Hunters"
@@ -2083,6 +2068,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Lightning"
+				],
+				"value_types": [
+					{
+						"id": "1357",
+						"value": "Lightning",
+						"mi18n_key": "filter_1357",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
+						"enum_string": "lightning"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2092,25 +2092,10 @@
 		"name": "Luka",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/27/5308864/c6d6b8bef93b257573df2eab95302f0e_1251386704248841120.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"582\",\"base_def\":\"485\",\"base_speed\":\"103\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"79\",\"base_def\":\"66\",\"base_speed\":\"103\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"79\",\"base_def\":\"66\",\"base_speed\":\"103\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"582\",\"base_def\":\"485\",\"base_speed\":\"103\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"Physical"
-				],
-				"value_types": [
-					{
-						"id": "1297",
-						"value": "Physical",
-						"mi18n_key": "filter_1297",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/43a362875c2955a66ef6cd9236dbf57d_7293610557288342137.png",
-						"enum_string": "physical"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Nihility"
@@ -2137,6 +2122,21 @@
 						"mi18n_key": "filter_1468",
 						"icon": "",
 						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Physical"
+				],
+				"value_types": [
+					{
+						"id": "1297",
+						"value": "Physical",
+						"mi18n_key": "filter_1297",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/43a362875c2955a66ef6cd9236dbf57d_7293610557288342137.png",
+						"enum_string": "physical"
 					}
 				],
 				"key": null
@@ -2168,6 +2168,36 @@
 			"attr_level_80": "{\"base_hp\":\"1474\",\"base_atk\":\"465\",\"base_def\":\"606\",\"base_speed\":\"100\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"Quantum"
+				],
+				"value_types": [
+					{
+						"id": "1285",
+						"value": "Quantum",
+						"mi18n_key": "filter_1285",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/2d33de43649b480e1d6a9fdb6599b2cb_7381386544905042228.png",
+						"enum_string": "quantum"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Xianzhou Luofu"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "Xianzhou Luofu",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"The Preservation"
@@ -2197,36 +2227,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"Xianzhou Luofu"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "Xianzhou Luofu",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"Quantum"
-				],
-				"value_types": [
-					{
-						"id": "1285",
-						"value": "Quantum",
-						"mi18n_key": "filter_1285",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/2d33de43649b480e1d6a9fdb6599b2cb_7381386544905042228.png",
-						"enum_string": "quantum"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2236,25 +2236,10 @@
 		"name": "Dan Heng • Imbibitor Lunae ",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/24/250281765/8f0c086968f504bde0b12d6b94b4622c_2558772353835707790.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"95\",\"base_def\":\"49\",\"base_speed\":\"102\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"698\",\"base_def\":\"363\",\"base_speed\":\"102\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"698\",\"base_def\":\"363\",\"base_speed\":\"102\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"95\",\"base_def\":\"49\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "5-Star",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"Xianzhou Luofu"
@@ -2299,6 +2284,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "5-Star",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2312,21 +2312,6 @@
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"493\",\"base_def\":\"551\",\"base_speed\":\"100\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"The Abundance"
-				],
-				"value_types": [
-					{
-						"id": "1454",
-						"value": "The Abundance",
-						"mi18n_key": "filter_1454",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
-						"enum_string": "abundance"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"4-Star"
@@ -2368,6 +2353,21 @@
 						"mi18n_key": "filter_1285",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/2d33de43649b480e1d6a9fdb6599b2cb_7381386544905042228.png",
 						"enum_string": "quantum"
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Abundance"
+				],
+				"value_types": [
+					{
+						"id": "1454",
+						"value": "The Abundance",
+						"mi18n_key": "filter_1454",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"enum_string": "abundance"
 					}
 				],
 				"key": null
@@ -2452,8 +2452,8 @@
 		"name": "Topaz & Numby ",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/23/5308864/8db3447086f853f39d5065f09896f667_7842448134509710943.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"931\",\"base_atk\":\"620\",\"base_def\":\"412\",\"base_speed\":\"110\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"126\",\"base_atk\":\"84\",\"base_def\":\"56\",\"base_speed\":\"110\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"126\",\"base_atk\":\"84\",\"base_def\":\"56\",\"base_speed\":\"110\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"931\",\"base_atk\":\"620\",\"base_def\":\"412\",\"base_speed\":\"110\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_combat_type": {
@@ -2528,6 +2528,21 @@
 			"attr_level_80": "{\"base_hp\":\"882\",\"base_atk\":\"582\",\"base_def\":\"441\",\"base_speed\":\"106\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1429",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1429",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
 			"character_rarity": {
 				"values": [
 					"4-Star"
@@ -2572,21 +2587,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1429",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1429",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2600,6 +2600,21 @@
 			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"81\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"Xianzhou Luofu"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "Xianzhou Luofu",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"The Abundance"
@@ -2641,21 +2656,6 @@
 						"mi18n_key": "filter_1314",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/8d2992ae95dfe1469af254b923b1129c_5790926101190505253.png",
 						"enum_string": "wind"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"Xianzhou Luofu"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "Xianzhou Luofu",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -2740,25 +2740,10 @@
 		"name": "Hanya",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/12/06/5308864/2645332fb60980c541394c70976f81ca_4303281471540817699.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"76\",\"base_def\":\"48\",\"base_speed\":\"110\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"564\",\"base_def\":\"352\",\"base_speed\":\"110\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"564\",\"base_def\":\"352\",\"base_speed\":\"110\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"76\",\"base_def\":\"48\",\"base_speed\":\"110\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"Physical"
-				],
-				"value_types": [
-					{
-						"id": "1297",
-						"value": "Physical",
-						"mi18n_key": "filter_1297",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/43a362875c2955a66ef6cd9236dbf57d_7293610557288342137.png",
-						"enum_string": "physical"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Harmony"
@@ -2803,6 +2788,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Physical"
+				],
+				"value_types": [
+					{
+						"id": "1297",
+						"value": "Physical",
+						"mi18n_key": "filter_1297",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/43a362875c2955a66ef6cd9236dbf57d_7293610557288342137.png",
+						"enum_string": "physical"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2812,25 +2812,10 @@
 		"name": "Ruan Mei",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2023/12/25/d8ac43b6abd3b9210deebd8a50eae5d1_4760046445899355689.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"659\",\"base_def\":\"485\",\"base_speed\":\"104\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"89\",\"base_def\":\"66\",\"base_speed\":\"104\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"89\",\"base_def\":\"66\",\"base_speed\":\"104\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"659\",\"base_def\":\"485\",\"base_speed\":\"104\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "5-Star",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"Ice"
@@ -2860,6 +2845,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "5-Star",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2869,8 +2869,8 @@
 		"name": "Dr. Ratio",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/01/15/3fb391fb0d308ea8e89ea3ca32e8dc3b_8950865032730427405.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"776\",\"base_def\":\"460\",\"base_speed\":\"103\"}",
-			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"105\",\"base_def\":\"62\",\"base_speed\":\"103\"}"
+			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"105\",\"base_def\":\"62\",\"base_speed\":\"103\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"776\",\"base_def\":\"460\",\"base_speed\":\"103\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_combat_type": {
@@ -2941,8 +2941,8 @@
 		"name": "Xueyi",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/25/167256510/c4c71675cb2e2b0ecd158de74ee4bd50_6591375477037031331.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"144\",\"base_atk\":\"81\",\"base_def\":\"54\",\"base_speed\":\"103\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"599\",\"base_def\":\"396\",\"base_speed\":\"103\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"599\",\"base_def\":\"396\",\"base_speed\":\"103\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"144\",\"base_atk\":\"81\",\"base_def\":\"54\",\"base_speed\":\"103\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_factions": {
@@ -3017,36 +3017,6 @@
 			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"659\",\"base_def\":\"485\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1429",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1429",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
-			},
-			"character_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "5-Star",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"Garden of Recollection"
@@ -3073,6 +3043,36 @@
 						"mi18n_key": "filter_1314",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/8d2992ae95dfe1469af254b923b1129c_5790926101190505253.png",
 						"enum_string": "wind"
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1429",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1429",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "5-Star",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
 					}
 				],
 				"key": null
@@ -3161,36 +3161,6 @@
 			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"599\",\"base_def\":\"396\",\"base_speed\":\"96\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Penacony"
-				],
-				"value_types": [
-					{
-						"id": "3451",
-						"value": "Penacony",
-						"mi18n_key": "filter_custom_2",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"The Destruction"
-				],
-				"value_types": [
-					{
-						"id": "1384",
-						"value": "The Destruction",
-						"mi18n_key": "filter_1384",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
-						"enum_string": "destruction"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"4-Star"
@@ -3220,6 +3190,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Penacony"
+				],
+				"value_types": [
+					{
+						"id": "3451",
+						"value": "Penacony",
+						"mi18n_key": "filter_custom_2",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Destruction"
+				],
+				"value_types": [
+					{
+						"id": "1384",
+						"value": "The Destruction",
+						"mi18n_key": "filter_1384",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"enum_string": "destruction"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3229,8 +3229,8 @@
 		"name": "Acheron",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/20/9cb4a2305547a5dabf6c30ee58f8245a_185738241261815724.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1125\",\"base_atk\":\"698\",\"base_def\":\"436\",\"base_speed\":\"101\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"153\",\"base_atk\":\"95\",\"base_def\":\"59\",\"base_speed\":\"101\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"153\",\"base_atk\":\"95\",\"base_def\":\"59\",\"base_speed\":\"101\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1125\",\"base_atk\":\"698\",\"base_def\":\"436\",\"base_speed\":\"101\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_combat_type": {
@@ -3521,21 +3521,6 @@
 			"attr_level_1": "{\"base_hp\":\"163\",\"base_atk\":\"84\",\"base_def\":\"59\",\"base_speed\":\"107\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"The Hunt"
-				],
-				"value_types": [
-					{
-						"id": "1394",
-						"value": "The Hunt",
-						"mi18n_key": "filter_1394",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"5-Star"
@@ -3577,6 +3562,21 @@
 						"mi18n_key": "filter_custom_3",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1394",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1394",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
 					}
 				],
 				"key": null
@@ -3665,36 +3665,6 @@
 			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"659\",\"base_def\":\"509\",\"base_speed\":\"103\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"Quantum"
-				],
-				"value_types": [
-					{
-						"id": "1285",
-						"value": "Quantum",
-						"mi18n_key": "filter_1285",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/2d33de43649b480e1d6a9fdb6599b2cb_7381386544905042228.png",
-						"enum_string": "quantum"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"Interastral Peace Corporation"
-				],
-				"value_types": [
-					{
-						"id": "3356",
-						"value": "Interastral Peace Corporation",
-						"mi18n_key": "filter_3356",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Erudition"
@@ -3724,6 +3694,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Quantum"
+				],
+				"value_types": [
+					{
+						"id": "1285",
+						"value": "Quantum",
+						"mi18n_key": "filter_1285",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/2d33de43649b480e1d6a9fdb6599b2cb_7381386544905042228.png",
+						"enum_string": "quantum"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Interastral Peace Corporation"
+				],
+				"value_types": [
+					{
+						"id": "3356",
+						"value": "Interastral Peace Corporation",
+						"mi18n_key": "filter_3356",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3733,10 +3733,25 @@
 		"name": "Trailblazer - The Harmony",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/9f98e014cdff0dc0e3993121fc0926db_5009274647413414611.gif",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"446\",\"base_def\":\"679\",\"base_speed\":\"105\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"60\",\"base_def\":\"92\",\"base_speed\":\"105\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"60\",\"base_def\":\"92\",\"base_speed\":\"105\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"446\",\"base_def\":\"679\",\"base_speed\":\"105\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"Imaginary"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "Imaginary",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
+					}
+				],
+				"key": null
+			},
 			"character_factions": {
 				"values": [
 					"Astral Express"
@@ -3781,21 +3796,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"Imaginary"
-				],
-				"value_types": [
-					{
-						"id": "1341",
-						"value": "Imaginary",
-						"mi18n_key": "filter_1341",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
-						"enum_string": "imaginary"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3805,40 +3805,10 @@
 		"name": "Yunli",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/23/974192119b3f17e13fac2014f98a0d40_6234648188106281351.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"92\",\"base_def\":\"62\",\"base_speed\":\"94\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"679\",\"base_def\":\"460\",\"base_speed\":\"94\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"679\",\"base_def\":\"460\",\"base_speed\":\"94\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"92\",\"base_def\":\"62\",\"base_speed\":\"94\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"The Destruction"
-				],
-				"value_types": [
-					{
-						"id": "1384",
-						"value": "The Destruction",
-						"mi18n_key": "filter_1384",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
-						"enum_string": "destruction"
-					}
-				],
-				"key": null
-			},
-			"character_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "5-Star",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"Physical"
@@ -3868,6 +3838,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"The Destruction"
+				],
+				"value_types": [
+					{
+						"id": "1384",
+						"value": "The Destruction",
+						"mi18n_key": "filter_1384",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"enum_string": "destruction"
+					}
+				],
+				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "5-Star",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3877,25 +3877,10 @@
 		"name": "Jiaoqiu",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/12/d3aadc0440493c83499888df97057eec_2741926748671552018.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"601\",\"base_def\":\"509\",\"base_speed\":\"98\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"81\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"81\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"601\",\"base_def\":\"509\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Xianzhou Luofu"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "Xianzhou Luofu",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Nihility"
@@ -3940,6 +3925,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Xianzhou Luofu"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "Xianzhou Luofu",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3953,21 +3953,6 @@
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"564\",\"base_def\":\"441\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Astral Express"
-				],
-				"value_types": [
-					{
-						"id": "1496",
-						"value": "Astral Express",
-						"mi18n_key": "filter_1496",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Hunt"
@@ -4012,16 +3997,49 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Astral Express"
+				],
+				"value_types": [
+					{
+						"id": "1496",
+						"value": "Astral Express",
+						"mi18n_key": "filter_1496",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
 	},
 	{
 		"entry_page_id": "2947",
-		"name": "Feixiao (Coming Soon)",
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/07/17/5308864/ef9d57b0b3fb700b092a7d73d68340d1_7691953933511506256.png",
-		"display_field": {},
+		"name": "Feixiao",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/03/7f4bec62392b7e08bf91b3231d8f3134_3308390208226913806.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"81\",\"base_def\":\"52\",\"base_speed\":\"112\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"601\",\"base_def\":\"388\",\"base_speed\":\"112\",\"dynamic\":{}}"
+		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"Wind"
+				],
+				"value_types": [
+					{
+						"id": "1314",
+						"value": "Wind",
+						"mi18n_key": "filter_1314",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/8d2992ae95dfe1469af254b923b1129c_5790926101190505253.png",
+						"enum_string": "wind"
+					}
+				],
+				"key": null
+			},
 			"character_factions": {
 				"values": [
 					"Xianzhou Luofu"
@@ -4066,31 +4084,34 @@
 					}
 				],
 				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"Wind"
-				],
-				"value_types": [
-					{
-						"id": "1314",
-						"value": "Wind",
-						"mi18n_key": "filter_1314",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/8d2992ae95dfe1469af254b923b1129c_5790926101190505253.png",
-						"enum_string": "wind"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
 	},
 	{
 		"entry_page_id": "2948",
-		"name": "Lingsha (Coming Soon)",
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/07/17/5308864/d071c88a4907024259ae714d4c8748d6_8015597347432840237.png",
-		"display_field": {},
+		"name": "Lingsha",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/23/0d39def2cfde0e142e0b417ca8cea94d_2045776560976689463.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"92\",\"base_def\":\"59\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"679\",\"base_def\":\"436\",\"base_speed\":\"98\",\"dynamic\":{}}"
+		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"Fire"
+				],
+				"value_types": [
+					{
+						"id": "1322",
+						"value": "Fire",
+						"mi18n_key": "filter_1322",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
+						"enum_string": "fire"
+					}
+				],
+				"key": null
+			},
 			"character_factions": {
 				"values": [
 					"Xianzhou Luofu"
@@ -4135,30 +4156,18 @@
 					}
 				],
 				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"Fire"
-				],
-				"value_types": [
-					{
-						"id": "1322",
-						"value": "Fire",
-						"mi18n_key": "filter_1322",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
-						"enum_string": "fire"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
 	},
 	{
 		"entry_page_id": "2949",
-		"name": "Moze (Coming Soon)",
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/07/19/5308864/8e697a1a72891feca81c018f7b80447c_7112392391370753411.png",
-		"display_field": {},
+		"name": "Moze",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/03/52fdc9fa18b6f6ee6579d87fcfcb8bbc_3706451518418557464.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"110\",\"base_atk\":\"81\",\"base_def\":\"48\",\"base_speed\":\"111\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"811\",\"base_atk\":\"599\",\"base_def\":\"352\",\"base_speed\":\"111\",\"dynamic\":{}}"
+		},
 		"filter_values": {
 			"character_rarity": {
 				"values": [
@@ -4175,21 +4184,6 @@
 				],
 				"key": null
 			},
-			"character_factions": {
-				"values": [
-					"Xianzhou Luofu"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "Xianzhou Luofu",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"Lightning"
@@ -4201,6 +4195,21 @@
 						"mi18n_key": "filter_1357",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
 						"enum_string": "lightning"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Xianzhou Luofu"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "Xianzhou Luofu",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -4229,36 +4238,6 @@
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/27/5308864/e0417148ff4428ef0d371efbb0c80e0b_2636027721220641078.png",
 		"display_field": {},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"Galaxy Ranger"
-				],
-				"value_types": [
-					{
-						"id": "3452",
-						"value": "Galaxy Ranger",
-						"mi18n_key": "filter_custom_3",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"Imaginary"
-				],
-				"value_types": [
-					{
-						"id": "1341",
-						"value": "Imaginary",
-						"mi18n_key": "filter_1341",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
-						"enum_string": "imaginary"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"The Erudition"
@@ -4285,6 +4264,36 @@
 						"mi18n_key": "filter_1488",
 						"icon": "",
 						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"Galaxy Ranger"
+				],
+				"value_types": [
+					{
+						"id": "3452",
+						"value": "Galaxy Ranger",
+						"mi18n_key": "filter_custom_3",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"Imaginary"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "Imaginary",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
 					}
 				],
 				"key": null

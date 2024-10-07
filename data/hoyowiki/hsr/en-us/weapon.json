@@ -77,9 +77,9 @@
 		"name": "Cornucopia",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/0f53b682edec6beabb9bc4f3b184c1cb_4824814422205447232.png",
 		"display_field": {
+			"equipment_skill": "Prosperity<p>When the wearer uses their Skill or Ultimate, their Outgoing Healing increases by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"12\",\"base_def\":\"12\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"264\",\"base_def\":\"264\"}",
-			"equipment_skill": "Prosperity<p>When the wearer uses their Skill or Ultimate, their Outgoing Healing increases by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"264\",\"base_def\":\"264\"}"
 		},
 		"filter_values": {
 			"equipment_skill_type": {
@@ -150,11 +150,26 @@
 		"name": "Collapsing Sky",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/d1d8dd99e096763e5ae961608e78afcb_952669953280599733.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"16\",\"base_def\":\"9\"}",
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"370\",\"base_def\":\"198\"}",
-			"equipment_skill": "Havoc<p>Increases the wearer's Basic ATK and Skill DMG by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span>.</p>"
+			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"16\",\"base_def\":\"9\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"370\",\"base_def\":\"198\",\"dynamic\":{}}",
+			"equipment_skill": "Havoc<p>The wearer's Basic ATK and Skill deal <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> more DMG.</p>"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Destruction"
+				],
+				"value_types": [
+					{
+						"id": "1621",
+						"value": "The Destruction",
+						"mi18n_key": "filter_1621",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"enum_string": "destruction"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"Basic ATK, Skill, Ultimate"
@@ -199,21 +214,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Destruction"
-				],
-				"value_types": [
-					{
-						"id": "1621",
-						"value": "The Destruction",
-						"mi18n_key": "filter_1621",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
-						"enum_string": "destruction"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -223,26 +223,11 @@
 		"name": "Amber",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/6370ebb889f79eb2e1f639e65e7edb33_3088154659918113028.png",
 		"display_field": {
+			"equipment_skill": "Stasis<p>Increases the wearer's DEF by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. If the wearer's current HP is lower than 50%, increases their DEF by a further <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>.</p>",
 			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"12\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"264\",\"base_def\":\"330\"}",
-			"equipment_skill": "Stasis<p>Increases the wearer's DEF by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. If the wearer's current HP is lower than 50%, increases their DEF by a further <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>.</p>"
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"264\",\"base_def\":\"330\"}"
 		},
 		"filter_values": {
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_rarity": {
 				"values": [
 					"3-Star"
@@ -287,20 +272,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "34",
-		"name": "Void",
-		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/f60585e5777a3536bb916e7b56d2682d_2427113140670896624.png",
-		"display_field": {
-			"equipment_skill": "Fallen<p>At the start of the battle, increases the wearer's Effect Hit Rate by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> for 3 turn(s).</p>",
-			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"14\",\"base_def\":\"12\"}",
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"317\",\"base_def\":\"264\"}"
-		},
-		"filter_values": {
+			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -315,22 +287,20 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"3-Star"
-				],
-				"value_types": [
-					{
-						"id": "1719",
-						"value": "3-Star",
-						"mi18n_key": "filter_1719",
-						"icon": "",
-						"enum_string": "3"
-					}
-				],
-				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "34",
+		"name": "Void",
+		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/f60585e5777a3536bb916e7b56d2682d_2427113140670896624.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"14\",\"base_def\":\"12\"}",
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"317\",\"base_def\":\"264\"}",
+			"equipment_skill": "Fallen<p>At the start of the battle, increases the wearer's Effect Hit Rate by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> for 3 turn(s).</p>"
+		},
+		"filter_values": {
 			"equipment_paths": {
 				"values": [
 					"The Nihility"
@@ -360,20 +330,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "35",
-		"name": "Chorus",
-		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9dad65422e26642596fd50e29ec15739_1662713748597895257.png",
-		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"317\",\"base_def\":\"264\"}",
-			"equipment_skill": "Concerted<p>After entering battle, increases the ATK of all allies by <span style=\"color: rgb(255, 200, 112)\">8%/9%/10%/11%/12%</span>. Effects of the same type cannot stack.</p>",
-			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"14\",\"base_def\":\"12\"}"
-		},
-		"filter_values": {
+			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -389,6 +346,34 @@
 				],
 				"key": null
 			},
+			"equipment_rarity": {
+				"values": [
+					"3-Star"
+				],
+				"value_types": [
+					{
+						"id": "1719",
+						"value": "3-Star",
+						"mi18n_key": "filter_1719",
+						"icon": "",
+						"enum_string": "3"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "35",
+		"name": "Chorus",
+		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9dad65422e26642596fd50e29ec15739_1662713748597895257.png",
+		"display_field": {
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"317\",\"base_def\":\"264\"}",
+			"equipment_skill": "Concerted<p>After entering battle, increases the ATK of all allies by <span style=\"color: rgb(255, 200, 112)\">8%/9%/10%/11%/12%</span>. Effects of the same type cannot stack.</p>",
+			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"14\",\"base_def\":\"12\"}"
+		},
+		"filter_values": {
 			"equipment_rarity": {
 				"values": [
 					"3-Star"
@@ -433,20 +418,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "36",
-		"name": "Data Bank",
-		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/baea8daf8de7c33dfcbd2a2a551d0e4f_839491542014512762.png",
-		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"16\",\"base_def\":\"12\"}",
-			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"370\",\"base_def\":\"264\"}",
-			"equipment_skill": "Learned<p>Increases the wearer's Ultimate DMG by <span style=\"color: rgb(255, 200, 112)\">28%/35%/42%/49%/56%</span>.</p>"
-		},
-		"filter_values": {
+			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -461,22 +433,20 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"3-Star"
-				],
-				"value_types": [
-					{
-						"id": "1719",
-						"value": "3-Star",
-						"mi18n_key": "filter_1719",
-						"icon": "",
-						"enum_string": "3"
-					}
-				],
-				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "36",
+		"name": "Data Bank",
+		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/baea8daf8de7c33dfcbd2a2a551d0e4f_839491542014512762.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"16\",\"base_def\":\"12\"}",
+			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"370\",\"base_def\":\"264\"}",
+			"equipment_skill": "Learned<p>Increases the wearer's Ultimate DMG by <span style=\"color: rgb(255, 200, 112)\">28%/35%/42%/49%/56%</span>.</p>"
+		},
+		"filter_values": {
 			"equipment_paths": {
 				"values": [
 					"The Erudition"
@@ -506,49 +476,6 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "37",
-		"name": "Darting Arrow",
-		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9d9a9d30b8acf8cebc8267c7c1131108_3395133034215442072.png",
-		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"16\",\"base_def\":\"12\"}",
-			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"370\",\"base_def\":\"264\"}",
-			"equipment_skill": "War Cry<p>When the wearer defeats an enemy, increases ATK by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span> for 3 turn(s).</p>"
-		},
-		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Hunt"
-				],
-				"value_types": [
-					{
-						"id": "1638",
-						"value": "The Hunt",
-						"mi18n_key": "filter_1638",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"ATK"
-				],
-				"value_types": [
-					{
-						"id": "1763",
-						"value": "ATK",
-						"mi18n_key": "filter_1763",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			},
 			"equipment_source": {
 				"values": [
@@ -576,6 +503,79 @@
 						"mi18n_key": "filter_1719",
 						"icon": "",
 						"enum_string": "3"
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "37",
+		"name": "Darting Arrow",
+		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9d9a9d30b8acf8cebc8267c7c1131108_3395133034215442072.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"16\",\"base_def\":\"12\"}",
+			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"370\",\"base_def\":\"264\"}",
+			"equipment_skill": "War Cry<p>When the wearer defeats an enemy, increases ATK by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span> for 3 turn(s).</p>"
+		},
+		"filter_values": {
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"3-Star"
+				],
+				"value_types": [
+					{
+						"id": "1719",
+						"value": "3-Star",
+						"mi18n_key": "filter_1719",
+						"icon": "",
+						"enum_string": "3"
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1638",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1638",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"ATK"
+				],
+				"value_types": [
+					{
+						"id": "1763",
+						"value": "ATK",
+						"mi18n_key": "filter_1763",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -661,26 +661,11 @@
 		"name": "Shattered Home",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/55aab6796596e6d87c1f9fb552d66f21_1461491922069311906.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"370\",\"base_def\":\"198\"}",
 			"equipment_skill": "Eradication<p>Deals <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> increased DMG to any enemies whose HP is above 50%. </p>",
-			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"16\",\"base_def\":\"9\"}"
+			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"16\",\"base_def\":\"9\"}",
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"370\",\"base_def\":\"198\"}"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Destruction"
-				],
-				"value_types": [
-					{
-						"id": "1621",
-						"value": "The Destruction",
-						"mi18n_key": "filter_1621",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
-						"enum_string": "destruction"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG"
@@ -722,6 +707,21 @@
 						"mi18n_key": "filter_1719",
 						"icon": "",
 						"enum_string": "3"
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Destruction"
+				],
+				"value_types": [
+					{
+						"id": "1621",
+						"value": "The Destruction",
+						"mi18n_key": "filter_1621",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"enum_string": "destruction"
 					}
 				],
 				"key": null
@@ -812,36 +812,6 @@
 			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"14\",\"base_def\":\"12\"}"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"3-Star"
-				],
-				"value_types": [
-					{
-						"id": "1719",
-						"value": "3-Star",
-						"mi18n_key": "filter_1719",
-						"icon": "",
-						"enum_string": "3"
-					}
-				],
-				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1685",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1685",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG"
@@ -868,6 +838,36 @@
 						"mi18n_key": "filter_1850",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"3-Star"
+				],
+				"value_types": [
+					{
+						"id": "1719",
+						"value": "3-Star",
+						"mi18n_key": "filter_1719",
+						"icon": "",
+						"enum_string": "3"
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1685",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1685",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
 					}
 				],
 				"key": null
@@ -953,41 +953,11 @@
 		"name": "Passkey",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/7b6d62181c849c2feb691e4d652c38b1_3215083535974850026.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"16\",\"base_def\":\"12\"}",
 			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"370\",\"base_def\":\"264\"}",
-			"equipment_skill": "Epiphany<p>After the wearer uses their Skill, additionally regenerates <span style=\"color: rgb(255, 200, 112)\">8/9/10/11/12</span> Energy. This effect can only be triggered 1 time per turn.</p>",
-			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"16\",\"base_def\":\"12\"}"
+			"equipment_skill": "Epiphany<p>After the wearer uses their Skill, additionally regenerates <span style=\"color: rgb(255, 200, 112)\">8/9/10/11/12</span> Energy. This effect can only be triggered 1 time per turn.</p>"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"Energy"
-				],
-				"value_types": [
-					{
-						"id": "2623",
-						"value": "Energy",
-						"mi18n_key": "filter_2623",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_rarity": {
 				"values": [
 					"3-Star"
@@ -1017,6 +987,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"Energy"
+				],
+				"value_types": [
+					{
+						"id": "2623",
+						"value": "Energy",
+						"mi18n_key": "filter_2623",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1026,9 +1026,9 @@
 		"name": "Post-Op Conversation",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/bbc831d2b1685bc85083551e51047e3f_2901581893313933971.png",
 		"display_field": {
-			"equipment_skill": "Mutual Healing<p>Increases the wearer's Energy Regeneration Rate by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span> and increases Outgoing Healing when they use their Ultimate by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"423\",\"base_def\":\"330\"}"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"423\",\"base_def\":\"330\"}",
+			"equipment_skill": "Mutual Healing<p>Increases the wearer's Energy Regeneration Rate by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span> and increases Outgoing Healing when they use their Ultimate by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>"
 		},
 		"filter_values": {
 			"equipment_skill_type": {
@@ -1104,6 +1104,21 @@
 			"equipment_skill": "Toiler<p>For every debuff the target enemy has, the DMG dealt by the wearer increases by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>, stacking up to 3 time(s). This effect also applies to DoT.</p>"
 		},
 		"filter_values": {
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"4-Star"
@@ -1148,21 +1163,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1177,6 +1177,21 @@
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"370\",\"base_def\":\"463\"}"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Preservation"
+				],
+				"value_types": [
+					{
+						"id": "1688",
+						"value": "The Preservation",
+						"mi18n_key": "filter_1688",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
+						"enum_string": "preservation"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"DEF"
@@ -1221,21 +1236,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Preservation"
-				],
-				"value_types": [
-					{
-						"id": "1688",
-						"value": "The Preservation",
-						"mi18n_key": "filter_1688",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
-						"enum_string": "preservation"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1245,9 +1245,9 @@
 		"name": "Only Silence Remains",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/5906dd1fb682903b2c8fa6b3a314febf_918735250537819040.png",
 		"display_field": {
-			"equipment_skill": "Record<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. If there are 2 or fewer enemies on the field, increases wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}",
+			"equipment_skill": "Record<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. If there are 2 or fewer enemies on the field, increases wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>"
 		},
 		"filter_values": {
 			"equipment_skill_type": {
@@ -1318,9 +1318,9 @@
 		"name": "Memories of the Past",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/f72de4833b12bd30234a4ecc82f59b7e_7824066832447018591.png",
 		"display_field": {
-			"equipment_skill": "Old Photo<p>Increases the wearer's Break Effect by <span style=\"color: rgb(255, 200, 112)\">28%/35%/42%/49%/56%</span>. When the wearer attacks, additionally regenerates <span style=\"color: rgb(255, 200, 112)\">4/5/6/7/8</span> Energy. This effect can only be triggered 1 time per turn.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\"}"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\"}",
+			"equipment_skill": "Old Photo<p>Increases the wearer's Break Effect by <span style=\"color: rgb(255, 200, 112)\">28%/35%/42%/49%/56%</span>. When the wearer attacks, additionally regenerates <span style=\"color: rgb(255, 200, 112)\">4/5/6/7/8</span> Energy. This effect can only be triggered 1 time per turn.</p>"
 		},
 		"filter_values": {
 			"equipment_paths": {
@@ -1391,11 +1391,26 @@
 		"name": "The Moles Welcome You",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/e35c7c440672f1a6626f7b379b2da5a0_4357389817891565749.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"21\",\"base_def\":\"12\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\"}",
-			"equipment_skill": "Fantastic Adventure<p>For every Basic ATK, Skill, and Ultimate used by the wearer, the wearer gains one stack of Mischievous. Each stack increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>"
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"21\",\"base_def\":\"12\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\",\"dynamic\":{}}",
+			"equipment_skill": "Fantastic Adventure<p>When the wearer uses Basic ATK, Skill, or Ultimate to attack enemies, the wearer gains one stack of Mischievous. Each stack increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>"
 		},
 		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"ATK"
+				],
+				"value_types": [
+					{
+						"id": "1763",
+						"value": "ATK",
+						"mi18n_key": "filter_1763",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -1440,21 +1455,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"ATK"
-				],
-				"value_types": [
-					{
-						"id": "1763",
-						"value": "ATK",
-						"mi18n_key": "filter_1763",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1469,36 +1469,6 @@
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"Follow-up Attack"
-				],
-				"value_types": [
-					{
-						"id": "2610",
-						"value": "Follow-up Attack",
-						"mi18n_key": "filter_2610",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_rarity": {
 				"values": [
 					"4-Star"
@@ -1525,6 +1495,36 @@
 						"mi18n_key": "filter_1656",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
 						"enum_string": "erudition"
+					}
+				],
+				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"Follow-up Attack"
+				],
+				"value_types": [
+					{
+						"id": "2610",
+						"value": "Follow-up Attack",
+						"mi18n_key": "filter_2610",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -1610,41 +1610,11 @@
 		"name": "Eyes of the Prey",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/1c7c012eeb05699acc8c2ad33cee412a_9207997407084704522.png",
 		"display_field": {
+			"equipment_skill": "Self-Confidence<p>Increases Effect Hit Rate of its wearer by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> and increases DoT by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span>.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}",
-			"equipment_skill": "Self-Confidence<p>Increases Effect Hit Rate of its wearer by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> and increases DoT by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span>.</p>"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1685",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1685",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"Effect Hit Rate"
@@ -1674,6 +1644,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1685",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1685",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1683,11 +1683,26 @@
 		"name": "Landau's Choice",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/ba9cd6f22f1b334d869b5414229ee7bd_942516886148531175.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\"}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\"}",
-			"equipment_skill": "Time Fleets Away<p>The wearer is more likely to be attacked, but DMG taken is reduced by <span style=\"color: rgb(255, 200, 112)\">16%/18%/20%/22%/24%</span>.</p>"
+			"equipment_skill": "Time Fleets Away<p>The wearer is more likely to be attacked, but DMG taken is reduced by <span style=\"color: rgb(255, 200, 112)\">16%/18%/20%/22%/24%</span>.</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\"}"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Preservation"
+				],
+				"value_types": [
+					{
+						"id": "1688",
+						"value": "The Preservation",
+						"mi18n_key": "filter_1688",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
+						"enum_string": "preservation"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG Reduction/DEF Up"
@@ -1732,21 +1747,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Preservation"
-				],
-				"value_types": [
-					{
-						"id": "1688",
-						"value": "The Preservation",
-						"mi18n_key": "filter_1688",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
-						"enum_string": "preservation"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1756,9 +1756,9 @@
 		"name": "Swordplay",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/2f53efe41f6c16ce298f0bbafc170949_1511327361354317201.png",
 		"display_field": {
+			"equipment_skill": "Answers of Their Own<p>For each time the wearer hits the same target, DMG dealt increases by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span>, stacking up to 5 time(s). The stack effect will be reset when the wearer changes targets.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}",
-			"equipment_skill": "Answers of Their Own<p>For each time the wearer hits the same target, DMG dealt increases by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span>, stacking up to 5 time(s). The stack effect will be reset when the wearer changes targets.</p>"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}"
 		},
 		"filter_values": {
 			"equipment_paths": {
@@ -1829,9 +1829,9 @@
 		"name": "Planetary Rendezvous",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/6678fe8d31a180e31a1e04ef1d8eadaf_7231314384566776724.png",
 		"display_field": {
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"423\",\"base_def\":\"330\"}",
 			"equipment_skill": "Departure<p>After entering battle, when all allies deal the same DMG Type as the wearer, DMG dealt increases by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>",
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"423\",\"base_def\":\"330\"}"
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"15\"}"
 		},
 		"filter_values": {
 			"equipment_paths": {
@@ -1902,11 +1902,26 @@
 		"name": "A Secret Vow",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/2fa2a29d45df6b229d2525f720b831c1_4357389817891565749.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"21\",\"base_def\":\"12\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\"}",
-			"equipment_skill": "Spare No Effort<p>Increases DMG dealt by the wearer by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span>. The wearer also deals an extra <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> of DMG to enemies with a higher HP percentage than the wearer.</p>"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\",\"dynamic\":{}}",
+			"equipment_skill": "Spare No Effort<p><span style=\"color: rgba(255, 255, 255, 0.85)\">Increases DMG dealt by the wearer by </span><span style=\"color: #FFC870\">20%/25%/30%/35%/40%</span><span style=\"color: rgba(255, 255, 255, 0.85)\">. The wearer also deals an extra </span><span style=\"color: #FFC870\">20%/25%/30%/35%/40% </span><span style=\"color: rgba(255, 255, 255, 0.85)\">of DMG to enemies whose current HP percentage is equal to or higher than the wearer's current HP percentage.</span></p>",
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"21\",\"base_def\":\"12\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG"
@@ -1933,21 +1948,6 @@
 						"mi18n_key": "filter_1850",
 						"icon": "",
 						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
 					}
 				],
 				"key": null
@@ -1980,6 +1980,21 @@
 			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"21\",\"base_def\":\"18\"}"
 		},
 		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"Energy"
+				],
+				"value_types": [
+					{
+						"id": "2623",
+						"value": "Energy",
+						"mi18n_key": "filter_2623",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -2024,21 +2039,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"Energy"
-				],
-				"value_types": [
-					{
-						"id": "2623",
-						"value": "Energy",
-						"mi18n_key": "filter_2623",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2048,11 +2048,26 @@
 		"name": "Woof! Walk Time!",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/6a96e7124f871628ce2974fd0724aaa2_2539696960201429253.png",
 		"display_field": {
-			"equipment_skill": "Run!<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">10%/12.5%/15%/17.5%/20%</span>, and increases their DMG to enemies afflicted with Burn or Bleed by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. This also applies to DoT.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}",
+			"equipment_skill": "Run!<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">10%/12.5%/15%/17.5%/20%</span>, and increases their DMG to enemies afflicted with Burn or Bleed by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. This also applies to DoT.</p>"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Destruction"
+				],
+				"value_types": [
+					{
+						"id": "1621",
+						"value": "The Destruction",
+						"mi18n_key": "filter_1621",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"enum_string": "destruction"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"ATK"
@@ -2097,21 +2112,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Destruction"
-				],
-				"value_types": [
-					{
-						"id": "1621",
-						"value": "The Destruction",
-						"mi18n_key": "filter_1621",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
-						"enum_string": "destruction"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2121,26 +2121,11 @@
 		"name": "The Seriousness of Breakfast",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/e00975de10154b3fe32fc2c309a0fc08_1117849229478748330.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"476\",\"base_def\":\"396\"}",
 			"equipment_skill": "Get Ready<p>Increases the wearer's DMG by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>. For every defeated enemy, the wearer's ATK increases by <span style=\"color: rgb(255, 200, 112)\">4%/5%/6%/7%/8%</span>, stacking up to 3 time(s).</p>",
-			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"21\",\"base_def\":\"18\"}"
+			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"21\",\"base_def\":\"18\"}",
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"476\",\"base_def\":\"396\"}"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"DMG"
-				],
-				"value_types": [
-					{
-						"id": "2570",
-						"value": "DMG",
-						"mi18n_key": "filter_2570",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_source": {
 				"values": [
 					"Missions"
@@ -2185,6 +2170,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"DMG"
+				],
+				"value_types": [
+					{
+						"id": "2570",
+						"value": "DMG",
+						"mi18n_key": "filter_2570",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2194,26 +2194,11 @@
 		"name": "Warmth Shortens Cold Nights",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/142eb386d41e9d22c53702acd5d7cafe_4815329713662711142.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"16\",\"base_def\":\"18\"}",
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"370\",\"base_def\":\"396\"}",
-			"equipment_skill": "Tiny Light<p>Increases the wearer's Max HP by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%%/28%/32%</span>. When using Basic ATK or Skill, restores all allies' HP by an amount equal to <span style=\"color: rgb(255, 200, 112)\">2%/2.5%/3%/3.5%/4%</span> of their respective Max HP.</p>"
+			"equipment_skill": "Tiny Light<p>Increases the wearer's Max HP by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%%/28%/32%</span>. When using Basic ATK or Skill, restores all allies' HP by an amount equal to <span style=\"color: rgb(255, 200, 112)\">2%/2.5%/3%/3.5%/4%</span> of their respective Max HP.</p>",
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"16\",\"base_def\":\"18\"}"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Abundance"
-				],
-				"value_types": [
-					{
-						"id": "1704",
-						"value": "The Abundance",
-						"mi18n_key": "filter_1704",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
-						"enum_string": "abundance"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"HP"
@@ -2258,6 +2243,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Abundance"
+				],
+				"value_types": [
+					{
+						"id": "1704",
+						"value": "The Abundance",
+						"mi18n_key": "filter_1704",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"enum_string": "abundance"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2272,6 +2272,36 @@
 			"equipment_skill": "A Discourse in Arms<p>After the wearer uses Basic ATK or Skill, <span style=\"color: rgb(242, 244, 245)\">deals Additional DMG equal to</span> <span style=\"color: rgb(255, 200, 112)\">48%/60%/72%/84%/96%</span> <span style=\"color: rgb(242, 244, 245)\">of the wearer's ATK to a random enemy that has been attacked.</span></p>"
 		},
 		"filter_values": {
+			"equipment_source": {
+				"values": [
+					"Nameless Honor"
+				],
+				"value_types": [
+					{
+						"id": "2534",
+						"value": "Nameless Honor",
+						"mi18n_key": "filter_2534",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"equipment_paths": {
 				"values": [
 					"The Nihility"
@@ -2301,36 +2331,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Nameless Honor"
-				],
-				"value_types": [
-					{
-						"id": "2534",
-						"value": "Nameless Honor",
-						"mi18n_key": "filter_2534",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2340,41 +2340,11 @@
 		"name": "This Is Me!",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/b592f633647f6c155a5eec01740e8a02_2539696960201429253.png",
 		"display_field": {
+			"equipment_skill": "New Chapter<p>Increases the wearer's DEF by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. Increases the DMG of the wearer when they use their Ultimate by <span style=\"color: rgb(255, 200, 112)\">60%/75%/90%/105%/120%</span> of the wearer's DEF. This effect only apply 1 time per enemy target.</p>",
 			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"16\",\"base_def\":\"24\"}",
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"370\",\"base_def\":\"529\"}",
-			"equipment_skill": "New Chapter<p>Increases the wearer's DEF by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. Increases the DMG of the wearer when they use their Ultimate by <span style=\"color: rgb(255, 200, 112)\">60%/75%/90%/105%/120%</span> of the wearer's DEF. This effect only apply 1 time per enemy target.</p>"
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"370\",\"base_def\":\"529\"}"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Preservation"
-				],
-				"value_types": [
-					{
-						"id": "1688",
-						"value": "The Preservation",
-						"mi18n_key": "filter_1688",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
-						"enum_string": "preservation"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"DEF"
@@ -2404,6 +2374,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Preservation"
+				],
+				"value_types": [
+					{
+						"id": "1688",
+						"value": "The Preservation",
+						"mi18n_key": "filter_1688",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
+						"enum_string": "preservation"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2413,41 +2413,11 @@
 		"name": "Return to Darkness",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/24cdcb5829ccaeaf564f9d143e13fd27_3463177043058966924.png",
 		"display_field": {
-			"equipment_skill": "Raging Waves<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>. After a CRIT Hit, there is a <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span> fixed chance to dispel 1 buff on the target enemy. This effect can only trigger 1 time per attack.</p>",
 			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"24\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"529\",\"base_def\":\"330\"}"
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"529\",\"base_def\":\"330\"}",
+			"equipment_skill": "Raging Waves<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>. After a CRIT Hit, there is a <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span> fixed chance to dispel 1 buff on the target enemy. This effect can only trigger 1 time per attack.</p>"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Hunt"
-				],
-				"value_types": [
-					{
-						"id": "1638",
-						"value": "The Hunt",
-						"mi18n_key": "filter_1638",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"CRIT Rate"
-				],
-				"value_types": [
-					{
-						"id": "1810",
-						"value": "CRIT Rate",
-						"mi18n_key": "filter_1810",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_source": {
 				"values": [
 					"Nameless Honor"
@@ -2477,6 +2447,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1638",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1638",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"CRIT Rate"
+				],
+				"value_types": [
+					{
+						"id": "1810",
+						"value": "CRIT Rate",
+						"mi18n_key": "filter_1810",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2486,11 +2486,26 @@
 		"name": "Carve the Moon, Weave the Clouds",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/09f103a321dcd967fa90049b49997560_1511327361354317201.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}",
-			"equipment_skill": "Secret<p>One of the following effects is applied randomly at the start of combat and whenever the wearer's turn begins: Increase all allies' ATK by <span style=\"color: rgb(255, 200, 112)\">10%/12.5%/15%/17.5%/20%</span>, increase all allies' CRIT DMG by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>, or increase all allies' Energy Regeneration Rate by <span style=\"color: rgb(255, 200, 112)\">6%/7.5%/9%/10.5%/12%</span>. The applied effect cannot be identical to the last effect applied, and will replace the previous effect. The applied effect will be removed when the wearer has been knocked down. Effects of the similar types cannot be stacked.</p>"
+			"equipment_skill": "Secret<p>One of the following effects is applied randomly at the start of combat and whenever the wearer's turn begins: Increase all allies' ATK by <span style=\"color: rgb(255, 200, 112)\">10%/12.5%/15%/17.5%/20%</span>, increase all allies' CRIT DMG by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>, or increase all allies' Energy Regeneration Rate by <span style=\"color: rgb(255, 200, 112)\">6%/7.5%/9%/10.5%/12%</span>. The applied effect cannot be identical to the last effect applied, and will replace the previous effect. The applied effect will be removed when the wearer has been knocked down. Effects of the similar types cannot be stacked.</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"equipment_paths": {
 				"values": [
 					"The Harmony"
@@ -2551,21 +2566,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2575,26 +2575,11 @@
 		"name": "Nowhere to Run",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/619ed38d6def02c0b6c698806b6095a0_1321403954333962126.png",
 		"display_field": {
-			"equipment_skill": "Crisis<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span>. Whenever the wearer defeats an enemy, they restore HP equal to <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span> of their ATK.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"24\",\"base_def\":\"12\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"529\",\"base_def\":\"264\"}"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"529\",\"base_def\":\"264\"}",
+			"equipment_skill": "Crisis<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span>. Whenever the wearer defeats an enemy, they restore HP equal to <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span> of their ATK.</p>"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"ATK"
-				],
-				"value_types": [
-					{
-						"id": "1763",
-						"value": "ATK",
-						"mi18n_key": "filter_1763",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_source": {
 				"values": [
 					"Nameless Honor"
@@ -2639,6 +2624,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"ATK"
+				],
+				"value_types": [
+					{
+						"id": "1763",
+						"value": "ATK",
+						"mi18n_key": "filter_1763",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2653,6 +2653,36 @@
 			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"24\",\"base_def\":\"15\"}"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Erudition"
+				],
+				"value_types": [
+					{
+						"id": "1656",
+						"value": "The Erudition",
+						"mi18n_key": "filter_1656",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"enum_string": "erudition"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG"
@@ -2682,36 +2712,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Erudition"
-				],
-				"value_types": [
-					{
-						"id": "1656",
-						"value": "The Erudition",
-						"mi18n_key": "filter_1656",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
-						"enum_string": "erudition"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2721,11 +2721,26 @@
 		"name": "Night on the Milky Way",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/e4aaa93b8aec53396fdcf6296388597f_8571278187657403042.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"582\",\"base_def\":\"396\"}",
 			"equipment_skill": "Meteor Swarm<p>For every enemy on the field, increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">9%/10.5%/12%/13.5%/15%</span>, up to 5 stacks. When an enemy is inflicted with Weakness Break, the DMG dealt by the wearer increases by <span style=\"color: rgb(255, 200, 112)\">30%/35%/40%/45%/50%</span> for 1 turn.</p>",
-			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"26\",\"base_def\":\"18\"}"
+			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"26\",\"base_def\":\"18\"}",
+			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"582\",\"base_def\":\"396\"}"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"equipment_paths": {
 				"values": [
 					"The Erudition"
@@ -2770,21 +2785,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2794,41 +2794,11 @@
 		"name": "In the Night",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/f342952758193dcdcd8dd1dde1cc969d_4815329713662711142.png",
 		"display_field": {
-			"equipment_skill": "Flowers and Butterflies<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span>. While the wearer is in battle, for every 10 SPD that exceeds 100, the DMG of the wearer's Basic ATK and Skill is increased by <span style=\"color: rgb(255, 200, 112)\">6%/7%/8%/9%/10%</span> and the CRIT DMG of their Ultimate is increased by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. This effect can stack up to 6 time(s).</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}",
+			"equipment_skill": "Flowers and Butterflies<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span>. While the wearer is in battle, for every 10 SPD that exceeds 100, the DMG of the wearer's Basic ATK and Skill is increased by <span style=\"color: rgb(255, 200, 112)\">6%/7%/8%/9%/10%</span> and the CRIT DMG of their Ultimate is increased by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. This effect can stack up to 6 time(s).</p>"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Hunt"
-				],
-				"value_types": [
-					{
-						"id": "1638",
-						"value": "The Hunt",
-						"mi18n_key": "filter_1638",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"CRIT Rate"
@@ -2858,6 +2828,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1638",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1638",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2867,41 +2867,11 @@
 		"name": "Something Irreplaceable",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/e29a90c94a312c8c3630484be112281f_1321403954333962126.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"582\",\"base_def\":\"396\"}",
 			"equipment_skill": "Kinship<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>. When the wearer defeats an enemy or is hit, immediately restores HP equal to <span style=\"color: rgb(255, 200, 112)\">8%/9%/10%/11%/12%</span> of the wearer's ATK. At the same time, the wearer's DMG increases by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span> until the end of their next turn. This effect cannot stack and can only trigger 1 time per turn.</p>",
-			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"26\",\"base_def\":\"18\"}"
+			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"26\",\"base_def\":\"18\"}",
+			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"582\",\"base_def\":\"396\"}"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Destruction"
-				],
-				"value_types": [
-					{
-						"id": "1621",
-						"value": "The Destruction",
-						"mi18n_key": "filter_1621",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
-						"enum_string": "destruction"
-					}
-				],
-				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"ATK"
-				],
-				"value_types": [
-					{
-						"id": "1763",
-						"value": "ATK",
-						"mi18n_key": "filter_1763",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -2931,6 +2901,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Destruction"
+				],
+				"value_types": [
+					{
+						"id": "1621",
+						"value": "The Destruction",
+						"mi18n_key": "filter_1621",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"enum_string": "destruction"
+					}
+				],
+				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"ATK"
+				],
+				"value_types": [
+					{
+						"id": "1763",
+						"value": "ATK",
+						"mi18n_key": "filter_1763",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2940,26 +2940,11 @@
 		"name": "But The Battle Isn't Over",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/57c5d042f75dbb37b1e78b211cf645c9_6343871253887740107.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"24\",\"base_def\":\"21\"}",
 			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"529\",\"base_def\":\"463\"}",
-			"equipment_skill": "Heir<p>Increases the wearer's Energy Regeneration Rate by <span style=\"color: rgb(255, 200, 112)\">10%/12%/14%/16%/18%</span> and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered after every 2 uses of the wearer's Ultimate. When the wearer uses their Skill, the next ally taking action deals <span style=\"color: rgb(255, 200, 112)\">30%/35%/40%/45%/50%</span> more DMG for 1 turn(s).</p>",
-			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"24\",\"base_def\":\"21\"}"
+			"equipment_skill": "Heir<p>Increases the wearer's Energy Regeneration Rate by <span style=\"color: rgb(255, 200, 112)\">10%/12%/14%/16%/18%</span> and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered after every 2 uses of the wearer's Ultimate. When the wearer uses their Skill, the next ally taking action deals <span style=\"color: rgb(255, 200, 112)\">30%/35%/40%/45%/50%</span> more DMG for 1 turn(s).</p>"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"equipment_paths": {
 				"values": [
 					"The Harmony"
@@ -3012,6 +2997,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3021,11 +3021,26 @@
 		"name": "In the Name of the World",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/e83831b4e3d1b31683d2ab65a934d305_7267104140862379789.png",
 		"display_field": {
+			"equipment_skill": "Inheritor<p>Increases the wearer's DMG to debuffed enemies by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>. When the wearer uses their Skill, the Effect Hit Rate for this attack increases by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span>, and ATK increases by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>.</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}",
-			"equipment_skill": "Inheritor<p>Increases the wearer's DMG to debuffed enemies by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>. When the wearer uses their Skill, the Effect Hit Rate for this attack increases by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span>, and ATK increases by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>.</p>"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1685",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1685",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG"
@@ -3067,21 +3082,6 @@
 						"mi18n_key": "filter_1738",
 						"icon": "",
 						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1685",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1685",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
 					}
 				],
 				"key": null
@@ -3167,26 +3167,11 @@
 		"name": "Before Dawn",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/ac79e739072fa86b2f6d5f851bb2c916_952669953280599733.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}",
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}",
-			"equipment_skill": "Long Night<p>Increases the wearer's CRIT DMG by <span style=\"color: rgb(255, 200, 112)\">36%/42%/48%/54%/60%</span>. Increases the wearer's Skill and Ultimate DMG by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span>. After the wearer uses their Skill or Ultimate, they gain Somnus Corpus. Upon triggering a follow-up attack, Somnus Corpus will be consumed and the follow-up attack DMG increases by <span style=\"color: rgb(255, 200, 112)\">48%/56%/64%/72%/80%</span>.</p>"
+			"equipment_skill": "Long Night<p>Increases the wearer's CRIT DMG by <span style=\"color: rgb(255, 200, 112)\">36%/42%/48%/54%/60%</span>. Increases the wearer's Skill and Ultimate DMG by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span>. After the wearer uses their Skill or Ultimate, they gain Somnus Corpus. Upon triggering a follow-up attack, Somnus Corpus will be consumed and the follow-up attack DMG increases by <span style=\"color: rgb(255, 200, 112)\">48%/56%/64%/72%/80%</span>.</p>",
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Erudition"
-				],
-				"value_types": [
-					{
-						"id": "1656",
-						"value": "The Erudition",
-						"mi18n_key": "filter_1656",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
-						"enum_string": "erudition"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"CRIT DMG"
@@ -3228,6 +3213,21 @@
 						"mi18n_key": "filter_1738",
 						"icon": "",
 						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Erudition"
+				],
+				"value_types": [
+					{
+						"id": "1656",
+						"value": "The Erudition",
+						"mi18n_key": "filter_1656",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"enum_string": "erudition"
 					}
 				],
 				"key": null
@@ -3321,11 +3321,26 @@
 		"name": "Time Waits for No One",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/94b2bbafc016ef0d9a055eab3f96f9c5_6343871253887740107.png",
 		"display_field": {
-			"equipment_skill": "Morn, Noon, Dusk, and Night<p>Increases the wearer's Max HP by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span> and Outgoing Healing by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. When the wearer heals allies, record the amount of Outgoing Healing. When any ally launches an attack, a random attacked enemy takes additional DMG equal to <span style=\"color: rgb(255, 200, 112)\">36%/42%/48%/54%/60%</span> of the recorded Outgoing Healing value. This additional DMG is of the same Type as the wearer's, is not affected by other buffs, and can only occur 1 time per turn.</p>",
 			"attr_level_1": "{\"base_hp\":\"57\",\"base_atk\":\"21\",\"base_def\":\"21\"}",
-			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"476\",\"base_def\":\"463\"}"
+			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"476\",\"base_def\":\"463\"}",
+			"equipment_skill": "Morn, Noon, Dusk, and Night<p>Increases the wearer's Max HP by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span> and Outgoing Healing by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. When the wearer heals allies, record the amount of Outgoing Healing. When any ally launches an attack, a random attacked enemy takes additional DMG equal to <span style=\"color: rgb(255, 200, 112)\">36%/42%/48%/54%/60%</span> of the recorded Outgoing Healing value. This additional DMG is of the same Type as the wearer's, is not affected by other buffs, and can only occur 1 time per turn.</p>"
 		},
 		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"HP"
+				],
+				"value_types": [
+					{
+						"id": "1781",
+						"value": "HP",
+						"mi18n_key": "filter_1781",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -3370,21 +3385,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"HP"
-				],
-				"value_types": [
-					{
-						"id": "1781",
-						"value": "HP",
-						"mi18n_key": "filter_1781",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3394,26 +3394,11 @@
 		"name": "On the Fall of an Aeon",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/2908b86aeaca11fb174c20f2dd24d5d5_4824814422205447232.png",
 		"display_field": {
+			"equipment_skill": "Moth To Flames<p>Whenever the wearer attacks, increase their ATK by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span> in this battle, up to 4 time(s). When the wearer inflicts Weakness Break on enemies, the wearer's DMG increases by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span> for 2 turn(s).</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"24\",\"base_def\":\"18\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"529\",\"base_def\":\"396\"}",
-			"equipment_skill": "Moth To Flames<p>Whenever the wearer attacks, increase their ATK by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span> in this battle, up to 4 time(s). When the wearer inflicts Weakness Break on enemies, the wearer's DMG increases by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span> for 2 turn(s).</p>"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"529\",\"base_def\":\"396\"}"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"equipment_paths": {
 				"values": [
 					"The Destruction"
@@ -3458,20 +3443,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "77",
-		"name": "Cruising in the Stellar Sea",
-		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/5581a8188cda5393ac8c254177819ee0_7267104140862379789.png",
-		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"529\",\"base_def\":\"463\"}",
-			"equipment_skill": "Chase<p>Increases the wearer's CRIT rate by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span>, and increases their CRIT rate against enemies with HP less than or equal to 50% by an additional <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span>. When the wearer defeats an enemy, increase their ATK by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> for 2 turn(s).</p>",
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"24\",\"base_def\":\"21\"}"
-		},
-		"filter_values": {
+			},
 			"equipment_rarity": {
 				"values": [
 					"5-Star"
@@ -3486,7 +3458,20 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "77",
+		"name": "Cruising in the Stellar Sea",
+		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/5581a8188cda5393ac8c254177819ee0_7267104140862379789.png",
+		"display_field": {
+			"equipment_skill": "Chase<p>Increases the wearer's CRIT rate by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span>, and increases their CRIT rate against enemies with HP less than or equal to 50% by an additional <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span>. When the wearer defeats an enemy, increase their ATK by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span> for 2 turn(s).</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"24\",\"base_def\":\"21\"}",
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"529\",\"base_def\":\"463\"}"
+		},
+		"filter_values": {
 			"equipment_paths": {
 				"values": [
 					"The Hunt"
@@ -3539,6 +3524,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3548,9 +3548,9 @@
 		"name": "Texture of Memories",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9e938799af42b5af667482599e170c21_839491542014512762.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"24\"}",
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"423\",\"base_def\":\"529\"}",
-			"equipment_skill": "Treasure<p>Increases the wearer's Effect RES by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span>. If the wearer is attacked and has no Shield, they gain a Shield equal to <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span> of their Max HP for 2 turn(s). This effect can only be triggered once every 3 turn(s). If the wearer has a Shield when attacked, the DMG they receive decreases by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>"
+			"equipment_skill": "Treasure<p>Increases the wearer's Effect RES by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span>. If the wearer is attacked and has no Shield, they gain a Shield equal to <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span> of their Max HP for 2 turn(s). This effect can only be triggered once every 3 turn(s). If the wearer has a Shield when attacked, the DMG they receive decreases by <span style=\"color: rgb(255, 200, 112)\">12%/15%/18%/21%/24%</span>.</p>",
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"24\"}"
 		},
 		"filter_values": {
 			"equipment_paths": {
@@ -3621,11 +3621,41 @@
 		"name": "Perfect Timing",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/c49fd9c97bd0b5dfbc0af107961a161d_5061900865581710304.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\"}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\"}",
-			"equipment_skill": "Refraction of Sightline<p>Increases the wearer's Effect RES by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span> and increases Outgoing Healing by an amount that is equal to <span style=\"color: #FFC870\">33%/36%/39%/42%/45%</span> of Effect RES. Outgoing Healing can be increased this way by up to <span style=\"color: #FFC870\">15%/18%/21%/24%/27%</span>.</p>"
+			"equipment_skill": "Refraction of Sightline<p>Increases the wearer's Effect RES by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span> and increases Outgoing Healing by an amount that is equal to <span style=\"color: #FFC870\">33%/36%/39%/42%/45%</span> of Effect RES. Outgoing Healing can be increased this way by up to <span style=\"color: #FFC870\">15%/18%/21%/24%/27%</span>.</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\"}"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Abundance"
+				],
+				"value_types": [
+					{
+						"id": "1704",
+						"value": "The Abundance",
+						"mi18n_key": "filter_1704",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"enum_string": "abundance"
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"4-Star"
@@ -3658,36 +3688,6 @@
 						"id": "2759",
 						"value": "Effect RES",
 						"mi18n_key": "filter_2759",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Abundance"
-				],
-				"value_types": [
-					{
-						"id": "1704",
-						"value": "The Abundance",
-						"mi18n_key": "filter_1704",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
-						"enum_string": "abundance"
-					}
-				],
-				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -3760,9 +3760,9 @@
 		"name": "Trend of the Universal Market",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/b219c9f8510d5118bd935c7f0e82c2e8_8165588058570088302.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"16\",\"base_def\":\"18\"}",
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"370\",\"base_def\":\"396\"}",
-			"equipment_skill": "A New Round of Shuffling<p>Increases the wearer's DEF by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span>. When the wearer is attacked, there is a 100% base chance to Burn the enemy. For each turn, the wearer deals DoT that is equal to <span style=\"color: #FFC870\">40%/50%/60%/70%/80%</span> of the wearer's DEF for 2 turn(s).</p>"
+			"equipment_skill": "A New Round of Shuffling<p>Increases the wearer's DEF by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span>. When the wearer is attacked, there is a 100% base chance to Burn the enemy. For each turn, the wearer deals DoT that is equal to <span style=\"color: #FFC870\">40%/50%/60%/70%/80%</span> of the wearer's DEF for 2 turn(s).</p>",
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"16\",\"base_def\":\"18\"}"
 		},
 		"filter_values": {
 			"equipment_rarity": {
@@ -3833,11 +3833,26 @@
 		"name": "Subscribe for More!",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/3ca6335be52f09cb53cb3ad299ae44f5_8810643540624177061.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}",
-			"equipment_skill": "Like Before You Leave!<p>Increases the DMG of the wearer's Basic ATK and Skill by <span style=\"color: #FFC870\">24%/30%/36%/42%/48%</span>. This effect increases by an extra <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span> when the wearer's current Energy reaches its max level.</p>"
+			"equipment_skill": "Like Before You Leave!<p>Increases the DMG of the wearer's Basic ATK and Skill by <span style=\"color: #FFC870\">24%/30%/36%/42%/48%</span>. This effect increases by an extra <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span> when the wearer's current Energy reaches its max level.</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}"
 		},
 		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"Basic ATK, Skill, Ultimate"
+				],
+				"value_types": [
+					{
+						"id": "2585",
+						"value": "Basic ATK, Skill, Ultimate",
+						"mi18n_key": "filter_2585",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_paths": {
 				"values": [
 					"The Hunt"
@@ -3882,21 +3897,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"Basic ATK, Skill, Ultimate"
-				],
-				"value_types": [
-					{
-						"id": "2585",
-						"value": "Basic ATK, Skill, Ultimate",
-						"mi18n_key": "filter_2585",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3906,26 +3906,11 @@
 		"name": "Dance! Dance! Dance!",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/e5dadf9d6a346072fbced6c0b57eae16_5586773257426355283.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"19\"}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\"}",
-			"equipment_skill": "Cannot Stop It!<p>When the wearer uses their Ultimate, all allies' actions are Advanced Forward by <span style=\"color: #FFC870\">16%/18%/20%/22%/24%</span>.</p>",
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"19\"}"
+			"equipment_skill": "Cannot Stop It!<p>When the wearer uses their Ultimate, all allies' actions are Advanced Forward by <span style=\"color: #FFC870\">16%/18%/20%/22%/24%</span>.</p>"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"Action Advanced"
@@ -3970,34 +3955,6 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "594",
-		"name": "Under the Blue Sky",
-		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/d4a42501230b325d28772affbcc16cad_7410909001378717349.png",
-		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\",\"dynamic\":{}}",
-			"equipment_skill": "Rye Under the Sun<p>Increases the wearer's ATK by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span>. When the wearer defeats an enemy, the wearer's CRIT Rate increases by <span style=\"color: #FFC870\">12%/15%/18%/21%/24%</span> for 3 turn(s).</p>"
-		},
-		"filter_values": {
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			},
 			"equipment_rarity": {
 				"values": [
@@ -4013,7 +3970,20 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "594",
+		"name": "Under the Blue Sky",
+		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/d4a42501230b325d28772affbcc16cad_7410909001378717349.png",
+		"display_field": {
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\",\"dynamic\":{}}",
+			"equipment_skill": "Rye Under the Sun<p>Increases the wearer's ATK by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span>. When the wearer defeats an enemy, the wearer's CRIT Rate increases by <span style=\"color: #FFC870\">12%/15%/18%/21%/24%</span> for 3 turn(s).</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\",\"dynamic\":{}}"
+		},
+		"filter_values": {
 			"equipment_skill_type": {
 				"values": [
 					"ATK"
@@ -4043,20 +4013,7 @@
 					}
 				],
 				"key": null
-			}
-		},
-		"desc": ""
-	},
-	{
-		"entry_page_id": "595",
-		"name": "Geniuses' Repose",
-		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/be06e7d2a6725c891d1ab826bcb27a19_6758209807283226324.png",
-		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"21\",\"base_def\":\"18\"}",
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"476\",\"base_def\":\"396\"}",
-			"equipment_skill": "Each Now Has a Role to Play<p>Increases the wearer's ATK by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span>. When the wearer defeats an enemy, the wearer's CRIT DMG increases by <span style=\"color: #FFC870\">24%/30%/36%/42%/48%</span> for 3 turn(s).</p>"
-		},
-		"filter_values": {
+			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -4086,7 +4043,20 @@
 					}
 				],
 				"key": null
-			},
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "595",
+		"name": "Geniuses' Repose",
+		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/be06e7d2a6725c891d1ab826bcb27a19_6758209807283226324.png",
+		"display_field": {
+			"equipment_skill": "Each Now Has a Role to Play<p>Increases the wearer's ATK by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span>. When the wearer defeats an enemy, the wearer's CRIT DMG increases by <span style=\"color: #FFC870\">24%/30%/36%/42%/48%</span> for 3 turn(s).</p>",
+			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"21\",\"base_def\":\"18\"}",
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"476\",\"base_def\":\"396\"}"
+		},
+		"filter_values": {
 			"equipment_skill_type": {
 				"values": [
 					"ATK"
@@ -4113,6 +4083,36 @@
 						"mi18n_key": "filter_1656",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
 						"enum_string": "erudition"
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
 					}
 				],
 				"key": null
@@ -4198,41 +4198,11 @@
 		"name": "Fermata",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/02/6799252/0765f6d615abcb580fb88546f5120b33_6961239327653296445.png",
 		"display_field": {
-			"equipment_skill": "Semibreve Rest<p>Increases the Break Effect dealt by the wearer by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span>, and increases their DMG to enemies afflicted with Shock or Wind Shear by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. This also applies to DoT.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\"}",
+			"equipment_skill": "Semibreve Rest<p>Increases the Break Effect dealt by the wearer by <span style=\"color: #FFC870\">16%/20%/24%/28%/32%</span>, and increases their DMG to enemies afflicted with Shock or Wind Shear by <span style=\"color: rgb(255, 200, 112)\">16%/20%/24%/28%/32%</span>. This also applies to DoT.</p>"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"Break Effect"
-				],
-				"value_types": [
-					{
-						"id": "2643",
-						"value": "Break Effect",
-						"mi18n_key": "filter_2643",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_paths": {
 				"values": [
 					"The Nihility"
@@ -4262,6 +4232,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"Break Effect"
+				],
+				"value_types": [
+					{
+						"id": "2643",
+						"value": "Break Effect",
+						"mi18n_key": "filter_2643",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -4271,26 +4271,11 @@
 		"name": "We Are Wildfire",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/01/6799252/7a06e17d7047486adaa686528d27bfd2_3206939979059150120.png",
 		"display_field": {
-			"equipment_skill": "Teary-Eyed<p>At the start of the battle, the DMG dealt to all allies decreases by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span> for 5 turn(s). At the same time, immediately restores HP to all allies equal to <span style=\"color: rgb(255, 200, 112)\">30%/35%/40%/45%/50%</span> of the respective HP difference between the characters' Max HP and current HP.</p>",
 			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"21\",\"base_def\":\"21\"}",
-			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"476\",\"base_def\":\"463\"}"
+			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"476\",\"base_def\":\"463\"}",
+			"equipment_skill": "Teary-Eyed<p>At the start of the battle, the DMG dealt to all allies decreases by <span style=\"color: rgb(255, 200, 112)\">8%/10%/12%/14%/16%</span> for 5 turn(s). At the same time, immediately restores HP to all allies equal to <span style=\"color: rgb(255, 200, 112)\">30%/35%/40%/45%/50%</span> of the respective HP difference between the characters' Max HP and current HP.</p>"
 		},
 		"filter_values": {
-			"equipment_source": {
-				"values": [
-					"Exchange"
-				],
-				"value_types": [
-					{
-						"id": "2543",
-						"value": "Exchange",
-						"mi18n_key": "filter_2543",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_rarity": {
 				"values": [
 					"4-Star"
@@ -4335,6 +4320,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Exchange"
+				],
+				"value_types": [
+					{
+						"id": "2543",
+						"value": "Exchange",
+						"mi18n_key": "filter_2543",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -4344,41 +4344,11 @@
 		"name": "River Flows in Spring",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/30/6799252/93e00be069bfa6857d2e16c231b25c18_7105069081961934676.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"21\",\"base_def\":\"18\"}",
 			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"476\",\"base_def\":\"396\"}",
-			"equipment_skill": "Stave Off the Lingering Cold<p>After entering battle, increases the wearer's SPD by <span style=\"color: #FFC870\">8%/9%/10%/11%/12%</span> and DMG by <span style=\"color: #FFC870\">12%/15%/18%/21%/24%</span>. When the wearer takes DMG, this effect will disappear. This effect will resume after the end of the wearer's next turn.</p>"
+			"equipment_skill": "Stave Off the Lingering Cold<p>After entering battle, increases the wearer's SPD by <span style=\"color: #FFC870\">8%/9%/10%/11%/12%</span> and DMG by <span style=\"color: #FFC870\">12%/15%/18%/21%/24%</span>. When the wearer takes DMG, this effect will disappear. This effect will resume after the end of the wearer's next turn.</p>",
+			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"21\",\"base_def\":\"18\"}"
 		},
 		"filter_values": {
-			"equipment_source": {
-				"values": [
-					"Missions"
-				],
-				"value_types": [
-					{
-						"id": "2558",
-						"value": "Missions",
-						"mi18n_key": "filter_2558",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"SPD"
@@ -4408,6 +4378,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Missions"
+				],
+				"value_types": [
+					{
+						"id": "2558",
+						"value": "Missions",
+						"mi18n_key": "filter_2558",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -4422,36 +4422,6 @@
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\"}"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"Additional DMG"
-				],
-				"value_types": [
-					{
-						"id": "2716",
-						"value": "Additional DMG",
-						"mi18n_key": "filter_2716",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Harmony"
-				],
-				"value_types": [
-					{
-						"id": "1667",
-						"value": "The Harmony",
-						"mi18n_key": "filter_1667",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
-						"enum_string": "harmony"
-					}
-				],
-				"key": null
-			},
 			"equipment_source": {
 				"values": [
 					"Exchange"
@@ -4481,6 +4451,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"Additional DMG"
+				],
+				"value_types": [
+					{
+						"id": "2716",
+						"value": "Additional DMG",
+						"mi18n_key": "filter_2716",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Harmony"
+				],
+				"value_types": [
+					{
+						"id": "1667",
+						"value": "The Harmony",
+						"mi18n_key": "filter_1667",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
+						"enum_string": "harmony"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -4495,21 +4495,6 @@
 			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"16\",\"base_def\":\"12\"}"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Hunt"
-				],
-				"value_types": [
-					{
-						"id": "1638",
-						"value": "The Hunt",
-						"mi18n_key": "filter_1638",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
-			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -4554,6 +4539,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1638",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1638",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -4563,26 +4563,11 @@
 		"name": "Sagacity",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/30/6799252/a1c34e06326328718d0bb466d7102d86_4069649063473075222.png",
 		"display_field": {
+			"equipment_skill": "Genius<p>When the wearer uses their Ultimate, increases ATK by <span style=\"color: #FFC870\">24%/30%/36%/42%/48%</span> for 2 turn(s).</p>",
 			"attr_level_1": "{\"base_hp\":\"33\",\"base_atk\":\"16\",\"base_def\":\"12\"}",
-			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"370\",\"base_def\":\"264\"}",
-			"equipment_skill": "Genius<p>When the wearer uses their Ultimate, increases ATK by <span style=\"color: #FFC870\">24%/30%/36%/42%/48%</span> for 2 turn(s).</p>"
+			"attr_level_80": "{\"base_hp\":\"740\",\"base_atk\":\"370\",\"base_def\":\"264\"}"
 		},
 		"filter_values": {
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_rarity": {
 				"values": [
 					"3-Star"
@@ -4627,6 +4612,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -4641,6 +4641,21 @@
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"12\",\"base_def\":\"12\"}"
 		},
 		"filter_values": {
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"3-Star"
@@ -4685,21 +4700,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -4714,6 +4714,21 @@
 			"equipment_skill": "Denizens of Abundance<p>After the wearer uses their Basic ATK, their next action will be Advanced Forward by <span style=\"color: #FFC870\">12%/14%/16%/18%/20%</span>.</p><p></p>"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"3-Star"
+				],
+				"value_types": [
+					{
+						"id": "1719",
+						"value": "3-Star",
+						"mi18n_key": "filter_1719",
+						"icon": "",
+						"enum_string": "3"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"Action Advanced"
@@ -4755,21 +4770,6 @@
 						"mi18n_key": "filter_1850",
 						"icon": "",
 						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"3-Star"
-				],
-				"value_types": [
-					{
-						"id": "1719",
-						"value": "3-Star",
-						"mi18n_key": "filter_1719",
-						"icon": "",
-						"enum_string": "3"
 					}
 				],
 				"key": null
@@ -4855,11 +4855,26 @@
 		"name": "Mutual Demise",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/26/6799252/86e2a3e40759338879c95162d17891c1_8182397188832734998.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"370\",\"base_def\":\"198\"}",
 			"equipment_skill": "Legion<p>If the wearer's current HP is lower than 80%, CRIT Rate increases by <span style=\"color: #FFC870\">12%/15%/18%/21%/24%</span>.</p>",
-			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"16\",\"base_def\":\"9\"}"
+			"attr_level_1": "{\"base_hp\":\"38\",\"base_atk\":\"16\",\"base_def\":\"9\"}",
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"370\",\"base_def\":\"198\"}"
 		},
 		"filter_values": {
+			"equipment_source": {
+				"values": [
+					"Regular Warp"
+				],
+				"value_types": [
+					{
+						"id": "1850",
+						"value": "Regular Warp",
+						"mi18n_key": "filter_1850",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"3-Star"
@@ -4901,21 +4916,6 @@
 						"mi18n_key": "filter_1621",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
 						"enum_string": "destruction"
-					}
-				],
-				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Regular Warp"
-				],
-				"value_types": [
-					{
-						"id": "1850",
-						"value": "Regular Warp",
-						"mi18n_key": "filter_1850",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -5001,26 +5001,11 @@
 		"name": "Incessant Rain",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/06/05/6799252/dd30c9e39b8126dde54946cf2581215f_7869576066016102864.png",
 		"display_field": {
+			"equipment_skill": "Mirage of Reality<p>Increases the wearer’s Effect Hit Rate by <span style=\"color: #FFC870\">24%/28%/32%/36%/40%</span>. When the wearer deals DMG to an enemy that currently has 3 or more debuffs, increases the wearer’s CRIT Rate by <span style=\"color: #FFC870\">12%/14%/16%/18%/20%</span>. After the wearer uses their Basic ATK, Skill, or Ultimate, there is a 100% base chance to implant Aether Code on a random target that has been hit by the attack and also does not currently have an Aether Code on it. Targets with Aether Code receive <span style=\"color: #FFC870\">12%/14%/16%/18%/20%</span> increased DMG for 1 turn.</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}",
-			"equipment_skill": "Mirage of Reality<p>Increases the wearer’s Effect Hit Rate by <span style=\"color: #FFC870\">24%/28%/32%/36%/40%</span>. When the wearer deals DMG to an enemy that currently has 3 or more debuffs, increases the wearer’s CRIT Rate by <span style=\"color: #FFC870\">12%/14%/16%/18%/20%</span>. After the wearer uses their Basic ATK, Skill, or Ultimate, there is a 100% base chance to implant Aether Code on a random target that has been hit by the attack and also does not currently have an Aether Code on it. Targets with Aether Code receive <span style=\"color: #FFC870\">12%/14%/16%/18%/20%</span> increased DMG for 1 turn.</p>"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"Effect Hit Rate"
-				],
-				"value_types": [
-					{
-						"id": "2687",
-						"value": "Effect Hit Rate",
-						"mi18n_key": "filter_2687",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_paths": {
 				"values": [
 					"The Nihility"
@@ -5065,6 +5050,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"Effect Hit Rate"
+				],
+				"value_types": [
+					{
+						"id": "2687",
+						"value": "Effect Hit Rate",
+						"mi18n_key": "filter_2687",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -5074,26 +5074,11 @@
 		"name": "Echoes of the Coffin",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/06/08/6799252/b57ba07be186c25b2e98010303d723f4_7753175512192545273.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"26\",\"base_def\":\"18\"}",
 			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"582\",\"base_def\":\"396\"}",
-			"equipment_skill": "Thorns<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>. After the wearer uses an attack, for each different enemy target the wearer hits, regenerates <span style=\"color: rgb(255, 200, 112)\">3/3.5/4/4.5/5</span> Energy. Each attack can regenerate Energy up to 3 times this way. After the wearer uses their Ultimate, all allies gain <span style=\"color: rgb(255, 200, 112)\">12/14/16/18/20</span> SPD for 1 turn.</p>",
-			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"26\",\"base_def\":\"18\"}"
+			"equipment_skill": "Thorns<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>. After the wearer uses an attack, for each different enemy target the wearer hits, regenerates <span style=\"color: rgb(255, 200, 112)\">3/3.5/4/4.5/5</span> Energy. Each attack can regenerate Energy up to 3 times this way. After the wearer uses their Ultimate, all allies gain <span style=\"color: rgb(255, 200, 112)\">12/14/16/18/20</span> SPD for 1 turn.</p>"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"ATK",
@@ -5162,6 +5147,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -5176,6 +5176,21 @@
 			"equipment_skill": "Quick on the Draw<p>Increases the wearer's Effect Hit Rate by <span style=\"color: #FFC870\">20%/25%/30%/35%/40%</span>. When the wearer attacks enemies that have reduced DEF, regenerates <span style=\"color: #FFC870\">4/5/6/7/8</span> Energy.</p>"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"Effect Hit Rate"
@@ -5205,21 +5220,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5229,26 +5229,11 @@
 		"name": "The Unreachable Side",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/10/6799252/9e33b8db3ced5f981c1427a842052e8a_9007039100645382605.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"57\",\"base_atk\":\"26\",\"base_def\":\"15\"}",
-			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"582\",\"base_def\":\"330\"}",
-			"equipment_skill": "Unfulfilled Yearning<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span> and and increases their Max HP by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span>. After the wearer is attacked or consumes their own HP, increases the wearer's DMG by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>. This effect is dispelled after the wearer uses an attack.</p>"
+			"attr_level_1": "{\"base_hp\":\"57\",\"base_atk\":\"26\",\"base_def\":\"15\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"582\",\"base_def\":\"330\",\"dynamic\":{}}",
+			"equipment_skill": "Unfulfilled Yearning<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span> and and increases their Max HP by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span>. After the wearer is attacked or consumes their own HP, increases the wearer's DMG by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>. This effect is removed after the wearer uses an attack.</p>"
 		},
 		"filter_values": {
-			"equipment_source": {
-				"values": [
-					"Limited Warp"
-				],
-				"value_types": [
-					{
-						"id": "1857",
-						"value": "Limited Warp",
-						"mi18n_key": "filter_1857",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_rarity": {
 				"values": [
 					"5-Star"
@@ -5309,6 +5294,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -5318,9 +5318,9 @@
 		"name": "Patience Is All You Need",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/10/6799252/3e4d37ab610e9d0270e4dc4507f9809d_3445322774549689808.png",
 		"display_field": {
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}",
 			"equipment_skill": "Spider Web<p>Increases DMG dealt by the wearer by <span style=\"color: #FFC870\">24%/28%/32%/36%/40%</span>. After every attack unleashed by the wearer, the wearer's SPD increases by <span style=\"color: #FFC870\">4.8%/5.6%/6.4%/7.2%/8%</span>, stacking up to <span style=\"color: #FFC870\">3 </span>times. If the wearer hits an enemy target that is not afflicted by <span style=\"color: rgb(255, 200, 112)\">Erode</span>, there is a 100% base chance to inflict <span style=\"color: rgb(255, 200, 112)\">Erode </span>on the target. Enemies afflicted with <span style=\"color: rgb(255, 200, 112)\">Erode </span>are also considered to be <span style=\"color: rgb(223, 84, 255)\">Shocked</span> and will receive <span style=\"color: rgb(223, 84, 255)\">Lightning DoT</span> at the start of each turn equal to <span style=\"color: #FFC870\">60%/70%/80%/90%/100%</span> of the wearer's ATK, lasting for <span style=\"color: #FFC870\">1</span> turn.</p>",
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}"
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}"
 		},
 		"filter_values": {
 			"equipment_paths": {
@@ -5407,9 +5407,9 @@
 		"name": "Brighter Than the Sun",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/25/250281765/274e4d01efb391334126171753e400d7_2691687760360431628.png",
 		"display_field": {
+			"equipment_skill": "Defiant Till Death<p>Increases the wearer's CRIT Rate by <span style=\"color: #FFC870\">18%/21%/24%/27%/30%</span>. When the wearer uses Basic ATK, they will gain one stack of Dragon's Call for 2 turns. Each stack of Dragon's Call increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span> and Energy Regeneration Rate by <span style=\"color: #FFC870\">6%/7%/8%/9%/10%</span>. Dragon's Call can be stacked up to 2 times.</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"28\",\"base_def\":\"18\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"635\",\"base_def\":\"396\"}",
-			"equipment_skill": "Defiant Till Death<p>Increases the wearer's CRIT Rate by <span style=\"color: #FFC870\">18%/21%/24%/27%/30%</span>. When the wearer uses Basic ATK, they will gain one stack of Dragon's Call for 2 turns. Each stack of Dragon's Call increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span> and Energy Regeneration Rate by <span style=\"color: #FFC870\">6%/7%/8%/9%/10%</span>. Dragon's Call can be stacked up to 2 times.</p>"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"635\",\"base_def\":\"396\"}"
 		},
 		"filter_values": {
 			"equipment_skill_type": {
@@ -5504,26 +5504,11 @@
 		"name": "She Already Shut Her Eyes",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/25/250281765/a519d2e49b5bbefb2f189a80c30571cd_2101569505693000965.png",
 		"display_field": {
+			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"423\",\"base_def\":\"529\"}",
 			"equipment_skill": "Visioscape<p>Increases the wearer's Max HP by <span style=\"color: #FFC870\">24%</span> and Energy Regeneration Rate by <span style=\"color: #FFC870\">12%</span>. When the wearer's HP is decreased, increases the DMG of all allies by <span style=\"color: #FFC870\">9%</span> for <span style=\"color: #FFC870\">2 </span>turns.</p><p>At the beginning of each wave, restores HP equal to<span style=\"color: #FFC870\"> 80%</span> of HP already lost by the character themselves for team.</p>",
-			"attr_level_1": "{\"base_hp\":\"58\",\"base_atk\":\"19\",\"base_def\":\"24\"}",
-			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"423\",\"base_def\":\"529\"}"
+			"attr_level_1": "{\"base_hp\":\"58\",\"base_atk\":\"19\",\"base_def\":\"24\"}"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"HP",
@@ -5584,6 +5569,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -5598,6 +5598,36 @@
 			"equipment_skill": "Chaos Elixir<p>Increases the wearer's Break Effect by <span style=\"color: rgb(255, 200, 112)\">20%/25%/30%/35%/40%</span>. When the wearer uses their Ultimate, increases DoT dealt by the wearer by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span>, lasting for 2 turn(s). When a target enemy suffering from DoT imposed by the wearer is defeated, regenerates <span style=\"color: rgb(255, 200, 112)\">4/4.5/5/6</span> Energy for the wearer.</p>"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1685",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1685",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Simulated Universe"
+				],
+				"value_types": [
+					{
+						"id": "1887",
+						"value": "Simulated Universe",
+						"mi18n_key": "filter_1887",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"5-Star"
@@ -5643,36 +5673,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1685",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1685",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Simulated Universe"
-				],
-				"value_types": [
-					{
-						"id": "1887",
-						"value": "Simulated Universe",
-						"mi18n_key": "filter_1887",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5682,11 +5682,41 @@
 		"name": "Worrisome, Blissful",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/01/6799252/4f2ab7074d519b215cd150b8cf1f433a_3257119075936702359.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}",
 			"equipment_skill": "One At A Time<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">18%/21%/24%/27%/30%</span> and their follow-up attacks' DMG by <span style=\"color: rgb(255, 200, 112)\">30%/35%/40%/45%/50%</span>. After the wearer uses a follow-up attack, apply the Tame state to the target, stacking up to 2 stacks. When allies hit enemy targets under the Tame state, every Tame stack increases the CRIT DMG dealt by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>.</p>",
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}"
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}",
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1638",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1638",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"5-Star"
@@ -5732,36 +5762,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Hunt"
-				],
-				"value_types": [
-					{
-						"id": "1638",
-						"value": "The Hunt",
-						"mi18n_key": "filter_1638",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Limited Warp"
-				],
-				"value_types": [
-					{
-						"id": "1857",
-						"value": "Limited Warp",
-						"mi18n_key": "filter_1857",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5776,29 +5776,6 @@
 			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"582\",\"base_def\":\"396\"}"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"DMG",
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "2570",
-						"value": "DMG",
-						"mi18n_key": "filter_2570",
-						"icon": "",
-						"enum_string": ""
-					},
-					{
-						"id": "2598",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_2598",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_paths": {
 				"values": [
 					"The Destruction"
@@ -5843,6 +5820,29 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"DMG",
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "2570",
+						"value": "DMG",
+						"mi18n_key": "filter_2570",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2598",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_2598",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -5857,6 +5857,36 @@
 			"equipment_skill": "A Knight's Pilgrimage<p>Increases the wearer's CRIT DMG by <span style=\"color: #FFC870\">36%</span>/<span style=\"color: #FFC870\">42%</span>/<span style=\"color: #FFC870\">48%</span>/<span style=\"color: #FFC870\">54%</span>/<span style=\"color: #FFC870\">60%</span>. When the wearer uses Ultimate, increases the wearer's Ultimate DMG based on their Max Energy. Each point of Energy increases the Ultimate DMG by <span style=\"color: #FFC870\">0.36%/0.42%</span>/<span style=\"color: #FFC870\">0.48%</span>/<span style=\"color: #FFC870\">0.54%</span>/<span style=\"color: #FFC870\">0.6%</span>, up to 180 points of Energy.</p>"
 		},
 		"filter_values": {
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"Basic ATK, Skill, Ultimate",
@@ -5894,36 +5924,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Limited Warp"
-				],
-				"value_types": [
-					{
-						"id": "1857",
-						"value": "Limited Warp",
-						"mi18n_key": "filter_1857",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5933,11 +5933,34 @@
 		"name": "Hey, Over Here",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/19/167256510/a456df12439bf48602745abaf0faefe8_3738571763511981481.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\"}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\"}",
-			"equipment_skill": "I'm Not Afraid!<p>Increases the wearer's Max HP by <span style=\"color: #FFC870\">8%/9%/10%/11%/12%</span>. Increases Outgoing Healing when the wearer uses their Skill by <span style=\"color: #FFC870\">16%/19%/22%/25%/28%</span>, lasting for 2 turns.</p>",
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\"}"
+			"equipment_skill": "I'm Not Afraid!<p>Increases the wearer's Max HP by <span style=\"color: #FFC870\">8%/9%/10%/11%/12%</span>. Increases Outgoing Healing when the wearer uses their Skill by <span style=\"color: #FFC870\">16%/19%/22%/25%/28%</span>, lasting for 2 turns.</p>"
 		},
 		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"HP",
+					"Heal"
+				],
+				"value_types": [
+					{
+						"id": "1781",
+						"value": "HP",
+						"mi18n_key": "filter_1781",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "1831",
+						"value": "Heal",
+						"mi18n_key": "filter_1831",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_paths": {
 				"values": [
 					"The Abundance"
@@ -5967,29 +5990,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"HP",
-					"Heal"
-				],
-				"value_types": [
-					{
-						"id": "1781",
-						"value": "HP",
-						"mi18n_key": "filter_1781",
-						"icon": "",
-						"enum_string": ""
-					},
-					{
-						"id": "1831",
-						"value": "Heal",
-						"mi18n_key": "filter_1831",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -5999,41 +5999,11 @@
 		"name": "Night of Fright",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/09/5308864/636bc159e273bad34ecd7c978122d742_9086345269915155643.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"21\",\"base_def\":\"24\"}",
 			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"476\",\"base_def\":\"529\"}",
-			"equipment_skill": "Deep, Deep Breaths<p>Increases the wearer's Energy Regeneration Rate by <span style=\"color: #FFC870\">12%/14%/16%/18%/20%</span>. When any ally uses their Ultimate, restores HP to them equal to <span style=\"color: #FFC870\">10%/11%/12%/13%/14%</span> of their Max HP. When the wearer provides healing for allies, increases the healed ally's ATK by <span style=\"color: #FFC870\">2.4%/2.8%/3.2%/3.6%/4.0%</span>. This effect can stack up to 5 times and lasts for 2 turn(s).</p>",
-			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"21\",\"base_def\":\"24\"}"
+			"equipment_skill": "Deep, Deep Breaths<p>Increases the wearer's Energy Regeneration Rate by <span style=\"color: #FFC870\">12%/14%/16%/18%/20%</span>. When any ally uses their Ultimate, restores HP to them equal to <span style=\"color: #FFC870\">10%/11%/12%/13%/14%</span> of their Max HP. When the wearer provides healing for allies, increases the healed ally's ATK by <span style=\"color: #FFC870\">2.4%/2.8%/3.2%/3.6%/4.0%</span>. This effect can stack up to 5 times and lasts for 2 turn(s).</p>"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Abundance"
-				],
-				"value_types": [
-					{
-						"id": "1704",
-						"value": "The Abundance",
-						"mi18n_key": "filter_1704",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
-						"enum_string": "abundance"
-					}
-				],
-				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Limited Warp"
-				],
-				"value_types": [
-					{
-						"id": "1857",
-						"value": "Limited Warp",
-						"mi18n_key": "filter_1857",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_rarity": {
 				"values": [
 					"5-Star"
@@ -6074,6 +6044,36 @@
 						"id": "2650",
 						"value": "Energy Regeneration Rate",
 						"mi18n_key": "filter_2650",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Abundance"
+				],
+				"value_types": [
+					{
+						"id": "1704",
+						"value": "The Abundance",
+						"mi18n_key": "filter_1704",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"enum_string": "abundance"
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
 						"icon": "",
 						"enum_string": ""
 					}
@@ -6177,11 +6177,26 @@
 		"name": "Baptism of Pure Thought",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/25/167256510/c72a1d9e62b2935a8b36fdf968a3d34f_7639598452661147263.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"26\",\"base_def\":\"24\"}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"529\"}",
-			"equipment_skill": "Mental Training<p>Increases the wearer's CRIT DMG by <span style=\"color: #FFC870\">20%/23%/26%/29%/32%</span>. For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target increases by <span style=\"color: #FFC870\">8%/9%/10%/11%/12%</span>, stacking up to 3 times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by <span style=\"color: #FFC870\">36%/42%/48%/54%/60%</span> and enables their follow-up attacks to ignore <span style=\"color: #FFC870\">24%/28%/32%/36%/40%</span> of the target's DEF. This effect lasts for 2 turns.</p>",
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"26\",\"base_def\":\"24\"}"
+			"equipment_skill": "Mental Training<p>Increases the wearer's CRIT DMG by <span style=\"color: #FFC870\">20%/23%/26%/29%/32%</span>. For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target increases by <span style=\"color: #FFC870\">8%/9%/10%/11%/12%</span>, stacking up to 3 times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by <span style=\"color: #FFC870\">36%/42%/48%/54%/60%</span> and enables their follow-up attacks to ignore <span style=\"color: #FFC870\">24%/28%/32%/36%/40%</span> of the target's DEF. This effect lasts for 2 turns.</p>"
 		},
 		"filter_values": {
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_paths": {
 				"values": [
 					"The Hunt"
@@ -6211,21 +6226,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Limited Warp"
-				],
-				"value_types": [
-					{
-						"id": "1857",
-						"value": "Limited Warp",
-						"mi18n_key": "filter_1857",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6235,11 +6235,26 @@
 		"name": "What Is Real?",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/04/167256510/1a7d7b3004c41e55447a626d6d11f3ec_6649405654609661308.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"15\",\"dynamic\":{}}",
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"423\",\"base_def\":\"330\",\"dynamic\":{}}",
-			"equipment_skill": "Hypothesis<p>Increases the wearer's Break Effect by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span>. A<span style=\"color: rgba(255, 255, 255, 0.85)\">fter using Basic ATK, restores HP for the wearer by an amount equal to </span><span style=\"color: #FFC870\">2%/2.5%/3%/3.5%/4%</span><span style=\"color: rgba(255, 255, 255, 0.85)\"> of Max HP plus 800.</span></p>",
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"15\",\"dynamic\":{}}"
+			"equipment_skill": "Hypothesis<p>Increases the wearer's Break Effect by <span style=\"color: rgb(255, 200, 112)\">24%/30%/36%/42%/48%</span>. A<span style=\"color: rgba(255, 255, 255, 0.85)\">fter using Basic ATK, restores HP for the wearer by an amount equal to </span><span style=\"color: #FFC870\">2%/2.5%/3%/3.5%/4%</span><span style=\"color: rgba(255, 255, 255, 0.85)\"> of Max HP plus 800.</span></p>"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"Heal",
@@ -6277,21 +6292,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6301,26 +6301,11 @@
 		"name": "Dreamville Adventure",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/04/167256510/f6d2ac34b172301149fd399462311feb_1192402363132322262.png",
 		"display_field": {
-			"equipment_skill": "Solidarity<p>After the wearer uses a Basic ATK, Skill, or Ultimate, all allies gain Childishness, which increases the DMG dealt by the corresponding ability they used by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. Childishness only takes effect with the most recent ability used by the wearer and cannot be stacked.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\",\"dynamic\":{}}",
+			"equipment_skill": "Solidarity<p>After the wearer uses a Basic ATK, Skill, or Ultimate, all allies gain Childishness, which increases the DMG dealt by the corresponding ability they used by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. Childishness only takes effect with the most recent ability used by the wearer and cannot be stacked.</p>"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG",
@@ -6358,6 +6343,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -6367,9 +6367,9 @@
 		"name": "Final Victor",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/04/167256510/1dacebf139cc2bbaa5198246a5e5bdb3_6228985121740067256.png",
 		"display_field": {
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\",\"dynamic\":{}}",
 			"equipment_skill": "All In<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. When the wearer lands a CRIT hit on enemies, they will gain a stack of Good Fortune. This effect can be stacked 4 time(s). Every stack of Good Fortune the wearer has will increase their CRIT DMG by <span style=\"color: rgb(255, 200, 112)\">8%/9%/10%/11%/12%</span>. Good Fortune will be removed at the end of the wearer's turn.</p>",
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"equipment_skill_type": {
@@ -6433,34 +6433,11 @@
 		"name": "Flames Afar",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/04/167256510/8d5ad6281a3754f6298e828c25fc564b_6529524770082663481.png",
 		"display_field": {
-			"equipment_skill": "Deflagration<p>When the HP lost by the wearer during a single attack exceeds 25% of their Max HP, or if the HP they consume is greater than 25% of their Max HP, then immediately heals them for 15% of their Max HP while also increasing the DMG they deal by <span style=\"color: rgb(255, 200, 112)\">25%/31.25%/37.5%/43.75%/50%</span> for 2 turn(s). This effect can only be triggered once every 3 turn(s).</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"21\",\"base_def\":\"12\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\",\"dynamic\":{}}",
+			"equipment_skill": "Deflagration<p>When the HP lost by the wearer during a single attack exceeds 25% of their Max HP, or if the HP they consume is greater than 25% of their Max HP, then immediately heals them for 15% of their Max HP while also increasing the DMG they deal by <span style=\"color: rgb(255, 200, 112)\">25%/31.25%/37.5%/43.75%/50%</span> for 2 turn(s). This effect can only be triggered once every 3 turn(s).</p>"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"Heal",
-					"DMG"
-				],
-				"value_types": [
-					{
-						"id": "1831",
-						"value": "Heal",
-						"mi18n_key": "filter_1831",
-						"icon": "",
-						"enum_string": ""
-					},
-					{
-						"id": "2570",
-						"value": "DMG",
-						"mi18n_key": "filter_2570",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_paths": {
 				"values": [
 					"The Destruction"
@@ -6490,6 +6467,29 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"Heal",
+					"DMG"
+				],
+				"value_types": [
+					{
+						"id": "1831",
+						"value": "Heal",
+						"mi18n_key": "filter_1831",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2570",
+						"value": "DMG",
+						"mi18n_key": "filter_2570",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -6499,34 +6499,11 @@
 		"name": "Destiny's Threads Forewoven",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/04/167256510/e416cdb95c4768eab3ac77542feb78af_8612372164544936379.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"16\",\"base_def\":\"21\",\"dynamic\":{}}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"370\",\"base_def\":\"463\",\"dynamic\":{}}",
-			"equipment_skill": "Insight<p>Increases the wearer's Effect RES by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. For every 100 of DEF the wearer has, increases the DMG dealt by <span style=\"color: rgb(255, 200, 112)\">0.8%/0.9%/1.1%/1.1%/1.2%</span> to a max increase of <span style=\"color: rgb(255, 200, 112)\">32%/36%/40%/44%/48%</span>.</p>"
+			"equipment_skill": "Insight<p>Increases the wearer's Effect RES by <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span>. For every 100 of DEF the wearer has, increases the DMG dealt by <span style=\"color: rgb(255, 200, 112)\">0.8%/0.9%/1.1%/1.1%/1.2%</span> to a max increase of <span style=\"color: rgb(255, 200, 112)\">32%/36%/40%/44%/48%</span>.</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"16\",\"base_def\":\"21\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"DMG",
-					"Effect RES"
-				],
-				"value_types": [
-					{
-						"id": "2570",
-						"value": "DMG",
-						"mi18n_key": "filter_2570",
-						"icon": "",
-						"enum_string": ""
-					},
-					{
-						"id": "2759",
-						"value": "Effect RES",
-						"mi18n_key": "filter_2759",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_paths": {
 				"values": [
 					"The Preservation"
@@ -6553,6 +6530,29 @@
 						"mi18n_key": "filter_1725",
 						"icon": "",
 						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"DMG",
+					"Effect RES"
+				],
+				"value_types": [
+					{
+						"id": "2570",
+						"value": "DMG",
+						"mi18n_key": "filter_2570",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2759",
+						"value": "Effect RES",
+						"mi18n_key": "filter_2759",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -6631,11 +6631,34 @@
 		"name": "It's Showtime",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/04/167256510/ac30a3a0f375ff30ec0768815570ab6f_69516986816672063.png",
 		"display_field": {
+			"equipment_skill": "Self-Amusement<p>When the wearer inflicts a debuff on an enemy, they gain a stack of Trick. Every stack of Trick increases the wearer's DMG dealt by <span style=\"color: rgb(255, 200, 112)\">6%/7%/8%/9%/10%</span> for a max of 3 stack(s). This effect lasts for 1 turn(s). When the wearer's Effect Hit Rate is greater than or equal to 80%, increases ATK by <span style=\"color: rgb(255, 200, 112)\">20%/24%/28%/32%/36%</span>.</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"21\",\"base_def\":\"12\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\",\"dynamic\":{}}",
-			"equipment_skill": "Self-Amusement<p>When the wearer inflicts a debuff on an enemy, they gain a stack of Trick. Every stack of Trick increases the wearer's DMG dealt by <span style=\"color: rgb(255, 200, 112)\">6%/7%/8%/9%/10%</span> for a max of 3 stack(s). This effect lasts for 1 turn(s). When the wearer's Effect Hit Rate is greater than or equal to 80%, increases ATK by <span style=\"color: rgb(255, 200, 112)\">20%/24%/28%/32%/36%</span>.</p>"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"ATK",
+					"DMG"
+				],
+				"value_types": [
+					{
+						"id": "1763",
+						"value": "ATK",
+						"mi18n_key": "filter_1763",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2570",
+						"value": "DMG",
+						"mi18n_key": "filter_2570",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_paths": {
 				"values": [
 					"The Nihility"
@@ -6665,29 +6688,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"ATK",
-					"DMG"
-				],
-				"value_types": [
-					{
-						"id": "1763",
-						"value": "ATK",
-						"mi18n_key": "filter_1763",
-						"icon": "",
-						"enum_string": ""
-					},
-					{
-						"id": "2570",
-						"value": "DMG",
-						"mi18n_key": "filter_2570",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6697,9 +6697,9 @@
 		"name": "Indelible Promise",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/02/04/3d2c000744065606335224819b4c2c8e_1440791885639005208.png",
 		"display_field": {
+			"equipment_skill": "Inheritance<p>Increases the wearer's Break Effect by <span style=\"color: #FFC870\">28%/35%/42%/49%/56%</span>. When the wearer uses their Ultimate, increases CRIT Rate by <span style=\"color: #FFC870\">15%/18.75%/22.5%/26.25%/30%</span>, lasting for 2 turn(s).</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\",\"dynamic\":{}}",
-			"equipment_skill": "Inheritance<p>Increases the wearer's Break Effect by <span style=\"color: #FFC870\">28%/35%/42%/49%/56%</span>. When the wearer uses their Ultimate, increases CRIT Rate by <span style=\"color: #FFC870\">15%/18.75%/22.5%/26.25%/30%</span>, lasting for 2 turn(s).</p>"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"equipment_rarity": {
@@ -6778,11 +6778,26 @@
 		"name": "Earthly Escapade",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/02/27/08f28fd17c7293362ce7db20de8df1df_4242746970141722423.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"53\",\"base_atk\":\"24\",\"base_def\":\"21\",\"dynamic\":{}}",
 			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"529\",\"base_def\":\"463\",\"dynamic\":{}}",
-			"equipment_skill": "Capriciousness<p>Increases the wearer's CRIT DMG by <span style=\"color: #FFC870\">32%/39%/46%/53%/60%</span>. At the start of the battle, the wearer gains Mask, lasting for 3 turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by <span style=\"color: #FFC870\">10%/11%/12%/13%/14%</span> and their CRIT DMG increased by <span style=\"color: #FFC870\">28%/35%/42%/49%/56%</span>. For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has 4 stacks of Radiant Flame, all the stacks are removed, and they gain Mask for 4 turn(s).</p>"
+			"equipment_skill": "Capriciousness<p>Increases the wearer's CRIT DMG by <span style=\"color: #FFC870\">32%/39%/46%/53%/60%</span>. At the start of the battle, the wearer gains Mask, lasting for 3 turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by <span style=\"color: #FFC870\">10%/11%/12%/13%/14%</span> and their CRIT DMG increased by <span style=\"color: #FFC870\">28%/35%/42%/49%/56%</span>. For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has 4 stacks of Radiant Flame, all the stacks are removed, and they gain Mask for 4 turn(s).</p>",
+			"attr_level_1": "{\"base_hp\":\"53\",\"base_atk\":\"24\",\"base_def\":\"21\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"CRIT Rate",
@@ -6835,21 +6850,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6864,6 +6864,21 @@
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1685",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1685",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"5-Star"
@@ -6924,21 +6939,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1685",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1685",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -6948,42 +6948,11 @@
 		"name": "Inherently Unjust Destiny",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/29/167256510/140b3f8d174401ea209c3b00a0571194_5769917387842057798.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"423\",\"base_def\":\"661\",\"dynamic\":{}}",
 			"equipment_skill": "All-In<p>Increases the wearer's DEF by <span style=\"color: #FFC870\">40</span><span style=\"color: rgb(255, 200, 112)\">%/46%/52%/58%/64%</span>. When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <span style=\"color: rgb(255, 200, 112)\">40%/46%/52%/58%/64%</span>, lasting for 2 turn(s). When the wearer's follow-up attack hits an enemy target, there is a <span style=\"color: #FFC870\">100%/115</span><span style=\"color: rgb(255, 200, 112)\">%/130%/145%/160%</span> base chance to increase the DMG taken by the attacked enemy target by <span style=\"color: #FFC870\">10%/</span><span style=\"color: rgb(255, 200, 112)\">11.5%/13%/14.5%/16%</span>, lasting for 2 turn(s).</p>",
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"30\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"19\",\"base_def\":\"30\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"423\",\"base_def\":\"661\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"equipment_skill_type": {
-				"values": [
-					"DEF",
-					"DMG",
-					"CRIT DMG"
-				],
-				"value_types": [
-					{
-						"id": "1771",
-						"value": "DEF",
-						"mi18n_key": "filter_1771",
-						"icon": "",
-						"enum_string": ""
-					},
-					{
-						"id": "2570",
-						"value": "DMG",
-						"mi18n_key": "filter_2570",
-						"icon": "",
-						"enum_string": ""
-					},
-					{
-						"id": "2598",
-						"value": "CRIT DMG",
-						"mi18n_key": "filter_2598",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_paths": {
 				"values": [
 					"The Preservation"
@@ -7028,6 +6997,37 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"DEF",
+					"DMG",
+					"CRIT DMG"
+				],
+				"value_types": [
+					{
+						"id": "1771",
+						"value": "DEF",
+						"mi18n_key": "filter_1771",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2570",
+						"value": "DMG",
+						"mi18n_key": "filter_2570",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2598",
+						"value": "CRIT DMG",
+						"mi18n_key": "filter_2598",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -7042,6 +7042,21 @@
 			"equipment_skill": "Steerer<p>Increases the wearer's CRIT DMG by <span style=\"color: rgb(255, 200, 112)\">36%/42%/48%/54%/60%</span>. When the wearer hits the enemy target, inflicts Mirage Fizzle on the enemy, lasting for 1 turn. Each time the wearer attacks, this effect can only trigger 1 time on each target. The wearer deals <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span> increased DMG to targets afflicted with Mirage Fizzle, and DMG dealt by the wearer's Ultimate additionally increases by <span style=\"color: rgb(255, 200, 112)\">24%/28%/32%/36%/40%</span>.</p>"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1685",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1685",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"5-Star"
@@ -7094,21 +7109,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1685",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1685",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -7123,6 +7123,29 @@
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"16\",\"base_def\":\"21\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"DEF",
+					"DMG"
+				],
+				"value_types": [
+					{
+						"id": "1771",
+						"value": "DEF",
+						"mi18n_key": "filter_1771",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2570",
+						"value": "DMG",
+						"mi18n_key": "filter_2570",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_source": {
 				"values": [
 					"Regular Warp"
@@ -7167,29 +7190,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_skill_type": {
-				"values": [
-					"DEF",
-					"DMG"
-				],
-				"value_types": [
-					{
-						"id": "1771",
-						"value": "DEF",
-						"mi18n_key": "filter_1771",
-						"icon": "",
-						"enum_string": ""
-					},
-					{
-						"id": "2570",
-						"value": "DMG",
-						"mi18n_key": "filter_2570",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -7199,11 +7199,26 @@
 		"name": "Flowing Nightglow",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/ca03ae75713f4ef7dbd4c68d671d1b0f_4402507865225057642.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"28\",\"base_def\":\"21\",\"dynamic\":{}}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"635\",\"base_def\":\"463\",\"dynamic\":{}}",
-			"equipment_skill": "Pacify<p>Every time an ally attacks, the wearer gains 1 stack of Cantillation. Each stack of Cantillation increases the wearer's Energy Regeneration Rate by <span style=\"color: #FFC870\">3.0/3.5/4.0/4.5/5.0%</span>, stacking up to 5 time(s). When the wearer uses their Ultimate, removes Cantillation and gains Cadenza. Cadenza increases the Wearer's ATK by <span style=\"color: #FFC870\">48/60/72/84/96%</span> and increases all allies' DMG dealt by <span style=\"color: #FFC870\">24/28/32/36/40%</span>, lasting for 1 turn(s).</p>"
+			"equipment_skill": "Pacify<p>Every time an ally attacks, the wearer gains 1 stack of Cantillation. Each stack of Cantillation increases the wearer's Energy Regeneration Rate by <span style=\"color: #FFC870\">3.0/3.5/4.0/4.5/5.0%</span>, stacking up to 5 time(s). When the wearer uses their Ultimate, removes Cantillation and gains Cadenza. Cadenza increases the Wearer's ATK by <span style=\"color: #FFC870\">48/60/72/84/96%</span> and increases all allies' DMG dealt by <span style=\"color: #FFC870\">24/28/32/36/40%</span>, lasting for 1 turn(s).</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"28\",\"base_def\":\"21\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"equipment_paths": {
 				"values": [
 					"The Harmony"
@@ -7233,21 +7248,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Limited Warp"
-				],
-				"value_types": [
-					{
-						"id": "1857",
-						"value": "Limited Warp",
-						"mi18n_key": "filter_1857",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -7257,11 +7257,26 @@
 		"name": "Sailing Towards A Second Life",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/24/90b1764276960d7f7d53fde956be50aa_6987640505724242005.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\",\"dynamic\":{}}",
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\",\"dynamic\":{}}",
-			"equipment_skill": "Rough Water<p>Increases the wearer's Break Effect by <span style=\"color: #FFC870\">60</span>/<span style=\"color: #FFC870\">70</span>/<span style=\"color: #FFC870\">80</span>/<span style=\"color: #FFC870\">90</span>/<span style=\"color: #FFC870\">100%</span>. The Break DMG dealt by the wearer ignores 20/23/26/29/32% of the target's DEF. When the wearer's Break Effect in battle is at 150% or greater, increases their SPD by <span style=\"color: #FFC870\">12</span>/<span style=\"color: #FFC870\">14</span>/<span style=\"color: #FFC870\">16</span>/<span style=\"color: #FFC870\">18</span>/<span style=\"color: #FFC870\">20%</span>.</p>",
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\",\"dynamic\":{}}"
+			"equipment_skill": "Rough Water<p>Increases the wearer's Break Effect by <span style=\"color: #FFC870\">60</span>/<span style=\"color: #FFC870\">70</span>/<span style=\"color: #FFC870\">80</span>/<span style=\"color: #FFC870\">90</span>/<span style=\"color: #FFC870\">100%</span>. The Break DMG dealt by the wearer ignores 20/23/26/29/32% of the target's DEF. When the wearer's Break Effect in battle is at 150% or greater, increases their SPD by <span style=\"color: #FFC870\">12</span>/<span style=\"color: #FFC870\">14</span>/<span style=\"color: #FFC870\">16</span>/<span style=\"color: #FFC870\">18</span>/<span style=\"color: #FFC870\">20%</span>.</p>"
 		},
 		"filter_values": {
+			"equipment_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1638",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1638",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
+			},
 			"equipment_rarity": {
 				"values": [
 					"5-Star"
@@ -7314,21 +7329,6 @@
 					}
 				],
 				"key": null
-			},
-			"equipment_paths": {
-				"values": [
-					"The Hunt"
-				],
-				"value_types": [
-					{
-						"id": "1638",
-						"value": "The Hunt",
-						"mi18n_key": "filter_1638",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -7338,9 +7338,9 @@
 		"name": "For Tomorrow's Journey",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/1b836a1205682a9c6f088fbf0ebabb69_4375918032796644928.png",
 		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\",\"dynamic\":{}}",
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"476\",\"base_def\":\"330\",\"dynamic\":{}}",
-			"equipment_skill": "Bonds<p>Increases the wearer's ATK by <span style=\"color: #FFC870\">16/20/24/28/32%</span>. After the wearer uses their Ultimate, increases their DMG dealt by <span style=\"color: #FFC870\">18/21/24/27/30%</span>, lasting for 1 turn(s).</p>",
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"21\",\"base_def\":\"15\",\"dynamic\":{}}"
+			"equipment_skill": "Bonds<p>Increases the wearer's ATK by <span style=\"color: #FFC870\">16/20/24/28/32%</span>. After the wearer uses their Ultimate, increases their DMG dealt by <span style=\"color: #FFC870\">18/21/24/27/30%</span>, lasting for 1 turn(s).</p>"
 		},
 		"filter_values": {
 			"equipment_skill_type": {
@@ -7409,36 +7409,6 @@
 			"equipment_skill": "Scrutinize<p>Increase the wearer's CRIT Rate by <span style=\"color: #FFC870\">8%/10%/12%/14%/16%</span>. The wearer deals <span style=\"color: #FFC870\">24%/30%/36%/42%/48%</span> more CRIT DMG to enemies that are currently Slowed or have reduced DEF.</p>"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
-			"equipment_source": {
-				"values": [
-					"Limited Warp"
-				],
-				"value_types": [
-					{
-						"id": "1857",
-						"value": "Limited Warp",
-						"mi18n_key": "filter_1857",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"CRIT Rate",
@@ -7473,6 +7443,36 @@
 						"mi18n_key": "filter_1685",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
 						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -7558,26 +7558,11 @@
 		"name": "Yet Hope Is Priceless",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/19/5308864/40ba19555b72a9afcd6ae1d6575d76b3_3012193814954879296.png",
 		"display_field": {
+			"equipment_skill": "Promise<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">16%</span>/<span style=\"color: rgb(255, 200, 112)\">19%</span>/<span style=\"color: rgb(255, 200, 112)\">22%</span>/<span style=\"color: rgb(255, 200, 112)\">25%</span>/<span style=\"color: rgb(255, 200, 112)\">28%</span>. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by follow-up attack increases by <span style=\"color: rgb(255, 200, 112)\">12%</span>/<span style=\"color: rgb(255, 200, 112)\">14%</span>/<span style=\"color: rgb(255, 200, 112)\">16%</span>/<span style=\"color: rgb(255, 200, 112)\">18%</span>/<span style=\"color: rgb(255, 200, 112)\">20%</span>. This effect can stack up to 4 time(s). When the battle starts or after the wearer uses their Basic ATK, enables Ultimate or the DMG dealt by follow-up attack to ignore <span style=\"color: rgb(255, 200, 112)\">20%</span>/<span style=\"color: #FFC870\">24%</span><span style=\"color: oklab(0.853484 0.00982091 -0.0419067)\">/</span><span style=\"color: #FFC870\">28%</span><span style=\"color: oklab(0.853484 0.00982091 -0.0419067)\">/</span><span style=\"color: #FFC870\">32%</span><span style=\"color: oklab(0.853484 0.00982091 -0.0419067)\">/</span><span style=\"color: rgb(255, 200, 112)\">36% </span>of the target's DEF, lasting for 2 turn(s).</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"26\",\"base_def\":\"24\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"529\",\"dynamic\":{}}",
-			"equipment_skill": "Promise<p>Increases the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">16%</span>/<span style=\"color: rgb(255, 200, 112)\">19%</span>/<span style=\"color: rgb(255, 200, 112)\">22%</span>/<span style=\"color: rgb(255, 200, 112)\">25%</span>/<span style=\"color: rgb(255, 200, 112)\">28%</span>. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by follow-up attack increases by <span style=\"color: rgb(255, 200, 112)\">12%</span>/<span style=\"color: rgb(255, 200, 112)\">14%</span>/<span style=\"color: rgb(255, 200, 112)\">16%</span>/<span style=\"color: rgb(255, 200, 112)\">18%</span>/<span style=\"color: rgb(255, 200, 112)\">20%</span>. This effect can stack up to 4 time(s). When the battle starts or after the wearer uses their Basic ATK, enables Ultimate or the DMG dealt by follow-up attack to ignore <span style=\"color: rgb(255, 200, 112)\">20%</span>/<span style=\"color: #FFC870\">24%</span><span style=\"color: oklab(0.853484 0.00982091 -0.0419067)\">/</span><span style=\"color: #FFC870\">28%</span><span style=\"color: oklab(0.853484 0.00982091 -0.0419067)\">/</span><span style=\"color: #FFC870\">32%</span><span style=\"color: oklab(0.853484 0.00982091 -0.0419067)\">/</span><span style=\"color: rgb(255, 200, 112)\">36% </span>of the target's DEF, lasting for 2 turn(s).</p>"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"529\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"CRIT Rate",
@@ -7630,6 +7615,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -7644,36 +7644,6 @@
 			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"476\",\"base_def\":\"396\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Erudition"
-				],
-				"value_types": [
-					{
-						"id": "1656",
-						"value": "The Erudition",
-						"mi18n_key": "filter_1656",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
-						"enum_string": "erudition"
-					}
-				],
-				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"SPD",
@@ -7711,6 +7681,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Erudition"
+				],
+				"value_types": [
+					{
+						"id": "1656",
+						"value": "The Erudition",
+						"mi18n_key": "filter_1656",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"enum_string": "erudition"
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -7720,9 +7720,9 @@
 		"name": "Eternal Calculus",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/28/5308864/143da291b0ef976647f70ee188db5f17_7349982603425932001.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"24\",\"base_def\":\"18\",\"dynamic\":{}}",
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"529\",\"base_def\":\"396\",\"dynamic\":{}}",
-			"equipment_skill": "Boundless Thought<p>Increases the wearer's ATK by <span style=\"color: #FFC870\">8%</span>/<span style=\"color: #FFC870\">9%</span>/<span style=\"color: #FFC870\">10%</span>/<span style=\"color: #FFC870\">11%</span>/<span style=\"color: #FFC870\">12%</span>. After using an attack, for each enemy target hit, additionally increases ATK by <span style=\"color: #FFC870\">4%</span>/<span style=\"color: #FFC870\">5%</span>/<span style=\"color: #FFC870\">6%</span>/<span style=\"color: #FFC870\">7%</span>/<span style=\"color: #FFC870\">8%</span>. This effect can stack 5 times and last until the next attack. If there are 3 or more enemy targets hit, this unit's SPD increases by <span style=\"color: #FFC870\">8%</span>/<span style=\"color: #FFC870\">10%</span>/<span style=\"color: #FFC870\">12%</span>/<span style=\"color: #FFC870\">14%</span>/<span style=\"color: #FFC870\">16%</span>, lasting for 1 turn(s).</p>"
+			"equipment_skill": "Boundless Thought<p>Increases the wearer's ATK by <span style=\"color: #FFC870\">8%</span>/<span style=\"color: #FFC870\">9%</span>/<span style=\"color: #FFC870\">10%</span>/<span style=\"color: #FFC870\">11%</span>/<span style=\"color: #FFC870\">12%</span>. After using an attack, for each enemy target hit, additionally increases ATK by <span style=\"color: #FFC870\">4%</span>/<span style=\"color: #FFC870\">5%</span>/<span style=\"color: #FFC870\">6%</span>/<span style=\"color: #FFC870\">7%</span>/<span style=\"color: #FFC870\">8%</span>. This effect can stack 5 times and last until the next attack. If there are 3 or more enemy targets hit, this unit's SPD increases by <span style=\"color: #FFC870\">8%</span>/<span style=\"color: #FFC870\">10%</span>/<span style=\"color: #FFC870\">12%</span>/<span style=\"color: #FFC870\">14%</span>/<span style=\"color: #FFC870\">16%</span>, lasting for 1 turn(s).</p>",
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"24\",\"base_def\":\"18\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"equipment_paths": {
@@ -7801,26 +7801,11 @@
 		"name": "Poised to Bloom",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/07/5308864/c9b8c0096542b655c41817d66de877c9_2034944704908814926.png",
 		"display_field": {
+			"equipment_skill": "Lose Not, Forget Not<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">16%</span>/<span style=\"color: #FFC870\">20%</span>/<span style=\"color: #FFC870\">24%</span>/<span style=\"color: #FFC870\">28%</span>/<span style=\"color: #FFC870\">32%</span>. <span style=\"color: rgba(255, 255, 255, 0.85)\">Upon entering the battle, if there are two or more allies in the team who follow the same Path, these characters' CRIT DMG increases by </span><span style=\"color: rgb(255, 200, 112)\">16%</span>/<span style=\"color: #FFC870\">20%</span>/<span style=\"color: #FFC870\">24%</span>/<span style=\"color: #FFC870\">28%</span>/<span style=\"color: #FFC870\">32%</span>. Abilities of the same type cannot stack.</p>",
 			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\",\"dynamic\":{}}",
-			"equipment_skill": "Lose Not, Forget Not<p>Increases the wearer's ATK by <span style=\"color: rgb(255, 200, 112)\">16%</span>/<span style=\"color: #FFC870\">20%</span>/<span style=\"color: #FFC870\">24%</span>/<span style=\"color: #FFC870\">28%</span>/<span style=\"color: #FFC870\">32%</span>. <span style=\"color: rgba(255, 255, 255, 0.85)\">Upon entering the battle, if there are two or more allies in the team who follow the same Path, these characters' CRIT DMG increases by </span><span style=\"color: rgb(255, 200, 112)\">16%</span>/<span style=\"color: #FFC870\">20%</span>/<span style=\"color: #FFC870\">24%</span>/<span style=\"color: #FFC870\">28%</span>/<span style=\"color: #FFC870\">32%</span>. Abilities of the same type cannot stack.</p>"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"equipment_rarity": {
-				"values": [
-					"4-Star"
-				],
-				"value_types": [
-					{
-						"id": "1725",
-						"value": "4-Star",
-						"mi18n_key": "filter_1725",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"equipment_source": {
 				"values": [
 					"Limited Warp"
@@ -7873,6 +7858,21 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -7887,36 +7887,6 @@
 			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"529\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"equipment_paths": {
-				"values": [
-					"The Nihility"
-				],
-				"value_types": [
-					{
-						"id": "1685",
-						"value": "The Nihility",
-						"mi18n_key": "filter_1685",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
-			},
-			"equipment_rarity": {
-				"values": [
-					"5-Star"
-				],
-				"value_types": [
-					{
-						"id": "1738",
-						"value": "5-Star",
-						"mi18n_key": "filter_1738",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG",
@@ -7954,6 +7924,36 @@
 					}
 				],
 				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Nihility"
+				],
+				"value_types": [
+					{
+						"id": "1685",
+						"value": "The Nihility",
+						"mi18n_key": "filter_1685",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -7963,11 +7963,26 @@
 		"name": "Dance at Sunset",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/30/4f112f0dbb53f86def1d68b607875b82_2698456100476958626.png",
 		"display_field": {
-			"equipment_skill": "Deeply Engrossed<p>Greatly increases the wearer's chance of getting attacked and increases CRIT DMG by <span style=\"color: #FFC870\">36%</span>/<span style=\"color: #FFC870\">42%</span>/<span style=\"color: #FFC870\">48%</span>/<span style=\"color: #FFC870\">54%</span>/<span style=\"color: #FFC870\">60%</span>. After the wearer uses Ultimate, receives 1 stack of Firedance, lasting for 2 turns and stacking up to 1 time(s). Each stack of Firedance increases the DMG dealt by the wearer's follow-up attack by <span style=\"color: #FFC870\">36%</span>/<span style=\"color: #FFC870\">42%</span>/<span style=\"color: #FFC870\">48%</span>/<span style=\"color: #FFC870\">54%</span>/<span style=\"color: #FFC870\">60</span>%.</p>",
 			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\",\"dynamic\":{}}",
+			"equipment_skill": "Deeply Engrossed<p>Greatly increases the wearer's chance of getting attacked and increases CRIT DMG by <span style=\"color: rgb(255, 200, 112)\">36%</span>/<span style=\"color: rgb(255, 200, 112)\">42%</span>/<span style=\"color: rgb(255, 200, 112)\">48%</span>/<span style=\"color: rgb(255, 200, 112)\">54%</span>/<span style=\"color: rgb(255, 200, 112)\">60%</span>. After the wearer uses Ultimate, receives 1 stack of Firedance, lasting for 2 turns and stacking up to 2 time(s). Each stack of Firedance increases the DMG dealt by the wearer's follow-up attack by <span style=\"color: rgb(255, 200, 112)\">36%</span>/<span style=\"color: rgb(255, 200, 112)\">42%</span>/<span style=\"color: rgb(255, 200, 112)\">48%</span>/<span style=\"color: rgb(255, 200, 112)\">54%</span>/<span style=\"color: rgb(255, 200, 112)\">60</span>%.</p>"
 		},
 		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"equipment_skill_type": {
 				"values": [
 					"DMG",
@@ -8020,6 +8035,138 @@
 					}
 				],
 				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "3067",
+		"name": "Shadowed by Night ",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/06/5308864/0b594c389a42db88d37875152d883ed5_2187188759008711105.png",
+		"display_field": {
+			"equipment_skill": "Concealment<p>Increases the wearer's Break Effect by <span style=\"color: #FFC870\">28%</span>. When entering battle or after dealing Break DMG, increases SPD by <span style=\"color: #FFC870\">8%</span>, lasting for 2 turn(s). This effect can only trigger once per turn.</p>",
+			"attr_level_1": "{\"dynamic\":{}}",
+			"attr_level_80": "{\"dynamic\":{}}"
+		},
+		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"SPD",
+					"Break Effect"
+				],
+				"value_types": [
+					{
+						"id": "1797",
+						"value": "SPD",
+						"mi18n_key": "filter_1797",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2643",
+						"value": "Break Effect",
+						"mi18n_key": "filter_2643",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1638",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1638",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
+			},
+			"equipment_rarity": {
+				"values": [
+					"4-Star"
+				],
+				"value_types": [
+					{
+						"id": "1725",
+						"value": "4-Star",
+						"mi18n_key": "filter_1725",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "3068",
+		"name": "Scent Alone Stays True ",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/06/5308864/5ff191ff76fa25cae2164920f505131b_6011739188964152659.png",
+		"display_field": {
+			"attr_level_1": "{\"dynamic\":{}}",
+			"attr_level_80": "{\"dynamic\":{}}",
+			"equipment_skill": "Contentment<p>Increases the wearer's Break Effect by <span style=\"color: #FFC870\">60%</span>. After the wearer uses Ultimate to attack enemy targets, inflicts the targets with the \"Woefree\" state, lasting for 2 turn(s). While in \"Woefree,\" enemy targets take <span style=\"color: #FFC870\">10%</span> increased DMG. The effect of increasing DMG taken is additionally boosted by <span style=\"color: #FFC870\">8%</span> if the wearer's current Break Effect is 150% or higher.</p>"
+		},
+		"filter_values": {
+			"equipment_skill_type": {
+				"values": [
+					"Break Effect",
+					"Additional DMG"
+				],
+				"value_types": [
+					{
+						"id": "2643",
+						"value": "Break Effect",
+						"mi18n_key": "filter_2643",
+						"icon": "",
+						"enum_string": ""
+					},
+					{
+						"id": "2716",
+						"value": "Additional DMG",
+						"mi18n_key": "filter_2716",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Abundance"
+				],
+				"value_types": [
+					{
+						"id": "1704",
+						"value": "The Abundance",
+						"mi18n_key": "filter_1704",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"enum_string": "abundance"
+					}
+				],
+				"key": null
 			},
 			"equipment_rarity": {
 				"values": [
@@ -8032,6 +8179,94 @@
 						"mi18n_key": "filter_1738",
 						"icon": "",
 						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "3069",
+		"name": "I Venture Forth to Hunt",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/05/5308864/6c6334ce932d4b6122ab600ce6d05bbe_6402162139893943158.png",
+		"display_field": {
+			"equipment_skill": "Intimidation<p>Increase the wearer's CRIT Rate by <span style=\"color: rgb(255, 200, 112)\">15%</span>/<span style=\"color: #FFC870\">17.5%</span>/<span style=\"color: #FFC870\">20%</span>/<span style=\"color: #FFC870\">22.5%</span>/<span style=\"color: #FFC870\">25%</span>. When the wearer launches a follow-up attack, gains 1 stack of \"Luminflux,\" stack up to 2 time(s). Each stack of \"Luminflux\" enables the Ultimate DMG dealt by the wearer to ignore <span style=\"color: rgb(255, 200, 112)\">27%</span>/<span style=\"color: #FFC870\">30%</span>/<span style=\"color: #FFC870\">33%</span>/<span style=\"color: #FFC870\">36%</span>/<span style=\"color: #FFC870\">39%</span> of the target's DEF. When the wearer's turn ends, remove 1 stack of \"Luminflux.\"</p>",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"28\",\"base_def\":\"21\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"635\",\"base_def\":\"463\",\"dynamic\":{}}"
+		},
+		"filter_values": {
+			"equipment_rarity": {
+				"values": [
+					"5-Star"
+				],
+				"value_types": [
+					{
+						"id": "1738",
+						"value": "5-Star",
+						"mi18n_key": "filter_1738",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"equipment_skill_type": {
+				"values": [
+					"CRIT Rate"
+				],
+				"value_types": [
+					{
+						"id": "1810",
+						"value": "CRIT Rate",
+						"mi18n_key": "filter_1810",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_source": {
+				"values": [
+					"Limited Warp"
+				],
+				"value_types": [
+					{
+						"id": "1857",
+						"value": "Limited Warp",
+						"mi18n_key": "filter_1857",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"equipment_paths": {
+				"values": [
+					"The Hunt"
+				],
+				"value_types": [
+					{
+						"id": "1638",
+						"value": "The Hunt",
+						"mi18n_key": "filter_1638",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
 					}
 				],
 				"key": null

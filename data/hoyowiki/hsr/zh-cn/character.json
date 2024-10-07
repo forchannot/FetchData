@@ -4,8 +4,8 @@
 		"name": "开拓者 - 毁灭",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/a9edba85fe403f0d2b7d69e48540634d_4987547298490400207.gif",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"163\",\"base_atk\":\"84\",\"base_def\":\"62\",\"base_speed\":\"100\"}",
-			"attr_level_80": "{\"base_hp\":\"1203\",\"base_atk\":\"620\",\"base_def\":\"460\",\"base_speed\":\"100\"}"
+			"attr_level_80": "{\"base_hp\":\"1203\",\"base_atk\":\"620\",\"base_def\":\"460\",\"base_speed\":\"100\"}",
+			"attr_level_1": "{\"base_hp\":\"163\",\"base_atk\":\"84\",\"base_def\":\"62\",\"base_speed\":\"100\"}"
 		},
 		"filter_values": {
 			"character_paths": {
@@ -152,21 +152,6 @@
 			"attr_level_80": "{\"base_hp\":\"882\",\"base_atk\":\"546\",\"base_def\":\"396\",\"base_speed\":\"110\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"四星"
-				],
-				"value_types": [
-					{
-						"id": "1468",
-						"value": "四星",
-						"mi18n_key": "filter_1468",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"风"
@@ -211,6 +196,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"四星"
+				],
+				"value_types": [
+					{
+						"id": "1468",
+						"value": "四星",
+						"mi18n_key": "filter_1468",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -220,40 +220,10 @@
 		"name": "姬子",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/6170656b26d7383d0ee34f002284d3ff_7335309365701961860.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"102\",\"base_def\":\"59\",\"base_speed\":\"96\"}",
-			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"756\",\"base_def\":\"436\",\"base_speed\":\"96\"}"
+			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"102\",\"base_def\":\"59\",\"base_speed\":\"96\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"756\",\"base_def\":\"436\",\"base_speed\":\"96\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"五星"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "五星",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"火"
-				],
-				"value_types": [
-					{
-						"id": "1322",
-						"value": "火",
-						"mi18n_key": "filter_1322",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
-						"enum_string": "fire"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"智识"
@@ -283,6 +253,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"五星"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "五星",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"火"
+				],
+				"value_types": [
+					{
+						"id": "1322",
+						"value": "火",
+						"mi18n_key": "filter_1322",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
+						"enum_string": "fire"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -292,10 +292,25 @@
 		"name": "瓦尔特",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/131c3de4c924022727ce61ac726d051a_4490115586020920921.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1125\",\"base_atk\":\"620\",\"base_def\":\"509\",\"base_speed\":\"102\"}",
-			"attr_level_1": "{\"base_hp\":\"153\",\"base_atk\":\"84\",\"base_def\":\"69\",\"base_speed\":\"102\"}"
+			"attr_level_1": "{\"base_hp\":\"153\",\"base_atk\":\"84\",\"base_def\":\"69\",\"base_speed\":\"102\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1125\",\"base_atk\":\"620\",\"base_def\":\"509\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_rarity": {
+				"values": [
+					"五星"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "五星",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"character_combat_type": {
 				"values": [
 					"虚数"
@@ -340,21 +355,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_rarity": {
-				"values": [
-					"五星"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "五星",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -368,21 +368,6 @@
 			"attr_level_80": "{\"base_hp\":\"1199\",\"base_atk\":\"599\",\"base_def\":\"330\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"四星"
-				],
-				"value_types": [
-					{
-						"id": "1468",
-						"value": "四星",
-						"mi18n_key": "filter_1468",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"雷"
@@ -424,6 +409,21 @@
 						"mi18n_key": "filter_1513",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"四星"
+				],
+				"value_types": [
+					{
+						"id": "1468",
+						"value": "四星",
+						"mi18n_key": "filter_1468",
+						"icon": "",
+						"enum_string": "4"
 					}
 				],
 				"key": null
@@ -508,8 +508,8 @@
 		"name": "黑塔",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/a755d7167aa226264cb5aa26f70f9736_6990891585355987615.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"129\",\"base_atk\":\"79\",\"base_def\":\"54\",\"base_speed\":\"100\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"396\",\"base_speed\":\"100\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"396\",\"base_speed\":\"100\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"129\",\"base_atk\":\"79\",\"base_def\":\"54\",\"base_speed\":\"100\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_paths": {
@@ -580,10 +580,25 @@
 		"name": "布洛妮娅",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/7c97499ec8dac5bd41a0ab91b8bba9a2_9011443874790929649.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"79\",\"base_def\":\"72\",\"base_speed\":\"99\"}",
-			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"582\",\"base_def\":\"533\",\"base_speed\":\"99\"}"
+			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"582\",\"base_def\":\"533\",\"base_speed\":\"99\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"79\",\"base_def\":\"72\",\"base_speed\":\"99\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"风"
+				],
+				"value_types": [
+					{
+						"id": "1314",
+						"value": "风",
+						"mi18n_key": "filter_1314",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/8d2992ae95dfe1469af254b923b1129c_5790926101190505253.png",
+						"enum_string": "wind"
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"同谐"
@@ -628,21 +643,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"风"
-				],
-				"value_types": [
-					{
-						"id": "1314",
-						"value": "风",
-						"mi18n_key": "filter_1314",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/8d2992ae95dfe1469af254b923b1129c_5790926101190505253.png",
-						"enum_string": "wind"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -652,40 +652,10 @@
 		"name": "希儿",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/51d48aafbbf69b8e92256a381445ad07_4740490797942876174.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"126\",\"base_atk\":\"87\",\"base_def\":\"49\",\"base_speed\":\"115\"}",
-			"attr_level_80": "{\"base_hp\":\"931\",\"base_atk\":\"640\",\"base_def\":\"363\",\"base_speed\":\"115\"}"
+			"attr_level_1": "{\"base_hp\":\"126\",\"base_atk\":\"87\",\"base_def\":\"49\",\"base_speed\":\"115\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"931\",\"base_atk\":\"640\",\"base_def\":\"363\",\"base_speed\":\"115\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"五星"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "五星",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"量子"
-				],
-				"value_types": [
-					{
-						"id": "1285",
-						"value": "量子",
-						"mi18n_key": "filter_1285",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/2d33de43649b480e1d6a9fdb6599b2cb_7381386544905042228.png",
-						"enum_string": "quantum"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"巡猎"
@@ -712,6 +682,36 @@
 						"mi18n_key": "filter_1524",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"五星"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "五星",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"量子"
+				],
+				"value_types": [
+					{
+						"id": "1285",
+						"value": "量子",
+						"mi18n_key": "filter_1285",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/2d33de43649b480e1d6a9fdb6599b2cb_7381386544905042228.png",
+						"enum_string": "quantum"
 					}
 				],
 				"key": null
@@ -796,40 +796,10 @@
 		"name": "杰帕德",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/21ae001edc80f597d35df15f35537d00_4983283866355038276.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"190\",\"base_atk\":\"73\",\"base_def\":\"89\",\"base_speed\":\"92\"}",
-			"attr_level_80": "{\"base_hp\":\"1397\",\"base_atk\":\"543\",\"base_def\":\"654\",\"base_speed\":\"92\"}"
+			"attr_level_1": "{\"base_hp\":\"190\",\"base_atk\":\"73\",\"base_def\":\"89\",\"base_speed\":\"92\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1397\",\"base_atk\":\"543\",\"base_def\":\"654\",\"base_speed\":\"92\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"存护"
-				],
-				"value_types": [
-					{
-						"id": "1445",
-						"value": "存护",
-						"mi18n_key": "filter_1445",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
-						"enum_string": "preservation"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"雅利洛-Ⅵ"
-				],
-				"value_types": [
-					{
-						"id": "1524",
-						"value": "雅利洛-Ⅵ",
-						"mi18n_key": "filter_1524",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"五星"
@@ -859,6 +829,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"存护"
+				],
+				"value_types": [
+					{
+						"id": "1445",
+						"value": "存护",
+						"mi18n_key": "filter_1445",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
+						"enum_string": "preservation"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"雅利洛-Ⅵ"
+				],
+				"value_types": [
+					{
+						"id": "1524",
+						"value": "雅利洛-Ⅵ",
+						"mi18n_key": "filter_1524",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -868,10 +868,25 @@
 		"name": "娜塔莎",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/59abc9abc0795ead8a3d3ac2c03530f1_1713347165320581354.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"476\",\"base_def\":\"507\",\"base_speed\":\"98\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"158\",\"base_atk\":\"64\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"158\",\"base_atk\":\"64\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"476\",\"base_def\":\"507\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"雅利洛-Ⅵ"
+				],
+				"value_types": [
+					{
+						"id": "1524",
+						"value": "雅利洛-Ⅵ",
+						"mi18n_key": "filter_1524",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_rarity": {
 				"values": [
 					"四星"
@@ -913,21 +928,6 @@
 						"mi18n_key": "filter_1454",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
 						"enum_string": "abundance"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"雅利洛-Ⅵ"
-				],
-				"value_types": [
-					{
-						"id": "1524",
-						"value": "雅利洛-Ⅵ",
-						"mi18n_key": "filter_1524",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -1012,8 +1012,8 @@
 		"name": "克拉拉",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/36ac7d1e87145434d0617a511066a3db_1713347165320581354.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"737\",\"base_def\":\"485\",\"base_speed\":\"90\"}",
-			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"100\",\"base_def\":\"66\",\"base_speed\":\"90\"}"
+			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"100\",\"base_def\":\"66\",\"base_speed\":\"90\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"737\",\"base_def\":\"485\",\"base_speed\":\"90\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_paths": {
@@ -1088,6 +1088,21 @@
 			"attr_level_1": "{\"base_hp\":\"139\",\"base_atk\":\"84\",\"base_def\":\"54\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"雅利洛-Ⅵ"
+				],
+				"value_types": [
+					{
+						"id": "1524",
+						"value": "雅利洛-Ⅵ",
+						"mi18n_key": "filter_1524",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"虚无"
@@ -1132,21 +1147,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"雅利洛-Ⅵ"
-				],
-				"value_types": [
-					{
-						"id": "1524",
-						"value": "雅利洛-Ⅵ",
-						"mi18n_key": "filter_1524",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1160,21 +1160,6 @@
 			"attr_level_80": "{\"base_hp\":\"1340\",\"base_atk\":\"617\",\"base_def\":\"352\",\"base_speed\":\"94\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"火"
-				],
-				"value_types": [
-					{
-						"id": "1322",
-						"value": "火",
-						"mi18n_key": "filter_1322",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
-						"enum_string": "fire"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"毁灭"
@@ -1219,6 +1204,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"火"
+				],
+				"value_types": [
+					{
+						"id": "1322",
+						"value": "火",
+						"mi18n_key": "filter_1322",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
+						"enum_string": "fire"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1232,36 +1232,6 @@
 			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"601\",\"base_def\":\"606\",\"base_speed\":\"95\"}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"存护"
-				],
-				"value_types": [
-					{
-						"id": "1445",
-						"value": "存护",
-						"mi18n_key": "filter_1445",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
-						"enum_string": "preservation"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"星穹列车"
-				],
-				"value_types": [
-					{
-						"id": "1496",
-						"value": "星穹列车",
-						"mi18n_key": "filter_1496",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"五星"
@@ -1288,6 +1258,36 @@
 						"mi18n_key": "filter_1322",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
 						"enum_string": "fire"
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"存护"
+				],
+				"value_types": [
+					{
+						"id": "1445",
+						"value": "存护",
+						"mi18n_key": "filter_1445",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b60f0820cb22a4d9817befd2f53bb30a_4519413180795083617.png",
+						"enum_string": "preservation"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"星穹列车"
+				],
+				"value_types": [
+					{
+						"id": "1496",
+						"value": "星穹列车",
+						"mi18n_key": "filter_1496",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -1372,25 +1372,10 @@
 		"name": "停云",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/96067b8aa9c14528544fbc50c8ce7ec5_4740490797942876174.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"115\",\"base_atk\":\"72\",\"base_def\":\"54\",\"base_speed\":\"112\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"529\",\"base_def\":\"396\",\"base_speed\":\"112\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"846\",\"base_atk\":\"529\",\"base_def\":\"396\",\"base_speed\":\"112\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"115\",\"base_atk\":\"72\",\"base_def\":\"54\",\"base_speed\":\"112\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"同谐"
-				],
-				"value_types": [
-					{
-						"id": "1421",
-						"value": "同谐",
-						"mi18n_key": "filter_1421",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
-						"enum_string": "harmony"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"仙舟「罗浮」"
@@ -1435,6 +1420,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"同谐"
+				],
+				"value_types": [
+					{
+						"id": "1421",
+						"value": "同谐",
+						"mi18n_key": "filter_1421",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
+						"enum_string": "harmony"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1444,10 +1444,25 @@
 		"name": "景元",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/df37aacd31ab40efdcb16ef03a5b68ed_4983283866355038276.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"698\",\"base_def\":\"485\",\"base_speed\":\"99\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"158\",\"base_atk\":\"95\",\"base_def\":\"66\",\"base_speed\":\"99\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"158\",\"base_atk\":\"95\",\"base_def\":\"66\",\"base_speed\":\"99\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"698\",\"base_def\":\"485\",\"base_speed\":\"99\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_paths": {
+				"values": [
+					"智识"
+				],
+				"value_types": [
+					{
+						"id": "1405",
+						"value": "智识",
+						"mi18n_key": "filter_1405",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"enum_string": "erudition"
+					}
+				],
+				"key": null
+			},
 			"character_rarity": {
 				"values": [
 					"五星"
@@ -1492,21 +1507,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"智识"
-				],
-				"value_types": [
-					{
-						"id": "1405",
-						"value": "智识",
-						"mi18n_key": "filter_1405",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
-						"enum_string": "erudition"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1516,8 +1516,8 @@
 		"name": "素裳",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/34ed53d517bff61c71243b3ef9985a2a_9011443874790929649.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"564\",\"base_def\":\"418\",\"base_speed\":\"107\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"76\",\"base_def\":\"57\",\"base_speed\":\"107\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"76\",\"base_def\":\"57\",\"base_speed\":\"107\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"564\",\"base_def\":\"418\",\"base_speed\":\"107\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_combat_type": {
@@ -1588,25 +1588,10 @@
 		"name": "彦卿",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/2fbbdcb50ff8388ec2c6723c6385fb84_4490115586020920921.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"892\",\"base_atk\":\"679\",\"base_def\":\"412\",\"base_speed\":\"109\"}",
-			"attr_level_1": "{\"base_hp\":\"121\",\"base_atk\":\"92\",\"base_def\":\"56\",\"base_speed\":\"109\"}"
+			"attr_level_80": "{\"base_hp\":\"892\",\"base_atk\":\"679\",\"base_def\":\"412\",\"base_speed\":\"109\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"121\",\"base_atk\":\"92\",\"base_def\":\"56\",\"base_speed\":\"109\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"巡猎"
-				],
-				"value_types": [
-					{
-						"id": "1394",
-						"value": "巡猎",
-						"mi18n_key": "filter_1394",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
-						"enum_string": "hunt"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"仙舟「罗浮」"
@@ -1651,6 +1636,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"巡猎"
+				],
+				"value_types": [
+					{
+						"id": "1394",
+						"value": "巡猎",
+						"mi18n_key": "filter_1394",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c7aa25b129ea061e89c1c5f8b65c6686_7961003512756860180.png",
+						"enum_string": "hunt"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1660,25 +1660,10 @@
 		"name": "白露",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9c766b0feb6256141c1ec7afcd3dff35_6990891585355987615.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"179\",\"base_atk\":\"76\",\"base_def\":\"66\",\"base_speed\":\"98\"}",
-			"attr_level_80": "{\"base_hp\":\"1319\",\"base_atk\":\"562\",\"base_def\":\"485\",\"base_speed\":\"98\"}"
+			"attr_level_80": "{\"base_hp\":\"1319\",\"base_atk\":\"562\",\"base_def\":\"485\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"179\",\"base_atk\":\"76\",\"base_def\":\"66\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"丰饶"
-				],
-				"value_types": [
-					{
-						"id": "1454",
-						"value": "丰饶",
-						"mi18n_key": "filter_1454",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
-						"enum_string": "abundance"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"仙舟「罗浮」"
@@ -1723,6 +1708,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"丰饶"
+				],
+				"value_types": [
+					{
+						"id": "1454",
+						"value": "丰饶",
+						"mi18n_key": "filter_1454",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"enum_string": "abundance"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -1732,8 +1732,8 @@
 		"name": "银狼",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/06/07/7998136/b59604087f67ed3d1828c08a104be302_7489703962207497890.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"87\",\"base_def\":\"62\",\"base_speed\":\"107\"}",
-			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"640\",\"base_def\":\"460\",\"base_speed\":\"107\"}"
+			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"640\",\"base_def\":\"460\",\"base_speed\":\"107\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"87\",\"base_def\":\"62\",\"base_speed\":\"107\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_paths": {
@@ -1804,8 +1804,8 @@
 		"name": "罗刹",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/28/84496276/de2c1931c57092369663e30a201ce7f6_7123949262150391402.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"174\",\"base_atk\":\"102\",\"base_def\":\"49\",\"base_speed\":\"101\"}",
-			"attr_level_80": "{\"base_hp\":\"1280\",\"base_atk\":\"756\",\"base_def\":\"363\",\"base_speed\":\"101\"}"
+			"attr_level_80": "{\"base_hp\":\"1280\",\"base_atk\":\"756\",\"base_def\":\"363\",\"base_speed\":\"101\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"174\",\"base_atk\":\"102\",\"base_def\":\"49\",\"base_speed\":\"101\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_rarity": {
@@ -1876,10 +1876,25 @@
 		"name": "驭空",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/13/84496276/767cb7131b41bb1058c2ee329b77593e_1216609127861628136.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"81\",\"base_def\":\"51\",\"base_speed\":\"107\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"599\",\"base_def\":\"374\",\"base_speed\":\"107\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"599\",\"base_def\":\"374\",\"base_speed\":\"107\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"81\",\"base_def\":\"51\",\"base_speed\":\"107\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"仙舟「罗浮」"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "仙舟「罗浮」",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_combat_type": {
 				"values": [
 					"虚数"
@@ -1924,21 +1939,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"仙舟「罗浮」"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "仙舟「罗浮」",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -1948,8 +1948,8 @@
 		"name": "刃",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/23/84496276/64c098cc21d7f053a020f4e051407e41_4364357903791387806.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"73\",\"base_def\":\"66\",\"base_speed\":\"97\"}",
-			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"543\",\"base_def\":\"485\",\"base_speed\":\"97\"}"
+			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"73\",\"base_def\":\"66\",\"base_speed\":\"97\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"543\",\"base_def\":\"485\",\"base_speed\":\"97\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_paths": {
@@ -2024,6 +2024,21 @@
 			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"679\",\"base_def\":\"485\",\"base_speed\":\"100\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_paths": {
+				"values": [
+					"虚无"
+				],
+				"value_types": [
+					{
+						"id": "1429",
+						"value": "虚无",
+						"mi18n_key": "filter_1429",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
+			},
 			"character_rarity": {
 				"values": [
 					"五星"
@@ -2065,21 +2080,6 @@
 						"mi18n_key": "filter_1357",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
 						"enum_string": "lightning"
-					}
-				],
-				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"虚无"
-				],
-				"value_types": [
-					{
-						"id": "1429",
-						"value": "虚无",
-						"mi18n_key": "filter_1429",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
 					}
 				],
 				"key": null
@@ -2164,40 +2164,10 @@
 		"name": "符玄",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/07/84496276/973836d5f252e7c09d7e7759c785b777_1222315012785569851.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1474\",\"base_atk\":\"465\",\"base_def\":\"606\",\"base_speed\":\"100\"}",
-			"attr_level_1": "{\"base_hp\":\"200\",\"base_atk\":\"63\",\"base_def\":\"82\",\"base_speed\":\"100\"}"
+			"attr_level_1": "{\"base_hp\":\"200\",\"base_atk\":\"63\",\"base_def\":\"82\",\"base_speed\":\"100\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1474\",\"base_atk\":\"465\",\"base_def\":\"606\",\"base_speed\":\"100\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"五星"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "五星",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"仙舟「罗浮」"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "仙舟「罗浮」",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"量子"
@@ -2227,6 +2197,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"五星"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "五星",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"仙舟「罗浮」"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "仙舟「罗浮」",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2236,25 +2236,10 @@
 		"name": "丹恒•饮月",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/07/84496276/8f0c086968f504bde0b12d6b94b4622c_6180903279327474961.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"95\",\"base_def\":\"49\",\"base_speed\":\"102\"}",
-			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"698\",\"base_def\":\"363\",\"base_speed\":\"102\"}"
+			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"95\",\"base_def\":\"49\",\"base_speed\":\"102\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"698\",\"base_def\":\"363\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"虚数"
-				],
-				"value_types": [
-					{
-						"id": "1341",
-						"value": "虚数",
-						"mi18n_key": "filter_1341",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
-						"enum_string": "imaginary"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"毁灭"
@@ -2296,6 +2281,21 @@
 						"mi18n_key": "filter_1538",
 						"icon": "",
 						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"虚数"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "虚数",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
 					}
 				],
 				"key": null
@@ -2380,25 +2380,10 @@
 		"name": "镜流",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/27/84496276/2455cabb24d079ba955efe42d0321787_424208313823064668.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"195\",\"base_atk\":\"92\",\"base_def\":\"66\",\"base_speed\":\"96\"}",
-			"attr_level_80": "{\"base_hp\":\"1435\",\"base_atk\":\"679\",\"base_def\":\"485\",\"base_speed\":\"96\"}"
+			"attr_level_1": "{\"base_hp\":\"195\",\"base_atk\":\"92\",\"base_def\":\"66\",\"base_speed\":\"96\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1435\",\"base_atk\":\"679\",\"base_def\":\"485\",\"base_speed\":\"96\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"仙舟「罗浮」"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "仙舟「罗浮」",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"冰"
@@ -2410,6 +2395,21 @@
 						"mi18n_key": "filter_1371",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e7fda5adc3b8ee20cef753b61ff0ed08_8813940564670780996.png",
 						"enum_string": "ice"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"仙舟「罗浮」"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "仙舟「罗浮」",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -2452,10 +2452,25 @@
 		"name": "托帕&账账",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/27/84496276/1ce49a269c54787b7fd60eeb8dc21b3e_857344954345485675.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"126\",\"base_atk\":\"84\",\"base_def\":\"56\",\"base_speed\":\"110\"}",
-			"attr_level_80": "{\"base_hp\":\"931\",\"base_atk\":\"620\",\"base_def\":\"412\",\"base_speed\":\"110\"}"
+			"attr_level_80": "{\"base_hp\":\"931\",\"base_atk\":\"620\",\"base_def\":\"412\",\"base_speed\":\"110\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"126\",\"base_atk\":\"84\",\"base_def\":\"56\",\"base_speed\":\"110\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"火"
+				],
+				"value_types": [
+					{
+						"id": "1322",
+						"value": "火",
+						"mi18n_key": "filter_1322",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
+						"enum_string": "fire"
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"巡猎"
@@ -2500,21 +2515,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"火"
-				],
-				"value_types": [
-					{
-						"id": "1322",
-						"value": "火",
-						"mi18n_key": "filter_1322",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
-						"enum_string": "fire"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2528,21 +2528,6 @@
 			"attr_level_80": "{\"base_hp\":\"925\",\"base_atk\":\"603\",\"base_def\":\"456\",\"base_speed\":\"106\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"仙舟「罗浮」"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "仙舟「罗浮」",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_combat_type": {
 				"values": [
 					"火"
@@ -2587,6 +2572,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"仙舟「罗浮」"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "仙舟「罗浮」",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2596,25 +2596,10 @@
 		"name": "藿藿",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/03/313359586/03d42b83135aed98ab433ba450dce0e6_5098263691934045133.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"601\",\"base_def\":\"509\",\"base_speed\":\"98\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"81\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"81\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"601\",\"base_def\":\"509\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"丰饶"
-				],
-				"value_types": [
-					{
-						"id": "1454",
-						"value": "丰饶",
-						"mi18n_key": "filter_1454",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
-						"enum_string": "abundance"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"五星"
@@ -2659,6 +2644,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"丰饶"
+				],
+				"value_types": [
+					{
+						"id": "1454",
+						"value": "丰饶",
+						"mi18n_key": "filter_1454",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"enum_string": "abundance"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2672,6 +2672,21 @@
 			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"737\",\"base_def\":\"363\",\"base_speed\":\"103\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"物理"
+				],
+				"value_types": [
+					{
+						"id": "1297",
+						"value": "物理",
+						"mi18n_key": "filter_1297",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/43a362875c2955a66ef6cd9236dbf57d_7293610557288342137.png",
+						"enum_string": "physical"
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"智识"
@@ -2701,21 +2716,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"物理"
-				],
-				"value_types": [
-					{
-						"id": "1297",
-						"value": "物理",
-						"mi18n_key": "filter_1297",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/43a362875c2955a66ef6cd9236dbf57d_7293610557288342137.png",
-						"enum_string": "physical"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2725,25 +2725,10 @@
 		"name": "寒鸦",
 		"icon_url": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/29/84496276/5b8509618612814947c11333901d0094_7332110864482589801.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"76\",\"base_def\":\"48\",\"base_speed\":\"110\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"564\",\"base_def\":\"352\",\"base_speed\":\"110\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"917\",\"base_atk\":\"564\",\"base_def\":\"352\",\"base_speed\":\"110\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"124\",\"base_atk\":\"76\",\"base_def\":\"48\",\"base_speed\":\"110\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_paths": {
-				"values": [
-					"同谐"
-				],
-				"value_types": [
-					{
-						"id": "1421",
-						"value": "同谐",
-						"mi18n_key": "filter_1421",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
-						"enum_string": "harmony"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"四星"
@@ -2788,6 +2773,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"同谐"
+				],
+				"value_types": [
+					{
+						"id": "1421",
+						"value": "同谐",
+						"mi18n_key": "filter_1421",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
+						"enum_string": "harmony"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2797,10 +2797,25 @@
 		"name": "阮•梅",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/24/11038150/d8ac43b6abd3b9210deebd8a50eae5d1_4761174834578468282.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"89\",\"base_def\":\"66\",\"base_speed\":\"104\"}",
-			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"659\",\"base_def\":\"485\",\"base_speed\":\"104\"}"
+			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"89\",\"base_def\":\"66\",\"base_speed\":\"104\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"659\",\"base_def\":\"485\",\"base_speed\":\"104\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"太空站「黑塔」"
+				],
+				"value_types": [
+					{
+						"id": "1513",
+						"value": "太空站「黑塔」",
+						"mi18n_key": "filter_1513",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_combat_type": {
 				"values": [
 					"冰"
@@ -2845,21 +2860,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"太空站「黑塔」"
-				],
-				"value_types": [
-					{
-						"id": "1513",
-						"value": "太空站「黑塔」",
-						"mi18n_key": "filter_1513",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -2869,25 +2869,10 @@
 		"name": "真理医生",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/16/11038150/3fb391fb0d308ea8e89ea3ca32e8dc3b_5197007872396944154.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"105\",\"base_def\":\"62\",\"base_speed\":\"103\"}",
-			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"776\",\"base_def\":\"460\",\"base_speed\":\"103\"}"
+			"attr_level_80": "{\"base_hp\":\"1047\",\"base_atk\":\"776\",\"base_def\":\"460\",\"base_speed\":\"103\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"105\",\"base_def\":\"62\",\"base_speed\":\"103\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"虚数"
-				],
-				"value_types": [
-					{
-						"id": "1341",
-						"value": "虚数",
-						"mi18n_key": "filter_1341",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
-						"enum_string": "imaginary"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"巡猎"
@@ -2917,6 +2902,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"虚数"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "虚数",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2930,21 +2930,6 @@
 			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"599\",\"base_def\":\"396\",\"base_speed\":\"103\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"四星"
-				],
-				"value_types": [
-					{
-						"id": "1468",
-						"value": "四星",
-						"mi18n_key": "filter_1468",
-						"icon": "",
-						"enum_string": "4"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"仙舟「罗浮」"
@@ -2989,6 +2974,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"四星"
+				],
+				"value_types": [
+					{
+						"id": "1468",
+						"value": "四星",
+						"mi18n_key": "filter_1468",
+						"icon": "",
+						"enum_string": "4"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -2998,10 +2998,25 @@
 		"name": "黑天鹅",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/05/11038150/2262abfd4d364802d02de83985ce2ccc_2459345234462464307.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"89\",\"base_def\":\"66\",\"base_speed\":\"102\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"659\",\"base_def\":\"485\",\"base_speed\":\"102\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"659\",\"base_def\":\"485\",\"base_speed\":\"102\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"89\",\"base_def\":\"66\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_rarity": {
+				"values": [
+					"五星"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "五星",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
 			"character_combat_type": {
 				"values": [
 					"风"
@@ -3046,21 +3061,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_rarity": {
-				"values": [
-					"五星"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "五星",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3070,9 +3070,24 @@
 		"name": "花火",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/02/27/e036508b1ca8c5732a77e34b682e05b9_1612166978437617005.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"190\",\"base_atk\":\"71\",\"base_def\":\"66\",\"base_speed\":\"101\"}"
+			"attr_level_1": "{\"base_hp\":\"190\",\"base_atk\":\"71\",\"base_def\":\"66\",\"base_speed\":\"101\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"假面愚者"
+				],
+				"value_types": [
+					{
+						"id": "3449",
+						"value": "假面愚者",
+						"mi18n_key": "filter_custom_6",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"同谐"
@@ -3117,21 +3132,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"假面愚者"
-				],
-				"value_types": [
-					{
-						"id": "3449",
-						"value": "假面愚者",
-						"mi18n_key": "filter_custom_6",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3141,10 +3141,25 @@
 		"name": "米沙",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/05/11038150/cb544dfa0bbac9570be20fe13f044026_4709978452391422836.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"172\",\"base_atk\":\"81\",\"base_def\":\"54\",\"base_speed\":\"96\"}",
-			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"599\",\"base_def\":\"396\",\"base_speed\":\"96\"}"
+			"attr_level_1": "{\"base_hp\":\"172\",\"base_atk\":\"81\",\"base_def\":\"54\",\"base_speed\":\"96\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1270\",\"base_atk\":\"599\",\"base_def\":\"396\",\"base_speed\":\"96\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_paths": {
+				"values": [
+					"毁灭"
+				],
+				"value_types": [
+					{
+						"id": "1384",
+						"value": "毁灭",
+						"mi18n_key": "filter_1384",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"enum_string": "destruction"
+					}
+				],
+				"key": null
+			},
 			"character_factions": {
 				"values": [
 					"匹诺康尼"
@@ -3189,21 +3204,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"毁灭"
-				],
-				"value_types": [
-					{
-						"id": "1384",
-						"value": "毁灭",
-						"mi18n_key": "filter_1384",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
-						"enum_string": "destruction"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3213,8 +3213,8 @@
 		"name": "黄泉",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/23/11038150/9cb4a2305547a5dabf6c30ee58f8245a_957159746107830468.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1125\",\"base_atk\":\"698\",\"base_def\":\"436\",\"base_speed\":\"101\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"153\",\"base_atk\":\"95\",\"base_def\":\"59\",\"base_speed\":\"101\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"153\",\"base_atk\":\"95\",\"base_def\":\"59\",\"base_speed\":\"101\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1125\",\"base_atk\":\"698\",\"base_def\":\"436\",\"base_speed\":\"101\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_combat_type": {
@@ -3285,25 +3285,10 @@
 		"name": "砂金",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/04/03/3912553045c7ee6d816b6f1224d25ce7_5596945107422903292.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1203\",\"base_atk\":\"446\",\"base_def\":\"654\",\"base_speed\":\"106\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"163\",\"base_atk\":\"60\",\"base_def\":\"89\",\"base_speed\":\"106\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"163\",\"base_atk\":\"60\",\"base_def\":\"89\",\"base_speed\":\"106\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1203\",\"base_atk\":\"446\",\"base_def\":\"654\",\"base_speed\":\"106\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_rarity": {
-				"values": [
-					"五星"
-				],
-				"value_types": [
-					{
-						"id": "1488",
-						"value": "五星",
-						"mi18n_key": "filter_1488",
-						"icon": "",
-						"enum_string": "5"
-					}
-				],
-				"key": null
-			},
 			"character_factions": {
 				"values": [
 					"星际和平公司"
@@ -3348,6 +3333,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_rarity": {
+				"values": [
+					"五星"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "五星",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3357,10 +3357,25 @@
 		"name": "加拉赫",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/20/c21f99431377dfc00a2e5ff5e1933d3f_7709442928600875177.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"177\",\"base_atk\":\"72\",\"base_def\":\"60\",\"base_speed\":\"98\"}",
-			"attr_level_80": "{\"base_hp\":\"1305\",\"base_atk\":\"529\",\"base_def\":\"441\",\"base_speed\":\"98\"}"
+			"attr_level_1": "{\"base_hp\":\"177\",\"base_atk\":\"72\",\"base_def\":\"60\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1305\",\"base_atk\":\"529\",\"base_def\":\"441\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_factions": {
+				"values": [
+					"匹诺康尼"
+				],
+				"value_types": [
+					{
+						"id": "3451",
+						"value": "匹诺康尼",
+						"mi18n_key": "filter_custom_2",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"丰饶"
@@ -3402,21 +3417,6 @@
 						"mi18n_key": "filter_1322",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
 						"enum_string": "fire"
-					}
-				],
-				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"匹诺康尼"
-				],
-				"value_types": [
-					{
-						"id": "3451",
-						"value": "匹诺康尼",
-						"mi18n_key": "filter_custom_2",
-						"icon": "",
-						"enum_string": ""
 					}
 				],
 				"key": null
@@ -3486,8 +3486,8 @@
 		"name": "波提欧",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/16/2e87ab79a2514476e7a737a633c999a9_2708128530537338369.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1203\",\"base_atk\":\"620\",\"base_def\":\"436\",\"base_speed\":\"107\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"163\",\"base_atk\":\"84\",\"base_def\":\"59\",\"base_speed\":\"107\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"163\",\"base_atk\":\"84\",\"base_def\":\"59\",\"base_speed\":\"107\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1203\",\"base_atk\":\"620\",\"base_def\":\"436\",\"base_speed\":\"107\",\"dynamic\":{}}"
 		},
 		"filter_values": {
 			"character_combat_type": {
@@ -3543,25 +3543,10 @@
 		"name": "流萤",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/13/313359586/7b9020cf084a8592afa259673e9bdcf3_3925468424858529501.png",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"111\",\"base_atk\":\"71\",\"base_def\":\"105\",\"base_speed\":\"104\",\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"814\",\"base_atk\":\"523\",\"base_def\":\"776\",\"base_speed\":\"104\",\"dynamic\":{}}"
+			"attr_level_80": "{\"base_hp\":\"814\",\"base_atk\":\"523\",\"base_def\":\"776\",\"base_speed\":\"104\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"111\",\"base_atk\":\"71\",\"base_def\":\"105\",\"base_speed\":\"104\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"星核猎手"
-				],
-				"value_types": [
-					{
-						"id": "1544",
-						"value": "星核猎手",
-						"mi18n_key": "filter_1544",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"毁灭"
@@ -3603,6 +3588,21 @@
 						"mi18n_key": "filter_1322",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
 						"enum_string": "fire"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"星核猎手"
+				],
+				"value_types": [
+					{
+						"id": "1544",
+						"value": "星核猎手",
+						"mi18n_key": "filter_1544",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -3687,10 +3687,25 @@
 		"name": "开拓者 - 同谐",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/9f98e014cdff0dc0e3993121fc0926db_5009274647413414611.gif",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"446\",\"base_def\":\"679\",\"base_speed\":\"105\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"60\",\"base_def\":\"92\",\"base_speed\":\"105\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"60\",\"base_def\":\"92\",\"base_speed\":\"105\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"446\",\"base_def\":\"679\",\"base_speed\":\"105\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"虚数"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "虚数",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
+					}
+				],
+				"key": null
+			},
 			"character_factions": {
 				"values": [
 					"星穹列车"
@@ -3735,21 +3750,6 @@
 					}
 				],
 				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"虚数"
-				],
-				"value_types": [
-					{
-						"id": "1341",
-						"value": "虚数",
-						"mi18n_key": "filter_1341",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
-						"enum_string": "imaginary"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
@@ -3759,25 +3759,10 @@
 		"name": "云璃",
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/23/974192119b3f17e13fac2014f98a0d40_6234648188106281351.png",
 		"display_field": {
-			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"679\",\"base_def\":\"460\",\"base_speed\":\"94\",\"dynamic\":{}}",
-			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"92\",\"base_def\":\"62\",\"base_speed\":\"94\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"92\",\"base_def\":\"62\",\"base_speed\":\"94\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"679\",\"base_def\":\"460\",\"base_speed\":\"94\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_combat_type": {
-				"values": [
-					"物理"
-				],
-				"value_types": [
-					{
-						"id": "1297",
-						"value": "物理",
-						"mi18n_key": "filter_1297",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/43a362875c2955a66ef6cd9236dbf57d_7293610557288342137.png",
-						"enum_string": "physical"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"毁灭"
@@ -3822,6 +3807,21 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"物理"
+				],
+				"value_types": [
+					{
+						"id": "1297",
+						"value": "物理",
+						"mi18n_key": "filter_1297",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/43a362875c2955a66ef6cd9236dbf57d_7293610557288342137.png",
+						"enum_string": "physical"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3831,40 +3831,10 @@
 		"name": "椒丘",
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/13/11038150/d3aadc0440493c83499888df97057eec_7015325816285365030.png",
 		"display_field": {
-			"attr_level_1": "{\"dynamic\":{}}",
-			"attr_level_80": "{\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"81\",\"base_def\":\"69\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"601\",\"base_def\":\"509\",\"base_speed\":\"98\",\"dynamic\":{}}"
 		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"仙舟「曜青」"
-				],
-				"value_types": [
-					{
-						"id": "3472",
-						"value": "仙舟「曜青」",
-						"mi18n_key": "filter_custom_12",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_paths": {
-				"values": [
-					"虚无"
-				],
-				"value_types": [
-					{
-						"id": "1429",
-						"value": "虚无",
-						"mi18n_key": "filter_1429",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
-						"enum_string": "nihility"
-					}
-				],
-				"key": null
-			},
 			"character_rarity": {
 				"values": [
 					"五星"
@@ -3894,6 +3864,36 @@
 					}
 				],
 				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"仙舟「曜青」"
+				],
+				"value_types": [
+					{
+						"id": "3472",
+						"value": "仙舟「曜青」",
+						"mi18n_key": "filter_custom_12",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"虚无"
+				],
+				"value_types": [
+					{
+						"id": "1429",
+						"value": "虚无",
+						"mi18n_key": "filter_1429",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/022ca2fa7843ec5dcbc882e6b99d3849_5658173062357230596.png",
+						"enum_string": "nihility"
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
@@ -3907,6 +3907,21 @@
 			"attr_level_1": "{\"base_hp\":\"144\",\"base_atk\":\"76\",\"base_def\":\"60\",\"base_speed\":\"102\",\"dynamic\":{}}"
 		},
 		"filter_values": {
+			"character_combat_type": {
+				"values": [
+					"虚数"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "虚数",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
+					}
+				],
+				"key": null
+			},
 			"character_paths": {
 				"values": [
 					"巡猎"
@@ -3951,30 +3966,17 @@
 					}
 				],
 				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"虚数"
-				],
-				"value_types": [
-					{
-						"id": "1341",
-						"value": "虚数",
-						"mi18n_key": "filter_1341",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
-						"enum_string": "imaginary"
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
 	},
 	{
 		"entry_page_id": "2947",
-		"name": "飞霄 ( 即将上线 )",
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/06/11038150/4555f97be37af42507744e3865601b82_7639334993799581425.png",
-		"display_field": {},
+		"name": "飞霄",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/03/7f4bec62392b7e08bf91b3231d8f3134_3308390208226913806.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"142\",\"base_atk\":\"81\",\"base_def\":\"52\",\"base_speed\":\"112\",\"dynamic\":{}}"
+		},
 		"filter_values": {
 			"character_combat_type": {
 				"values": [
@@ -3987,6 +3989,21 @@
 						"mi18n_key": "filter_1314",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/8d2992ae95dfe1469af254b923b1129c_5790926101190505253.png",
 						"enum_string": "wind"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"仙舟「曜青」"
+				],
+				"value_types": [
+					{
+						"id": "3472",
+						"value": "仙舟「曜青」",
+						"mi18n_key": "filter_custom_12",
+						"icon": "",
+						"enum_string": ""
 					}
 				],
 				"key": null
@@ -4020,61 +4037,19 @@
 					}
 				],
 				"key": null
-			},
-			"character_factions": {
-				"values": [
-					"仙舟「曜青」"
-				],
-				"value_types": [
-					{
-						"id": "3472",
-						"value": "仙舟「曜青」",
-						"mi18n_key": "filter_custom_12",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
 			}
 		},
 		"desc": ""
 	},
 	{
 		"entry_page_id": "2948",
-		"name": "灵砂 ( 即将上线 )",
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/06/11038150/090f76a66433797c3342620dd7718cfa_3819676754103961370.png",
-		"display_field": {},
+		"name": "灵砂",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/25/11038150/0d39def2cfde0e142e0b417ca8cea94d_1610256986596622840.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"184\",\"base_atk\":\"92\",\"base_def\":\"59\",\"base_speed\":\"98\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1358\",\"base_atk\":\"679\",\"base_def\":\"436\",\"base_speed\":\"98\",\"dynamic\":{}}"
+		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"仙舟「罗浮」"
-				],
-				"value_types": [
-					{
-						"id": "1538",
-						"value": "仙舟「罗浮」",
-						"mi18n_key": "filter_1538",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"火"
-				],
-				"value_types": [
-					{
-						"id": "1322",
-						"value": "火",
-						"mi18n_key": "filter_1322",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
-						"enum_string": "fire"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"丰饶"
@@ -4104,46 +4079,49 @@
 					}
 				],
 				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"火"
+				],
+				"value_types": [
+					{
+						"id": "1322",
+						"value": "火",
+						"mi18n_key": "filter_1322",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ade90b393f1dfffe731766ed98c78746_8365675559481569213.png",
+						"enum_string": "fire"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"仙舟「罗浮」"
+				],
+				"value_types": [
+					{
+						"id": "1538",
+						"value": "仙舟「罗浮」",
+						"mi18n_key": "filter_1538",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
 			}
 		},
 		"desc": ""
 	},
 	{
 		"entry_page_id": "2949",
-		"name": "貊泽 ( 即将上线 )",
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/06/11038150/4335d73f2b2a27d1b2b0947ec221a596_8333237870835823400.png",
-		"display_field": {},
+		"name": "貊泽",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/03/52fdc9fa18b6f6ee6579d87fcfcb8bbc_3706451518418557464.png",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"110\",\"base_atk\":\"81\",\"base_def\":\"48\",\"base_speed\":\"111\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"811\",\"base_atk\":\"599\",\"base_def\":\"352\",\"base_speed\":\"111\",\"dynamic\":{}}"
+		},
 		"filter_values": {
-			"character_factions": {
-				"values": [
-					"仙舟「曜青」"
-				],
-				"value_types": [
-					{
-						"id": "3472",
-						"value": "仙舟「曜青」",
-						"mi18n_key": "filter_custom_12",
-						"icon": "",
-						"enum_string": ""
-					}
-				],
-				"key": null
-			},
-			"character_combat_type": {
-				"values": [
-					"雷"
-				],
-				"value_types": [
-					{
-						"id": "1357",
-						"value": "雷",
-						"mi18n_key": "filter_1357",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
-						"enum_string": "lightning"
-					}
-				],
-				"key": null
-			},
 			"character_paths": {
 				"values": [
 					"巡猎"
@@ -4170,6 +4148,105 @@
 						"mi18n_key": "filter_1468",
 						"icon": "",
 						"enum_string": "4"
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"雷"
+				],
+				"value_types": [
+					{
+						"id": "1357",
+						"value": "雷",
+						"mi18n_key": "filter_1357",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
+						"enum_string": "lightning"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"仙舟「曜青」"
+				],
+				"value_types": [
+					{
+						"id": "3472",
+						"value": "仙舟「曜青」",
+						"mi18n_key": "filter_custom_12",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			}
+		},
+		"desc": ""
+	},
+	{
+		"entry_page_id": "3057",
+		"name": "乱破(即将上线)",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/05/11038150/e0417148ff4428ef0d371efbb0c80e0b_5415786627602961380.png",
+		"display_field": {},
+		"filter_values": {
+			"character_rarity": {
+				"values": [
+					"五星"
+				],
+				"value_types": [
+					{
+						"id": "1488",
+						"value": "五星",
+						"mi18n_key": "filter_1488",
+						"icon": "",
+						"enum_string": "5"
+					}
+				],
+				"key": null
+			},
+			"character_factions": {
+				"values": [
+					"巡海游侠"
+				],
+				"value_types": [
+					{
+						"id": "3452",
+						"value": "巡海游侠",
+						"mi18n_key": "filter_custom_3",
+						"icon": "",
+						"enum_string": ""
+					}
+				],
+				"key": null
+			},
+			"character_combat_type": {
+				"values": [
+					"虚数"
+				],
+				"value_types": [
+					{
+						"id": "1341",
+						"value": "虚数",
+						"mi18n_key": "filter_1341",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/9ab11de799de29f5c6abbac0a2b305e1_7514369334565575603.png",
+						"enum_string": "imaginary"
+					}
+				],
+				"key": null
+			},
+			"character_paths": {
+				"values": [
+					"智识"
+				],
+				"value_types": [
+					{
+						"id": "1405",
+						"value": "智识",
+						"mi18n_key": "filter_1405",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"enum_string": "erudition"
 					}
 				],
 				"key": null

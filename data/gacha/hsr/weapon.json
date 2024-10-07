@@ -1,76 +1,123 @@
 [
 	{
+		"version": "2.5.2",
+		"items": [
+			{
+				"itemId": 3068,
+				"imageUrl": "/event-ugc-hoyowiki/2024/09/30/326693439/d1ff58c9ad9e8d172988e845fb12fd35_7030424953049541360.png",
+				"itemType": "Weapon",
+				"name": "唯有香如故",
+				"nameEn": "Scent Alone Stays True ",
+				"rankType": 5,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1544,
+				"imageUrl": "/hoyolab-wiki/2023/10/26/1019313/4f2ab7074d519b215cd150b8cf1f433a_4632452927144568599.png",
+				"itemType": "Weapon",
+				"name": "烦恼着，幸福着",
+				"nameEn": "Worrisome, Blissful",
+				"rankType": 5,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 3067,
+				"imageUrl": "/event-ugc-hoyowiki/2024/09/30/326693439/1db592d0aafedeec3ea323327917adf9_6472133372382674779.png",
+				"itemType": "Weapon",
+				"name": "黑夜如影随行",
+				"nameEn": "Shadowed by Night ",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 51,
+				"imageUrl": "/hoyowiki/2023/02/21/07e286c59ffe9e045abdd364b6d3f5f0_918735250537819040.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "Shared Feeling",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 55,
+				"imageUrl": "/hoyowiki/2023/02/21/6678fe8d31a180e31a1e04ef1d8eadaf_7231314384566776724.png",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
+			}
+		],
+		"start": "2024-10-02 12:00:00",
+		"end": "2024-10-22 14:59:59"
+	},
+	{
 		"version": "2.5.1",
 		"items": [
 			{
-				"itemId": 23031,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/pre_webtool_cn/item_icon_u19cab/d0c079cf1231219adcfb6b6e0745480c.png",
-				"rankType": 5,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 1231,
+				"imageUrl": "/hoyolab-wiki/2023/08/22/84496276/cd8fbed3fe69c8584e08e8a9e0ccce00_2036100191059986968.png",
 				"itemType": "Weapon",
-				"name": "我将，巡征追猎"
+				"name": "只需等待",
+				"nameEn": "Patience Is All You Need",
+				"rankType": 5,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 23006,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/86919e015177670f982c536ed08493b2.png",
-				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 1937,
+				"imageUrl": "/event-ugc-hoyowiki/2024/02/06/6668036/38b8751c03fae5f57727485edda3a9d0_2647703592169654115.png",
 				"itemType": "Weapon",
-				"name": "只需等待"
+				"name": "重塑时光之忆",
+				"nameEn": "Reforged Remembrance ",
+				"rankType": 5,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 23022,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c7099fd2d57c8a4a910894c7b858b315.png",
-				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 2500,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/07/ca03ae75713f4ef7dbd4c68d671d1b0f_4402507865225057642.png",
 				"itemType": "Weapon",
-				"name": "重塑时光之忆"
+				"name": "夜色流光溢彩",
+				"nameEn": "Flowing Nightglow",
+				"rankType": 5,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 23026,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d654b6621cf1d1d97662a3aa111604a6.png",
-				"rankType": 5,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 54,
+				"imageUrl": "/hoyowiki/2023/02/21/2f53efe41f6c16ce298f0bbafc170949_1511327361354317201.png",
 				"itemType": "Weapon",
-				"name": "夜色流光溢彩"
-			},
-			{
-				"itemId": 21010,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/75f61a6c038a114c6ffac5dd8908640d.png",
+				"name": "论剑",
+				"nameEn": "Swordplay",
 				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Weapon",
-				"name": "论剑"
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21015,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/2e8e9d9adbe6bacd4c68bf114e9abe80.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 590,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/1d947dcdbad2ebbac2592da8873e1707_1747743481739952799.png",
 				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀"
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21006,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/6ccb8ebdcccb7b3d6489c4b752152514.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 50,
+				"imageUrl": "/hoyowiki/2023/02/21/78bdd2715945e3f1e87dc677d50f481e_7231314384566776724.png",
 				"itemType": "Weapon",
-				"name": "「我」的诞生"
+				"name": "「我」的诞生",
+				"nameEn": "The Birth of the Self",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			}
 		],
 		"start": "2024-09-10 06:00:00",
@@ -80,54 +127,54 @@
 		"version": "2.4.2",
 		"items": [
 			{
-				"itemId": 23029,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c7b98535dbcf93750c8c4dc9faaf2265.png",
+				"itemId": 2955,
+				"imageUrl": "/event-ugc-hoyowiki/2024/08/23/417971351/667b4f120af6ff3672e4b4e73680975c_4981485607791604458.png",
+				"itemType": "Weapon",
+				"name": "那无数个春天",
+				"nameEn": "Those Many Springs",
 				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
-				"itemType": "Weapon",
-				"name": "那无数个春天"
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 23021,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f74bde969eca1338dc8dad4e5e555174.png",
+				"itemId": 1936,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/02/27/08f28fd17c7293362ce7db20de8df1df_4242746970141722423.png",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "Earthly Escapade",
 				"rankType": 5,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
-				"itemType": "Weapon",
-				"name": "游戏尘寰"
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21046,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/2be0202d0b1d5183588d8eb5cd345d73.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 2954,
+				"imageUrl": "/event-ugc-hoyowiki/2024/08/23/417971351/e77436eb84092269f1c359edb40ed8fd_5541795414871819494.png",
 				"itemType": "Weapon",
-				"name": "芳华待灼"
+				"name": "芳华待灼",
+				"nameEn": "Poised to Bloom",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21008,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/08b844db78f6c1e22d1ca103100f1804.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 52,
+				"imageUrl": "/hoyowiki/2023/02/21/1c7c012eeb05699acc8c2ad33cee412a_9207997407084704522.png",
 				"itemType": "Weapon",
-				"name": "猎物的视线"
+				"name": "猎物的视线",
+				"nameEn": "Eyes of the Prey",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21012,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/89c1df9c82b619cb873fc8bbd46c9880.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 56,
+				"imageUrl": "/hoyowiki/2023/02/21/2fa2a29d45df6b229d2525f720b831c1_4357389817891565749.png",
 				"itemType": "Weapon",
-				"name": "秘密誓心"
+				"name": "秘密誓心",
+				"nameEn": "A Secret Vow",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			}
 		],
 		"start": "2024-08-21 12:00:00",
@@ -137,54 +184,54 @@
 		"version": "2.4.1",
 		"items": [
 			{
-				"itemId": 23030,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/9ff066bde5d02c3a2368108716afd989.png",
+				"itemId": 2956,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/07/30/4f112f0dbb53f86def1d68b607875b82_2698456100476958626.png",
+				"itemType": "Weapon",
+				"name": "落日时起舞",
+				"nameEn": "Dance at Sunset",
 				"rankType": 5,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
-				"itemType": "Weapon",
-				"name": "落日时起舞"
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 23017,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f153b392aa921a5a7caec81c676cd242.png",
+				"itemId": 1602,
+				"imageUrl": "/hoyolab-wiki/2023/11/15/146729530/02562750cc9ba0728940900bb29bff85_7891932131497743597.png",
+				"itemType": "Weapon",
+				"name": "惊魂夜",
+				"nameEn": "Night of Fright",
 				"rankType": 5,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
-				"itemType": "Weapon",
-				"name": "惊魂夜"
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21005,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/55d4599ff339fc5f8cf9347a6bacc414.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 49,
+				"imageUrl": "/hoyowiki/2023/02/21/e35c7c440672f1a6626f7b379b2da5a0_4357389817891565749.png",
 				"itemType": "Weapon",
-				"name": "鼹鼠党欢迎你"
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "The Moles Welcome You",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21014,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c01cfda2850429057b4a596413a86fad.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 589,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/7987eb5ae6739d63ce70a2900444e5d5_3722969671638428926.png",
 				"itemType": "Weapon",
-				"name": "此时恰好"
+				"name": "此时恰好",
+				"nameEn": "Perfect Timing",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21006,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/6ccb8ebdcccb7b3d6489c4b752152514.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 50,
+				"imageUrl": "/hoyowiki/2023/02/21/78bdd2715945e3f1e87dc677d50f481e_7231314384566776724.png",
 				"itemType": "Weapon",
-				"name": "「我」的诞生"
+				"name": "「我」的诞生",
+				"nameEn": "The Birth of the Self",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			}
 		],
 		"start": "2024-07-31 06:00:00",
@@ -194,54 +241,54 @@
 		"version": "2.3.2",
 		"items": [
 			{
-				"itemId": 23028,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/1eec289ead0062b32fa9dc94c378d3ad.png",
+				"itemId": 2646,
+				"imageUrl": "/event-ugc-hoyowiki/2024/07/30/326693439/40ba19555b72a9afcd6ae1d6575d76b3_6967614770549198399.png",
+				"itemType": "Weapon",
+				"name": "偏偏希望无价",
+				"nameEn": "Yet Hope Is Priceless",
 				"rankType": 5,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
-				"itemType": "Weapon",
-				"name": "偏偏希望无价"
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 23018,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/199af88a3802d7a465c78f43990263d8.png",
+				"itemId": 1595,
+				"imageUrl": "/hoyowiki/2023/12/05/0e2afe2fd46c9699a4e73807bf63e794_4690802445219194102.png",
+				"itemType": "Weapon",
+				"name": "片刻，留在眼底",
+				"nameEn": "An Instant Before A Gaze",
 				"rankType": 5,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
-				"itemType": "Weapon",
-				"name": "片刻，留在眼底"
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 21045,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/11e7432d0fb0b1dfdf0c1710bdbd1d6f.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 2647,
+				"imageUrl": "/event-ugc-hoyowiki/2024/07/30/326693439/de46ad848380c6da1ea41c2d63a19b06_5637539227918155780.png",
 				"itemType": "Weapon",
-				"name": "谐乐静默之后"
+				"name": "谐乐静默之后",
+				"nameEn": "After the Charmony Fall ",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 21007,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/7400c43ab3a5b12ce8795dd215bf35fa.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 51,
+				"imageUrl": "/hoyowiki/2023/02/21/07e286c59ffe9e045abdd364b6d3f5f0_918735250537819040.png",
 				"itemType": "Weapon",
-				"name": "同一种心情"
+				"name": "同一种心情",
+				"nameEn": "Shared Feeling",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21016,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/efbc1180309f8d3a91e2a4716ae05d54.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 591,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/9faeed2842482f716b42c0cd21667cbf_8149889544022949159.png",
 				"itemType": "Weapon",
-				"name": "宇宙市场趋势"
+				"name": "宇宙市场趋势",
+				"nameEn": "Trend of the Universal Market",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			}
 		],
 		"start": "2024-07-10 12:00:00",
@@ -251,54 +298,54 @@
 		"version": "2.3.1",
 		"items": [
 			{
-				"itemId": 23025,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/532577a3e41bb2b30eedf60b9d34de58.png",
+				"itemId": 2645,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/06/19/e4a585ed5dad231872aa0a28ed9a362d_1527074370716145770.png",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "Whereabouts Should Dreams Rest",
 				"rankType": 5,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
-				"itemType": "Weapon",
-				"name": "梦应归于何处"
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 23019,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/1331cada66ad04dccf73dab879dfd3c9.png",
+				"itemId": 1822,
+				"imageUrl": "/event-static-hoyowiki-admin/2023/12/25/9abbea4b755e183768a9a2a30600cad0_964949891846795661.png",
+				"itemType": "Weapon",
+				"name": "镜中故我",
+				"nameEn": "Past Self in Mirror",
 				"rankType": 5,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
-				"itemType": "Weapon",
-				"name": "镜中故我"
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21004,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/dd66fdd8d8ad66a232a9b00f54073b12.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 48,
+				"imageUrl": "/hoyowiki/2023/02/21/f72de4833b12bd30234a4ecc82f59b7e_7824066832447018591.png",
 				"itemType": "Weapon",
-				"name": "记忆中的模样"
+				"name": "记忆中的模样",
+				"nameEn": "Memories of the Past",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21002,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/ddc7da93e9e7464aae52167b81079cc2.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 46,
+				"imageUrl": "/hoyowiki/2023/02/21/d30f1640606c482d1dde06f5234be0b2_4059157342224776055.png",
 				"itemType": "Weapon",
-				"name": "余生的第一天"
+				"name": "余生的第一天",
+				"nameEn": "Day One of My New Life",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			},
 			{
-				"itemId": 21008,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/08b844db78f6c1e22d1ca103100f1804.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 52,
+				"imageUrl": "/hoyowiki/2023/02/21/1c7c012eeb05699acc8c2ad33cee412a_9207997407084704522.png",
 				"itemType": "Weapon",
-				"name": "猎物的视线"
+				"name": "猎物的视线",
+				"nameEn": "Eyes of the Prey",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			}
 		],
 		"start": "2024-06-19 06:00:00",
@@ -308,54 +355,54 @@
 		"version": "2.2.2",
 		"items": [
 			{
-				"itemId": 23027,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/90ccd30c9ded8a1a34536a1d09a9c6af.png",
+				"itemId": 2501,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/24/90b1764276960d7f7d53fde956be50aa_6987640505724242005.png",
+				"itemType": "Weapon",
+				"name": "驶向第二次生命",
+				"nameEn": "Sailing Towards A Second Life",
 				"rankType": 5,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Weapon",
-				"name": "驶向第二次生命"
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 23011,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/ba95dedf5b4890d5f3352892b96b2b76.png",
+				"itemId": 1399,
+				"imageUrl": "/hoyolab-wiki/2023/10/13/146729530/a519d2e49b5bbefb2f189a80c30571cd_1675616892588909410.png",
+				"itemType": "Weapon",
+				"name": "她已闭上双眼",
+				"nameEn": "She Already Shut Her Eyes",
 				"rankType": 5,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
-				"itemType": "Weapon",
-				"name": "她已闭上双眼"
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			},
 			{
-				"itemId": 21020,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/cd9b927eaca48ed65b18d82ef3e52439.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 595,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/e92e4a0ff4acdb25556880c7e60d8bc6_7857015744515297414.png",
 				"itemType": "Weapon",
-				"name": "天才们的休憩"
+				"name": "天才们的休憩",
+				"nameEn": "Geniuses' Repose",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 21012,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/89c1df9c82b619cb873fc8bbd46c9880.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 56,
+				"imageUrl": "/hoyowiki/2023/02/21/2fa2a29d45df6b229d2525f720b831c1_4357389817891565749.png",
 				"itemType": "Weapon",
-				"name": "秘密誓心"
+				"name": "秘密誓心",
+				"nameEn": "A Secret Vow",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21009,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/4935725ff2bc6f248d5c8c061b01185f.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 53,
+				"imageUrl": "/hoyowiki/2023/02/21/ba9cd6f22f1b334d869b5414229ee7bd_942516886148531175.png",
 				"itemType": "Weapon",
-				"name": "朗道的选择"
+				"name": "朗道的选择",
+				"nameEn": "Landau's Choice",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			}
 		],
 		"start": "2024-05-29 12:00:00",
@@ -365,54 +412,54 @@
 		"version": "2.2.1",
 		"items": [
 			{
-				"itemId": 23026,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d654b6621cf1d1d97662a3aa111604a6.png",
+				"itemId": 2500,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/07/ca03ae75713f4ef7dbd4c68d671d1b0f_4402507865225057642.png",
+				"itemType": "Weapon",
+				"name": "夜色流光溢彩",
+				"nameEn": "Flowing Nightglow",
 				"rankType": 5,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
-				"itemType": "Weapon",
-				"name": "夜色流光溢彩"
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 23016,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/7a68bfa1c8fdce22332f54df58052671.png",
+				"itemId": 1544,
+				"imageUrl": "/hoyolab-wiki/2023/10/26/1019313/4f2ab7074d519b215cd150b8cf1f433a_4632452927144568599.png",
+				"itemType": "Weapon",
+				"name": "烦恼着，幸福着",
+				"nameEn": "Worrisome, Blissful",
 				"rankType": 5,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Weapon",
-				"name": "烦恼着，幸福着"
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21044,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f8ee30d78db4bd01bec48735b511978a.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 2503,
+				"imageUrl": "/event-ugc-hoyowiki/2024/05/17/326693439/ff00ea6257b47373b18e3ab3b8d4f418_8147110520531310407.png",
 				"itemType": "Weapon",
-				"name": "无边曼舞"
+				"name": "无边曼舞",
+				"nameEn": "Boundless Choreo",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21010,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/75f61a6c038a114c6ffac5dd8908640d.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 54,
+				"imageUrl": "/hoyowiki/2023/02/21/2f53efe41f6c16ce298f0bbafc170949_1511327361354317201.png",
 				"itemType": "Weapon",
-				"name": "论剑"
+				"name": "论剑",
+				"nameEn": "Swordplay",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21014,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c01cfda2850429057b4a596413a86fad.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 589,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/7987eb5ae6739d63ce70a2900444e5d5_3722969671638428926.png",
 				"itemType": "Weapon",
-				"name": "此时恰好"
+				"name": "此时恰好",
+				"nameEn": "Perfect Timing",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			}
 		],
 		"start": "2024-05-08 06:00:00",
@@ -422,54 +469,54 @@
 		"version": "2.1.2",
 		"items": [
 			{
-				"itemId": 23023,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/af6a97b0fbfcead285496ae9fdcd0fee.png",
+				"itemId": 2369,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/04/16/4dc0c4cf986936473875c166a6d36ab7_8812724644606177897.png",
+				"itemType": "Weapon",
+				"name": "命运从未公平",
+				"nameEn": "Inherently Unjust Destiny",
 				"rankType": 5,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
-				"itemType": "Weapon",
-				"name": "命运从未公平"
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			},
 			{
-				"itemId": 23014,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/ae245cc09d8db0278bdcc99868716606.png",
+				"itemId": 1545,
+				"imageUrl": "/hoyolab-wiki/2023/10/09/327648380/0f027ac017c57d6b62617d379e3087fc_7169863041443585992.png",
+				"itemType": "Weapon",
+				"name": "此身为剑",
+				"nameEn": "I Shall Be My Own Sword",
 				"rankType": 5,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
-				"itemType": "Weapon",
-				"name": "此身为剑"
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21043,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/2d944c05f508de435117e2ef79645819.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 2371,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/04/16/c720442776f84f543c14518de8c8663f_5213217699580238187.png",
 				"itemType": "Weapon",
-				"name": "两个人的演唱会"
+				"name": "两个人的演唱会",
+				"nameEn": "Concert for Two",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			},
 			{
-				"itemId": 21007,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/7400c43ab3a5b12ce8795dd215bf35fa.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 51,
+				"imageUrl": "/hoyowiki/2023/02/21/07e286c59ffe9e045abdd364b6d3f5f0_918735250537819040.png",
 				"itemType": "Weapon",
-				"name": "同一种心情"
+				"name": "同一种心情",
+				"nameEn": "Shared Feeling",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21013,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/22401b942d9e0ce01ce79f7689520573.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 57,
+				"imageUrl": "/hoyowiki/2023/02/21/0d119463b9a6b8fbbc03d4b0de786994_5214933404516381671.png",
 				"itemType": "Weapon",
-				"name": "别让世界静下来"
+				"name": "别让世界静下来",
+				"nameEn": "Make the World Clamor",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			}
 		],
 		"start": "2024-04-17 12:00:00",
@@ -479,54 +526,54 @@
 		"version": "2.1.1",
 		"items": [
 			{
-				"itemId": 23024,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/365fa6c328e5a416838944cf952984e6.png",
+				"itemId": 2370,
+				"imageUrl": "/event-ugc-hoyowiki/2024/03/26/326693439/8707622cabd577ddf02a0fd00fbd6fd1_5022746560518718047.png",
+				"itemType": "Weapon",
+				"name": "行于流逝的岸",
+				"nameEn": "Along the Passing Shore",
 				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
-				"itemType": "Weapon",
-				"name": "行于流逝的岸"
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 23008,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/abce5469229cf40ece19b45889665f9f.png",
+				"itemId": 806,
+				"imageUrl": "/hoyolab-wiki/2023/07/01/7998136/e0fbe9f982c1e21d0d0d117bf159e01f_4969186422556279291.png",
+				"itemType": "Weapon",
+				"name": "棺的回响",
+				"nameEn": "Echoes of the Coffin",
 				"rankType": 5,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
-				"itemType": "Weapon",
-				"name": "棺的回响"
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21001,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/0b8bbabded72d6c853ed6e230756b140.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 45,
+				"imageUrl": "/hoyowiki/2023/02/21/fb3acf8862148ccc99297b9c2669502c_7824066832447018591.png",
 				"itemType": "Weapon",
-				"name": "晚安与睡颜"
+				"name": "晚安与睡颜",
+				"nameEn": "Good Night and Sleep Well",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21000,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/28b759f9dfed4712cdab2de1e4b6b5c3.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 44,
+				"imageUrl": "/hoyowiki/2023/02/21/bbc831d2b1685bc85083551e51047e3f_2901581893313933971.png",
 				"itemType": "Weapon",
-				"name": "一场术后对话"
+				"name": "一场术后对话",
+				"nameEn": "Post-Op Conversation",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21017,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d7342ea6f2b730a8666b35a76eb6a953.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 592,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/6d091aed961227e1ee9544a6ed402e71_1544442331446954280.png",
 				"itemType": "Weapon",
-				"name": "点个关注吧！"
+				"name": "点个关注吧！",
+				"nameEn": "Subscribe for More!",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			}
 		],
 		"start": "2024-03-27 06:00:00",
@@ -536,54 +583,54 @@
 		"version": "2.0.2",
 		"items": [
 			{
-				"itemId": 23021,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f74bde969eca1338dc8dad4e5e555174.png",
+				"itemId": 1936,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/02/27/08f28fd17c7293362ce7db20de8df1df_4242746970141722423.png",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "Earthly Escapade",
 				"rankType": 5,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
-				"itemType": "Weapon",
-				"name": "游戏尘寰"
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 23010,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/941d8f466226d7fcaffcf694e1a26fb8.png",
+				"itemId": 73,
+				"imageUrl": "/hoyowiki/2023/02/21/ac79e739072fa86b2f6d5f851bb2c916_952669953280599733.png",
+				"itemType": "Weapon",
+				"name": "拂晓之前",
+				"nameEn": "Before Dawn",
 				"rankType": 5,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
-				"itemType": "Weapon",
-				"name": "拂晓之前"
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 21011,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/4b528108b5b4900ae098c13ef0296841.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 55,
+				"imageUrl": "/hoyowiki/2023/02/21/6678fe8d31a180e31a1e04ef1d8eadaf_7231314384566776724.png",
 				"itemType": "Weapon",
-				"name": "与行星相会"
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21019,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c99760a3157f84ee445f8fcaf64069aa.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 594,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/423cba6ba9da519750873231e12092f4_2658038750381156690.png",
 				"itemType": "Weapon",
-				"name": "在蓝天下"
+				"name": "在蓝天下",
+				"nameEn": "Under the Blue Sky",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21020,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/cd9b927eaca48ed65b18d82ef3e52439.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 595,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/e92e4a0ff4acdb25556880c7e60d8bc6_7857015744515297414.png",
 				"itemType": "Weapon",
-				"name": "天才们的休憩"
+				"name": "天才们的休憩",
+				"nameEn": "Geniuses' Repose",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			}
 		],
 		"start": "2024-02-29 12:00:00",
@@ -593,54 +640,54 @@
 		"version": "2.0.1",
 		"items": [
 			{
-				"itemId": 23022,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c7099fd2d57c8a4a910894c7b858b315.png",
+				"itemId": 1937,
+				"imageUrl": "/event-ugc-hoyowiki/2024/02/06/6668036/38b8751c03fae5f57727485edda3a9d0_2647703592169654115.png",
+				"itemType": "Weapon",
+				"name": "重塑时光之忆",
+				"nameEn": "Reforged Remembrance ",
 				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
-				"itemType": "Weapon",
-				"name": "重塑时光之忆"
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 23015,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c8a6e6a540252faffcd241a8cc009581.png",
+				"itemId": 1398,
+				"imageUrl": "/hoyolab-wiki/2023/08/30/7998136/274e4d01efb391334126171753e400d7_8569025007475060876.png",
+				"itemType": "Weapon",
+				"name": "比阳光更明亮的",
+				"nameEn": "Brighter Than the Sun",
 				"rankType": 5,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
-				"itemType": "Weapon",
-				"name": "比阳光更明亮的"
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21042,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/7e8c199ae8b854fcbcdd95ddabd26f28.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 1935,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/02/04/3d2c000744065606335224819b4c2c8e_1440791885639005208.png",
 				"itemType": "Weapon",
-				"name": "铭记于心的约定"
+				"name": "铭记于心的约定",
+				"nameEn": "Indelible Promise",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21015,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/2e8e9d9adbe6bacd4c68bf114e9abe80.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 590,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/1d947dcdbad2ebbac2592da8873e1707_1747743481739952799.png",
 				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀"
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21018,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/0c4595a6ef5a37287806b9089816ea1f.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 593,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/6cf47bcf4d76f5cb3e32209201fdb2fd_5608070713183206925.png",
 				"itemType": "Weapon",
-				"name": "舞！舞！舞！"
+				"name": "舞！舞！舞！",
+				"nameEn": "Dance! Dance! Dance!",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			}
 		],
 		"start": "2024-02-06 06:00:00",
@@ -650,54 +697,54 @@
 		"version": "1.6.2",
 		"items": [
 			{
-				"itemId": 23020,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/bcee577b705fdea22079b9dd910fcf65.png",
+				"itemId": 1823,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/01/15/894bd6c5ea494cc540d46244e0c8b895_5844722423980463535.png",
+				"itemType": "Weapon",
+				"name": "纯粹思维的洗礼",
+				"nameEn": "Baptism of Pure Thought",
 				"rankType": 5,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Weapon",
-				"name": "纯粹思维的洗礼"
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 23006,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/86919e015177670f982c536ed08493b2.png",
+				"itemId": 1231,
+				"imageUrl": "/hoyolab-wiki/2023/08/22/84496276/cd8fbed3fe69c8584e08e8a9e0ccce00_2036100191059986968.png",
+				"itemType": "Weapon",
+				"name": "只需等待",
+				"nameEn": "Patience Is All You Need",
 				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
-				"itemType": "Weapon",
-				"name": "只需等待"
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21014,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c01cfda2850429057b4a596413a86fad.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 589,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/7987eb5ae6739d63ce70a2900444e5d5_3722969671638428926.png",
 				"itemType": "Weapon",
-				"name": "此时恰好"
+				"name": "此时恰好",
+				"nameEn": "Perfect Timing",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21003,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/13f9a171f1035b9dfa1a2d8dfc9ba610.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 47,
+				"imageUrl": "/hoyowiki/2023/02/21/5906dd1fb682903b2c8fa6b3a314febf_918735250537819040.png",
 				"itemType": "Weapon",
-				"name": "唯有沉默"
+				"name": "唯有沉默",
+				"nameEn": "Only Silence Remains",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21009,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/4935725ff2bc6f248d5c8c061b01185f.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 53,
+				"imageUrl": "/hoyowiki/2023/02/21/ba9cd6f22f1b334d869b5414229ee7bd_942516886148531175.png",
 				"itemType": "Weapon",
-				"name": "朗道的选择"
+				"name": "朗道的选择",
+				"nameEn": "Landau's Choice",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			}
 		],
 		"start": "2024-01-17 12:00:00",
@@ -707,54 +754,54 @@
 		"version": "1.6.1",
 		"items": [
 			{
-				"itemId": 23019,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/1331cada66ad04dccf73dab879dfd3c9.png",
+				"itemId": 1822,
+				"imageUrl": "/event-static-hoyowiki-admin/2023/12/25/9abbea4b755e183768a9a2a30600cad0_964949891846795661.png",
+				"itemType": "Weapon",
+				"name": "镜中故我",
+				"nameEn": "Past Self in Mirror",
 				"rankType": 5,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
-				"itemType": "Weapon",
-				"name": "镜中故我"
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 23009,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/e42f06475b8127fae636dfacae4ce31a.png",
+				"itemId": 1230,
+				"imageUrl": "/hoyolab-wiki/2023/07/20/7998136/d33e5d082c7b67a779c44c663bab3b51_5997614579255060169.png",
+				"itemType": "Weapon",
+				"name": "到不了的彼岸",
+				"nameEn": "The Unreachable Side",
 				"rankType": 5,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
-				"itemType": "Weapon",
-				"name": "到不了的彼岸"
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21011,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/4b528108b5b4900ae098c13ef0296841.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 55,
+				"imageUrl": "/hoyowiki/2023/02/21/6678fe8d31a180e31a1e04ef1d8eadaf_7231314384566776724.png",
 				"itemType": "Weapon",
-				"name": "与行星相会"
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21002,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/ddc7da93e9e7464aae52167b81079cc2.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 46,
+				"imageUrl": "/hoyowiki/2023/02/21/d30f1640606c482d1dde06f5234be0b2_4059157342224776055.png",
 				"itemType": "Weapon",
-				"name": "余生的第一天"
+				"name": "余生的第一天",
+				"nameEn": "Day One of My New Life",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			},
 			{
-				"itemId": 21012,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/89c1df9c82b619cb873fc8bbd46c9880.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 56,
+				"imageUrl": "/hoyowiki/2023/02/21/2fa2a29d45df6b229d2525f720b831c1_4357389817891565749.png",
 				"itemType": "Weapon",
-				"name": "秘密誓心"
+				"name": "秘密誓心",
+				"nameEn": "A Secret Vow",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			}
 		],
 		"start": "2023-12-27 06:00:00",
@@ -764,54 +811,54 @@
 		"version": "1.5.2",
 		"items": [
 			{
-				"itemId": 23018,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/199af88a3802d7a465c78f43990263d8.png",
+				"itemId": 1595,
+				"imageUrl": "/hoyowiki/2023/12/05/0e2afe2fd46c9699a4e73807bf63e794_4690802445219194102.png",
+				"itemType": "Weapon",
+				"name": "片刻，留在眼底",
+				"nameEn": "An Instant Before A Gaze",
 				"rankType": 5,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
-				"itemType": "Weapon",
-				"name": "片刻，留在眼底"
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 23007,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d9e7a6b19e95b15a726dedff65fb49b0.png",
+				"itemId": 805,
+				"imageUrl": "/hoyolab-wiki/2023/06/07/7998136/dd30c9e39b8126dde54946cf2581215f_4234182455576051184.png",
+				"itemType": "Weapon",
+				"name": "雨一直下",
+				"nameEn": "Incessant Rain",
 				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
-				"itemType": "Weapon",
-				"name": "雨一直下"
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21019,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c99760a3157f84ee445f8fcaf64069aa.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 594,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/423cba6ba9da519750873231e12092f4_2658038750381156690.png",
 				"itemType": "Weapon",
-				"name": "在蓝天下"
+				"name": "在蓝天下",
+				"nameEn": "Under the Blue Sky",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21000,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/28b759f9dfed4712cdab2de1e4b6b5c3.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 44,
+				"imageUrl": "/hoyowiki/2023/02/21/bbc831d2b1685bc85083551e51047e3f_2901581893313933971.png",
 				"itemType": "Weapon",
-				"name": "一场术后对话"
+				"name": "一场术后对话",
+				"nameEn": "Post-Op Conversation",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21006,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/6ccb8ebdcccb7b3d6489c4b752152514.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 50,
+				"imageUrl": "/hoyowiki/2023/02/21/78bdd2715945e3f1e87dc677d50f481e_7231314384566776724.png",
 				"itemType": "Weapon",
-				"name": "「我」的诞生"
+				"name": "「我」的诞生",
+				"nameEn": "The Birth of the Self",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			}
 		],
 		"start": "2023-12-06 12:00:00",
@@ -821,44 +868,44 @@
 		"version": "1.5.1",
 		"items": [
 			{
-				"itemId": 23017,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f153b392aa921a5a7caec81c676cd242.png",
+				"itemId": 1602,
+				"imageUrl": "/hoyolab-wiki/2023/11/15/146729530/02562750cc9ba0728940900bb29bff85_7891932131497743597.png",
+				"itemType": "Weapon",
+				"name": "惊魂夜",
+				"nameEn": "Night of Fright",
 				"rankType": 5,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
-				"itemType": "Weapon",
-				"name": "惊魂夜"
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21007,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/7400c43ab3a5b12ce8795dd215bf35fa.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 51,
+				"imageUrl": "/hoyowiki/2023/02/21/07e286c59ffe9e045abdd364b6d3f5f0_918735250537819040.png",
 				"itemType": "Weapon",
-				"name": "同一种心情"
+				"name": "同一种心情",
+				"nameEn": "Shared Feeling",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21017,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d7342ea6f2b730a8666b35a76eb6a953.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 592,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/6d091aed961227e1ee9544a6ed402e71_1544442331446954280.png",
 				"itemType": "Weapon",
-				"name": "点个关注吧！"
+				"name": "点个关注吧！",
+				"nameEn": "Subscribe for More!",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21016,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/efbc1180309f8d3a91e2a4716ae05d54.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 591,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/9faeed2842482f716b42c0cd21667cbf_8149889544022949159.png",
 				"itemType": "Weapon",
-				"name": "宇宙市场趋势"
+				"name": "宇宙市场趋势",
+				"nameEn": "Trend of the Universal Market",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			}
 		],
 		"start": "2023-11-15 06:00:00",
@@ -868,54 +915,54 @@
 		"version": "1.4.2",
 		"items": [
 			{
-				"itemId": 23016,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/7a68bfa1c8fdce22332f54df58052671.png",
+				"itemId": 1544,
+				"imageUrl": "/hoyolab-wiki/2023/10/26/1019313/4f2ab7074d519b215cd150b8cf1f433a_4632452927144568599.png",
+				"itemType": "Weapon",
+				"name": "烦恼着，幸福着",
+				"nameEn": "Worrisome, Blissful",
 				"rankType": 5,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Weapon",
-				"name": "烦恼着，幸福着"
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 23001,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/371c722b5cabb968fec5d98af40e021d.png",
+				"itemId": 68,
+				"imageUrl": "/hoyowiki/2023/02/21/f342952758193dcdcd8dd1dde1cc969d_4815329713662711142.png",
+				"itemType": "Weapon",
+				"name": "于夜色中",
+				"nameEn": "In the Night",
 				"rankType": 5,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Weapon",
-				"name": "于夜色中"
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21005,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/55d4599ff339fc5f8cf9347a6bacc414.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 49,
+				"imageUrl": "/hoyowiki/2023/02/21/e35c7c440672f1a6626f7b379b2da5a0_4357389817891565749.png",
 				"itemType": "Weapon",
-				"name": "鼹鼠党欢迎你"
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "The Moles Welcome You",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21015,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/2e8e9d9adbe6bacd4c68bf114e9abe80.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 590,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/1d947dcdbad2ebbac2592da8873e1707_1747743481739952799.png",
 				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀"
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21003,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/13f9a171f1035b9dfa1a2d8dfc9ba610.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 47,
+				"imageUrl": "/hoyowiki/2023/02/21/5906dd1fb682903b2c8fa6b3a314febf_918735250537819040.png",
 				"itemType": "Weapon",
-				"name": "唯有沉默"
+				"name": "唯有沉默",
+				"nameEn": "Only Silence Remains",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			}
 		],
 		"start": "2023-10-27 12:00:00",
@@ -925,44 +972,44 @@
 		"version": "1.4.1",
 		"items": [
 			{
-				"itemId": 23014,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/ae245cc09d8db0278bdcc99868716606.png",
+				"itemId": 1545,
+				"imageUrl": "/hoyolab-wiki/2023/10/09/327648380/0f027ac017c57d6b62617d379e3087fc_7169863041443585992.png",
+				"itemType": "Weapon",
+				"name": "此身为剑",
+				"nameEn": "I Shall Be My Own Sword",
 				"rankType": 5,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
-				"itemType": "Weapon",
-				"name": "此身为剑"
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21004,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/dd66fdd8d8ad66a232a9b00f54073b12.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 48,
+				"imageUrl": "/hoyowiki/2023/02/21/f72de4833b12bd30234a4ecc82f59b7e_7824066832447018591.png",
 				"itemType": "Weapon",
-				"name": "记忆中的模样"
+				"name": "记忆中的模样",
+				"nameEn": "Memories of the Past",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21013,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/22401b942d9e0ce01ce79f7689520573.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 57,
+				"imageUrl": "/hoyowiki/2023/02/21/0d119463b9a6b8fbbc03d4b0de786994_5214933404516381671.png",
 				"itemType": "Weapon",
-				"name": "别让世界静下来"
+				"name": "别让世界静下来",
+				"nameEn": "Make the World Clamor",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 21008,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/08b844db78f6c1e22d1ca103100f1804.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 52,
+				"imageUrl": "/hoyowiki/2023/02/21/1c7c012eeb05699acc8c2ad33cee412a_9207997407084704522.png",
 				"itemType": "Weapon",
-				"name": "猎物的视线"
+				"name": "猎物的视线",
+				"nameEn": "Eyes of the Prey",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			}
 		],
 		"start": "2023-10-11 06:00:00",
@@ -972,44 +1019,44 @@
 		"version": "1.3.2",
 		"items": [
 			{
-				"itemId": 23011,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/ba95dedf5b4890d5f3352892b96b2b76.png",
+				"itemId": 1399,
+				"imageUrl": "/hoyolab-wiki/2023/10/13/146729530/a519d2e49b5bbefb2f189a80c30571cd_1675616892588909410.png",
+				"itemType": "Weapon",
+				"name": "她已闭上双眼",
+				"nameEn": "She Already Shut Her Eyes",
 				"rankType": 5,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
-				"itemType": "Weapon",
-				"name": "她已闭上双眼"
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			},
 			{
-				"itemId": 21014,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c01cfda2850429057b4a596413a86fad.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 589,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/7987eb5ae6739d63ce70a2900444e5d5_3722969671638428926.png",
 				"itemType": "Weapon",
-				"name": "此时恰好"
+				"name": "此时恰好",
+				"nameEn": "Perfect Timing",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21016,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/efbc1180309f8d3a91e2a4716ae05d54.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 591,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/9faeed2842482f716b42c0cd21667cbf_8149889544022949159.png",
 				"itemType": "Weapon",
-				"name": "宇宙市场趋势"
+				"name": "宇宙市场趋势",
+				"nameEn": "Trend of the Universal Market",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			},
 			{
-				"itemId": 21019,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c99760a3157f84ee445f8fcaf64069aa.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 594,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/423cba6ba9da519750873231e12092f4_2658038750381156690.png",
 				"itemType": "Weapon",
-				"name": "在蓝天下"
+				"name": "在蓝天下",
+				"nameEn": "Under the Blue Sky",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			}
 		],
 		"start": "2023-09-20 12:00:00",
@@ -1019,44 +1066,44 @@
 		"version": "1.3.1",
 		"items": [
 			{
-				"itemId": 23015,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/c8a6e6a540252faffcd241a8cc009581.png",
+				"itemId": 1398,
+				"imageUrl": "/hoyolab-wiki/2023/08/30/7998136/274e4d01efb391334126171753e400d7_8569025007475060876.png",
+				"itemType": "Weapon",
+				"name": "比阳光更明亮的",
+				"nameEn": "Brighter Than the Sun",
 				"rankType": 5,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
-				"itemType": "Weapon",
-				"name": "比阳光更明亮的"
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21018,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/0c4595a6ef5a37287806b9089816ea1f.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 593,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/6cf47bcf4d76f5cb3e32209201fdb2fd_5608070713183206925.png",
 				"itemType": "Weapon",
-				"name": "舞！舞！舞！"
+				"name": "舞！舞！舞！",
+				"nameEn": "Dance! Dance! Dance!",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21011,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/4b528108b5b4900ae098c13ef0296841.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 55,
+				"imageUrl": "/hoyowiki/2023/02/21/6678fe8d31a180e31a1e04ef1d8eadaf_7231314384566776724.png",
 				"itemType": "Weapon",
-				"name": "与行星相会"
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21009,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/4935725ff2bc6f248d5c8c061b01185f.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 53,
+				"imageUrl": "/hoyowiki/2023/02/21/ba9cd6f22f1b334d869b5414229ee7bd_942516886148531175.png",
 				"itemType": "Weapon",
-				"name": "朗道的选择"
+				"name": "朗道的选择",
+				"nameEn": "Landau's Choice",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			}
 		],
 		"start": "2023-08-30 06:00:00",
@@ -1066,44 +1113,44 @@
 		"version": "1.2.2",
 		"items": [
 			{
-				"itemId": 23006,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/86919e015177670f982c536ed08493b2.png",
+				"itemId": 1231,
+				"imageUrl": "/hoyolab-wiki/2023/08/22/84496276/cd8fbed3fe69c8584e08e8a9e0ccce00_2036100191059986968.png",
+				"itemType": "Weapon",
+				"name": "只需等待",
+				"nameEn": "Patience Is All You Need",
 				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
-				"itemType": "Weapon",
-				"name": "只需等待"
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21015,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/2e8e9d9adbe6bacd4c68bf114e9abe80.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 590,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/1d947dcdbad2ebbac2592da8873e1707_1747743481739952799.png",
 				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀"
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21008,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/08b844db78f6c1e22d1ca103100f1804.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 52,
+				"imageUrl": "/hoyowiki/2023/02/21/1c7c012eeb05699acc8c2ad33cee412a_9207997407084704522.png",
 				"itemType": "Weapon",
-				"name": "猎物的视线"
+				"name": "猎物的视线",
+				"nameEn": "Eyes of the Prey",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21006,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/6ccb8ebdcccb7b3d6489c4b752152514.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 50,
+				"imageUrl": "/hoyowiki/2023/02/21/78bdd2715945e3f1e87dc677d50f481e_7231314384566776724.png",
 				"itemType": "Weapon",
-				"name": "「我」的诞生"
+				"name": "「我」的诞生",
+				"nameEn": "The Birth of the Self",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			}
 		],
 		"start": "2023-08-09 12:00:00",
@@ -1113,44 +1160,44 @@
 		"version": "1.2.1",
 		"items": [
 			{
-				"itemId": 23009,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/e42f06475b8127fae636dfacae4ce31a.png",
+				"itemId": 1230,
+				"imageUrl": "/hoyolab-wiki/2023/07/20/7998136/d33e5d082c7b67a779c44c663bab3b51_5997614579255060169.png",
+				"itemType": "Weapon",
+				"name": "到不了的彼岸",
+				"nameEn": "The Unreachable Side",
 				"rankType": 5,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
-				"itemType": "Weapon",
-				"name": "到不了的彼岸"
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21012,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/89c1df9c82b619cb873fc8bbd46c9880.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 56,
+				"imageUrl": "/hoyowiki/2023/02/21/2fa2a29d45df6b229d2525f720b831c1_4357389817891565749.png",
 				"itemType": "Weapon",
-				"name": "秘密誓心"
+				"name": "秘密誓心",
+				"nameEn": "A Secret Vow",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			},
 			{
-				"itemId": 21007,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/7400c43ab3a5b12ce8795dd215bf35fa.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 51,
+				"imageUrl": "/hoyowiki/2023/02/21/07e286c59ffe9e045abdd364b6d3f5f0_918735250537819040.png",
 				"itemType": "Weapon",
-				"name": "同一种心情"
+				"name": "同一种心情",
+				"nameEn": "Shared Feeling",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21010,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/75f61a6c038a114c6ffac5dd8908640d.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 54,
+				"imageUrl": "/hoyowiki/2023/02/21/2f53efe41f6c16ce298f0bbafc170949_1511327361354317201.png",
 				"itemType": "Weapon",
-				"name": "论剑"
+				"name": "论剑",
+				"nameEn": "Swordplay",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			}
 		],
 		"start": "2023-07-19 06:00:00",
@@ -1160,44 +1207,44 @@
 		"version": "1.1.2",
 		"items": [
 			{
-				"itemId": 23008,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/abce5469229cf40ece19b45889665f9f.png",
+				"itemId": 806,
+				"imageUrl": "/hoyolab-wiki/2023/07/01/7998136/e0fbe9f982c1e21d0d0d117bf159e01f_4969186422556279291.png",
+				"itemType": "Weapon",
+				"name": "棺的回响",
+				"nameEn": "Echoes of the Coffin",
 				"rankType": 5,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
-				"itemType": "Weapon",
-				"name": "棺的回响"
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21001,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/0b8bbabded72d6c853ed6e230756b140.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 45,
+				"imageUrl": "/hoyowiki/2023/02/21/fb3acf8862148ccc99297b9c2669502c_7824066832447018591.png",
 				"itemType": "Weapon",
-				"name": "晚安与睡颜"
+				"name": "晚安与睡颜",
+				"nameEn": "Good Night and Sleep Well",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21020,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/cd9b927eaca48ed65b18d82ef3e52439.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 595,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/e92e4a0ff4acdb25556880c7e60d8bc6_7857015744515297414.png",
 				"itemType": "Weapon",
-				"name": "天才们的休憩"
+				"name": "天才们的休憩",
+				"nameEn": "Geniuses' Repose",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 21018,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/0c4595a6ef5a37287806b9089816ea1f.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 593,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/6cf47bcf4d76f5cb3e32209201fdb2fd_5608070713183206925.png",
 				"itemType": "Weapon",
-				"name": "舞！舞！舞！"
+				"name": "舞！舞！舞！",
+				"nameEn": "Dance! Dance! Dance!",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			}
 		],
 		"start": "2023-06-28 12:00:00",
@@ -1207,44 +1254,44 @@
 		"version": "1.1.1",
 		"items": [
 			{
-				"itemId": 23007,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d9e7a6b19e95b15a726dedff65fb49b0.png",
+				"itemId": 805,
+				"imageUrl": "/hoyolab-wiki/2023/06/07/7998136/dd30c9e39b8126dde54946cf2581215f_4234182455576051184.png",
+				"itemType": "Weapon",
+				"name": "雨一直下",
+				"nameEn": "Incessant Rain",
 				"rankType": 5,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
-				"itemType": "Weapon",
-				"name": "雨一直下"
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21017,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d7342ea6f2b730a8666b35a76eb6a953.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 592,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/6d091aed961227e1ee9544a6ed402e71_1544442331446954280.png",
 				"itemType": "Weapon",
-				"name": "点个关注吧！"
+				"name": "点个关注吧！",
+				"nameEn": "Subscribe for More!",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21004,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/dd66fdd8d8ad66a232a9b00f54073b12.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 48,
+				"imageUrl": "/hoyowiki/2023/02/21/f72de4833b12bd30234a4ecc82f59b7e_7824066832447018591.png",
 				"itemType": "Weapon",
-				"name": "记忆中的模样"
+				"name": "记忆中的模样",
+				"nameEn": "Memories of the Past",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21013,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/22401b942d9e0ce01ce79f7689520573.png",
-				"rankType": 4,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
+				"itemId": 57,
+				"imageUrl": "/hoyowiki/2023/02/21/0d119463b9a6b8fbbc03d4b0de786994_5214933404516381671.png",
 				"itemType": "Weapon",
-				"name": "别让世界静下来"
+				"name": "别让世界静下来",
+				"nameEn": "Make the World Clamor",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			}
 		],
 		"start": "2023-06-07 06:00:00",
@@ -1254,44 +1301,44 @@
 		"version": "1.0.2",
 		"items": [
 			{
-				"itemId": 23010,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/941d8f466226d7fcaffcf694e1a26fb8.png",
+				"itemId": 73,
+				"imageUrl": "/hoyowiki/2023/02/21/ac79e739072fa86b2f6d5f851bb2c916_952669953280599733.png",
+				"itemType": "Weapon",
+				"name": "拂晓之前",
+				"nameEn": "Before Dawn",
 				"rankType": 5,
-				"avatarBaseType": "3",
-				"weaponType": "mage",
-				"itemType": "Weapon",
-				"name": "拂晓之前"
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
 			},
 			{
-				"itemId": 21011,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/4b528108b5b4900ae098c13ef0296841.png",
-				"rankType": 4,
-				"avatarBaseType": "4",
-				"weaponType": "shaman",
+				"itemId": 55,
+				"imageUrl": "/hoyowiki/2023/02/21/6678fe8d31a180e31a1e04ef1d8eadaf_7231314384566776724.png",
 				"itemType": "Weapon",
-				"name": "与行星相会"
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21003,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/13f9a171f1035b9dfa1a2d8dfc9ba610.png",
-				"rankType": 4,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
+				"itemId": 47,
+				"imageUrl": "/hoyowiki/2023/02/21/5906dd1fb682903b2c8fa6b3a314febf_918735250537819040.png",
 				"itemType": "Weapon",
-				"name": "唯有沉默"
+				"name": "唯有沉默",
+				"nameEn": "Only Silence Remains",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21002,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/ddc7da93e9e7464aae52167b81079cc2.png",
-				"rankType": 4,
-				"avatarBaseType": "6",
-				"weaponType": "knight",
+				"itemId": 46,
+				"imageUrl": "/hoyowiki/2023/02/21/d30f1640606c482d1dde06f5234be0b2_4059157342224776055.png",
 				"itemType": "Weapon",
-				"name": "余生的第一天"
+				"name": "余生的第一天",
+				"nameEn": "Day One of My New Life",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
 			}
 		],
 		"start": "2023-05-17 18:00:00",
@@ -1301,44 +1348,44 @@
 		"version": "1.0.1",
 		"items": [
 			{
-				"itemId": 23001,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/371c722b5cabb968fec5d98af40e021d.png",
+				"itemId": 68,
+				"imageUrl": "/hoyowiki/2023/02/21/f342952758193dcdcd8dd1dde1cc969d_4815329713662711142.png",
+				"itemType": "Weapon",
+				"name": "于夜色中",
+				"nameEn": "In the Night",
 				"rankType": 5,
-				"avatarBaseType": "2",
-				"weaponType": "rogue",
-				"itemType": "Weapon",
-				"name": "于夜色中"
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 21000,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/28b759f9dfed4712cdab2de1e4b6b5c3.png",
-				"rankType": 4,
-				"avatarBaseType": "7",
-				"weaponType": "priest",
+				"itemId": 44,
+				"imageUrl": "/hoyowiki/2023/02/21/bbc831d2b1685bc85083551e51047e3f_2901581893313933971.png",
 				"itemType": "Weapon",
-				"name": "一场术后对话"
+				"name": "一场术后对话",
+				"nameEn": "Post-Op Conversation",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
-				"itemId": 21001,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/0b8bbabded72d6c853ed6e230756b140.png",
-				"rankType": 4,
-				"avatarBaseType": "5",
-				"weaponType": "warlock",
+				"itemId": 45,
+				"imageUrl": "/hoyowiki/2023/02/21/fb3acf8862148ccc99297b9c2669502c_7824066832447018591.png",
 				"itemType": "Weapon",
-				"name": "晚安与睡颜"
+				"name": "晚安与睡颜",
+				"nameEn": "Good Night and Sleep Well",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21005,
-				"element": "",
-				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/55d4599ff339fc5f8cf9347a6bacc414.png",
-				"rankType": 4,
-				"avatarBaseType": "1",
-				"weaponType": "warrior",
+				"itemId": 49,
+				"imageUrl": "/hoyowiki/2023/02/21/e35c7c440672f1a6626f7b379b2da5a0_4357389817891565749.png",
 				"itemType": "Weapon",
-				"name": "鼹鼠党欢迎你"
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "The Moles Welcome You",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
 			}
 		],
 		"start": "2023-04-26 06:00:00",
