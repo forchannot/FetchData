@@ -81,6 +81,7 @@ let nickNames = {
     "『我』的诞生": "「我」的诞生",
     "三月七": "三月七 - 存护",
     "维序者·特化型": "维序者-特化型",
+    "我将，巡征追猎": "我将,巡征追猎",
 }
 
 const getName = name => findObj(name, nickNames)
