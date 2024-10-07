@@ -60,6 +60,16 @@
 		"version": "2.5.1",
 		"items": [
 			{
+				"itemId": 3069,
+				"imageUrl": "/event-ugc-hoyowiki/2024/09/10/417971351/ea80ce754858ff9a2860736795a35bd3_8494550450715775391.png",
+				"itemType": "Weapon",
+				"name": "我将,巡征追猎",
+				"nameEn": "I Venture Forth to Hunt",
+				"rankType": 5,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
+			},
+			{
 				"itemId": 1231,
 				"imageUrl": "/hoyolab-wiki/2023/08/22/84496276/cd8fbed3fe69c8584e08e8a9e0ccce00_2036100191059986968.png",
 				"itemType": "Weapon",
