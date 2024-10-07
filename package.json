@@ -14,6 +14,7 @@
     "axios": "^1.3.5",
     "genshin-db": "^5.0.8",
     "puppeteer": "^19.8.5",
+    "sort-json": "^2.0.1",
     "yaml": "^2.2.1"
   }
 }

@@ -1,9 +1,10 @@
 const axios = require("axios")
 const fs = require("fs")
 const path = require('path')
+const sortJson = require('sort-json');
 
+const options = { ignoreCase: true, reverse: false, depth: 10};
 axios.defaults.withCredentials = true
-
 
 let params = [
     {
@@ -89,6 +90,7 @@ async function fetchAllPages(id) {
                         fs.mkdirSync(directoryPath, {recursive: true})
                     }
                     fs.writeFileSync(path.join(directoryPath, `${type}.json`), JSON.stringify(list.sort((a, b) => a.entry_page_id - b.entry_page_id), null, "\t"))
+                    sortJson.overwrite(path.join(directoryPath, `${type}.json`), options);
                 }
             } catch (error) {
                 console.error(`Error fetching pages for ${game}-${language}-${type}:`, error)
