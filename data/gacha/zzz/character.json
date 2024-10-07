@@ -1,5 +1,48 @@
 [
 	{
+		"version": "1.2.1",
+		"items": [
+			{
+				"itemId": 381,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/09/05/6972b0d890536070ddb28b1af7b671ec_280027749603350505.png",
+				"itemType": "Character",
+				"name": "凯撒·金",
+				"nameEn": "Caesar King",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 126,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/07/02/4a3910f9aad150df3aed53c5de28768e_8578434738157565712.png",
+				"itemType": "Character",
+				"name": "派派·韦尔",
+				"nameEn": "Piper Wheel",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 24,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/17/4ad598ef6760d23196d488cba5c1af8a_5032015665623889570.png",
+				"itemType": "Character",
+				"name": "安东 · 伊万诺夫",
+				"nameEn": "Anton Ivanov",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
+		"start": "2024-09-25 06:00:00",
+		"end": "2024-10-16 11:59:59"
+	},
+	{
 		"version": "1.1.2",
 		"items": [
 			{
