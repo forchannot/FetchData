@@ -2,6 +2,42 @@
 	{
 		"items": [
 			{
+				"itemId": 12403,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/41254237e958f8b9f351c1255481e279.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14401,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/4db3265f0f8d9361067407d252d79342.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15405,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/e8634af7e86e88d02907c3c7e0b7aba1.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-10-09 06:00:00",
+		"end": "2024-10-29 17:59:59"
+	},
+	{
+		"items": [
+			{
 				"itemId": 13509,
 				"weaponType": "Polearm",
 				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/512634b95b6cf31f2c0d8f7e6fff49e1.png",

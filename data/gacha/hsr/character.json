@@ -1,5 +1,23 @@
 [
 	{
+		"version": "2.5.2",
+		"items": [
+			{
+				"itemId": 1105,
+				"damageType": "1",
+				"element": "physical",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/281455e4018e6fba97fc7d3f23792bab.png",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "priest",
+				"itemType": "Character",
+				"name": "娜塔莎"
+			}
+		],
+		"start": "2024-10-02 12:00:00",
+		"end": "2024-10-22 14:59:59"
+	},
+	{
 		"version": "2.5.1",
 		"items": [
 			{
