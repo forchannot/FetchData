@@ -1,5 +1,48 @@
 [
 	{
+		"version": "5.1.1",
+		"items": [
+			{
+				"itemId": 5150,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/03/13/4388952f90bcfcf702ebe5a333daf2bc_7863677904377472234.png",
+				"itemType": "Weapon",
+				"name": "有乐御簾切",
+				"nameEn": "Uraku Misugiri",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 2004,
+				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 2020,
+				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 1967,
+				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "Rust",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2024-10-09 06:00:00",
+		"end": "2024-10-29 17:59:59"
+	},
+	{
 		"version": "5.0.2",
 		"items": [
 			{

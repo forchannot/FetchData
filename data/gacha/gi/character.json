@@ -1,5 +1,62 @@
 [
 	{
+		"version": "5.1.1",
+		"items": [
+			{
+				"itemId": 6924,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/09/25/b07074c2b9040516fd240b6b8d65c011_2487211347344319683.png",
+				"itemType": "Character",
+				"name": "希诺宁",
+				"nameEn": "Xilonen",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 4946,
+				"imageUrl": "/event-ugc-hoyowiki/2024/03/13/327628065/5470f90694af13476e49be7b8346e2b1_6630102441704406313.png",
+				"itemType": "Character",
+				"name": "千织",
+				"nameEn": "Chiori",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 2269,
+				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/6539bea71efd0f839db897cfc4094362_6098603835101164577.png",
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "Dori",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 2815,
+				"imageUrl": "/hoyolab-wiki/2022/09/28/47826599/2f43da4ece9eabfbde6ec2fcc81b3bff_2875120016696416193.png",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "Candace",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 2268,
+				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/37a18b6b6865c59063003a9380f08225_1063887604480584973.png",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "Collei",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2024-10-09 06:00:00",
+		"end": "2024-10-29 17:59:59"
+	},
+	{
 		"version": "5.0.2",
 		"items": [
 			{
