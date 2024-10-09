@@ -3,6 +3,16 @@
 		"version": "1.2.1",
 		"items": [
 			{
+				"itemId": 389,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/09/24/828ae1590e9d0ca06a7db8e5c1358986_7875442751562442512.png",
+				"itemType": "Weapon",
+				"name": "奔袭獠牙",
+				"nameEn": "Tusks of Fury",
+				"weaponType": "Defense",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
 				"itemId": 74,
 				"imageUrl": "/event-static-hoyowiki-admin/2024/05/27/51eea17bcd948bb74f838276c6637121_152065707901586759.png",
 				"itemType": "Weapon",
