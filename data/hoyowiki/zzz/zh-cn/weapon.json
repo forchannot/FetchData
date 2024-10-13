@@ -1032,7 +1032,8 @@
 			"attr_level_30": "{\"base_atk\":\"402\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"36.5%\"}}",
 			"attr_level_40": "{\"base_atk\":\"520\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"42.3%\"}}",
 			"attr_level_50": "{\"base_atk\":\"638\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"48%\"}}",
-			"attr_level_60": "{\"base_atk\":\"713\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"48%\"}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"-\"}}",
+			"equipment_skill": "安全巡查<p>暴击率提升<span style=\"color: rgb(43, 173, 0)\">15%</span>/<span style=\"color: rgb(43, 173, 0)\">18.8%</span>/<span style=\"color: rgb(43, 173, 0)\">22.6%</span>/<span style=\"color: rgb(43, 173, 0)\">26.4%</span>/<span style=\"color: rgb(43, 173, 0)\">30%</span>；发动<span style=\"color: rgb(255, 255, 255)\">[强化特殊技]</span>时，为装备者提供8层充能效果，最多叠加8层；<span style=\"color: rgb(255, 255, 255)\">[普通攻击]</span>造成<span style=\"color: rgb(254, 67, 126)\">以太伤害</span>时，消耗一层充能，使当前招式造成的伤害提升<span style=\"color: rgb(43, 173, 0)\">35%</span>/<span style=\"color: rgb(43, 173, 0)\">43.5%</span>/<span style=\"color: rgb(43, 173, 0)\">52%</span>/<span style=\"color: rgb(43, 173, 0)\">60.5%</span>/<span style=\"color: rgb(43, 173, 0)\">70%</span></p>",
 			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
 		},
 		"entry_page_id": "87",
@@ -1074,12 +1075,108 @@
 	{
 		"desc": "",
 		"display_field": {
+			"attr_level_10": "{\"base_atk\":\"13%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_atk\":\"16%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_atk\":\"19%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_atk\":\"22%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_atk\":\"25%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "碰撞势能<p><span style=\"color: rgb(255, 255, 255)\">[强化特殊技]</span>命中敌人时，随机触发以下三种效果中的一种，持续5秒，0.3秒内最多触发一次，同类效果不可叠加，重复触发时刷新持续时间，多个效果可以同时存在：装备者的攻击力提升<span style=\"color: rgb(43, 173, 0)\">8%</span>/<span style=\"color: rgb(43, 173, 0)\">9.2%</span>/<span style=\"color: rgb(43, 173, 0)\">10.4%</span>/<span style=\"color: rgb(43, 173, 0)\">11.6%</span>/<span style=\"color: rgb(43, 173, 0)\">12.8%</span>；装备者的异常精通提升<span style=\"color: rgb(43, 173, 0)\">40</span>/<span style=\"color: rgb(43, 173, 0)\">46</span>/<span style=\"color: rgb(43, 173, 0)\">52</span>/<span style=\"color: rgb(43, 173, 0)\">58</span>/<span style=\"color: rgb(43, 173, 0)\">64</span>点；装备者的属性异常积蓄效率提升<span style=\"color: rgb(43, 173, 0)\">25%</span>/<span style=\"color: rgb(43, 173, 0)\">28%</span>/<span style=\"color: rgb(43, 173, 0)\">32%</span>/<span style=\"color: rgb(43, 173, 0)\">36%</span>/<span style=\"color: rgb(43, 173, 0)\">40%</span>。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/cc480b364cd4a14edb32a461c3288c2a_8627904871926670787.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/c42230c34d597029c72bd0b16869e960_512646076671511906.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/6f6998fe1fdea9aafcb7c9fcb5fb1553_8438117255271343051.png\"]"
+		},
+		"entry_page_id": "274",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"id": "50",
+						"mi18n_key": "filter_custom_52",
+						"value": "异常"
+					}
+				],
+				"values": [
+					"异常"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "a",
+						"icon": "",
+						"id": "23",
+						"mi18n_key": "filter_custom_47",
+						"value": "A"
+					}
+				],
+				"values": [
+					"A"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/10/11a3dbac533133e4f95f1b8c286e62a8_1603463113582762690.png",
+		"name": "轰鸣座驾"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_10": "{\"base_atk\":\"13%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_atk\":\"16%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_atk\":\"19%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_atk\":\"22%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_atk\":\"25%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "超规防盗措施<p>攻击力提升<span style=\"color: #2bad00\">6%</span>/<span style=\"color: #2bad00\">6.9%</span>/<span style=\"color: #2bad00\">7.8%</span>/<span style=\"color: #2bad00\">8.7%</span>/<span style=\"color: #2bad00\">9.6%</span>，<span style=\"color: #FFFFFF\">[强化特殊技]</span>造成的伤害提升<span style=\"color: #2bad00\">15%</span>/<span style=\"color: #2bad00\">17.2%</span>/<span style=\"color: #2bad00\">19.5%</span>/<span style=\"color: #2bad00\">21.8%</span>/<span style=\"color: #2bad00\">24%</span>。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
+		},
+		"entry_page_id": "354",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"id": "48",
+						"mi18n_key": "filter_custom_50",
+						"value": "强攻"
+					}
+				],
+				"values": [
+					"强攻"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "a",
+						"icon": "",
+						"id": "23",
+						"mi18n_key": "filter_custom_47",
+						"value": "A"
+					}
+				],
+				"values": [
+					"A"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/12/165915622/682696984d9048bbb624e3e179f62243_4131791243757378291.png",
+		"name": "鎏金花信"
+	},
+	{
+		"desc": "",
+		"display_field": {
 			"attr_level_10": "{\"base_atk\":\"166\",\"base_imp\":\"9.4%\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_atk\":\"284\",\"base_imp\":\"11.5%\",\"dynamic\":{}}",
 			"attr_level_30": "{\"base_atk\":\"402\",\"base_imp\":\"13.7%\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_atk\":\"520\",\"base_imp\":\"15.8%\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_atk\":\"638\",\"base_imp\":\"18%\",\"dynamic\":{}}",
-			"attr_level_60": "{\"base_atk\":\"713\",\"base_imp\":\"18%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"base_imp\":\"-\",\"dynamic\":{}}",
 			"equipment_skill": "泠泠连奏<p><span style=\"color: rgb(255, 255, 255)\">[普通攻击]</span>命中敌人时，获得1层<span style=\"color: rgb(255, 255, 255)\">[茶劲]</span>，每层<span style=\"color: rgb(255, 255, 255)\">[茶劲]</span>使装备者的冲击力提升<span style=\"color: rgb(43, 173, 0)\">0.7%</span>/<span style=\"color: #2bad00\">0.88%</span>/<span style=\"color: #2bad00\">1.05%</span>/<span style=\"color: #2bad00\">1.22%</span>/<span style=\"color: #2bad00\">1.4%</span>，最多叠加30层，持续8秒，每层效果单独结算持续时间；获得<span style=\"color: rgb(255, 255, 255)\">[茶劲]</span>时，若装备者拥有的<span style=\"color: rgb(255, 255, 255)\">[茶劲]</span>层数大于等于15层，全队造成的伤害提升<span style=\"color: rgb(43, 173, 0)\">20%</span>/<span style=\"color: #2bad00\">23%</span>/<span style=\"color: #2bad00\">26%</span>/<span style=\"color: #2bad00\">29%</span>/<span style=\"color: #2bad00\">32%</span>，持续10秒，同名被动效果之间不可叠加。</p>",
 			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/fe3d9b3df343190aaa4ca2dbed091abf_663204191702084506.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/62b5480180321b8a3acc1de450257ed7_5289654393386347030.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/076d8c01e0fceff14e934348342b0acc_5068642522965979385.png\"]"
 		},
@@ -1121,7 +1218,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"dynamic\":{\"type\":\"base_mas\",\"value\":\"46\"}}",
+			"attr_level_20": "{\"dynamic\":{\"type\":\"base_mas\",\"value\":\"57\"}}",
+			"attr_level_30": "{\"dynamic\":{\"type\":\"base_mas\",\"value\":\"68\"}}",
+			"attr_level_40": "{\"dynamic\":{\"type\":\"base_mas\",\"value\":\"79\"}}",
+			"attr_level_50": "{\"dynamic\":{\"type\":\"base_mas\",\"value\":\"90\"}}",
+			"attr_level_60": "{\"dynamic\":{\"type\":\"base_mas\",\"value\":\"-\"}}",
+			"equipment_skill": "恣横猎心<p>发动<span style=\"color: rgb(255, 255, 255)\">[冲刺攻击]</span>时，获得1层<span style=\"color: rgb(255, 255, 255)\">[猎意]</span>，每层<span style=\"color: rgb(255, 255, 255)\">[猎意]</span>使装备者造成的<span style=\"color: rgb(240, 209, 43)\">物理伤害</span>提升<span style=\"color: rgb(43, 173, 0)\">12%</span>/<span style=\"color: rgb(43, 173, 0)\">15%</span>/<span style=\"color: rgb(43, 173, 0)\">18%</span>/<span style=\"color: rgb(43, 173, 0)\">21%</span>/<span style=\"color: rgb(43, 173, 0)\">24%</span>，最多叠加3层，持续10秒，0.5秒内最多触发一次，重复触发时刷新持续时间；进入接战状态或触发<span style=\"color: rgb(255, 255, 255)\">[极限闪避]</span>时，直接获得3层<span style=\"color: rgb(255, 255, 255)\">[猎意]</span>；<span style=\"color: rgb(255, 255, 255)\">[猎意]</span>叠加至层数上限后，装备者的属性异常积蓄效率提升<span style=\"color: rgb(43, 173, 0)\">40%</span>/<span style=\"color: rgb(43, 173, 0)\">50%</span>/<span style=\"color: rgb(43, 173, 0)\">60%</span>/<span style=\"color: rgb(43, 173, 0)\">70%</span>/<span style=\"color: rgb(43, 173, 0)\">80%</span>。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/cc480b364cd4a14edb32a461c3288c2a_8627904871926670787.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/c42230c34d597029c72bd0b16869e960_512646076671511906.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/6f6998fe1fdea9aafcb7c9fcb5fb1553_8438117255271343051.png\"]"
+		},
 		"entry_page_id": "377",
 		"filter_values": {
 			"filter_key_13": {
@@ -1160,7 +1266,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"base_atk\":\"13%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_atk\":\"16%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_atk\":\"19%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_atk\":\"22%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_atk\":\"25%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "标准格挡术<p>拥有护盾时，装备者的能量自动回复提升<span style=\"color: #2bad00\">0.4</span>/<span style=\"color: #2bad00\">0.46</span>/<span style=\"color: #2bad00\">0.52</span>/<span style=\"color: #2bad00\">0.58</span>/<span style=\"color: #2bad00\">0.64</span>点/秒；<span style=\"color: #FFFFFF\">[强化特殊技]</span>/<span style=\"color: #FFFFFF\">[支援突击]</span>累积的属性异常积蓄值提升<span style=\"color: #2bad00\">36%</span>/<span style=\"color: #2bad00\">40%</span>/<span style=\"color: #2bad00\">45%</span>/<span style=\"color: #2bad00\">50%</span>/<span style=\"color: #2bad00\">55%</span>。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/b55c3bb4876c335cfc430086ccd6cd85_3329131429451840753.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/a06c03423afb97c92471cfcf34c0016b_6184163444560179374.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/6cd4d8bc7818c11edfa0bf6443bf3cb1_157478168187479398.png\"]"
+		},
 		"entry_page_id": "378",
 		"filter_values": {
 			"filter_key_13": {
@@ -1206,6 +1321,7 @@
 			"attr_level_40": "{\"base_imp\":\"15.8%\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_imp\":\"18%\",\"dynamic\":{}}",
 			"attr_level_60": "{\"base_imp\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "不破铁骑<p>装备者施加的护盾值提升<span style=\"color: rgb(43, 173, 0)\">30%</span>/<span style=\"color: rgb(43, 173, 0)\">38%</span>/<span style=\"color: rgb(43, 173, 0)\">46%</span>/<span style=\"color: rgb(43, 173, 0)\">52%</span>/<span style=\"color: rgb(43, 173, 0)\">60%</span>；队伍中任意角色触发<span style=\"color: rgb(255, 255, 255)\">[破招]</span>或<span style=\"color: rgb(255, 255, 255)\">[极限闪避]</span>时，全队造成的伤害提升<span style=\"color: rgb(43, 173, 0)\">18%</span>/<span style=\"color: rgb(43, 173, 0)\">22.5%</span>/<span style=\"color: rgb(43, 173, 0)\">27%</span>/<span style=\"color: rgb(43, 173, 0)\">31.5%</span>/<span style=\"color: rgb(43, 173, 0)\">36%</span>，造成的失衡值提升<span style=\"color: rgb(43, 173, 0)\">12%</span>/<span style=\"color: rgb(43, 173, 0)\">15%</span>/<span style=\"color: rgb(43, 173, 0)\">18%</span>/<span style=\"color: rgb(43, 173, 0)\">21%</span>/<span style=\"color: rgb(43, 173, 0)\">24%</span>，持续20秒，同名被动效果之间不可叠加。</p>",
 			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/b55c3bb4876c335cfc430086ccd6cd85_3329131429451840753.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/a06c03423afb97c92471cfcf34c0016b_6184163444560179374.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/6cd4d8bc7818c11edfa0bf6443bf3cb1_157478168187479398.png\"]"
 		},
 		"entry_page_id": "389",

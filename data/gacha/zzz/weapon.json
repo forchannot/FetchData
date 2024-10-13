@@ -13,6 +13,16 @@
 				"rankType": 5
 			},
 			{
+				"itemId": 274,
+				"imageUrl": "/event-ugc-hoyowiki/2024/07/10/98205622/217697cd68f202661dc1480bdaca4414_9009881563518274210.png",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "Roaring Ride",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4
+			},
+			{
 				"itemId": 74,
 				"imageUrl": "/event-static-hoyowiki-admin/2024/05/27/51eea17bcd948bb74f838276c6637121_152065707901586759.png",
 				"itemType": "Weapon",
