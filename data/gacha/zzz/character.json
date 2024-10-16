@@ -1,5 +1,48 @@
 [
 	{
+		"version": "1.2.2",
+		"items": [
+			{
+				"itemId": 382,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/10/14/299a89bfbb926df9a396ad76db78f6f9_5120076859000576241.png",
+				"itemType": "Character",
+				"name": "柏妮思·怀特\n",
+				"nameEn": "Burnice White",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 125,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/07/02/0005cb04259b2f2101e5aeac52033299_4730938854595310447.png",
+				"itemType": "Character",
+				"name": "露西亚娜·德·蒙特夫",
+				"nameEn": "Luciana de Montefio",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 20,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/23/3815b87d0e526b12127e69f5baed3fa7_2071488341033625974.png",
+				"itemType": "Character",
+				"name": "妮可·德玛拉",
+				"nameEn": "Nicole Demara",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ether",
+				"elementCN": "以太"
+			}
+		],
+		"start": "2024-10-16 12:00:00",
+		"end": "2024-11-05 14:59:59"
+	},
+	{
 		"version": "1.2.1",
 		"items": [
 			{

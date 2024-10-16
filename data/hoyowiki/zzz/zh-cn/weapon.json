@@ -1075,6 +1075,54 @@
 	{
 		"desc": "",
 		"display_field": {
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"equipment_skill": "踩踏事故<p>队伍中任意友方单位攻击命中敌人时，队伍中所有友方单位的攻击力提升<span style=\"color: rgb(43, 173, 0)\">2.5%</span>/<span style=\"color: rgb(43, 173, 0)\">2.8%</span>/<span style=\"color: rgb(43, 173, 0)\">3.2%</span>/<span style=\"color: rgb(43, 173, 0)\">3.6%</span>/<span style=\"color: rgb(43, 173, 0)\">4%</span>，最多叠加4层，持续8秒，每层效果单独结算持续时间，每名友方单位最多提供1层增益效果，同名被动效果之间不可叠加。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/0c47aea2e254d29ca955e00f539077bc_3996395642545801088.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f964aba564bfbee7495c130afb265d08_6200708887940513873.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f84f7953469e33dba56bddce76fbabfd_2043034920238660856.png\"]"
+		},
+		"entry_page_id": "273",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/e1ce1ff7a8c3debf3235b2bbd94bd4c0_600450662271124453.png",
+						"id": "51",
+						"mi18n_key": "filter_custom_53",
+						"value": "支援"
+					}
+				],
+				"values": [
+					"支援"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "a",
+						"icon": "",
+						"id": "23",
+						"mi18n_key": "filter_custom_47",
+						"value": "A"
+					}
+				],
+				"values": [
+					"A"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/10/2695b17111a44aa7c95f820e29473b27_7755924245786511210.png",
+		"name": "好斗的阿炮"
+	},
+	{
+		"desc": "",
+		"display_field": {
 			"attr_level_10": "{\"base_atk\":\"13%\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_atk\":\"16%\",\"dynamic\":{}}",
 			"attr_level_30": "{\"base_atk\":\"19%\",\"dynamic\":{}}",
@@ -1359,5 +1407,54 @@
 		},
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/06/165915622/cc39b26bb28d3276d79a607268d8b5dd_8388298156897075165.png",
 		"name": "奔袭獠牙"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_0": "{\"base_atk\":\"12%\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_atk\":\"15.6%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_atk\":\"19.2%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_atk\":\"22.8%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_atk\":\"26.4%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_atk\":\"30%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"30%\",\"dynamic\":{}}",
+			"equipment_skill": "焦油斟注<p>位于后场时，装备者的能量自动回复提升<span style=\"color: rgb(43, 173, 0)\">0.6</span>/<span style=\"color: rgb(43, 173, 0)\">0.75</span>/<span style=\"color: rgb(43, 173, 0)\">0.9</span>/<span style=\"color: rgb(43, 173, 0)\">1.05</span>/<span style=\"color: rgb(43, 173, 0)\">1.2</span>点/秒；<span style=\"color: rgb(255, 255, 255)\">[强化特殊技]</span>或<span style=\"color: rgb(255, 255, 255)\">[支援攻击]</span>命中敌人时，装备者造成的伤害提升<span style=\"color: rgb(43, 173, 0)\">3.5%</span>/<span style=\"color: rgb(43, 173, 0)\">4.4%</span>/<span style=\"color: rgb(43, 173, 0)\">5.2%</span>/<span style=\"color: rgb(43, 173, 0)\">6.1%</span>/<span style=\"color: rgb(43, 173, 0)\">7%</span>，最多叠加10层，持续6秒，0.3秒内最多触发一次，位于后场时叠加效率翻倍，重复触发时刷新持续时间；获得伤害提升效果时，若叠加层数大于等于5层，则装备者的异常精通额外提升<span style=\"color: rgb(43, 173, 0)\">50</span>/<span style=\"color: rgb(43, 173, 0)\">62</span>/<span style=\"color: rgb(43, 173, 0)\">75</span>/<span style=\"color: rgb(43, 173, 0)\">87</span>/<span style=\"color: rgb(43, 173, 0)\">100</span>点，异常精通提升效果不可叠加，持续6秒。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/0c47aea2e254d29ca955e00f539077bc_3996395642545801088.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f964aba564bfbee7495c130afb265d08_6200708887940513873.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f84f7953469e33dba56bddce76fbabfd_2043034920238660856.png\"]"
+		},
+		"entry_page_id": "525",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"id": "50",
+						"mi18n_key": "filter_custom_52",
+						"value": "异常"
+					}
+				],
+				"values": [
+					"异常"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "22",
+						"mi18n_key": "filter_custom_48",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/15/7f111e62ec1d2c33b42ae9d1fe7c7cc7_6166589729215080399.png",
+		"name": "灼心摇壶"
 	}
 ]

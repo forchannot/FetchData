@@ -1933,10 +1933,95 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"592\",\"base_atk\":\"124\",\"base_def\":\"48\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1722\",\"base_atk\":\"235\",\"base_def\":\"139\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"2932\",\"base_atk\":\"355\",\"base_def\":\"238\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4143\",\"base_atk\":\"474\",\"base_def\":\"337\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5353\",\"base_atk\":\"593\",\"base_def\":\"436\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6564\",\"base_atk\":\"713\",\"base_def\":\"535\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"7368\",\"base_atk\":\"788\",\"base_def\":\"600\",\"dynamic\":{}}",
+			"materials": "[]"
+		},
 		"entry_page_id": "382",
-		"filter_values": {},
-		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/299a89bfbb926df9a396ad76db78f6f9_3460315177742362097.png",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "pierce",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/8d73540a22fd463a1f70942fca93ee9b_5768967548377443146.png",
+						"id": "14",
+						"mi18n_key": "filter_custom_10",
+						"value": "Pierce"
+					}
+				],
+				"values": [
+					"Pierce"
+				]
+			},
+			"agent_faction": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
+						"id": "77",
+						"mi18n_key": "filter_custom_37",
+						"value": "Sons of Calydon"
+					}
+				],
+				"values": [
+					"Sons of Calydon"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "anomaly",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/55982d13c3284d382a9a59ce9f5e5d50_2052082579823154975.png",
+						"id": "5",
+						"mi18n_key": "filter_custom_52",
+						"value": "Anomaly"
+					}
+				],
+				"values": [
+					"Anomaly"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "fire",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/f7bdcd7c6574c22e6c90f25cae025376_3782022421620830515.png",
+						"id": "9",
+						"mi18n_key": "filter_custom_4",
+						"value": "Fire"
+					}
+				],
+				"values": [
+					"Fire"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/14/299a89bfbb926df9a396ad76db78f6f9_5120076859000576241.png",
 		"name": "Burnice White"
 	}
 ]

@@ -1,5 +1,42 @@
 [
 	{
+		"version": "1.2.2",
+		"items": [
+			{
+				"itemId": 525,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/10/15/7f111e62ec1d2c33b42ae9d1fe7c7cc7_6166589729215080399.png",
+				"itemType": "Weapon",
+				"name": "灼心摇壶",
+				"nameEn": "Flamemaker Shaker",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 273,
+				"imageUrl": "/event-ugc-hoyowiki/2024/07/10/98205622/891107f23e56cbac361562e236d64db7_7673917629847429576.png",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "Kaboom the Cannon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 71,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/27/2021b8577a58805c3a25c7ac63e827de_3065549949730004307.png",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "The Vault",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			}
+		],
+		"start": "2024-10-16 12:00:00",
+		"end": "2024-11-05 14:59:59"
+	},
+	{
 		"version": "1.2.1",
 		"items": [
 			{
