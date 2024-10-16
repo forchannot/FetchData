@@ -1,5 +1,99 @@
 [
 	{
+		"version": "2.6.2",
+		"items": [
+			{
+				"itemId": 2370,
+				"imageUrl": "/event-ugc-hoyowiki/2024/03/26/326693439/8707622cabd577ddf02a0fd00fbd6fd1_5022746560518718047.png",
+				"itemType": "Weapon",
+				"name": "行于流逝的岸",
+				"nameEn": "Along the Passing Shore",
+				"rankType": 5,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 2369,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/04/16/4dc0c4cf986936473875c166a6d36ab7_8812724644606177897.png",
+				"itemType": "Weapon",
+				"name": "命运从未公平",
+				"nameEn": "Inherently Unjust Destiny",
+				"rankType": 5,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
+			},
+			{
+				"itemId": 46,
+				"imageUrl": "/hoyowiki/2023/02/21/d30f1640606c482d1dde06f5234be0b2_4059157342224776055.png",
+				"itemType": "Weapon",
+				"name": "余生的第一天",
+				"nameEn": "Day One of My New Life",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
+			},
+			{
+				"itemId": 2503,
+				"imageUrl": "/event-ugc-hoyowiki/2024/05/17/326693439/ff00ea6257b47373b18e3ab3b8d4f418_8147110520531310407.png",
+				"itemType": "Weapon",
+				"name": "无边曼舞",
+				"nameEn": "Boundless Choreo",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 57,
+				"imageUrl": "/hoyowiki/2023/02/21/0d119463b9a6b8fbbc03d4b0de786994_5214933404516381671.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "Make the World Clamor",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
+			}
+		],
+		"start": "2024-11-13 12:00:00",
+		"end": "2024-12-03 14:59:59"
+	},
+	{
+		"version": "2.6.1",
+		"items": [
+			{
+				"itemId": 1398,
+				"imageUrl": "/hoyolab-wiki/2023/08/30/7998136/274e4d01efb391334126171753e400d7_8569025007475060876.png",
+				"itemType": "Weapon",
+				"name": "比阳光更明亮的",
+				"nameEn": "Brighter Than the Sun",
+				"rankType": 5,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 2647,
+				"imageUrl": "/event-ugc-hoyowiki/2024/07/30/326693439/de46ad848380c6da1ea41c2d63a19b06_5637539227918155780.png",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "After the Charmony Fall ",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 594,
+				"imageUrl": "/hoyolab-wiki/2023/05/07/7998136/423cba6ba9da519750873231e12092f4_2658038750381156690.png",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "Under the Blue Sky",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2024-10-23 06:00:00",
+		"end": "2024-11-13 11:59:59"
+	},
+	{
 		"version": "2.5.2",
 		"items": [
 			{
