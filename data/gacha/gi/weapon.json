@@ -3,6 +3,15 @@
 		"version": "5.1.1",
 		"items": [
 			{
+				"itemId": 7029,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/09/27/862200e1c8e0ee60c2396d8f4fbe7fb8_4291183729855777874.png",
+				"itemType": "Weapon",
+				"name": "岩峰巡歌",
+				"nameEn": "Peak Patrol Song",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
 				"itemId": 5150,
 				"imageUrl": "/event-static-hoyowiki-admin/2024/03/13/4388952f90bcfcf702ebe5a333daf2bc_7863677904377472234.png",
 				"itemType": "Weapon",
@@ -10,6 +19,24 @@
 				"nameEn": "Uraku Misugiri",
 				"weaponType": "Sword",
 				"rankType": 5
+			},
+			{
+				"itemId": 7028,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/09/27/9fbe8cf3da1d476d4c5a228017656cd1_114889972255186755.png",
+				"itemType": "Weapon",
+				"name": "弥坚骨",
+				"nameEn": "Sturdy Bone",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 7031,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/09/27/201424fa6a98ffb190ae82c8ad7d0cc3_6084387639848528037.png",
+				"itemType": "Weapon",
+				"name": "镇山之钉",
+				"nameEn": "Mountain-Bracing Bolt",
+				"weaponType": "Polearm",
+				"rankType": 4
 			},
 			{
 				"itemId": 2004,

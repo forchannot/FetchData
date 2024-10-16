@@ -10324,5 +10324,29 @@
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/23/8a6b418598f555deba7da922385254a2_8112788546506820868.png",
 		"name": "Chain Breaker"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7028",
+		"filter_values": {},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/27/9fbe8cf3da1d476d4c5a228017656cd1_114889972255186755.png",
+		"name": "Sturdy Bone"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7029",
+		"filter_values": {},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/27/862200e1c8e0ee60c2396d8f4fbe7fb8_4291183729855777874.png",
+		"name": "Peak Patrol Song"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7031",
+		"filter_values": {},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/27/201424fa6a98ffb190ae82c8ad7d0cc3_6084387639848528037.png",
+		"name": "Mountain-Bracing Bolt"
 	}
 ]
