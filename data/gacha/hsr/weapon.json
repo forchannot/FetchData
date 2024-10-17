@@ -1,5 +1,59 @@
 [
 	{
+		"version": "2.6.2",
+		"items": [
+			{
+				"itemId": 21002,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e8fba2c6292c460e7fdbde2fa1ae973.png",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Weapon",
+				"name": "余生的第一天"
+			},
+			{
+				"itemId": 21013,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f86c80fbe7f3c74e79fa2d89e70a353.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Weapon",
+				"name": "别让世界静下来"
+			}
+		],
+		"start": "2024-11-13 12:00:00",
+		"end": "2024-12-03 14:59:59"
+	},
+	{
+		"version": "2.6.1",
+		"items": [
+			{
+				"itemId": 23015,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/431acbf55d69a74c02ddaab652ad8fed.png",
+				"rankType": 5,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "比阳光更明亮的"
+			},
+			{
+				"itemId": 21019,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2cb68d4e40485fb60e4731309f3a3c54.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Weapon",
+				"name": "在蓝天下"
+			}
+		],
+		"start": "2024-10-23 06:00:00",
+		"end": "2024-11-13 11:59:59"
+	},
+	{
 		"version": "2.5.2",
 		"items": [
 			{
