@@ -1,5 +1,62 @@
 [
 	{
+		"version": "5.1.2",
+		"items": [
+			{
+				"itemId": 34,
+				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e3fed4c9df8745a0c1fa91e954fde2ad_4221141300460786892.png",
+				"itemType": "Character",
+				"name": "胡桃",
+				"nameEn": "Hu Tao",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 2850,
+				"imageUrl": "/hoyolab-wiki/2022/11/01/47826599/f29490bddc56b4a6773b6c5003bbb853_9178865138637843993.png",
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "Nahida",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 5598,
+				"imageUrl": "/event-static-hoyowiki-admin/2024/05/30/cdb7abfcb86138e5b618946a5466d442_2702695812908100899.png",
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "Sethos",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 39,
+				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "Xingqiu",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 2256,
+				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9078fcb33f27896df29f7017e5da9b50_4656265182889713605.png",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "Kuki Shinobu",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2024-10-29 18:00:00",
+		"end": "2024-11-19 14:59:59"
+	},
+	{
 		"version": "5.1.1",
 		"items": [
 			{

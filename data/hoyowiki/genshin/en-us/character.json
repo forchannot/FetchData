@@ -6100,6 +6100,21 @@
 		"display_field": {},
 		"entry_page_id": "3964",
 		"filter_values": {
+			"character_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "550",
+						"mi18n_key": "filter_550",
+						"value": "ATK"
+					}
+				],
+				"values": [
+					"ATK"
+				]
+			},
 			"character_rarity": {
 				"key": null,
 				"value_types": [
@@ -7681,6 +7696,36 @@
 					"DEF"
 				]
 			},
+			"character_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_2",
+						"value": "5-Star"
+					}
+				],
+				"values": [
+					"5-Star"
+				]
+			},
+			"character_region": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1456",
+						"mi18n_key": "filter_1456",
+						"value": "Natlan"
+					}
+				],
+				"values": [
+					"Natlan"
+				]
+			},
 			"character_vision": {
 				"key": null,
 				"value_types": [
@@ -7714,5 +7759,83 @@
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/25/b07074c2b9040516fd240b6b8d65c011_2487211347344319683.png",
 		"name": "Xilonen"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7079",
+		"filter_values": {
+			"character_region": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1456",
+						"mi18n_key": "filter_1456",
+						"value": "Natlan"
+					}
+				],
+				"values": [
+					"Natlan"
+				]
+			},
+			"character_vision": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "electro",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/16d344b6abbc369a2db9d46d6f31305b_7144738962629629573.png",
+						"id": "773",
+						"mi18n_key": "filter_773",
+						"value": "Electro"
+					}
+				],
+				"values": [
+					"Electro"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/15/35428890/111bf7775d3d25ec3b3ef40b7decd59a_8992231375556288068.png",
+		"name": "Ororon"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7080",
+		"filter_values": {
+			"character_region": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1456",
+						"mi18n_key": "filter_1456",
+						"value": "Natlan"
+					}
+				],
+				"values": [
+					"Natlan"
+				]
+			},
+			"character_vision": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "anemo",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/6b5c0d861fd1b4791bd602d3e7296598_8700657350379813969.png",
+						"id": "782",
+						"mi18n_key": "filter_782",
+						"value": "Anemo"
+					}
+				],
+				"values": [
+					"Anemo"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/15/35428890/deccfeeace08a15b423781bf13aee53c_8247620773017879262.png",
+		"name": "Chasca"
 	}
 ]

@@ -10329,7 +10329,53 @@
 		"desc": "",
 		"display_field": {},
 		"entry_page_id": "7028",
-		"filter_values": {},
+		"filter_values": {
+			"weapon_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "142",
+						"mi18n_key": "filter_142",
+						"value": "ATK Percentage"
+					}
+				],
+				"values": [
+					"ATK Percentage"
+				]
+			},
+			"weapon_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "689",
+						"mi18n_key": "filter_689",
+						"value": "4-Star"
+					}
+				],
+				"values": [
+					"4-Star"
+				]
+			},
+			"weapon_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "403",
+						"mi18n_key": "filter_403",
+						"value": "Sword"
+					}
+				],
+				"values": [
+					"Sword"
+				]
+			}
+		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/27/9fbe8cf3da1d476d4c5a228017656cd1_114889972255186755.png",
 		"name": "Sturdy Bone"
 	},
@@ -10337,7 +10383,53 @@
 		"desc": "",
 		"display_field": {},
 		"entry_page_id": "7029",
-		"filter_values": {},
+		"filter_values": {
+			"weapon_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "157",
+						"mi18n_key": "filter_157",
+						"value": "DEF Percentage"
+					}
+				],
+				"values": [
+					"DEF Percentage"
+				]
+			},
+			"weapon_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "671",
+						"mi18n_key": "filter_671",
+						"value": "5-Star"
+					}
+				],
+				"values": [
+					"5-Star"
+				]
+			},
+			"weapon_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "403",
+						"mi18n_key": "filter_403",
+						"value": "Sword"
+					}
+				],
+				"values": [
+					"Sword"
+				]
+			}
+		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/27/862200e1c8e0ee60c2396d8f4fbe7fb8_4291183729855777874.png",
 		"name": "Peak Patrol Song"
 	},
@@ -10345,7 +10437,53 @@
 		"desc": "",
 		"display_field": {},
 		"entry_page_id": "7031",
-		"filter_values": {},
+		"filter_values": {
+			"weapon_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "217",
+						"mi18n_key": "filter_217",
+						"value": "Energy Recharge"
+					}
+				],
+				"values": [
+					"Energy Recharge"
+				]
+			},
+			"weapon_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "689",
+						"mi18n_key": "filter_689",
+						"value": "4-Star"
+					}
+				],
+				"values": [
+					"4-Star"
+				]
+			},
+			"weapon_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "448",
+						"mi18n_key": "filter_448",
+						"value": "Polearm"
+					}
+				],
+				"values": [
+					"Polearm"
+				]
+			}
+		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/27/201424fa6a98ffb190ae82c8ad7d0cc3_6084387639848528037.png",
 		"name": "Mountain-Bracing Bolt"
 	}
