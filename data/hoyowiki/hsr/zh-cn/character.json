@@ -4188,7 +4188,7 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"base_speed\":\"96\",\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"97\",\"base_def\":\"62\",\"base_speed\":\"96\",\"dynamic\":{}}",
 			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"717\",\"base_def\":\"460\",\"dynamic\":{}}"
 		},
 		"entry_page_id": "3057",
@@ -4255,7 +4255,7 @@
 			}
 		},
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/05/11038150/e0417148ff4428ef0d371efbb0c80e0b_5415786627602961380.png",
-		"name": "乱破(即将上线)"
+		"name": "乱破"
 	},
 	{
 		"desc": "",

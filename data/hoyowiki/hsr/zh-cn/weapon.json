@@ -8917,5 +8917,167 @@
 		},
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/10/417971351/ea80ce754858ff9a2860736795a35bd3_8494550450715775391.png",
 		"name": "我将,巡征追猎"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\",\"dynamic\":{}}",
+			"equipment_skill": "学院式剪接<p>使装备者的速度提高<span style=\"color: rgb(255, 200, 112)\">8/9/10/11/12%</span>，攻击处于弱点击破状态下的敌方目标后，恢复<span style=\"color: rgb(255, 200, 112)\">3/3.5/4/4.5/5</span>点能量，该效果每回合最多触发2次。</p>"
+		},
+		"entry_page_id": "3168",
+		"filter_values": {
+			"equipment_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "abundance",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"id": "1704",
+						"mi18n_key": "filter_1704",
+						"value": "丰饶"
+					}
+				],
+				"values": [
+					"丰饶"
+				]
+			},
+			"equipment_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "1725",
+						"mi18n_key": "filter_1725",
+						"value": "四星"
+					}
+				],
+				"values": [
+					"四星"
+				]
+			},
+			"equipment_skill_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1797",
+						"mi18n_key": "filter_1797",
+						"value": "速度"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2623",
+						"mi18n_key": "filter_2623",
+						"value": "能量"
+					}
+				],
+				"values": [
+					"速度",
+					"能量"
+				]
+			},
+			"equipment_source": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1857",
+						"mi18n_key": "filter_1857",
+						"value": "限定跃迁"
+					}
+				],
+				"values": [
+					"限定跃迁"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/24/326693439/224cfcf1fa51d7d0f7d0803f9f44989f_8030153620345582531.png",
+		"name": "梦的蒙太奇"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"26\",\"base_def\":\"24\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"529\",\"dynamic\":{}}",
+			"equipment_skill": "除邪<p>使装备者的击破特攻提高<span style=\"color: rgb(255, 200, 112)\">60/70/80/90/100%</span>。进入战斗时立即恢复<span style=\"color: rgb(255, 200, 112)\">30/32.5/35/37.5/40点</span>能量，且装备者发动终结技后获得【雷遁】，发动2次普通攻击后，装备者行动提前<span style=\"color: rgb(255, 200, 112)\">50/55/60/65/70%</span>，并移除【雷遁】。装备者发动终结技后会重设【雷遁】。</p>"
+		},
+		"entry_page_id": "3169",
+		"filter_values": {
+			"equipment_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "erudition",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"id": "1656",
+						"mi18n_key": "filter_1656",
+						"value": "智识"
+					}
+				],
+				"values": [
+					"智识"
+				]
+			},
+			"equipment_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "1738",
+						"mi18n_key": "filter_1738",
+						"value": "五星"
+					}
+				],
+				"values": [
+					"五星"
+				]
+			},
+			"equipment_skill_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2623",
+						"mi18n_key": "filter_2623",
+						"value": "能量"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2643",
+						"mi18n_key": "filter_2643",
+						"value": "击破特攻"
+					}
+				],
+				"values": [
+					"能量",
+					"击破特攻"
+				]
+			},
+			"equipment_source": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1857",
+						"mi18n_key": "filter_1857",
+						"value": "限定跃迁"
+					}
+				],
+				"values": [
+					"限定跃迁"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/24/326693439/b2c478416669da0b93624d5a6141c394_2928699210662497988.png",
+		"name": "忍法帖•缭乱破魔"
 	}
 ]

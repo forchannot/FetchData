@@ -4235,8 +4235,8 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"dynamic\":{}}",
-			"attr_level_80": "{\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"147\",\"base_atk\":\"97\",\"base_def\":\"62\",\"base_speed\":\"96\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1086\",\"base_atk\":\"717\",\"base_def\":\"460\",\"base_speed\":\"96\",\"dynamic\":{}}"
 		},
 		"entry_page_id": "3057",
 		"filter_values": {
@@ -4301,8 +4301,8 @@
 				]
 			}
 		},
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/27/5308864/e0417148ff4428ef0d371efbb0c80e0b_2636027721220641078.png",
-		"name": "Rappa (Coming Soon)"
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/15/2c37ae42aa895d46d1e223bb26be372d_5310808099397300549.png",
+		"name": "Rappa"
 	},
 	{
 		"desc": "",

@@ -70,6 +70,18 @@
 		"version": "2.6.1",
 		"items": [
 			{
+				"itemId": 3057,
+				"imageUrl": "/event-ugc-hoyowiki/2024/09/05/11038150/e0417148ff4428ef0d371efbb0c80e0b_5415786627602961380.png",
+				"itemType": "Character",
+				"name": "乱破",
+				"nameEn": "Rappa",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 5,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
+			},
+			{
 				"itemId": 1226,
 				"imageUrl": "/hoyolab-wiki/2023/07/07/84496276/8f0c086968f504bde0b12d6b94b4622c_6180903279327474961.png",
 				"itemType": "Character",

@@ -5769,8 +5769,8 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"26\",\"base_def\":\"18\"}",
-			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"582\",\"base_def\":\"396\"}",
+			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"26\",\"base_def\":\"18\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"582\",\"base_def\":\"396\",\"dynamic\":{}}",
 			"equipment_skill": "With This Evening Jade<p>Increases the wearer's CRIT DMG by <span style=\"color: rgb(255, 200, 112)\">20%/23%/26%/29%/32%</span>. When an ally gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to a max of 3 stacks. Each stack of Eclipse increases the DMG of the wearer's next attack by <span style=\"color: rgb(255, 200, 112)\">14%/16.5%/19%/21.5%/24%</span>. When 3 stacks are reached, additionally enables the attack to ignore <span style=\"color: rgb(255, 200, 112)\">12%/14%/16%/18%/20%</span> of the enemy's DEF. This effect will be removed after the wearer uses an attack.</p>"
 		},
 		"entry_page_id": "1545",
@@ -5850,8 +5850,8 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\"}",
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"26\",\"base_def\":\"21\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"582\",\"base_def\":\"463\",\"dynamic\":{}}",
 			"equipment_skill": "A Knight's Pilgrimage<p>Increases the wearer's CRIT DMG by <span style=\"color: #FFC870\">36%</span>/<span style=\"color: #FFC870\">42%</span>/<span style=\"color: #FFC870\">48%</span>/<span style=\"color: #FFC870\">54%</span>/<span style=\"color: #FFC870\">60%</span>. When the wearer uses Ultimate, increases the wearer's Ultimate DMG based on their Max Energy. Each point of Energy increases the Ultimate DMG by <span style=\"color: #FFC870\">0.36%/0.42%</span>/<span style=\"color: #FFC870\">0.48%</span>/<span style=\"color: #FFC870\">0.54%</span>/<span style=\"color: #FFC870\">0.6%</span>, up to 180 points of Energy.</p>"
 		},
 		"entry_page_id": "1595",
@@ -6086,8 +6086,8 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"24\",\"base_def\":\"24\"}",
-			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"529\",\"base_def\":\"529\"}",
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"24\",\"base_def\":\"24\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"529\",\"base_def\":\"529\",\"dynamic\":{}}",
 			"equipment_skill": "The Plum Fragrance In My Bones<p>Increases the wearer's Break Effect by <span style=\"color: #FFC870\">60%/70%/80%/90%/100%</span>. When the wearer uses their Ultimate, increases all allies' DMG by <span style=\"color: #FFC870\">24%/28%/32%/36%/40%</span>, lasting for 3 turn(s). Should the wearer's Break Effect exceed or equal 150%, 1 Skill Point will be recovered. At the start of each wave, all allies regenerate <span style=\"color: #FFC870\">10/12.5/15/17.5/20</span> Energy immediately. Effects of the same type cannot stack.</p>"
 		},
 		"entry_page_id": "1822",
@@ -6175,8 +6175,8 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"26\",\"base_def\":\"24\"}",
-			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"529\"}",
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"26\",\"base_def\":\"24\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"529\",\"dynamic\":{}}",
 			"equipment_skill": "Mental Training<p>Increases the wearer's CRIT DMG by <span style=\"color: #FFC870\">20%/23%/26%/29%/32%</span>. For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target increases by <span style=\"color: #FFC870\">8%/9%/10%/11%/12%</span>, stacking up to 3 times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by <span style=\"color: #FFC870\">36%/42%/48%/54%/60%</span> and enables their follow-up attacks to ignore <span style=\"color: #FFC870\">24%/28%/32%/36%/40%</span> of the target's DEF. This effect lasts for 2 turns.</p>"
 		},
 		"entry_page_id": "1823",
@@ -8273,5 +8273,210 @@
 		},
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/05/5308864/6c6334ce932d4b6122ab600ce6d05bbe_6402162139893943158.png",
 		"name": "I Venture Forth to Hunt"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"dynamic\":{}}",
+			"attr_level_80": "{\"dynamic\":{}}",
+			"equipment_skill": "<p></p>"
+		},
+		"entry_page_id": "3167",
+		"filter_values": {
+			"equipment_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "destruction",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/715197244815c84eaf80b1644af7d9bc_5620687503360171464.png",
+						"id": "1621",
+						"mi18n_key": "filter_1621",
+						"value": "The Destruction"
+					}
+				],
+				"values": [
+					"The Destruction"
+				]
+			},
+			"equipment_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "1725",
+						"mi18n_key": "filter_1725",
+						"value": "4-Star"
+					}
+				],
+				"values": [
+					"4-Star"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/18/5308864/08398b1b9818fb98237735dad236f4b1_9211265954025405977.png",
+		"name": "Ninja Record: Sound Hunt"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"19\",\"base_def\":\"18\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"423\",\"base_def\":\"396\",\"dynamic\":{}}",
+			"equipment_skill": "Academy-Style Edit<p>Increases the wearer's SPD by <span style=\"color: #FFC870\">8%</span>/<span style=\"color: #FFC870\">9%</span>/<span style=\"color: #FFC870\">10%</span>/<span style=\"color: #FFC870\">11%</span>/<span style=\"color: #FFC870\">12%</span>. After attacking enemy targets that are Weakness Broken, regenerates <span style=\"color: #FFC870\">3</span>/<span style=\"color: #FFC870\">3.5</span>/<span style=\"color: #FFC870\">4</span>/<span style=\"color: #FFC870\">4.5</span>/<span style=\"color: #FFC870\">5 </span>Energy. This effect can trigger up to 2 time(s) per turn.</p>"
+		},
+		"entry_page_id": "3168",
+		"filter_values": {
+			"equipment_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "abundance",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/b9d6d0e7ab963fd6c6ee778e826be66e_2240319466702070435.png",
+						"id": "1704",
+						"mi18n_key": "filter_1704",
+						"value": "The Abundance"
+					}
+				],
+				"values": [
+					"The Abundance"
+				]
+			},
+			"equipment_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "1725",
+						"mi18n_key": "filter_1725",
+						"value": "4-Star"
+					}
+				],
+				"values": [
+					"4-Star"
+				]
+			},
+			"equipment_skill_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1797",
+						"mi18n_key": "filter_1797",
+						"value": "SPD"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2623",
+						"mi18n_key": "filter_2623",
+						"value": "Energy"
+					}
+				],
+				"values": [
+					"SPD",
+					"Energy"
+				]
+			},
+			"equipment_source": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1857",
+						"mi18n_key": "filter_1857",
+						"value": "Limited Warp"
+					}
+				],
+				"values": [
+					"Limited Warp"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/18/5308864/224cfcf1fa51d7d0f7d0803f9f44989f_3946128636226043182.png",
+		"name": "Dream's Montage"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"43\",\"base_atk\":\"26\",\"base_def\":\"24\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"952\",\"base_atk\":\"582\",\"base_def\":\"529\",\"dynamic\":{}}",
+			"equipment_skill": "Exorcism<p>Increases the wearer's Break Effect by <span style=\"color: rgb(255, 200, 112)\">60%</span>/<span style=\"color: #FFC870\">70%</span>/<span style=\"color: #FFC870\">80%</span>/<span style=\"color: #FFC870\">90%</span>/<span style=\"color: #FFC870\">100% </span>When entering battle, immediately regenerates <span style=\"color: rgb(255, 200, 112)\">30.0/</span><span style=\"color: #FFC870\">32.5</span>/<span style=\"color: #FFC870\">35</span>/<span style=\"color: #FFC870\">37.5</span>/<span style=\"color: #FFC870\">40 </span>Energy. After the wearer uses Ultimate, obtain \"Raiton.\" After using 2 Basic ATKs, advances the wearer's action by <span style=\"color: rgb(255, 200, 112)\">50%</span>/<span style=\"color: #FFC870\">55%</span>/<span style=\"color: #FFC870\">60%</span>/<span style=\"color: #FFC870\">65%</span>/<span style=\"color: #FFC870\">70%</span> and removes \"Raiton.\" After the wearer uses Ultimate, resets \"Raiton.\"</p>"
+		},
+		"entry_page_id": "3169",
+		"filter_values": {
+			"equipment_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "erudition",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"id": "1656",
+						"mi18n_key": "filter_1656",
+						"value": "The Erudition"
+					}
+				],
+				"values": [
+					"The Erudition"
+				]
+			},
+			"equipment_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "1738",
+						"mi18n_key": "filter_1738",
+						"value": "5-Star"
+					}
+				],
+				"values": [
+					"5-Star"
+				]
+			},
+			"equipment_skill_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2643",
+						"mi18n_key": "filter_2643",
+						"value": "Break Effect"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2650",
+						"mi18n_key": "filter_2650",
+						"value": "Energy Regeneration Rate"
+					}
+				],
+				"values": [
+					"Break Effect",
+					"Energy Regeneration Rate"
+				]
+			},
+			"equipment_source": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1857",
+						"mi18n_key": "filter_1857",
+						"value": "Limited Warp"
+					}
+				],
+				"values": [
+					"Limited Warp"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/17/5308864/e187a0f1b5a6b694930f6dd582246d5a_7200085419197699048.png",
+		"name": "Ninjutsu Inscription: Dazzling Evilbreaker"
 	}
 ]

@@ -60,6 +60,16 @@
 		"version": "2.6.1",
 		"items": [
 			{
+				"itemId": 3169,
+				"imageUrl": "/event-ugc-hoyowiki/2024/10/24/326693439/b2c478416669da0b93624d5a6141c394_2928699210662497988.png",
+				"itemType": "Weapon",
+				"name": "忍法帖•缭乱破魔",
+				"nameEn": "Ninjutsu Inscription: Dazzling Evilbreaker",
+				"rankType": 5,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
+			},
+			{
 				"itemId": 1398,
 				"imageUrl": "/hoyolab-wiki/2023/08/30/7998136/274e4d01efb391334126171753e400d7_8569025007475060876.png",
 				"itemType": "Weapon",
@@ -68,6 +78,16 @@
 				"rankType": 5,
 				"avatarBaseType": "destruction",
 				"weaponType": "warrior"
+			},
+			{
+				"itemId": 3168,
+				"imageUrl": "/event-ugc-hoyowiki/2024/10/24/326693439/224cfcf1fa51d7d0f7d0803f9f44989f_8030153620345582531.png",
+				"itemType": "Weapon",
+				"name": "梦的蒙太奇",
+				"nameEn": "Dream's Montage",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
 			},
 			{
 				"itemId": 2647,
