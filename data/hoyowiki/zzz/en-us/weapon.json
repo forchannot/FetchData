@@ -2140,7 +2140,17 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_0": "{\"dynamic\":{}}",
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"equipment_skill": "Fuel on the Rocks<p>While off-field, the equipper's Energy Regen increases by [<span style=\"color: #2bad00\">0.6</span>/<span style=\"color: #2bad00\">0.75</span>/<span style=\"color: #2bad00\">0.9</span>/<span style=\"color: #2bad00\">1.05</span>/<span style=\"color: #2bad00\">1.2</span>]/s. When hitting an enemy with an EX Special Attack or Assist Attack, the equipper's DMG increases by <span style=\"color: #2bad00\">3.5%</span>/<span style=\"color: #2bad00\">4.4%</span>/<span style=\"color: #2bad00\">5.2%</span>/<span style=\"color: #2bad00\">6.1%</span>/<span style=\"color: #2bad00\">7%</span>, stacking up to 10 times and lasting for 6s. This effect can trigger once every 0.3s. While off-field, the stack effect is doubled. Repeated triggers reset the duration. Upon obtaining the DMG increase effect, if the number of current stacks is greater than or equal to 5, then the equipper's Anomaly Proficiency increases by <span style=\"color: #2bad00\">50</span>/<span style=\"color: #2bad00\">62</span>/<span style=\"color: #2bad00\">75</span>/<span style=\"color: #2bad00\">87</span>/<span style=\"color: #2bad00\">100</span>. This Anomaly Proficiency increase does not stack and lasts for 6s.</p>",
+			"materials": "[]"
+		},
 		"entry_page_id": "525",
 		"filter_values": {
 			"filter_key_13": {

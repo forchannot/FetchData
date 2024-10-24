@@ -480,7 +480,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"base_atk\":\"13%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_atk\":\"16%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_atk\":\"19%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_atk\":\"22%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_atk\":\"25%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "骑士光波：改<p><span style=\"color: rgb(255, 255, 255)\">[普通攻击]</span>或<span style=\"color: rgb(255, 255, 255)\">[冲刺攻击]</span>命中6米外的敌人时，装备者对目标造成的<span style=\"color: rgb(240, 209, 43)\">物理伤害</span>提升<span style=\"color: rgb(43, 173, 0)\">36%</span>/<span style=\"color: rgb(43, 173, 0)\">41%</span>/<span style=\"color: rgb(43, 173, 0)\">46.5%</span>/<span style=\"color: rgb(43, 173, 0)\">52%</span>/<span style=\"color: rgb(43, 173, 0)\">57.5%</span>，持续8秒。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
+		},
 		"entry_page_id": "73",
 		"filter_values": {
 			"filter_key_13": {
@@ -870,7 +879,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"base_imp\":\"9.4%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_imp\":\"11.5%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_imp\":\"13.7%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_imp\":\"15.8%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_imp\":\"18.0%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_imp\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "束缚枷锁<p>攻击命中敌人时，<span style=\"color: #FFFFFF\">[普通攻击]</span>造成的伤害和失衡值提升<span style=\"color: #2bad00\">6%</span>/<span style=\"color: #2bad00\">7.5%</span>/<span style=\"color: #2bad00\">9%</span>/<span style=\"color: #2bad00\">10.5%</span>/<span style=\"color: #2bad00\">12%</span>，最多叠加5层，持续8秒，同一招式内最多触发一次，每层效果单独结算持续时间。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/fe3d9b3df343190aaa4ca2dbed091abf_663204191702084506.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/62b5480180321b8a3acc1de450257ed7_5289654393386347030.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/076d8c01e0fceff14e934348342b0acc_5068642522965979385.png\"]"
+		},
 		"entry_page_id": "83",
 		"filter_values": {
 			"filter_key_13": {
@@ -909,7 +927,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"12.5%\"}}",
+			"attr_level_20": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"15.4%\"}}",
+			"attr_level_30": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"18.2%\"}}",
+			"attr_level_40": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"21.1%\"}}",
+			"attr_level_50": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"24%\"}}",
+			"attr_level_60": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"-\"}}",
+			"equipment_skill": "数据洪流<p>攻击力提升<span style=\"color: #2bad00\">12%</span>/<span style=\"color: #2bad00\">15%</span>/<span style=\"color: #2bad00\">18%</span>/<span style=\"color: #2bad00\">21%</span>/<span style=\"color: #2bad00\">24%</span>；发动<span style=\"color: #FFFFFF\">[特殊技]</span>或<span style=\"color: #FFFFFF\">[强化特殊技]时，装备者的异常精通提升</span><span style=\"color: #2bad00\">25</span><span style=\"color: #FFFFFF\">/</span><span style=\"color: #2bad00\">31</span><span style=\"color: #FFFFFF\">/</span><span style=\"color: #2bad00\">37</span><span style=\"color: #FFFFFF\">/</span><span style=\"color: #2bad00\">43</span><span style=\"color: #FFFFFF\">/</span><span style=\"color: #2bad00\">50</span><span style=\"color: #FFFFFF\">点，最多叠加3层，持续8秒，每层效果单独结算持续时间。</span></p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/cc480b364cd4a14edb32a461c3288c2a_8627904871926670787.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/c42230c34d597029c72bd0b16869e960_512646076671511906.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/6f6998fe1fdea9aafcb7c9fcb5fb1553_8438117255271343051.png\"]"
+		},
 		"entry_page_id": "84",
 		"filter_values": {
 			"filter_key_13": {
@@ -987,7 +1014,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"12.5%\"}}",
+			"attr_level_20": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"15.4%\"}}",
+			"attr_level_30": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"18.2%\"}}",
+			"attr_level_40": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"21.1%\"}}",
+			"attr_level_50": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"24%\"}}",
+			"attr_level_60": "{\"dynamic\":{\"type\":\"base_pen_ratio\",\"value\":\"-\"}}",
+			"equipment_skill": "惩·罚<p>位于后场时，能量自动回复提升<span style=\"color: #2bad00\">0.6</span>/<span style=\"color: #2bad00\">0.75</span>/<span style=\"color: #2bad00\">0.9</span>/<span style=\"color: #2bad00\">1.05</span>/<span style=\"color: #2bad00\">1.2</span>点/秒；装备者命中敌人时，全队对目标造成的伤害提升<span style=\"color: #2bad00\">10%</span>/<span style=\"color: #2bad00\">12.5%</span>/<span style=\"color: #2bad00\">15%</span>/<span style=\"color: #2bad00\">17.5%</span>/<span style=\"color: #2bad00\">20%</span>，持续3秒；效果持续期间，每0.5秒该增益效果额外提升<span style=\"color: #2bad00\">1.7%</span>/<span style=\"color: #2bad00\">2%</span>/<span style=\"color: #2bad00\">2.5%</span>/<span style=\"color: #2bad00\">3%</span>/<span style=\"color: #2bad00\">3.3%</span>，最多额外提升<span style=\"color: #2bad00\">10.2%</span>/<span style=\"color: #2bad00\">12%</span>/<span style=\"color: #2bad00\">15%</span>/<span style=\"color: #2bad00\">18%</span>/<span style=\"color: #2bad00\">19.8%</span>，重复触发时仅刷新持续时间，不刷新伤害提升效果，同名被动效果之间不可叠加。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/0c47aea2e254d29ca955e00f539077bc_3996395642545801088.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f964aba564bfbee7495c130afb265d08_6200708887940513873.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f84f7953469e33dba56bddce76fbabfd_2043034920238660856.png\"]"
+		},
 		"entry_page_id": "86",
 		"filter_values": {
 			"filter_key_13": {
