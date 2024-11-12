@@ -4,7 +4,7 @@
 		"items": [
 			{
 				"itemId": 2966,
-				"imageUrl": "/hoyolab-wiki/2022/11/02/36540823/afd146c520b3a0bd72489a3426d8f283_6485794778533054261.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
 				"nameEn": "A Thousand Floating Dreams",
@@ -13,7 +13,7 @@
 			},
 			{
 				"itemId": 1972,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%8A%A4%E6%91%A9%E4%B9%8B%E6%9D%96.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
 				"nameEn": "Staff of Homa",
@@ -22,7 +22,7 @@
 			},
 			{
 				"itemId": 7030,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/09/27/25c75653d47f882870e96d9119a17e9a_6960324287026452673.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "硕果钩",
 				"weaponType": "Claymore",
@@ -30,7 +30,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -39,7 +39,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -48,7 +48,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -57,7 +57,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -73,7 +73,7 @@
 		"items": [
 			{
 				"itemId": 7029,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/09/27/862200e1c8e0ee60c2396d8f4fbe7fb8_4291183729855777874.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_XochitlsTube.webp",
 				"itemType": "Weapon",
 				"name": "岩峰巡歌",
 				"nameEn": "Peak Patrol Song",
@@ -82,7 +82,7 @@
 			},
 			{
 				"itemId": 5150,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/03/13/4388952f90bcfcf702ebe5a333daf2bc_7863677904377472234.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Needle.webp",
 				"itemType": "Weapon",
 				"name": "有乐御簾切",
 				"nameEn": "Uraku Misugiri",
@@ -91,7 +91,7 @@
 			},
 			{
 				"itemId": 7028,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/09/27/9fbe8cf3da1d476d4c5a228017656cd1_114889972255186755.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "弥坚骨",
 				"nameEn": "Sturdy Bone",
@@ -100,7 +100,7 @@
 			},
 			{
 				"itemId": 7031,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/09/27/201424fa6a98ffb190ae82c8ad7d0cc3_6084387639848528037.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "镇山之钉",
 				"nameEn": "Mountain-Bracing Bolt",
@@ -109,7 +109,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -118,7 +118,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -127,7 +127,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -143,7 +143,7 @@
 		"items": [
 			{
 				"itemId": 6545,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/23/1fd3c498faccab68bfa5d961477a8c29_2936359463997877474.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_EmeraldSword.webp",
 				"itemType": "Weapon",
 				"name": "山王长牙",
 				"nameEn": "Fang of the Mountain King",
@@ -152,7 +152,7 @@
 			},
 			{
 				"itemId": 2014,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%96%99%E8%8D%89%E4%B9%8B%E7%A8%BB%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
 				"nameEn": "Engulfing Lightning",
@@ -161,7 +161,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -170,7 +170,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -179,7 +179,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -188,7 +188,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -197,7 +197,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -213,7 +213,7 @@
 		"items": [
 			{
 				"itemId": 6546,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/23/6ce2e0da75fbdc19fc4b6f9e7bae9049_5151463723015160354.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_MechaPufferfish.webp",
 				"itemType": "Weapon",
 				"name": "冲浪时光",
 				"nameEn": "Surf's Up",
@@ -222,7 +222,7 @@
 			},
 			{
 				"itemId": 2012,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%8D%E5%8F%A4%E8%87%AA%E7%94%B1%E4%B9%8B%E8%AA%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
 				"nameEn": "Freedom-Sworn",
@@ -231,7 +231,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -240,7 +240,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -249,7 +249,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -258,7 +258,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -267,7 +267,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -283,7 +283,7 @@
 		"items": [
 			{
 				"itemId": 5847,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/07/31/3dff07a4b024917cb63c933d2078ccc8_8401589850337226556.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Muguet.webp",
 				"itemType": "Weapon",
 				"name": "柔灯挽歌",
 				"nameEn": "Lumidouce Elegy",
@@ -292,7 +292,7 @@
 			},
 			{
 				"itemId": 2254,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%A5%E6%B0%B4.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
 				"itemType": "Weapon",
 				"name": "若水",
 				"nameEn": "Aqua Simulacra",
@@ -301,7 +301,7 @@
 			},
 			{
 				"itemId": 2848,
-				"imageUrl": "/hoyolab-wiki/2022/10/08/47826599/e945b4d60271cc0560627c16f4a0a7dd_4855692007358823506.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "玛海菈的水色",
 				"nameEn": "Makhaira Aquamarine",
@@ -310,7 +310,7 @@
 			},
 			{
 				"itemId": 2910,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/350f5bf6ae4210be623556772c4c3836_2640132826020550191.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "流浪的晚星",
 				"nameEn": "Wandering Evenstar",
@@ -319,7 +319,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -328,7 +328,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -337,7 +337,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -353,7 +353,7 @@
 		"items": [
 			{
 				"itemId": 4719,
-				"imageUrl": "/event-static-hoyowiki-admin/2023/12/13/1f6d97f9c8c4146fd0062cd27f65886f_5379959338655377611.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_GoldenVerdict.webp",
 				"itemType": "Weapon",
 				"name": "裁断",
 				"nameEn": "Verdict",
@@ -362,7 +362,7 @@
 			},
 			{
 				"itemId": 2908,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/f6f9decaaffe71a6ffc445522b82657e_6866250513725418427.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "圣显之钥",
 				"nameEn": "Key of Khaj-Nisut",
@@ -371,7 +371,7 @@
 			},
 			{
 				"itemId": 2909,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/06be2dc5c5b80671ddf01cc9dc01bb49_8912873850558423124.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "西福斯的月光",
 				"nameEn": "Xiphos' Moonlight",
@@ -380,7 +380,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -389,7 +389,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -398,7 +398,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -407,7 +407,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -423,7 +423,7 @@
 		"items": [
 			{
 				"itemId": 5673,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/06/25/bbfcbecb44910640904415c4c8f7a71d_6233228634431101260.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Arcdange.webp",
 				"itemType": "Weapon",
 				"name": "白雨心弦",
 				"nameEn": "Silvershower Heartstrings",
@@ -432,7 +432,7 @@
 			},
 			{
 				"itemId": 4570,
-				"imageUrl": "/hoyolab-wiki/2023/11/08/82021897/9807aa25f336daae391a6f6d4995af3d_7818631910285980102.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Regalis.webp",
 				"itemType": "Weapon",
 				"name": "静水流涌之辉",
 				"nameEn": "Splendor of Tranquil Waters",
@@ -441,7 +441,7 @@
 			},
 			{
 				"itemId": 1942,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E5%8F%A4%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
 				"nameEn": "Lithic Blade",
@@ -450,7 +450,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -459,7 +459,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -468,7 +468,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -477,7 +477,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -493,7 +493,7 @@
 		"items": [
 			{
 				"itemId": 5674,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/30/d5da78d8dd0ac8814b699d6195145776_7211910286782963050.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Estoc.webp",
 				"itemType": "Weapon",
 				"name": "赦罪",
 				"nameEn": "Absolution",
@@ -502,7 +502,7 @@
 			},
 			{
 				"itemId": 3461,
-				"imageUrl": "/hoyolab-wiki/2023/01/17/47826599/bf4ef5696afdf695a26fab9510228060_3782846868098903504.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "裁叶萃光",
 				"nameEn": "Light of Foliar Incision",
@@ -511,7 +511,7 @@
 			},
 			{
 				"itemId": 1943,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
 				"nameEn": "Lithic Spear",
@@ -520,7 +520,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -529,7 +529,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -538,7 +538,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -547,7 +547,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -563,7 +563,7 @@
 		"items": [
 			{
 				"itemId": 3320,
-				"imageUrl": "/hoyolab-wiki/2022/12/10/47826599/8de363bf716e4538ba86014fbea827ef_5694428620770838364.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Alaya.webp",
 				"itemType": "Weapon",
 				"name": "图莱杜拉的回忆",
 				"nameEn": "Tulaytullah's Remembrance",
@@ -572,7 +572,7 @@
 			},
 			{
 				"itemId": 3692,
-				"imageUrl": "/hoyolab-wiki/2023/05/03/47826599/a42860870c5765757d0536416eb2137f_3929396154466604032.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Morax.webp",
 				"itemType": "Weapon",
 				"name": "碧落之珑",
 				"nameEn": "Jadefall's Splendor",
@@ -581,7 +581,7 @@
 			},
 			{
 				"itemId": 4336,
-				"imageUrl": "/hoyolab-wiki/2023/10/12/82021897/4bfc21303d8ff98cd546aae980b55090_3304700411281800543.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "勘探钻机",
 				"nameEn": "Prospector's Drill",
@@ -590,7 +590,7 @@
 			},
 			{
 				"itemId": 4337,
-				"imageUrl": "/hoyolab-wiki/2023/10/12/82021897/4e67e6c313220ea1ca84a48d42d78806_9061186707840780539.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "测距规",
 				"nameEn": "Range Gauge",
@@ -599,7 +599,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -608,7 +608,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -617,7 +617,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -633,7 +633,7 @@
 		"items": [
 			{
 				"itemId": 5577,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/04/24/ce91a453b9a942c9ab20df0f62caa033_358081180956617633.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_BloodMoon.webp",
 				"itemType": "Weapon",
 				"name": "赤月之形",
 				"nameEn": "Crimson Moon’s Semblance",
@@ -642,7 +642,7 @@
 			},
 			{
 				"itemId": 3983,
-				"imageUrl": "/hoyolab-wiki/2023/08/16/47826599/6c159cd156de2785d869a5e3490ea56c_3532758272148861593.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Pledge.webp",
 				"itemType": "Weapon",
 				"name": "最初的大魔术",
 				"nameEn": "The First Great Magic",
@@ -651,7 +651,7 @@
 			},
 			{
 				"itemId": 4334,
-				"imageUrl": "/hoyolab-wiki/2023/09/30/82021897/eac5d6d4056f7b28c876e64866825e46_8789489177917235262.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "船坞长剑",
 				"nameEn": "The Dockhand's Assistant",
@@ -660,7 +660,7 @@
 			},
 			{
 				"itemId": 4335,
-				"imageUrl": "/hoyolab-wiki/2023/09/30/82021897/ac81c1e26d35d3742320975fffe21ee8_2344614171932943088.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "便携动力锯",
 				"nameEn": "Portable Power Saw",
@@ -669,7 +669,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -678,7 +678,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -687,7 +687,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -703,7 +703,7 @@
 		"items": [
 			{
 				"itemId": 4339,
-				"imageUrl": "/hoyolab-wiki/2023/09/23/82021897/5828ed7b48c39e5d15aaf6f2495ddabc_6308706718252516056.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
 				"itemType": "Weapon",
 				"name": "万世流涌大典",
 				"nameEn": "Tome of the Eternal Flow",
@@ -712,7 +712,7 @@
 			},
 			{
 				"itemId": 2012,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%8D%E5%8F%A4%E8%87%AA%E7%94%B1%E4%B9%8B%E8%AA%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
 				"nameEn": "Freedom-Sworn",
@@ -721,7 +721,7 @@
 			},
 			{
 				"itemId": 1982,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%9A%84%E9%85%92%E4%B8%8E%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
 				"nameEn": "Wine and Song",
@@ -730,7 +730,7 @@
 			},
 			{
 				"itemId": 1965,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B9%BD%E5%A4%9C%E5%8D%8E%E5%B0%94%E5%85%B9.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
 				"nameEn": "Mitternachts Waltz",
@@ -739,7 +739,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -748,7 +748,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -757,7 +757,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -773,7 +773,7 @@
 		"items": [
 			{
 				"itemId": 5150,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/03/13/4388952f90bcfcf702ebe5a333daf2bc_7863677904377472234.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Needle.webp",
 				"itemType": "Weapon",
 				"name": "有乐御簾切",
 				"nameEn": "Uraku Misugiri",
@@ -782,7 +782,7 @@
 			},
 			{
 				"itemId": 2031,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%B5%A4%E8%A7%92%E7%9F%B3%E6%BA%83%E6%9D%B5.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
 				"nameEn": "Redhorn Stonethresher",
@@ -791,7 +791,7 @@
 			},
 			{
 				"itemId": 1983,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E9%97%AA%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
 				"nameEn": "The Alley Flash",
@@ -800,7 +800,7 @@
 			},
 			{
 				"itemId": 1981,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%8C%8E%E6%89%8B.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
 				"nameEn": "Alley Hunter",
@@ -809,7 +809,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -818,7 +818,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -827,7 +827,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -843,7 +843,7 @@
 		"items": [
 			{
 				"itemId": 1948,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%92%8C%E7%92%9E%E9%B8%A2.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
 				"nameEn": "Primordial Jade Winged-Spear",
@@ -852,7 +852,7 @@
 			},
 			{
 				"itemId": 2001,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%9E%E4%B9%90%E4%B9%8B%E7%9C%9F%E6%84%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "神乐之真意",
 				"nameEn": "Kagura's Verity",
@@ -861,7 +861,7 @@
 			},
 			{
 				"itemId": 1942,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E5%8F%A4%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
 				"nameEn": "Lithic Blade",
@@ -870,7 +870,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -879,7 +879,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -888,7 +888,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -897,7 +897,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -913,7 +913,7 @@
 		"items": [
 			{
 				"itemId": 4941,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/01/30/7d49f94bfb8725b8c04332b11eb7df60_6820630625383555046.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_MountainGale.webp",
 				"itemType": "Weapon",
 				"name": "鹤鸣余音",
 				"nameEn": "Crane's Echoing Call",
@@ -922,7 +922,7 @@
 			},
 			{
 				"itemId": 2966,
-				"imageUrl": "/hoyolab-wiki/2022/11/02/36540823/afd146c520b3a0bd72489a3426d8f283_6485794778533054261.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
 				"nameEn": "A Thousand Floating Dreams",
@@ -931,7 +931,7 @@
 			},
 			{
 				"itemId": 1943,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
 				"nameEn": "Lithic Spear",
@@ -940,7 +940,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -949,7 +949,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -958,7 +958,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -967,7 +967,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -983,7 +983,7 @@
 		"items": [
 			{
 				"itemId": 2014,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%96%99%E8%8D%89%E4%B9%8B%E7%A8%BB%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
 				"nameEn": "Engulfing Lightning",
@@ -992,7 +992,7 @@
 			},
 			{
 				"itemId": 2049,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%A3%9E%E9%9B%B7%E4%B9%8B%E5%BC%A6%E6%8C%AF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
 				"nameEn": "Thundering Pulse",
@@ -1001,7 +1001,7 @@
 			},
 			{
 				"itemId": 1975,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%96%AD%E6%B5%AA%E9%95%BF%E9%B3%8D.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
 				"nameEn": "Wavebreaker's Fin",
@@ -1010,7 +1010,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -1019,7 +1019,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -1028,7 +1028,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -1037,7 +1037,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -1053,7 +1053,7 @@
 		"items": [
 			{
 				"itemId": 4719,
-				"imageUrl": "/event-static-hoyowiki-admin/2023/12/13/1f6d97f9c8c4146fd0062cd27f65886f_5379959338655377611.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_GoldenVerdict.webp",
 				"itemType": "Weapon",
 				"name": "裁断",
 				"nameEn": "Verdict",
@@ -1062,7 +1062,7 @@
 			},
 			{
 				"itemId": 2044,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%BE%E5%88%87%E4%B9%8B%E5%9B%9E%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "雾切之回光",
 				"nameEn": "Mistsplitter Reforged",
@@ -1071,7 +1071,7 @@
 			},
 			{
 				"itemId": 1971,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%81%B6%E7%8E%8B%E4%B8%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
 				"nameEn": "Akuoumaru",
@@ -1080,7 +1080,7 @@
 			},
 			{
 				"itemId": 1985,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9B%9A%E4%BA%91%E4%B9%8B%E6%9C%88.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
 				"nameEn": "Mouun's Moon",
@@ -1089,7 +1089,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -1098,7 +1098,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -1107,7 +1107,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -1123,7 +1123,7 @@
 		"items": [
 			{
 				"itemId": 2849,
-				"imageUrl": "/hoyolab-wiki/2022/09/30/47826599/fc9a85ad2a47dc0386d55ac4e8596440_3769254971465749925.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "赤沙之杖",
 				"nameEn": "Staff of the Scarlet Sands",
@@ -1132,7 +1132,7 @@
 			},
 			{
 				"itemId": 1989,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B3%A2%E4%B9%B1%E6%9C%88%E7%99%BD%E7%BB%8F%E6%B4%A5.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Amenoma.webp",
 				"itemType": "Weapon",
 				"name": "波乱月白经津",
 				"nameEn": "Haran Geppaku Futsu",
@@ -1141,7 +1141,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -1150,7 +1150,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -1159,7 +1159,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -1168,7 +1168,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -1177,7 +1177,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -1193,7 +1193,7 @@
 		"items": [
 			{
 				"itemId": 4570,
-				"imageUrl": "/hoyolab-wiki/2023/11/08/82021897/9807aa25f336daae391a6f6d4995af3d_7818631910285980102.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Regalis.webp",
 				"itemType": "Weapon",
 				"name": "静水流涌之辉",
 				"nameEn": "Splendor of Tranquil Waters",
@@ -1202,7 +1202,7 @@
 			},
 			{
 				"itemId": 3692,
-				"imageUrl": "/hoyolab-wiki/2023/05/03/47826599/a42860870c5765757d0536416eb2137f_3929396154466604032.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Morax.webp",
 				"itemType": "Weapon",
 				"name": "碧落之珑",
 				"nameEn": "Jadefall's Splendor",
@@ -1211,7 +1211,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -1220,7 +1220,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -1229,7 +1229,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -1238,7 +1238,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -1247,7 +1247,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -1263,7 +1263,7 @@
 		"items": [
 			{
 				"itemId": 4340,
-				"imageUrl": "/hoyolab-wiki/2023/10/13/82021897/6d8248633da24c16368b6570bf578874_3285081924204944616.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Wheatley.webp",
 				"itemType": "Weapon",
 				"name": "金流监督",
 				"nameEn": "Cashflow Supervision",
@@ -1272,7 +1272,7 @@
 			},
 			{
 				"itemId": 2008,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%88%E6%9C%AB%E5%97%9F%E5%8F%B9%E4%B9%8B%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
 				"nameEn": "Elegy for the End",
@@ -1281,7 +1281,7 @@
 			},
 			{
 				"itemId": 4336,
-				"imageUrl": "/hoyolab-wiki/2023/10/12/82021897/4bfc21303d8ff98cd546aae980b55090_3304700411281800543.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "勘探钻机",
 				"nameEn": "Prospector's Drill",
@@ -1290,7 +1290,7 @@
 			},
 			{
 				"itemId": 4337,
-				"imageUrl": "/hoyolab-wiki/2023/10/12/82021897/4e67e6c313220ea1ca84a48d42d78806_9061186707840780539.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "测距规",
 				"nameEn": "Range Gauge",
@@ -1299,7 +1299,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -1308,7 +1308,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -1317,7 +1317,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -1333,7 +1333,7 @@
 		"items": [
 			{
 				"itemId": 4339,
-				"imageUrl": "/hoyolab-wiki/2023/09/23/82021897/5828ed7b48c39e5d15aaf6f2495ddabc_6308706718252516056.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
 				"itemType": "Weapon",
 				"name": "万世流涌大典",
 				"nameEn": "Tome of the Eternal Flow",
@@ -1342,7 +1342,7 @@
 			},
 			{
 				"itemId": 1972,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%8A%A4%E6%91%A9%E4%B9%8B%E6%9D%96.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
 				"nameEn": "Staff of Homa",
@@ -1351,7 +1351,7 @@
 			},
 			{
 				"itemId": 4334,
-				"imageUrl": "/hoyolab-wiki/2023/09/30/82021897/eac5d6d4056f7b28c876e64866825e46_8789489177917235262.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "船坞长剑",
 				"nameEn": "The Dockhand's Assistant",
@@ -1360,7 +1360,7 @@
 			},
 			{
 				"itemId": 4335,
-				"imageUrl": "/hoyolab-wiki/2023/09/30/82021897/ac81c1e26d35d3742320975fffe21ee8_2344614171932943088.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "便携动力锯",
 				"nameEn": "Portable Power Saw",
@@ -1369,7 +1369,7 @@
 			},
 			{
 				"itemId": 1965,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B9%BD%E5%A4%9C%E5%8D%8E%E5%B0%94%E5%85%B9.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
 				"nameEn": "Mitternachts Waltz",
@@ -1378,7 +1378,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -1387,7 +1387,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -1403,7 +1403,7 @@
 		"items": [
 			{
 				"itemId": 2030,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%B4%AF%E8%99%B9%E4%B9%8B%E6%A7%8A.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
 				"nameEn": "Vortex Vanquisher",
@@ -1412,7 +1412,7 @@
 			},
 			{
 				"itemId": 1936,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%86%AC%E6%9E%81%E7%99%BD%E6%98%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Worldbane.webp",
 				"itemType": "Weapon",
 				"name": "冬极白星",
 				"nameEn": "Polar Star",
@@ -1421,7 +1421,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -1430,7 +1430,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -1439,7 +1439,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -1448,7 +1448,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -1457,7 +1457,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -1473,7 +1473,7 @@
 		"items": [
 			{
 				"itemId": 3983,
-				"imageUrl": "/hoyolab-wiki/2023/08/16/47826599/6c159cd156de2785d869a5e3490ea56c_3532758272148861593.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Pledge.webp",
 				"itemType": "Weapon",
 				"name": "最初的大魔术",
 				"nameEn": "The First Great Magic",
@@ -1482,7 +1482,7 @@
 			},
 			{
 				"itemId": 2254,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%A5%E6%B0%B4.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
 				"itemType": "Weapon",
 				"name": "若水",
 				"nameEn": "Aqua Simulacra",
@@ -1491,7 +1491,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -1500,7 +1500,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -1509,7 +1509,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -1518,7 +1518,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -1527,7 +1527,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -1543,7 +1543,7 @@
 		"items": [
 			{
 				"itemId": 1932,
-				"imageUrl": "/hoyowiki/picture/weapon/%E4%B8%8D%E7%81%AD%E6%9C%88%E5%8D%8E.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
 				"itemType": "Weapon",
 				"name": "不灭月华",
 				"nameEn": "Everlasting Moonglow",
@@ -1552,7 +1552,7 @@
 			},
 			{
 				"itemId": 3320,
-				"imageUrl": "/hoyolab-wiki/2022/12/10/47826599/8de363bf716e4538ba86014fbea827ef_5694428620770838364.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Alaya.webp",
 				"itemType": "Weapon",
 				"name": "图莱杜拉的回忆",
 				"nameEn": "Tulaytullah's Remembrance",
@@ -1561,7 +1561,7 @@
 			},
 			{
 				"itemId": 1982,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%9A%84%E9%85%92%E4%B8%8E%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
 				"nameEn": "Wine and Song",
@@ -1570,7 +1570,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -1579,7 +1579,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -1588,7 +1588,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -1597,7 +1597,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -1613,7 +1613,7 @@
 		"items": [
 			{
 				"itemId": 1986,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9D%BE%E7%B1%81%E5%93%8D%E8%B5%B7%E4%B9%8B%E6%97%B6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
 				"nameEn": "Song of Broken Pines",
@@ -1622,7 +1622,7 @@
 			},
 			{
 				"itemId": 1951,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%9B%9B%E9%A3%8E%E5%8E%9F%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
 				"nameEn": "Lost Prayer to the Sacred Winds",
@@ -1631,7 +1631,7 @@
 			},
 			{
 				"itemId": 1983,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E9%97%AA%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
 				"nameEn": "The Alley Flash",
@@ -1640,7 +1640,7 @@
 			},
 			{
 				"itemId": 1981,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%8C%8E%E6%89%8B.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
 				"nameEn": "Alley Hunter",
@@ -1649,7 +1649,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -1658,7 +1658,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -1667,7 +1667,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -1683,7 +1683,7 @@
 		"items": [
 			{
 				"itemId": 3461,
-				"imageUrl": "/hoyolab-wiki/2023/01/17/47826599/bf4ef5696afdf695a26fab9510228060_3782846868098903504.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "裁叶萃光",
 				"nameEn": "Light of Foliar Incision",
@@ -1692,7 +1692,7 @@
 			},
 			{
 				"itemId": 2012,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%8D%E5%8F%A4%E8%87%AA%E7%94%B1%E4%B9%8B%E8%AA%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
 				"nameEn": "Freedom-Sworn",
@@ -1701,7 +1701,7 @@
 			},
 			{
 				"itemId": 1975,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%96%AD%E6%B5%AA%E9%95%BF%E9%B3%8D.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
 				"nameEn": "Wavebreaker's Fin",
@@ -1710,7 +1710,7 @@
 			},
 			{
 				"itemId": 1985,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9B%9A%E4%BA%91%E4%B9%8B%E6%9C%88.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
 				"nameEn": "Mouun's Moon",
@@ -1719,7 +1719,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -1728,7 +1728,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -1737,7 +1737,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -1753,7 +1753,7 @@
 		"items": [
 			{
 				"itemId": 2049,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%A3%9E%E9%9B%B7%E4%B9%8B%E5%BC%A6%E6%8C%AF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
 				"nameEn": "Thundering Pulse",
@@ -1762,7 +1762,7 @@
 			},
 			{
 				"itemId": 2001,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%9E%E4%B9%90%E4%B9%8B%E7%9C%9F%E6%84%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "神乐之真意",
 				"nameEn": "Kagura's Verity",
@@ -1771,7 +1771,7 @@
 			},
 			{
 				"itemId": 1971,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%81%B6%E7%8E%8B%E4%B8%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
 				"nameEn": "Akuoumaru",
@@ -1780,7 +1780,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -1789,7 +1789,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -1798,7 +1798,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -1807,7 +1807,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -1823,7 +1823,7 @@
 		"items": [
 			{
 				"itemId": 3692,
-				"imageUrl": "/hoyolab-wiki/2023/05/03/47826599/a42860870c5765757d0536416eb2137f_3929396154466604032.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Morax.webp",
 				"itemType": "Weapon",
 				"name": "碧落之珑",
 				"nameEn": "Jadefall's Splendor",
@@ -1832,7 +1832,7 @@
 			},
 			{
 				"itemId": 2040,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%98%BF%E8%8E%AB%E6%96%AF%E4%B9%8B%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
 				"nameEn": "Amos' Bow",
@@ -1841,7 +1841,7 @@
 			},
 			{
 				"itemId": 2848,
-				"imageUrl": "/hoyolab-wiki/2022/10/08/47826599/e945b4d60271cc0560627c16f4a0a7dd_4855692007358823506.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "玛海菈的水色",
 				"nameEn": "Makhaira Aquamarine",
@@ -1850,7 +1850,7 @@
 			},
 			{
 				"itemId": 2910,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/350f5bf6ae4210be623556772c4c3836_2640132826020550191.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "流浪的晚星",
 				"nameEn": "Wandering Evenstar",
@@ -1859,7 +1859,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -1868,7 +1868,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -1877,7 +1877,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -1893,7 +1893,7 @@
 		"items": [
 			{
 				"itemId": 2966,
-				"imageUrl": "/hoyolab-wiki/2022/11/02/36540823/afd146c520b3a0bd72489a3426d8f283_6485794778533054261.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
 				"nameEn": "A Thousand Floating Dreams",
@@ -1902,7 +1902,7 @@
 			},
 			{
 				"itemId": 2908,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/f6f9decaaffe71a6ffc445522b82657e_6866250513725418427.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "圣显之钥",
 				"nameEn": "Key of Khaj-Nisut",
@@ -1911,7 +1911,7 @@
 			},
 			{
 				"itemId": 2909,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/06be2dc5c5b80671ddf01cc9dc01bb49_8912873850558423124.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "西福斯的月光",
 				"nameEn": "Xiphos' Moonlight",
@@ -1920,7 +1920,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -1929,7 +1929,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -1938,7 +1938,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -1947,7 +1947,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -1963,7 +1963,7 @@
 		"items": [
 			{
 				"itemId": 1970,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%81%AF%E7%81%BE.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Santika.webp",
 				"itemType": "Weapon",
 				"name": "息灾",
 				"nameEn": "Calamity Queller",
@@ -1972,7 +1972,7 @@
 			},
 			{
 				"itemId": 2044,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%BE%E5%88%87%E4%B9%8B%E5%9B%9E%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "雾切之回光",
 				"nameEn": "Mistsplitter Reforged",
@@ -1981,7 +1981,7 @@
 			},
 			{
 				"itemId": 1982,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%9A%84%E9%85%92%E4%B8%8E%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
 				"nameEn": "Wine and Song",
@@ -1990,7 +1990,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -1999,7 +1999,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -2008,7 +2008,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -2017,7 +2017,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -2033,7 +2033,7 @@
 		"items": [
 			{
 				"itemId": 3615,
-				"imageUrl": "/hoyolab-wiki/2023/02/27/47826599/374cad27eb39f01436d6f52446804e6b_5510824886813420163.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "苇海信标",
 				"nameEn": "Beacon of the Reed Sea",
@@ -2042,7 +2042,7 @@
 			},
 			{
 				"itemId": 2849,
-				"imageUrl": "/hoyolab-wiki/2022/09/30/47826599/fc9a85ad2a47dc0386d55ac4e8596440_3769254971465749925.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "赤沙之杖",
 				"nameEn": "Staff of the Scarlet Sands",
@@ -2051,7 +2051,7 @@
 			},
 			{
 				"itemId": 1983,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E9%97%AA%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
 				"nameEn": "The Alley Flash",
@@ -2060,7 +2060,7 @@
 			},
 			{
 				"itemId": 1981,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%8C%8E%E6%89%8B.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
 				"nameEn": "Alley Hunter",
@@ -2069,7 +2069,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -2078,7 +2078,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -2087,7 +2087,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -2103,7 +2103,7 @@
 		"items": [
 			{
 				"itemId": 1972,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%8A%A4%E6%91%A9%E4%B9%8B%E6%9D%96.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
 				"nameEn": "Staff of Homa",
@@ -2112,7 +2112,7 @@
 			},
 			{
 				"itemId": 2254,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%A5%E6%B0%B4.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
 				"itemType": "Weapon",
 				"name": "若水",
 				"nameEn": "Aqua Simulacra",
@@ -2121,7 +2121,7 @@
 			},
 			{
 				"itemId": 1942,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E5%8F%A4%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
 				"nameEn": "Lithic Blade",
@@ -2130,7 +2130,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -2139,7 +2139,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -2148,7 +2148,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -2157,7 +2157,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -2173,7 +2173,7 @@
 		"items": [
 			{
 				"itemId": 3461,
-				"imageUrl": "/hoyolab-wiki/2023/01/17/47826599/bf4ef5696afdf695a26fab9510228060_3782846868098903504.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "裁叶萃光",
 				"nameEn": "Light of Foliar Incision",
@@ -2182,7 +2182,7 @@
 			},
 			{
 				"itemId": 1948,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%92%8C%E7%92%9E%E9%B8%A2.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
 				"nameEn": "Primordial Jade Winged-Spear",
@@ -2191,7 +2191,7 @@
 			},
 			{
 				"itemId": 1943,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
 				"nameEn": "Lithic Spear",
@@ -2200,7 +2200,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -2209,7 +2209,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -2218,7 +2218,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -2227,7 +2227,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -2243,7 +2243,7 @@
 		"items": [
 			{
 				"itemId": 2014,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%96%99%E8%8D%89%E4%B9%8B%E7%A8%BB%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
 				"nameEn": "Engulfing Lightning",
@@ -2252,7 +2252,7 @@
 			},
 			{
 				"itemId": 1989,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B3%A2%E4%B9%B1%E6%9C%88%E7%99%BD%E7%BB%8F%E6%B4%A5.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Amenoma.webp",
 				"itemType": "Weapon",
 				"name": "波乱月白经津",
 				"nameEn": "Haran Geppaku Futsu",
@@ -2261,7 +2261,7 @@
 			},
 			{
 				"itemId": 1971,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%81%B6%E7%8E%8B%E4%B8%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
 				"nameEn": "Akuoumaru",
@@ -2270,7 +2270,7 @@
 			},
 			{
 				"itemId": 1985,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9B%9A%E4%BA%91%E4%B9%8B%E6%9C%88.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
 				"nameEn": "Mouun's Moon",
@@ -2279,7 +2279,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -2288,7 +2288,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -2297,7 +2297,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -2313,7 +2313,7 @@
 		"items": [
 			{
 				"itemId": 3320,
-				"imageUrl": "/hoyolab-wiki/2022/12/10/47826599/8de363bf716e4538ba86014fbea827ef_5694428620770838364.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Alaya.webp",
 				"itemType": "Weapon",
 				"name": "图莱杜拉的回忆",
 				"nameEn": "Tulaytullah's Remembrance",
@@ -2322,7 +2322,7 @@
 			},
 			{
 				"itemId": 2031,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%B5%A4%E8%A7%92%E7%9F%B3%E6%BA%83%E6%9D%B5.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
 				"nameEn": "Redhorn Stonethresher",
@@ -2331,7 +2331,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -2340,7 +2340,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -2349,7 +2349,7 @@
 			},
 			{
 				"itemId": 1975,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%96%AD%E6%B5%AA%E9%95%BF%E9%B3%8D.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
 				"nameEn": "Wavebreaker's Fin",
@@ -2358,7 +2358,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -2367,7 +2367,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -2383,7 +2383,7 @@
 		"items": [
 			{
 				"itemId": 2001,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%9E%E4%B9%90%E4%B9%8B%E7%9C%9F%E6%84%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "神乐之真意",
 				"nameEn": "Kagura's Verity",
@@ -2392,7 +2392,7 @@
 			},
 			{
 				"itemId": 1936,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%86%AC%E6%9E%81%E7%99%BD%E6%98%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Worldbane.webp",
 				"itemType": "Weapon",
 				"name": "冬极白星",
 				"nameEn": "Polar Star",
@@ -2401,7 +2401,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -2410,7 +2410,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -2419,7 +2419,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -2428,7 +2428,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -2437,7 +2437,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -2453,7 +2453,7 @@
 		"items": [
 			{
 				"itemId": 2966,
-				"imageUrl": "/hoyolab-wiki/2022/11/02/36540823/afd146c520b3a0bd72489a3426d8f283_6485794778533054261.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
 				"nameEn": "A Thousand Floating Dreams",
@@ -2462,7 +2462,7 @@
 			},
 			{
 				"itemId": 2049,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%A3%9E%E9%9B%B7%E4%B9%8B%E5%BC%A6%E6%8C%AF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
 				"nameEn": "Thundering Pulse",
@@ -2471,7 +2471,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -2480,7 +2480,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -2489,7 +2489,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -2498,7 +2498,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -2507,7 +2507,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -2523,7 +2523,7 @@
 		"items": [
 			{
 				"itemId": 2908,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/f6f9decaaffe71a6ffc445522b82657e_6866250513725418427.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "圣显之钥",
 				"nameEn": "Key of Khaj-Nisut",
@@ -2532,7 +2532,7 @@
 			},
 			{
 				"itemId": 2000,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A3%90%E5%B2%A9%E7%BB%93%E7%BB%BF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
 				"nameEn": "Primordial Jade Cutter",
@@ -2541,7 +2541,7 @@
 			},
 			{
 				"itemId": 2909,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/06be2dc5c5b80671ddf01cc9dc01bb49_8912873850558423124.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "西福斯的月光",
 				"nameEn": "Xiphos' Moonlight",
@@ -2550,7 +2550,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -2559,7 +2559,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -2568,7 +2568,7 @@
 			},
 			{
 				"itemId": 2910,
-				"imageUrl": "/hoyolab-wiki/2022/10/12/36540823/350f5bf6ae4210be623556772c4c3836_2640132826020550191.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "流浪的晚星",
 				"nameEn": "Wandering Evenstar",
@@ -2577,7 +2577,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -2593,7 +2593,7 @@
 		"items": [
 			{
 				"itemId": 2849,
-				"imageUrl": "/hoyolab-wiki/2022/09/30/47826599/fc9a85ad2a47dc0386d55ac4e8596440_3769254971465749925.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "赤沙之杖",
 				"nameEn": "Staff of the Scarlet Sands",
@@ -2602,7 +2602,7 @@
 			},
 			{
 				"itemId": 2008,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%88%E6%9C%AB%E5%97%9F%E5%8F%B9%E4%B9%8B%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
 				"nameEn": "Elegy for the End",
@@ -2611,7 +2611,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -2620,7 +2620,7 @@
 			},
 			{
 				"itemId": 2848,
-				"imageUrl": "/hoyolab-wiki/2022/10/08/47826599/e945b4d60271cc0560627c16f4a0a7dd_4855692007358823506.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "玛海菈的水色",
 				"nameEn": "Makhaira Aquamarine",
@@ -2629,7 +2629,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -2638,7 +2638,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -2647,7 +2647,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -2663,7 +2663,7 @@
 		"items": [
 			{
 				"itemId": 2040,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%98%BF%E8%8E%AB%E6%96%AF%E4%B9%8B%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
 				"nameEn": "Amos' Bow",
@@ -2672,7 +2672,7 @@
 			},
 			{
 				"itemId": 1932,
-				"imageUrl": "/hoyowiki/picture/weapon/%E4%B8%8D%E7%81%AD%E6%9C%88%E5%8D%8E.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
 				"itemType": "Weapon",
 				"name": "不灭月华",
 				"nameEn": "Everlasting Moonglow",
@@ -2681,7 +2681,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -2690,7 +2690,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -2699,7 +2699,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -2708,7 +2708,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -2717,7 +2717,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -2733,7 +2733,7 @@
 		"items": [
 			{
 				"itemId": 2665,
-				"imageUrl": "/hoyolab-wiki/2022/08/26/47826599/110a33dca005873d039a32c6c931d405_2154310242504086654.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "猎人之径",
 				"nameEn": "Hunter's Path",
@@ -2742,7 +2742,7 @@
 			},
 			{
 				"itemId": 2030,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%B4%AF%E8%99%B9%E4%B9%8B%E6%A7%8A.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
 				"nameEn": "Vortex Vanquisher",
@@ -2751,7 +2751,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -2760,7 +2760,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -2769,7 +2769,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -2778,7 +2778,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -2787,7 +2787,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -2803,7 +2803,7 @@
 		"items": [
 			{
 				"itemId": 2049,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%A3%9E%E9%9B%B7%E4%B9%8B%E5%BC%A6%E6%8C%AF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
 				"nameEn": "Thundering Pulse",
@@ -2812,7 +2812,7 @@
 			},
 			{
 				"itemId": 1974,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%96%AB%E5%B3%B0%E4%B9%8B%E5%88%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
 				"nameEn": "Summit Shaper",
@@ -2821,7 +2821,7 @@
 			},
 			{
 				"itemId": 1982,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%9A%84%E9%85%92%E4%B8%8E%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
 				"nameEn": "Wine and Song",
@@ -2830,7 +2830,7 @@
 			},
 			{
 				"itemId": 1981,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%8C%8E%E6%89%8B.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
 				"nameEn": "Alley Hunter",
@@ -2839,7 +2839,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -2848,7 +2848,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -2857,7 +2857,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -2873,7 +2873,7 @@
 		"items": [
 			{
 				"itemId": 2012,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%8D%E5%8F%A4%E8%87%AA%E7%94%B1%E4%B9%8B%E8%AA%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
 				"nameEn": "Freedom-Sworn",
@@ -2882,7 +2882,7 @@
 			},
 			{
 				"itemId": 1951,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%9B%9B%E9%A3%8E%E5%8E%9F%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
 				"nameEn": "Lost Prayer to the Sacred Winds",
@@ -2891,7 +2891,7 @@
 			},
 			{
 				"itemId": 1983,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E9%97%AA%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
 				"nameEn": "The Alley Flash",
@@ -2900,7 +2900,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -2909,7 +2909,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -2918,7 +2918,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -2927,7 +2927,7 @@
 			},
 			{
 				"itemId": 1965,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B9%BD%E5%A4%9C%E5%8D%8E%E5%B0%94%E5%85%B9.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
 				"nameEn": "Mitternachts Waltz",
@@ -2943,7 +2943,7 @@
 		"items": [
 			{
 				"itemId": 2031,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%B5%A4%E8%A7%92%E7%9F%B3%E6%BA%83%E6%9D%B5.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
 				"nameEn": "Redhorn Stonethresher",
@@ -2952,7 +2952,7 @@
 			},
 			{
 				"itemId": 1964,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B0%98%E4%B8%96%E4%B9%8B%E9%94%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "尘世之锁",
 				"nameEn": "Memory of Dust",
@@ -2961,7 +2961,7 @@
 			},
 			{
 				"itemId": 1942,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E5%8F%A4%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
 				"nameEn": "Lithic Blade",
@@ -2970,7 +2970,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -2979,7 +2979,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -2988,7 +2988,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -2997,7 +2997,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -3013,7 +3013,7 @@
 		"items": [
 			{
 				"itemId": 2254,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%A5%E6%B0%B4.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
 				"itemType": "Weapon",
 				"name": "若水",
 				"nameEn": "Aqua Simulacra",
@@ -3022,7 +3022,7 @@
 			},
 			{
 				"itemId": 1948,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%92%8C%E7%92%9E%E9%B8%A2.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
 				"nameEn": "Primordial Jade Winged-Spear",
@@ -3031,7 +3031,7 @@
 			},
 			{
 				"itemId": 1943,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
 				"nameEn": "Lithic Spear",
@@ -3040,7 +3040,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -3049,7 +3049,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -3058,7 +3058,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -3067,7 +3067,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -3083,7 +3083,7 @@
 		"items": [
 			{
 				"itemId": 2044,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%BE%E5%88%87%E4%B9%8B%E5%9B%9E%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "雾切之回光",
 				"nameEn": "Mistsplitter Reforged",
@@ -3092,7 +3092,7 @@
 			},
 			{
 				"itemId": 1978,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%97%A0%E5%B7%A5%E4%B9%8B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "无工之剑",
 				"nameEn": "The Unforged",
@@ -3101,7 +3101,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -3110,7 +3110,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -3119,7 +3119,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -3128,7 +3128,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -3137,7 +3137,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -3153,7 +3153,7 @@
 		"items": [
 			{
 				"itemId": 1989,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B3%A2%E4%B9%B1%E6%9C%88%E7%99%BD%E7%BB%8F%E6%B4%A5.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Amenoma.webp",
 				"itemType": "Weapon",
 				"name": "波乱月白经津",
 				"nameEn": "Haran Geppaku Futsu",
@@ -3162,7 +3162,7 @@
 			},
 			{
 				"itemId": 2008,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%88%E6%9C%AB%E5%97%9F%E5%8F%B9%E4%B9%8B%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
 				"nameEn": "Elegy for the End",
@@ -3171,7 +3171,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -3180,7 +3180,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -3189,7 +3189,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -3198,7 +3198,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -3207,7 +3207,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -3223,7 +3223,7 @@
 		"items": [
 			{
 				"itemId": 2014,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%96%99%E8%8D%89%E4%B9%8B%E7%A8%BB%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
 				"nameEn": "Engulfing Lightning",
@@ -3232,7 +3232,7 @@
 			},
 			{
 				"itemId": 1932,
-				"imageUrl": "/hoyowiki/picture/weapon/%E4%B8%8D%E7%81%AD%E6%9C%88%E5%8D%8E.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
 				"itemType": "Weapon",
 				"name": "不灭月华",
 				"nameEn": "Everlasting Moonglow",
@@ -3241,7 +3241,7 @@
 			},
 			{
 				"itemId": 1971,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%81%B6%E7%8E%8B%E4%B8%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
 				"nameEn": "Akuoumaru",
@@ -3250,7 +3250,7 @@
 			},
 			{
 				"itemId": 1985,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9B%9A%E4%BA%91%E4%B9%8B%E6%9C%88.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
 				"nameEn": "Mouun's Moon",
@@ -3259,7 +3259,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -3268,7 +3268,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -3277,7 +3277,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -3293,7 +3293,7 @@
 		"items": [
 			{
 				"itemId": 2001,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%9E%E4%B9%90%E4%B9%8B%E7%9C%9F%E6%84%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "神乐之真意",
 				"nameEn": "Kagura's Verity",
@@ -3302,7 +3302,7 @@
 			},
 			{
 				"itemId": 2000,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A3%90%E5%B2%A9%E7%BB%93%E7%BB%BF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
 				"nameEn": "Primordial Jade Cutter",
@@ -3311,7 +3311,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -3320,7 +3320,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -3329,7 +3329,7 @@
 			},
 			{
 				"itemId": 1975,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%96%AD%E6%B5%AA%E9%95%BF%E9%B3%8D.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
 				"nameEn": "Wavebreaker's Fin",
@@ -3338,7 +3338,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -3347,7 +3347,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -3363,7 +3363,7 @@
 		"items": [
 			{
 				"itemId": 2030,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%B4%AF%E8%99%B9%E4%B9%8B%E6%A7%8A.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
 				"nameEn": "Vortex Vanquisher",
@@ -3372,7 +3372,7 @@
 			},
 			{
 				"itemId": 2040,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%98%BF%E8%8E%AB%E6%96%AF%E4%B9%8B%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
 				"nameEn": "Amos' Bow",
@@ -3381,7 +3381,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -3390,7 +3390,7 @@
 			},
 			{
 				"itemId": 1942,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E5%8F%A4%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
 				"nameEn": "Lithic Blade",
@@ -3399,7 +3399,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -3408,7 +3408,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -3417,7 +3417,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -3433,7 +3433,7 @@
 		"items": [
 			{
 				"itemId": 1970,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%81%AF%E7%81%BE.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Santika.webp",
 				"itemType": "Weapon",
 				"name": "息灾",
 				"nameEn": "Calamity Queller",
@@ -3442,7 +3442,7 @@
 			},
 			{
 				"itemId": 1948,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%92%8C%E7%92%9E%E9%B8%A2.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
 				"nameEn": "Primordial Jade Winged-Spear",
@@ -3451,7 +3451,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -3460,7 +3460,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -3469,7 +3469,7 @@
 			},
 			{
 				"itemId": 1943,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
 				"nameEn": "Lithic Spear",
@@ -3478,7 +3478,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -3487,7 +3487,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -3503,7 +3503,7 @@
 		"items": [
 			{
 				"itemId": 2031,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%B5%A4%E8%A7%92%E7%9F%B3%E6%BA%83%E6%9D%B5.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
 				"nameEn": "Redhorn Stonethresher",
@@ -3512,7 +3512,7 @@
 			},
 			{
 				"itemId": 1956,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E7%BF%BC.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之翼",
 				"nameEn": "Skyward Harp",
@@ -3521,7 +3521,7 @@
 			},
 			{
 				"itemId": 1983,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E9%97%AA%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
 				"nameEn": "The Alley Flash",
@@ -3530,7 +3530,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -3539,7 +3539,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -3548,7 +3548,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -3557,7 +3557,7 @@
 			},
 			{
 				"itemId": 1965,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B9%BD%E5%A4%9C%E5%8D%8E%E5%B0%94%E5%85%B9.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
 				"nameEn": "Mitternachts Waltz",
@@ -3573,7 +3573,7 @@
 		"items": [
 			{
 				"itemId": 2012,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%8D%E5%8F%A4%E8%87%AA%E7%94%B1%E4%B9%8B%E8%AA%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
 				"nameEn": "Freedom-Sworn",
@@ -3582,7 +3582,7 @@
 			},
 			{
 				"itemId": 1986,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9D%BE%E7%B1%81%E5%93%8D%E8%B5%B7%E4%B9%8B%E6%97%B6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
 				"nameEn": "Song of Broken Pines",
@@ -3591,7 +3591,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -3600,7 +3600,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -3609,7 +3609,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -3618,7 +3618,7 @@
 			},
 			{
 				"itemId": 1982,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%9A%84%E9%85%92%E4%B8%8E%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
 				"nameEn": "Wine and Song",
@@ -3627,7 +3627,7 @@
 			},
 			{
 				"itemId": 1981,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%8C%8E%E6%89%8B.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
 				"nameEn": "Alley Hunter",
@@ -3643,7 +3643,7 @@
 		"items": [
 			{
 				"itemId": 1972,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%8A%A4%E6%91%A9%E4%B9%8B%E6%9D%96.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
 				"nameEn": "Staff of Homa",
@@ -3652,7 +3652,7 @@
 			},
 			{
 				"itemId": 2008,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%88%E6%9C%AB%E5%97%9F%E5%8F%B9%E4%B9%8B%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
 				"nameEn": "Elegy for the End",
@@ -3661,7 +3661,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -3670,7 +3670,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -3679,7 +3679,7 @@
 			},
 			{
 				"itemId": 1975,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%96%AD%E6%B5%AA%E9%95%BF%E9%B3%8D.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
 				"nameEn": "Wavebreaker's Fin",
@@ -3688,7 +3688,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -3697,7 +3697,7 @@
 			},
 			{
 				"itemId": 1985,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9B%9A%E4%BA%91%E4%B9%8B%E6%9C%88.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
 				"nameEn": "Mouun's Moon",
@@ -3713,7 +3713,7 @@
 		"items": [
 			{
 				"itemId": 1936,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%86%AC%E6%9E%81%E7%99%BD%E6%98%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Worldbane.webp",
 				"itemType": "Weapon",
 				"name": "冬极白星",
 				"nameEn": "Polar Star",
@@ -3722,7 +3722,7 @@
 			},
 			{
 				"itemId": 1964,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B0%98%E4%B8%96%E4%B9%8B%E9%94%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "尘世之锁",
 				"nameEn": "Memory of Dust",
@@ -3731,7 +3731,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -3740,7 +3740,7 @@
 			},
 			{
 				"itemId": 1971,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%81%B6%E7%8E%8B%E4%B8%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
 				"nameEn": "Akuoumaru",
@@ -3749,7 +3749,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -3758,7 +3758,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -3767,7 +3767,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -3783,7 +3783,7 @@
 		"items": [
 			{
 				"itemId": 1932,
-				"imageUrl": "/hoyowiki/picture/weapon/%E4%B8%8D%E7%81%AD%E6%9C%88%E5%8D%8E.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
 				"itemType": "Weapon",
 				"name": "不灭月华",
 				"nameEn": "Everlasting Moonglow",
@@ -3792,7 +3792,7 @@
 			},
 			{
 				"itemId": 2000,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A3%90%E5%B2%A9%E7%BB%93%E7%BB%BF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
 				"nameEn": "Primordial Jade Cutter",
@@ -3801,7 +3801,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -3810,7 +3810,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -3819,7 +3819,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -3828,7 +3828,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -3837,7 +3837,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -3853,7 +3853,7 @@
 		"items": [
 			{
 				"itemId": 2014,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%96%99%E8%8D%89%E4%B9%8B%E7%A8%BB%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
 				"nameEn": "Engulfing Lightning",
@@ -3862,7 +3862,7 @@
 			},
 			{
 				"itemId": 1978,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%97%A0%E5%B7%A5%E4%B9%8B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "无工之剑",
 				"nameEn": "The Unforged",
@@ -3871,7 +3871,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -3880,7 +3880,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -3889,7 +3889,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -3898,7 +3898,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -3907,7 +3907,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -3923,7 +3923,7 @@
 		"items": [
 			{
 				"itemId": 2049,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%A3%9E%E9%9B%B7%E4%B9%8B%E5%BC%A6%E6%8C%AF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
 				"nameEn": "Thundering Pulse",
@@ -3932,7 +3932,7 @@
 			},
 			{
 				"itemId": 1954,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%88%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之刃",
 				"nameEn": "Skyward Blade",
@@ -3941,7 +3941,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -3950,7 +3950,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -3959,7 +3959,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -3968,7 +3968,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -3977,7 +3977,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -3993,7 +3993,7 @@
 		"items": [
 			{
 				"itemId": 2044,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%BE%E5%88%87%E4%B9%8B%E5%9B%9E%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "雾切之回光",
 				"nameEn": "Mistsplitter Reforged",
@@ -4002,7 +4002,7 @@
 			},
 			{
 				"itemId": 1957,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E8%84%8A.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之脊",
 				"nameEn": "Skyward Spine",
@@ -4011,7 +4011,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -4020,7 +4020,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -4029,7 +4029,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -4038,7 +4038,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -4047,7 +4047,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -4063,7 +4063,7 @@
 		"items": [
 			{
 				"itemId": 2012,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%8B%8D%E5%8F%A4%E8%87%AA%E7%94%B1%E4%B9%8B%E8%AA%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
 				"nameEn": "Freedom-Sworn",
@@ -4072,7 +4072,7 @@
 			},
 			{
 				"itemId": 1955,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%8D%B7.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之卷",
 				"nameEn": "Skyward Atlas",
@@ -4081,7 +4081,7 @@
 			},
 			{
 				"itemId": 1983,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E9%97%AA%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
 				"nameEn": "The Alley Flash",
@@ -4090,7 +4090,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -4099,7 +4099,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -4108,7 +4108,7 @@
 			},
 			{
 				"itemId": 1982,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%9A%84%E9%85%92%E4%B8%8E%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
 				"nameEn": "Wine and Song",
@@ -4117,7 +4117,7 @@
 			},
 			{
 				"itemId": 1981,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%8C%8E%E6%89%8B.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
 				"nameEn": "Alley Hunter",
@@ -4133,7 +4133,7 @@
 		"items": [
 			{
 				"itemId": 1953,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%82%B2.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之傲",
 				"nameEn": "Skyward Pride",
@@ -4142,7 +4142,7 @@
 			},
 			{
 				"itemId": 1951,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%9B%9B%E9%A3%8E%E5%8E%9F%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
 				"nameEn": "Lost Prayer to the Sacred Winds",
@@ -4151,7 +4151,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -4160,7 +4160,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -4169,7 +4169,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -4178,7 +4178,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -4187,7 +4187,7 @@
 			},
 			{
 				"itemId": 1965,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B9%BD%E5%A4%9C%E5%8D%8E%E5%B0%94%E5%85%B9.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
 				"nameEn": "Mitternachts Waltz",
@@ -4203,7 +4203,7 @@
 		"items": [
 			{
 				"itemId": 1986,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9D%BE%E7%B1%81%E5%93%8D%E8%B5%B7%E4%B9%8B%E6%97%B6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
 				"nameEn": "Song of Broken Pines",
@@ -4212,7 +4212,7 @@
 			},
 			{
 				"itemId": 2046,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%A3%8E%E9%B9%B0%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Falcon.webp",
 				"itemType": "Weapon",
 				"name": "风鹰剑",
 				"nameEn": "Aquila Favonia",
@@ -4221,7 +4221,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -4230,7 +4230,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -4239,7 +4239,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -4248,7 +4248,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -4257,7 +4257,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -4273,7 +4273,7 @@
 		"items": [
 			{
 				"itemId": 1974,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%96%AB%E5%B3%B0%E4%B9%8B%E5%88%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
 				"nameEn": "Summit Shaper",
@@ -4282,7 +4282,7 @@
 			},
 			{
 				"itemId": 1964,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B0%98%E4%B8%96%E4%B9%8B%E9%94%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "尘世之锁",
 				"nameEn": "Memory of Dust",
@@ -4291,7 +4291,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -4300,7 +4300,7 @@
 			},
 			{
 				"itemId": 1942,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E5%8F%A4%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
 				"nameEn": "Lithic Blade",
@@ -4309,7 +4309,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -4318,7 +4318,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -4327,7 +4327,7 @@
 			},
 			{
 				"itemId": 1943,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
 				"nameEn": "Lithic Spear",
@@ -4343,7 +4343,7 @@
 		"items": [
 			{
 				"itemId": 1956,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E7%BF%BC.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之翼",
 				"nameEn": "Skyward Harp",
@@ -4352,7 +4352,7 @@
 			},
 			{
 				"itemId": 1951,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%9B%9B%E9%A3%8E%E5%8E%9F%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
 				"nameEn": "Lost Prayer to the Sacred Winds",
@@ -4361,7 +4361,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -4370,7 +4370,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -4379,7 +4379,7 @@
 			},
 			{
 				"itemId": 1981,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%8C%8E%E6%89%8B.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
 				"nameEn": "Alley Hunter",
@@ -4388,7 +4388,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -4397,7 +4397,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -4413,7 +4413,7 @@
 		"items": [
 			{
 				"itemId": 2008,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%88%E6%9C%AB%E5%97%9F%E5%8F%B9%E4%B9%8B%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
 				"nameEn": "Elegy for the End",
@@ -4422,7 +4422,7 @@
 			},
 			{
 				"itemId": 1954,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%88%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之刃",
 				"nameEn": "Skyward Blade",
@@ -4431,7 +4431,7 @@
 			},
 			{
 				"itemId": 1983,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E9%97%AA%E5%85%89.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
 				"nameEn": "The Alley Flash",
@@ -4440,7 +4440,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -4449,7 +4449,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -4458,7 +4458,7 @@
 			},
 			{
 				"itemId": 1982,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%9A%97%E5%B7%B7%E7%9A%84%E9%85%92%E4%B8%8E%E8%AF%97.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
 				"nameEn": "Wine and Song",
@@ -4467,7 +4467,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -4483,7 +4483,7 @@
 		"items": [
 			{
 				"itemId": 1972,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%8A%A4%E6%91%A9%E4%B9%8B%E6%9D%96.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
 				"nameEn": "Staff of Homa",
@@ -4492,7 +4492,7 @@
 			},
 			{
 				"itemId": 1992,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%8B%BC%E7%9A%84%E6%9C%AB%E8%B7%AF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Wolfmound.webp",
 				"itemType": "Weapon",
 				"name": "狼的末路",
 				"nameEn": "Wolf's Gravestone",
@@ -4501,7 +4501,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -4510,7 +4510,7 @@
 			},
 			{
 				"itemId": 1942,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E5%8F%A4%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
 				"nameEn": "Lithic Blade",
@@ -4519,7 +4519,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -4528,7 +4528,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -4537,7 +4537,7 @@
 			},
 			{
 				"itemId": 1943,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8D%83%E5%B2%A9%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
 				"nameEn": "Lithic Spear",
@@ -4553,7 +4553,7 @@
 		"items": [
 			{
 				"itemId": 2000,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A3%90%E5%B2%A9%E7%BB%93%E7%BB%BF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
 				"nameEn": "Primordial Jade Cutter",
@@ -4562,7 +4562,7 @@
 			},
 			{
 				"itemId": 1948,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%92%8C%E7%92%9E%E9%B8%A2.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
 				"nameEn": "Primordial Jade Winged-Spear",
@@ -4571,7 +4571,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -4580,7 +4580,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -4589,7 +4589,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -4598,7 +4598,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -4607,7 +4607,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -4623,7 +4623,7 @@
 		"items": [
 			{
 				"itemId": 2040,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%98%BF%E8%8E%AB%E6%96%AF%E4%B9%8B%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
 				"nameEn": "Amos' Bow",
@@ -4632,7 +4632,7 @@
 			},
 			{
 				"itemId": 1953,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%82%B2.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之傲",
 				"nameEn": "Skyward Pride",
@@ -4641,7 +4641,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -4650,7 +4650,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -4659,7 +4659,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -4668,7 +4668,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -4677,7 +4677,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -4693,7 +4693,7 @@
 		"items": [
 			{
 				"itemId": 1974,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%96%AB%E5%B3%B0%E4%B9%8B%E5%88%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
 				"nameEn": "Summit Shaper",
@@ -4702,7 +4702,7 @@
 			},
 			{
 				"itemId": 1955,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%8D%B7.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之卷",
 				"nameEn": "Skyward Atlas",
@@ -4711,7 +4711,7 @@
 			},
 			{
 				"itemId": 2017,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
 				"nameEn": "Favonius Sword",
@@ -4720,7 +4720,7 @@
 			},
 			{
 				"itemId": 2018,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
 				"nameEn": "Favonius Greatsword",
@@ -4729,7 +4729,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -4738,7 +4738,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -4747,7 +4747,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -4763,7 +4763,7 @@
 		"items": [
 			{
 				"itemId": 2030,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%B4%AF%E8%99%B9%E4%B9%8B%E6%A7%8A.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
 				"nameEn": "Vortex Vanquisher",
@@ -4772,7 +4772,7 @@
 			},
 			{
 				"itemId": 1978,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%97%A0%E5%B7%A5%E4%B9%8B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "无工之剑",
 				"nameEn": "The Unforged",
@@ -4781,7 +4781,7 @@
 			},
 			{
 				"itemId": 1941,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
 				"nameEn": "Lion's Roar",
@@ -4790,7 +4790,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -4799,7 +4799,7 @@
 			},
 			{
 				"itemId": 2020,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
 				"nameEn": "Favonius Codex",
@@ -4808,7 +4808,7 @@
 			},
 			{
 				"itemId": 2019,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
 				"nameEn": "Favonius Warbow",
@@ -4817,7 +4817,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -4833,7 +4833,7 @@
 		"items": [
 			{
 				"itemId": 1956,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E7%BF%BC.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之翼",
 				"nameEn": "Skyward Harp",
@@ -4842,7 +4842,7 @@
 			},
 			{
 				"itemId": 1964,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%B0%98%E4%B8%96%E4%B9%8B%E9%94%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "尘世之锁",
 				"nameEn": "Memory of Dust",
@@ -4851,7 +4851,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -4860,7 +4860,7 @@
 			},
 			{
 				"itemId": 2042,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%9B%A8%E8%A3%81.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
 				"nameEn": "Rainslasher",
@@ -4869,7 +4869,7 @@
 			},
 			{
 				"itemId": 1980,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%98%AD%E5%BF%83.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
 				"nameEn": "Eye of Perception",
@@ -4878,7 +4878,7 @@
 			},
 			{
 				"itemId": 1967,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%BC%93%E8%97%8F.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
 				"nameEn": "Rust",
@@ -4887,7 +4887,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",
@@ -4903,7 +4903,7 @@
 		"items": [
 			{
 				"itemId": 1951,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%9B%9B%E9%A3%8E%E5%8E%9F%E5%85%B8.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
 				"nameEn": "Lost Prayer to the Sacred Winds",
@@ -4912,7 +4912,7 @@
 			},
 			{
 				"itemId": 1992,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%8B%BC%E7%9A%84%E6%9C%AB%E8%B7%AF.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Wolfmound.webp",
 				"itemType": "Weapon",
 				"name": "狼的末路",
 				"nameEn": "Wolf's Gravestone",
@@ -4921,7 +4921,7 @@
 			},
 			{
 				"itemId": 2003,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
 				"nameEn": "Sacrificial Sword",
@@ -4930,7 +4930,7 @@
 			},
 			{
 				"itemId": 2004,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
 				"nameEn": "Sacrificial Greatsword",
@@ -4939,7 +4939,7 @@
 			},
 			{
 				"itemId": 2006,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
 				"nameEn": "Sacrificial Fragments",
@@ -4948,7 +4948,7 @@
 			},
 			{
 				"itemId": 2005,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%A5%AD%E7%A4%BC%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
 				"nameEn": "Sacrificial Bow",
@@ -4957,7 +4957,7 @@
 			},
 			{
 				"itemId": 1940,
-				"imageUrl": "/hoyowiki/picture/weapon/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
 				"nameEn": "Dragon's Bane",
@@ -4973,7 +4973,7 @@
 		"items": [
 			{
 				"itemId": 2046,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%A3%8E%E9%B9%B0%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Falcon.webp",
 				"itemType": "Weapon",
 				"name": "风鹰剑",
 				"nameEn": "Aquila Favonia",
@@ -4982,7 +4982,7 @@
 			},
 			{
 				"itemId": 2040,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%98%BF%E8%8E%AB%E6%96%AF%E4%B9%8B%E5%BC%93.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
 				"nameEn": "Amos' Bow",
@@ -4991,7 +4991,7 @@
 			},
 			{
 				"itemId": 2007,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%AC%9B%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
 				"nameEn": "The Flute",
@@ -5000,7 +5000,7 @@
 			},
 			{
 				"itemId": 2033,
-				"imageUrl": "/hoyowiki/picture/weapon/%E9%92%9F%E5%89%91.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
 				"nameEn": "The Bell",
@@ -5009,7 +5009,7 @@
 			},
 			{
 				"itemId": 1991,
-				"imageUrl": "/hoyowiki/picture/weapon/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
 				"nameEn": "The Widsith",
@@ -5018,7 +5018,7 @@
 			},
 			{
 				"itemId": 2009,
-				"imageUrl": "/hoyowiki/picture/weapon/%E7%BB%9D%E5%BC%A6.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
 				"nameEn": "The Stringless",
@@ -5027,7 +5027,7 @@
 			},
 			{
 				"itemId": 2021,
-				"imageUrl": "/hoyowiki/picture/weapon/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA.png",
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
 				"nameEn": "Favonius Lance",

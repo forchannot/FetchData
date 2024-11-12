@@ -4,7 +4,7 @@
 		"items": [
 			{
 				"itemId": 34,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e3fed4c9df8745a0c1fa91e954fde2ad_4221141300460786892.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
 				"itemType": "Character",
 				"name": "胡桃",
 				"nameEn": "Hu Tao",
@@ -14,7 +14,7 @@
 			},
 			{
 				"itemId": 2850,
-				"imageUrl": "/hoyolab-wiki/2022/11/01/47826599/f29490bddc56b4a6773b6c5003bbb853_9178865138637843993.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nahida.webp",
 				"itemType": "Character",
 				"name": "纳西妲",
 				"nameEn": "Nahida",
@@ -24,7 +24,7 @@
 			},
 			{
 				"itemId": 5598,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/30/cdb7abfcb86138e5b618946a5466d442_2702695812908100899.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sethos.webp",
 				"itemType": "Character",
 				"name": "赛索斯",
 				"nameEn": "Sethos",
@@ -34,7 +34,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -44,7 +44,7 @@
 			},
 			{
 				"itemId": 2256,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9078fcb33f27896df29f7017e5da9b50_4656265182889713605.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
 				"itemType": "Character",
 				"name": "久岐忍",
 				"nameEn": "Kuki Shinobu",
@@ -61,7 +61,7 @@
 		"items": [
 			{
 				"itemId": 6924,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/09/25/b07074c2b9040516fd240b6b8d65c011_2487211347344319683.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xilonen.webp",
 				"itemType": "Character",
 				"name": "希诺宁",
 				"nameEn": "Xilonen",
@@ -71,7 +71,7 @@
 			},
 			{
 				"itemId": 4946,
-				"imageUrl": "/event-ugc-hoyowiki/2024/03/13/327628065/5470f90694af13476e49be7b8346e2b1_6630102441704406313.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chiori.webp",
 				"itemType": "Character",
 				"name": "千织",
 				"nameEn": "Chiori",
@@ -81,7 +81,7 @@
 			},
 			{
 				"itemId": 2269,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/6539bea71efd0f839db897cfc4094362_6098603835101164577.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
 				"itemType": "Character",
 				"name": "多莉",
 				"nameEn": "Dori",
@@ -91,7 +91,7 @@
 			},
 			{
 				"itemId": 2815,
-				"imageUrl": "/hoyolab-wiki/2022/09/28/47826599/2f43da4ece9eabfbde6ec2fcc81b3bff_2875120016696416193.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
 				"itemType": "Character",
 				"name": "坎蒂丝",
 				"nameEn": "Candace",
@@ -101,7 +101,7 @@
 			},
 			{
 				"itemId": 2268,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/37a18b6b6865c59063003a9380f08225_1063887604480584973.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
 				"itemType": "Character",
 				"name": "柯莱",
 				"nameEn": "Collei",
@@ -118,7 +118,7 @@
 		"items": [
 			{
 				"itemId": 6317,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/09/12/0099e74b4d0c919f6feab4bade3ab748_5795733017114624391.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kinich.webp",
 				"itemType": "Character",
 				"name": "基尼奇",
 				"nameEn": "Kinich",
@@ -128,7 +128,7 @@
 			},
 			{
 				"itemId": 49,
-				"imageUrl": "/event-ugc-hoyowiki/2024/07/31/59155606/2669f7bf2fdea7ccf0a4aa7ac9f250b2_5238393928427496168.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shougun.webp",
 				"itemType": "Character",
 				"name": "雷电将军",
 				"nameEn": "Raiden Shogun",
@@ -138,7 +138,7 @@
 			},
 			{
 				"itemId": 16,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d5dabd118d90a7606c4226cd91c78817_2393029035550874982.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
 				"name": "托马",
 				"nameEn": "Thoma",
@@ -148,7 +148,7 @@
 			},
 			{
 				"itemId": 3,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e1306e693d2e305287a753411e638270_2251199649727903784.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
 				"itemType": "Character",
 				"name": "九条裟罗",
 				"nameEn": "Kujou Sara",
@@ -158,7 +158,7 @@
 			},
 			{
 				"itemId": 4577,
-				"imageUrl": "/event-ugc-hoyowiki/2024/01/05/157749474/a846729f31f16a987a8696466ebabcc0_1362461991746678705.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chevreuse.webp",
 				"itemType": "Character",
 				"name": "夏沃蕾",
 				"nameEn": "Chevreuse",
@@ -175,7 +175,7 @@
 		"items": [
 			{
 				"itemId": 6319,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/26/f4c75caad42923eb91ee760aa2eb473a_7439123622315070718.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Mualani.webp",
 				"itemType": "Character",
 				"name": "玛拉妮",
 				"nameEn": "Mualani",
@@ -185,7 +185,7 @@
 			},
 			{
 				"itemId": 22,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bd6df65c90f3983a3e5ffe2530c579c8_9019382475937218063.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kazuha.webp",
 				"itemType": "Character",
 				"name": "枫原万叶",
 				"nameEn": "Kaedehara Kazuha",
@@ -195,7 +195,7 @@
 			},
 			{
 				"itemId": 6318,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/23/26925adb1092d29c8afdf46d92fad8bd_343637410022641529.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kachina.webp",
 				"itemType": "Character",
 				"name": "卡齐娜",
 				"nameEn": "Kachina",
@@ -205,7 +205,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -215,7 +215,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -232,7 +232,7 @@
 		"items": [
 			{
 				"itemId": 5714,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/06/03/c52fab70532afeab9a2e295fed1c353b_2658386160379354681.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Emilie.webp",
 				"itemType": "Character",
 				"name": "艾梅莉埃",
 				"nameEn": "Emilie",
@@ -242,7 +242,7 @@
 			},
 			{
 				"itemId": 2252,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3aac1871091d8d5618ada9be534866a9_4537357081989348015.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yelan.webp",
 				"itemType": "Character",
 				"name": "夜兰",
 				"nameEn": "Yelan",
@@ -252,7 +252,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -262,7 +262,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -272,7 +272,7 @@
 			},
 			{
 				"itemId": 48,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9861f3d359e856d845a81195c0e879e5_3359952789543721625.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
 				"itemType": "Character",
 				"name": "雷泽",
 				"nameEn": "Razor",
@@ -289,7 +289,7 @@
 		"items": [
 			{
 				"itemId": 4576,
-				"imageUrl": "/event-ugc-hoyowiki/2023/12/18/157749474/3fc7580c01a9e622692402889706c4db_5947318585221804911.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Navia.webp",
 				"itemType": "Character",
 				"name": "娜维娅",
 				"nameEn": "Navia",
@@ -299,7 +299,7 @@
 			},
 			{
 				"itemId": 2812,
-				"imageUrl": "/hoyolab-wiki/2022/10/09/36540823/586d726f9ebda3506c78beaaa41f13b6_4307521711219397209.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nilou.webp",
 				"itemType": "Character",
 				"name": "妮露",
 				"nameEn": "Nilou",
@@ -309,7 +309,7 @@
 			},
 			{
 				"itemId": 3719,
-				"imageUrl": "/hoyolab-wiki/2023/05/23/47826599/d1699810632f8c3bc8c1e8c8beb8250f_2564441580954160240.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
 				"itemType": "Character",
 				"name": "绮良良",
 				"nameEn": "Kirara",
@@ -319,7 +319,7 @@
 			},
 			{
 				"itemId": 3608,
-				"imageUrl": "/hoyolab-wiki/2023/05/01/47826599/2270aba02b92034d7d76b4426be8f53b_3150066710540343521.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kaveh.webp",
 				"itemType": "Character",
 				"name": "卡维",
 				"nameEn": "Kaveh",
@@ -329,7 +329,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -346,7 +346,7 @@
 		"items": [
 			{
 				"itemId": 4376,
-				"imageUrl": "/hoyolab-wiki/2023/11/08/82021897/263e5ea0784d182b393f67a7e24146a5_6981067474733565531.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Furina.webp",
 				"itemType": "Character",
 				"name": "芙宁娜",
 				"nameEn": "Furina",
@@ -356,7 +356,7 @@
 			},
 			{
 				"itemId": 5597,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/06/21/2d607aa4d729030ea04f79919257e311_5566730974573110495.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sigewinne.webp",
 				"itemType": "Character",
 				"name": "希格雯",
 				"nameEn": "Sigewinne",
@@ -366,7 +366,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -376,7 +376,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -386,7 +386,7 @@
 			},
 			{
 				"itemId": 4775,
-				"imageUrl": "/event-ugc-hoyowiki/2024/01/30/157749474/b041ad23a9d6245efac952a9379c5114_6463987289993541938.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gaming.webp",
 				"itemType": "Character",
 				"name": "嘉明",
 				"nameEn": "Gaming",
@@ -403,7 +403,7 @@
 		"items": [
 			{
 				"itemId": 5596,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/29/770a66030815971c697ab81bc5436329_8660717987969952036.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Clorinde.webp",
 				"itemType": "Character",
 				"name": "克洛琳德",
 				"nameEn": "Clorinde",
@@ -413,7 +413,7 @@
 			},
 			{
 				"itemId": 3336,
-				"imageUrl": "/hoyolab-wiki/2023/01/17/47826599/25249dd20b86c775fb35bdbbd805d9ec_8728328065423189518.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Alhatham.webp",
 				"itemType": "Character",
 				"name": "艾尔海森",
 				"nameEn": "Alhaitham",
@@ -423,7 +423,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -433,7 +433,7 @@
 			},
 			{
 				"itemId": 16,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d5dabd118d90a7606c4226cd91c78817_2393029035550874982.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
 				"name": "托马",
 				"nameEn": "Thoma",
@@ -443,7 +443,7 @@
 			},
 			{
 				"itemId": 5598,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/30/cdb7abfcb86138e5b618946a5466d442_2702695812908100899.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sethos.webp",
 				"itemType": "Character",
 				"name": "赛索斯",
 				"nameEn": "Sethos",
@@ -460,7 +460,7 @@
 		"items": [
 			{
 				"itemId": 2968,
-				"imageUrl": "/hoyolab-wiki/2022/12/06/36540823/24d97a22be742fb732ea96f625d1faac_8403570345904252714.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Wanderer.webp",
 				"itemType": "Character",
 				"name": "流浪者",
 				"nameEn": "Wanderer",
@@ -470,7 +470,7 @@
 			},
 			{
 				"itemId": 3609,
-				"imageUrl": "/hoyolab-wiki/2023/05/01/47826599/05599650d7f42e1c4adde373de6b297d_4873662825334979880.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Baizhuer.webp",
 				"itemType": "Character",
 				"name": "白术",
 				"nameEn": "Baizhu",
@@ -480,7 +480,7 @@
 			},
 			{
 				"itemId": 2859,
-				"imageUrl": "/hoyolab-wiki/2022/11/01/47826599/48a495acadaf37f12d0a7f653d85bd83_2737945499491086468.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
 				"itemType": "Character",
 				"name": "莱依拉",
 				"nameEn": "Layla",
@@ -490,7 +490,7 @@
 			},
 			{
 				"itemId": 2967,
-				"imageUrl": "/hoyolab-wiki/2022/12/06/47826599/38c12ab46678a4008f83a0e46c900ef5_8882167319536551047.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Faruzan.webp",
 				"itemType": "Character",
 				"name": "珐露珊",
 				"nameEn": "Faruzan",
@@ -500,7 +500,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -517,7 +517,7 @@
 		"items": [
 			{
 				"itemId": 5149,
-				"imageUrl": "/event-ugc-hoyowiki/2024/04/22/288375639/672e65470bfd14b664596c2a7f7eaaf8_5412838098707901077.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Arlecchino.webp",
 				"itemType": "Character",
 				"name": "阿蕾奇诺",
 				"nameEn": "Arlecchino",
@@ -527,7 +527,7 @@
 			},
 			{
 				"itemId": 3963,
-				"imageUrl": "/hoyolab-wiki/2023/08/16/47826599/e343d4442cc3b8e243f0d528bb715f75_405136286334844173.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Liney.webp",
 				"itemType": "Character",
 				"name": "林尼",
 				"nameEn": "Lyney",
@@ -537,7 +537,7 @@
 			},
 			{
 				"itemId": 3964,
-				"imageUrl": "/hoyolab-wiki/2023/09/06/88072335/8e44111a378f4e5379b8e7444e8c2daa_1353282180327041570.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Freminet.webp",
 				"itemType": "Character",
 				"name": "菲米尼",
 				"nameEn": "Freminet",
@@ -547,7 +547,7 @@
 			},
 			{
 				"itemId": 3962,
-				"imageUrl": "/hoyolab-wiki/2023/08/16/47826599/436e6f2b9b9006bfe511a98093259daf_7341100649284369969.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Linette.webp",
 				"itemType": "Character",
 				"name": "琳妮特",
 				"nameEn": "Lynette",
@@ -557,7 +557,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -574,7 +574,7 @@
 		"items": [
 			{
 				"itemId": 4023,
-				"imageUrl": "/hoyolab-wiki/2023/09/26/82021897/0513aa7f482dbb4778545d02f94956fe_1047429983773179553.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Neuvillette.webp",
 				"itemType": "Character",
 				"name": "那维莱特",
 				"nameEn": "Neuvillette",
@@ -584,7 +584,7 @@
 			},
 			{
 				"itemId": 22,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bd6df65c90f3983a3e5ffe2530c579c8_9019382475937218063.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kazuha.webp",
 				"itemType": "Character",
 				"name": "枫原万叶",
 				"nameEn": "Kaedehara Kazuha",
@@ -594,7 +594,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -604,7 +604,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -614,7 +614,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -631,7 +631,7 @@
 		"items": [
 			{
 				"itemId": 4946,
-				"imageUrl": "/event-ugc-hoyowiki/2024/03/13/327628065/5470f90694af13476e49be7b8346e2b1_6630102441704406313.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chiori.webp",
 				"itemType": "Character",
 				"name": "千织",
 				"nameEn": "Chiori",
@@ -641,7 +641,7 @@
 			},
 			{
 				"itemId": 36,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/831b304c0992a329a48f133c1318a3a8_4924365661986227971.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Itto.webp",
 				"itemType": "Character",
 				"name": "荒泷一斗",
 				"nameEn": "Arataki Itto",
@@ -651,7 +651,7 @@
 			},
 			{
 				"itemId": 5,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3733e9e03fbc5d3d84eb4adad49bb1d0_7065620989671291113.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
 				"itemType": "Character",
 				"name": "五郎",
 				"nameEn": "Gorou",
@@ -661,7 +661,7 @@
 			},
 			{
 				"itemId": 4,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8dd9a1daabc567d937736f58e60e61_8255594545394381562.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
 				"itemType": "Character",
 				"name": "云堇",
 				"nameEn": "Yun Jin",
@@ -671,7 +671,7 @@
 			},
 			{
 				"itemId": 2269,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/6539bea71efd0f839db897cfc4094362_6098603835101164577.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
 				"itemType": "Character",
 				"name": "多莉",
 				"nameEn": "Dori",
@@ -688,7 +688,7 @@
 		"items": [
 			{
 				"itemId": 51,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/94d2d8d0ed1cecf7f5159fef61bf3901_6927296500238988271.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiao.webp",
 				"itemType": "Character",
 				"name": "魈",
 				"nameEn": "Xiao",
@@ -698,7 +698,7 @@
 			},
 			{
 				"itemId": 7,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/fe99f0fadeeb003fe11d754ef4486e23_4303297213034238274.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yae.webp",
 				"itemType": "Character",
 				"name": "八重神子",
 				"nameEn": "Yae Miko",
@@ -708,7 +708,7 @@
 			},
 			{
 				"itemId": 3335,
-				"imageUrl": "/hoyolab-wiki/2023/01/18/47826599/5bc9df1fb67391e4c8080da3d855de53_1068083666965189960.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
 				"itemType": "Character",
 				"name": "瑶瑶",
 				"nameEn": "Yaoyao",
@@ -718,7 +718,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -728,7 +728,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -745,7 +745,7 @@
 		"items": [
 			{
 				"itemId": 4774,
-				"imageUrl": "/event-ugc-hoyowiki/2024/01/30/157749474/2c2be27f8876e9435ab8c8b933b8408c_1095051365963510492.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Liuyun.webp",
 				"itemType": "Character",
 				"name": "闲云",
 				"nameEn": "Xianyun",
@@ -755,7 +755,7 @@
 			},
 			{
 				"itemId": 2850,
-				"imageUrl": "/hoyolab-wiki/2022/11/01/47826599/f29490bddc56b4a6773b6c5003bbb853_9178865138637843993.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nahida.webp",
 				"itemType": "Character",
 				"name": "纳西妲",
 				"nameEn": "Nahida",
@@ -765,7 +765,7 @@
 			},
 			{
 				"itemId": 4775,
-				"imageUrl": "/event-ugc-hoyowiki/2024/01/30/157749474/b041ad23a9d6245efac952a9379c5114_6463987289993541938.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gaming.webp",
 				"itemType": "Character",
 				"name": "嘉明",
 				"nameEn": "Gaming",
@@ -775,7 +775,7 @@
 			},
 			{
 				"itemId": 2967,
-				"imageUrl": "/hoyolab-wiki/2022/12/06/47826599/38c12ab46678a4008f83a0e46c900ef5_8882167319536551047.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Faruzan.webp",
 				"itemType": "Character",
 				"name": "珐露珊",
 				"nameEn": "Faruzan",
@@ -785,7 +785,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -802,7 +802,7 @@
 		"items": [
 			{
 				"itemId": 49,
-				"imageUrl": "/event-ugc-hoyowiki/2024/07/31/59155606/2669f7bf2fdea7ccf0a4aa7ac9f250b2_5238393928427496168.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shougun.webp",
 				"itemType": "Character",
 				"name": "雷电将军",
 				"nameEn": "Raiden Shogun",
@@ -812,7 +812,7 @@
 			},
 			{
 				"itemId": 15,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8a8d8b160d6ce0e08bcc51cdd4953f_2633821777653293277.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yoimiya.webp",
 				"itemType": "Character",
 				"name": "宵宫",
 				"nameEn": "Yoimiya",
@@ -822,7 +822,7 @@
 			},
 			{
 				"itemId": 4577,
-				"imageUrl": "/event-ugc-hoyowiki/2024/01/05/157749474/a846729f31f16a987a8696466ebabcc0_1362461991746678705.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chevreuse.webp",
 				"itemType": "Character",
 				"name": "夏沃蕾",
 				"nameEn": "Chevreuse",
@@ -832,7 +832,7 @@
 			},
 			{
 				"itemId": 3,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e1306e693d2e305287a753411e638270_2251199649727903784.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
 				"itemType": "Character",
 				"name": "九条裟罗",
 				"nameEn": "Kujou Sara",
@@ -842,7 +842,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -859,7 +859,7 @@
 		"items": [
 			{
 				"itemId": 4576,
-				"imageUrl": "/event-ugc-hoyowiki/2023/12/18/157749474/3fc7580c01a9e622692402889706c4db_5947318585221804911.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Navia.webp",
 				"itemType": "Character",
 				"name": "娜维娅",
 				"nameEn": "Navia",
@@ -869,7 +869,7 @@
 			},
 			{
 				"itemId": 32,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/da12098329a0b6e3cd09633b05ca49a3_3678956298189127693.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ayaka.webp",
 				"itemType": "Character",
 				"name": "神里绫华",
 				"nameEn": "Kamisato Ayaka",
@@ -879,7 +879,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -889,7 +889,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -899,7 +899,7 @@
 			},
 			{
 				"itemId": 2815,
-				"imageUrl": "/hoyolab-wiki/2022/09/28/47826599/2f43da4ece9eabfbde6ec2fcc81b3bff_2875120016696416193.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
 				"itemType": "Character",
 				"name": "坎蒂丝",
 				"nameEn": "Candace",
@@ -916,7 +916,7 @@
 		"items": [
 			{
 				"itemId": 2813,
-				"imageUrl": "/hoyolab-wiki/2022/09/27/47826599/e09e2bda5e022611fad0dea1bb6518bb_1417979140564899210.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Cyno.webp",
 				"itemType": "Character",
 				"name": "赛诺",
 				"nameEn": "Cyno",
@@ -926,7 +926,7 @@
 			},
 			{
 				"itemId": 31,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/23833594e42c33453ea978c6eaf2d2c9_8005358198230569547.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ayato.webp",
 				"itemType": "Character",
 				"name": "神里绫人",
 				"nameEn": "Kamisato Ayato",
@@ -936,7 +936,7 @@
 			},
 			{
 				"itemId": 3719,
-				"imageUrl": "/hoyolab-wiki/2023/05/23/47826599/d1699810632f8c3bc8c1e8c8beb8250f_2564441580954160240.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
 				"itemType": "Character",
 				"name": "绮良良",
 				"nameEn": "Kirara",
@@ -946,7 +946,7 @@
 			},
 			{
 				"itemId": 2256,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9078fcb33f27896df29f7017e5da9b50_4656265182889713605.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
 				"itemType": "Character",
 				"name": "久岐忍",
 				"nameEn": "Kuki Shinobu",
@@ -956,7 +956,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -973,7 +973,7 @@
 		"items": [
 			{
 				"itemId": 4376,
-				"imageUrl": "/hoyolab-wiki/2023/11/08/82021897/263e5ea0784d182b393f67a7e24146a5_6981067474733565531.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Furina.webp",
 				"itemType": "Character",
 				"name": "芙宁娜",
 				"nameEn": "Furina",
@@ -983,7 +983,7 @@
 			},
 			{
 				"itemId": 3609,
-				"imageUrl": "/hoyolab-wiki/2023/05/01/47826599/05599650d7f42e1c4adde373de6b297d_4873662825334979880.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Baizhuer.webp",
 				"itemType": "Character",
 				"name": "白术",
 				"nameEn": "Baizhu",
@@ -993,7 +993,7 @@
 			},
 			{
 				"itemId": 4377,
-				"imageUrl": "/hoyolab-wiki/2023/11/10/82021897/7bbbff3f35661a93b5091b1f17fae6c0_2019382018674186744.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Charlotte.webp",
 				"itemType": "Character",
 				"name": "夏洛蒂",
 				"nameEn": "Charlotte",
@@ -1003,7 +1003,7 @@
 			},
 			{
 				"itemId": 2268,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/37a18b6b6865c59063003a9380f08225_1063887604480584973.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
 				"itemType": "Character",
 				"name": "柯莱",
 				"nameEn": "Collei",
@@ -1013,7 +1013,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -1030,7 +1030,7 @@
 		"items": [
 			{
 				"itemId": 4022,
-				"imageUrl": "/hoyolab-wiki/2023/10/18/88072335/31a0eb2dec5d69ca8dd7616572136b8b_5109482345216622141.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Wriothesley.webp",
 				"itemType": "Character",
 				"name": "莱欧斯利",
 				"nameEn": "Wriothesley",
@@ -1040,7 +1040,7 @@
 			},
 			{
 				"itemId": 23,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/8f6e853d69006df2390197dc04958dc6_7124842681498186358.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Venti.webp",
 				"itemType": "Character",
 				"name": "温迪",
 				"nameEn": "Venti",
@@ -1050,7 +1050,7 @@
 			},
 			{
 				"itemId": 45,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8a24efe466937cb6afb4d0bcf73443e_6270411211755104374.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
 				"itemType": "Character",
 				"name": "重云",
 				"nameEn": "Chongyun",
@@ -1060,7 +1060,7 @@
 			},
 			{
 				"itemId": 16,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d5dabd118d90a7606c4226cd91c78817_2393029035550874982.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
 				"name": "托马",
 				"nameEn": "Thoma",
@@ -1070,7 +1070,7 @@
 			},
 			{
 				"itemId": 2269,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/6539bea71efd0f839db897cfc4094362_6098603835101164577.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
 				"itemType": "Character",
 				"name": "多莉",
 				"nameEn": "Dori",
@@ -1087,7 +1087,7 @@
 		"items": [
 			{
 				"itemId": 4023,
-				"imageUrl": "/hoyolab-wiki/2023/09/26/82021897/0513aa7f482dbb4778545d02f94956fe_1047429983773179553.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Neuvillette.webp",
 				"itemType": "Character",
 				"name": "那维莱特",
 				"nameEn": "Neuvillette",
@@ -1097,7 +1097,7 @@
 			},
 			{
 				"itemId": 34,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e3fed4c9df8745a0c1fa91e954fde2ad_4221141300460786892.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
 				"itemType": "Character",
 				"name": "胡桃",
 				"nameEn": "Hu Tao",
@@ -1107,7 +1107,7 @@
 			},
 			{
 				"itemId": 38,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/caac48b6dc1ae628770c08819c49a096_4690223315810427447.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
 				"name": "菲谢尔",
 				"nameEn": "Fischl",
@@ -1117,7 +1117,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -1127,7 +1127,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -1144,7 +1144,7 @@
 		"items": [
 			{
 				"itemId": 46,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/95b4b908502d2ab048428734f37ad3a2_212527091962952135.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
 				"itemType": "Character",
 				"name": "钟离",
 				"nameEn": "Zhongli",
@@ -1154,7 +1154,7 @@
 			},
 			{
 				"itemId": 42,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ce21cae48f37c74c8d1b6dbf7cba12af_5381207521325198571.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tartaglia.webp",
 				"itemType": "Character",
 				"name": "达达利亚",
 				"nameEn": "Tartaglia",
@@ -1164,7 +1164,7 @@
 			},
 			{
 				"itemId": 3964,
-				"imageUrl": "/hoyolab-wiki/2023/09/06/88072335/8e44111a378f4e5379b8e7444e8c2daa_1353282180327041570.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Freminet.webp",
 				"itemType": "Character",
 				"name": "菲米尼",
 				"nameEn": "Freminet",
@@ -1174,7 +1174,7 @@
 			},
 			{
 				"itemId": 21,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8581bb8b1504ff38581a5231f552379_6016507041529793506.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
 				"itemType": "Character",
 				"name": "早柚",
 				"nameEn": "Sayu",
@@ -1184,7 +1184,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -1201,7 +1201,7 @@
 		"items": [
 			{
 				"itemId": 3963,
-				"imageUrl": "/hoyolab-wiki/2023/08/16/47826599/e343d4442cc3b8e243f0d528bb715f75_405136286334844173.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Liney.webp",
 				"itemType": "Character",
 				"name": "林尼",
 				"nameEn": "Lyney",
@@ -1211,7 +1211,7 @@
 			},
 			{
 				"itemId": 2252,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3aac1871091d8d5618ada9be534866a9_4537357081989348015.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yelan.webp",
 				"itemType": "Character",
 				"name": "夜兰",
 				"nameEn": "Yelan",
@@ -1221,7 +1221,7 @@
 			},
 			{
 				"itemId": 3962,
-				"imageUrl": "/hoyolab-wiki/2023/08/16/47826599/436e6f2b9b9006bfe511a98093259daf_7341100649284369969.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Linette.webp",
 				"itemType": "Character",
 				"name": "琳妮特",
 				"nameEn": "Lynette",
@@ -1231,7 +1231,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -1241,7 +1241,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -1258,7 +1258,7 @@
 		"items": [
 			{
 				"itemId": 25,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/def649ebf30f4fff6a38a10c602cf675_174461238333272915.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kokomi.webp",
 				"itemType": "Character",
 				"name": "珊瑚宫心海",
 				"nameEn": "Sangonomiya Kokomi",
@@ -1268,7 +1268,7 @@
 			},
 			{
 				"itemId": 2968,
-				"imageUrl": "/hoyolab-wiki/2022/12/06/36540823/24d97a22be742fb732ea96f625d1faac_8403570345904252714.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Wanderer.webp",
 				"itemType": "Character",
 				"name": "流浪者",
 				"nameEn": "Wanderer",
@@ -1278,7 +1278,7 @@
 			},
 			{
 				"itemId": 2967,
-				"imageUrl": "/hoyolab-wiki/2022/12/06/47826599/38c12ab46678a4008f83a0e46c900ef5_8882167319536551047.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Faruzan.webp",
 				"itemType": "Character",
 				"name": "珐露珊",
 				"nameEn": "Faruzan",
@@ -1288,7 +1288,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -1298,7 +1298,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -1315,7 +1315,7 @@
 		"items": [
 			{
 				"itemId": 6,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d2201d00f4b88d1701d3e70701e73bc4_97528772977352915.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Eula.webp",
 				"itemType": "Character",
 				"name": "优菈",
 				"nameEn": "Eula",
@@ -1325,7 +1325,7 @@
 			},
 			{
 				"itemId": 12,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ca5fba7e25bd27e309de326cfaf925bd_1110028334539129241.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Klee.webp",
 				"itemType": "Character",
 				"name": "可莉",
 				"nameEn": "Klee",
@@ -1335,7 +1335,7 @@
 			},
 			{
 				"itemId": 3462,
-				"imageUrl": "/hoyolab-wiki/2023/03/20/47826599/da13e3b1a2c6c0e5892b201cec735f9b_1268190137665516330.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Mika.webp",
 				"itemType": "Character",
 				"name": "米卡",
 				"nameEn": "Mika",
@@ -1345,7 +1345,7 @@
 			},
 			{
 				"itemId": 48,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9861f3d359e856d845a81195c0e879e5_3359952789543721625.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
 				"itemType": "Character",
 				"name": "雷泽",
 				"nameEn": "Razor",
@@ -1355,7 +1355,7 @@
 			},
 			{
 				"itemId": 16,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d5dabd118d90a7606c4226cd91c78817_2393029035550874982.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
 				"name": "托马",
 				"nameEn": "Thoma",
@@ -1372,7 +1372,7 @@
 		"items": [
 			{
 				"itemId": 3336,
-				"imageUrl": "/hoyolab-wiki/2023/01/17/47826599/25249dd20b86c775fb35bdbbd805d9ec_8728328065423189518.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Alhatham.webp",
 				"itemType": "Character",
 				"name": "艾尔海森",
 				"nameEn": "Alhaitham",
@@ -1382,7 +1382,7 @@
 			},
 			{
 				"itemId": 22,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bd6df65c90f3983a3e5ffe2530c579c8_9019382475937218063.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kazuha.webp",
 				"itemType": "Character",
 				"name": "枫原万叶",
 				"nameEn": "Kaedehara Kazuha",
@@ -1392,7 +1392,7 @@
 			},
 			{
 				"itemId": 3335,
-				"imageUrl": "/hoyolab-wiki/2023/01/18/47826599/5bc9df1fb67391e4c8080da3d855de53_1068083666965189960.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
 				"itemType": "Character",
 				"name": "瑶瑶",
 				"nameEn": "Yaoyao",
@@ -1402,7 +1402,7 @@
 			},
 			{
 				"itemId": 2263,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e9050c371f827cbe228e7aa24b2de422_5959893409167164118.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
 				"itemType": "Character",
 				"name": "鹿野院平藏",
 				"nameEn": "Shikanoin Heizou",
@@ -1412,7 +1412,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -1429,7 +1429,7 @@
 		"items": [
 			{
 				"itemId": 15,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8a8d8b160d6ce0e08bcc51cdd4953f_2633821777653293277.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yoimiya.webp",
 				"itemType": "Character",
 				"name": "宵宫",
 				"nameEn": "Yoimiya",
@@ -1439,7 +1439,7 @@
 			},
 			{
 				"itemId": 7,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/fe99f0fadeeb003fe11d754ef4486e23_4303297213034238274.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yae.webp",
 				"itemType": "Character",
 				"name": "八重神子",
 				"nameEn": "Yae Miko",
@@ -1449,7 +1449,7 @@
 			},
 			{
 				"itemId": 3719,
-				"imageUrl": "/hoyolab-wiki/2023/05/23/47826599/d1699810632f8c3bc8c1e8c8beb8250f_2564441580954160240.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
 				"itemType": "Character",
 				"name": "绮良良",
 				"nameEn": "Kirara",
@@ -1459,7 +1459,7 @@
 			},
 			{
 				"itemId": 4,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8dd9a1daabc567d937736f58e60e61_8255594545394381562.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
 				"itemType": "Character",
 				"name": "云堇",
 				"nameEn": "Yun Jin",
@@ -1469,7 +1469,7 @@
 			},
 			{
 				"itemId": 45,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8a24efe466937cb6afb4d0bcf73443e_6270411211755104374.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
 				"itemType": "Character",
 				"name": "重云",
 				"nameEn": "Chongyun",
@@ -1486,7 +1486,7 @@
 		"items": [
 			{
 				"itemId": 3609,
-				"imageUrl": "/hoyolab-wiki/2023/05/01/47826599/05599650d7f42e1c4adde373de6b297d_4873662825334979880.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Baizhuer.webp",
 				"itemType": "Character",
 				"name": "白术",
 				"nameEn": "Baizhu",
@@ -1496,7 +1496,7 @@
 			},
 			{
 				"itemId": 28,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3836df70a7442c6557fe9062e23d95b0_4306573658954696176.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ganyu.webp",
 				"itemType": "Character",
 				"name": "甘雨",
 				"nameEn": "Ganyu",
@@ -1506,7 +1506,7 @@
 			},
 			{
 				"itemId": 3608,
-				"imageUrl": "/hoyolab-wiki/2023/05/01/47826599/2270aba02b92034d7d76b4426be8f53b_3150066710540343521.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kaveh.webp",
 				"itemType": "Character",
 				"name": "卡维",
 				"nameEn": "Kaveh",
@@ -1516,7 +1516,7 @@
 			},
 			{
 				"itemId": 2815,
-				"imageUrl": "/hoyolab-wiki/2022/09/28/47826599/2f43da4ece9eabfbde6ec2fcc81b3bff_2875120016696416193.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
 				"itemType": "Character",
 				"name": "坎蒂丝",
 				"nameEn": "Candace",
@@ -1526,7 +1526,7 @@
 			},
 			{
 				"itemId": 38,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/caac48b6dc1ae628770c08819c49a096_4690223315810427447.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
 				"name": "菲谢尔",
 				"nameEn": "Fischl",
@@ -1543,7 +1543,7 @@
 		"items": [
 			{
 				"itemId": 2850,
-				"imageUrl": "/hoyolab-wiki/2022/11/01/47826599/f29490bddc56b4a6773b6c5003bbb853_9178865138637843993.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nahida.webp",
 				"itemType": "Character",
 				"name": "纳西妲",
 				"nameEn": "Nahida",
@@ -1553,7 +1553,7 @@
 			},
 			{
 				"itemId": 2812,
-				"imageUrl": "/hoyolab-wiki/2022/10/09/36540823/586d726f9ebda3506c78beaaa41f13b6_4307521711219397209.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nilou.webp",
 				"itemType": "Character",
 				"name": "妮露",
 				"nameEn": "Nilou",
@@ -1563,7 +1563,7 @@
 			},
 			{
 				"itemId": 2256,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9078fcb33f27896df29f7017e5da9b50_4656265182889713605.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
 				"itemType": "Character",
 				"name": "久岐忍",
 				"nameEn": "Kuki Shinobu",
@@ -1573,7 +1573,7 @@
 			},
 			{
 				"itemId": 2269,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/6539bea71efd0f839db897cfc4094362_6098603835101164577.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
 				"itemType": "Character",
 				"name": "多莉",
 				"nameEn": "Dori",
@@ -1583,7 +1583,7 @@
 			},
 			{
 				"itemId": 2859,
-				"imageUrl": "/hoyolab-wiki/2022/11/01/47826599/48a495acadaf37f12d0a7f653d85bd83_2737945499491086468.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
 				"itemType": "Character",
 				"name": "莱依拉",
 				"nameEn": "Layla",
@@ -1600,7 +1600,7 @@
 		"items": [
 			{
 				"itemId": 29,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/4a04e90fd052abee5db91a62e04bb075_752478327038597656.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shenhe.webp",
 				"itemType": "Character",
 				"name": "申鹤",
 				"nameEn": "Shenhe",
@@ -1610,7 +1610,7 @@
 			},
 			{
 				"itemId": 32,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/da12098329a0b6e3cd09633b05ca49a3_3678956298189127693.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ayaka.webp",
 				"itemType": "Character",
 				"name": "神里绫华",
 				"nameEn": "Kamisato Ayaka",
@@ -1620,7 +1620,7 @@
 			},
 			{
 				"itemId": 3462,
-				"imageUrl": "/hoyolab-wiki/2023/03/20/47826599/da13e3b1a2c6c0e5892b201cec735f9b_1268190137665516330.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Mika.webp",
 				"itemType": "Character",
 				"name": "米卡",
 				"nameEn": "Mika",
@@ -1630,7 +1630,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -1640,7 +1640,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -1657,7 +1657,7 @@
 		"items": [
 			{
 				"itemId": 3463,
-				"imageUrl": "/hoyolab-wiki/2023/02/27/47826599/65b22311e1e38ffa45a4928d4005ecee_4020951604018642842.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dehya.webp",
 				"itemType": "Character",
 				"name": "迪希雅",
 				"nameEn": "Dehya",
@@ -1667,7 +1667,7 @@
 			},
 			{
 				"itemId": 2813,
-				"imageUrl": "/hoyolab-wiki/2022/09/27/47826599/e09e2bda5e022611fad0dea1bb6518bb_1417979140564899210.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Cyno.webp",
 				"itemType": "Character",
 				"name": "赛诺",
 				"nameEn": "Cyno",
@@ -1677,7 +1677,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -1687,7 +1687,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -1697,7 +1697,7 @@
 			},
 			{
 				"itemId": 2268,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/37a18b6b6865c59063003a9380f08225_1063887604480584973.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
 				"itemType": "Character",
 				"name": "柯莱",
 				"nameEn": "Collei",
@@ -1714,7 +1714,7 @@
 		"items": [
 			{
 				"itemId": 34,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e3fed4c9df8745a0c1fa91e954fde2ad_4221141300460786892.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
 				"itemType": "Character",
 				"name": "胡桃",
 				"nameEn": "Hu Tao",
@@ -1724,7 +1724,7 @@
 			},
 			{
 				"itemId": 2252,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3aac1871091d8d5618ada9be534866a9_4537357081989348015.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yelan.webp",
 				"itemType": "Character",
 				"name": "夜兰",
 				"nameEn": "Yelan",
@@ -1734,7 +1734,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -1744,7 +1744,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -1754,7 +1754,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -1771,7 +1771,7 @@
 		"items": [
 			{
 				"itemId": 3336,
-				"imageUrl": "/hoyolab-wiki/2023/01/17/47826599/25249dd20b86c775fb35bdbbd805d9ec_8728328065423189518.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Alhatham.webp",
 				"itemType": "Character",
 				"name": "艾尔海森",
 				"nameEn": "Alhaitham",
@@ -1781,7 +1781,7 @@
 			},
 			{
 				"itemId": 51,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/94d2d8d0ed1cecf7f5159fef61bf3901_6927296500238988271.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiao.webp",
 				"itemType": "Character",
 				"name": "魈",
 				"nameEn": "Xiao",
@@ -1791,7 +1791,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -1801,7 +1801,7 @@
 			},
 			{
 				"itemId": 4,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8dd9a1daabc567d937736f58e60e61_8255594545394381562.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
 				"itemType": "Character",
 				"name": "云堇",
 				"nameEn": "Yun Jin",
@@ -1811,7 +1811,7 @@
 			},
 			{
 				"itemId": 3335,
-				"imageUrl": "/hoyolab-wiki/2023/01/18/47826599/5bc9df1fb67391e4c8080da3d855de53_1068083666965189960.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
 				"itemType": "Character",
 				"name": "瑶瑶",
 				"nameEn": "Yaoyao",
@@ -1828,7 +1828,7 @@
 		"items": [
 			{
 				"itemId": 49,
-				"imageUrl": "/event-ugc-hoyowiki/2024/07/31/59155606/2669f7bf2fdea7ccf0a4aa7ac9f250b2_5238393928427496168.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shougun.webp",
 				"itemType": "Character",
 				"name": "雷电将军",
 				"nameEn": "Raiden Shogun",
@@ -1838,7 +1838,7 @@
 			},
 			{
 				"itemId": 31,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/23833594e42c33453ea978c6eaf2d2c9_8005358198230569547.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ayato.webp",
 				"itemType": "Character",
 				"name": "神里绫人",
 				"nameEn": "Kamisato Ayato",
@@ -1848,7 +1848,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -1858,7 +1858,7 @@
 			},
 			{
 				"itemId": 21,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8581bb8b1504ff38581a5231f552379_6016507041529793506.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
 				"itemType": "Character",
 				"name": "早柚",
 				"nameEn": "Sayu",
@@ -1868,7 +1868,7 @@
 			},
 			{
 				"itemId": 3,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e1306e693d2e305287a753411e638270_2251199649727903784.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
 				"itemType": "Character",
 				"name": "九条裟罗",
 				"nameEn": "Kujou Sara",
@@ -1885,7 +1885,7 @@
 		"items": [
 			{
 				"itemId": 2968,
-				"imageUrl": "/hoyolab-wiki/2022/12/06/36540823/24d97a22be742fb732ea96f625d1faac_8403570345904252714.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Wanderer.webp",
 				"itemType": "Character",
 				"name": "流浪者",
 				"nameEn": "Wanderer",
@@ -1895,7 +1895,7 @@
 			},
 			{
 				"itemId": 36,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/831b304c0992a329a48f133c1318a3a8_4924365661986227971.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Itto.webp",
 				"itemType": "Character",
 				"name": "荒泷一斗",
 				"nameEn": "Arataki Itto",
@@ -1905,7 +1905,7 @@
 			},
 			{
 				"itemId": 2967,
-				"imageUrl": "/hoyolab-wiki/2022/12/06/47826599/38c12ab46678a4008f83a0e46c900ef5_8882167319536551047.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Faruzan.webp",
 				"itemType": "Character",
 				"name": "珐露珊",
 				"nameEn": "Faruzan",
@@ -1915,7 +1915,7 @@
 			},
 			{
 				"itemId": 5,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3733e9e03fbc5d3d84eb4adad49bb1d0_7065620989671291113.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
 				"itemType": "Character",
 				"name": "五郎",
 				"nameEn": "Gorou",
@@ -1925,7 +1925,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -1942,7 +1942,7 @@
 		"items": [
 			{
 				"itemId": 7,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/fe99f0fadeeb003fe11d754ef4486e23_4303297213034238274.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yae.webp",
 				"itemType": "Character",
 				"name": "八重神子",
 				"nameEn": "Yae Miko",
@@ -1952,7 +1952,7 @@
 			},
 			{
 				"itemId": 42,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ce21cae48f37c74c8d1b6dbf7cba12af_5381207521325198571.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tartaglia.webp",
 				"itemType": "Character",
 				"name": "达达利亚",
 				"nameEn": "Tartaglia",
@@ -1962,7 +1962,7 @@
 			},
 			{
 				"itemId": 2859,
-				"imageUrl": "/hoyolab-wiki/2022/11/01/47826599/48a495acadaf37f12d0a7f653d85bd83_2737945499491086468.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
 				"itemType": "Character",
 				"name": "莱依拉",
 				"nameEn": "Layla",
@@ -1972,7 +1972,7 @@
 			},
 			{
 				"itemId": 2263,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e9050c371f827cbe228e7aa24b2de422_5959893409167164118.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
 				"itemType": "Character",
 				"name": "鹿野院平藏",
 				"nameEn": "Shikanoin Heizou",
@@ -1982,7 +1982,7 @@
 			},
 			{
 				"itemId": 16,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d5dabd118d90a7606c4226cd91c78817_2393029035550874982.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
 				"name": "托马",
 				"nameEn": "Thoma",
@@ -1999,7 +1999,7 @@
 		"items": [
 			{
 				"itemId": 2850,
-				"imageUrl": "/hoyolab-wiki/2022/11/01/47826599/f29490bddc56b4a6773b6c5003bbb853_9178865138637843993.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nahida.webp",
 				"itemType": "Character",
 				"name": "纳西妲",
 				"nameEn": "Nahida",
@@ -2009,7 +2009,7 @@
 			},
 			{
 				"itemId": 15,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8a8d8b160d6ce0e08bcc51cdd4953f_2633821777653293277.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yoimiya.webp",
 				"itemType": "Character",
 				"name": "宵宫",
 				"nameEn": "Yoimiya",
@@ -2019,7 +2019,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -2029,7 +2029,7 @@
 			},
 			{
 				"itemId": 48,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9861f3d359e856d845a81195c0e879e5_3359952789543721625.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
 				"itemType": "Character",
 				"name": "雷泽",
 				"nameEn": "Razor",
@@ -2039,7 +2039,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -2056,7 +2056,7 @@
 		"items": [
 			{
 				"itemId": 2812,
-				"imageUrl": "/hoyolab-wiki/2022/10/09/36540823/586d726f9ebda3506c78beaaa41f13b6_4307521711219397209.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nilou.webp",
 				"itemType": "Character",
 				"name": "妮露",
 				"nameEn": "Nilou",
@@ -2066,7 +2066,7 @@
 			},
 			{
 				"itemId": 47,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/b71663c01dc525a09e5591522d2d7943_625618156455509442.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Albedo.webp",
 				"itemType": "Character",
 				"name": "阿贝多",
 				"nameEn": "Albedo",
@@ -2076,7 +2076,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -2086,7 +2086,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -2096,7 +2096,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -2113,7 +2113,7 @@
 		"items": [
 			{
 				"itemId": 2813,
-				"imageUrl": "/hoyolab-wiki/2022/09/27/47826599/e09e2bda5e022611fad0dea1bb6518bb_1417979140564899210.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Cyno.webp",
 				"itemType": "Character",
 				"name": "赛诺",
 				"nameEn": "Cyno",
@@ -2123,7 +2123,7 @@
 			},
 			{
 				"itemId": 23,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/8f6e853d69006df2390197dc04958dc6_7124842681498186358.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Venti.webp",
 				"itemType": "Character",
 				"name": "温迪",
 				"nameEn": "Venti",
@@ -2133,7 +2133,7 @@
 			},
 			{
 				"itemId": 2256,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9078fcb33f27896df29f7017e5da9b50_4656265182889713605.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
 				"itemType": "Character",
 				"name": "久岐忍",
 				"nameEn": "Kuki Shinobu",
@@ -2143,7 +2143,7 @@
 			},
 			{
 				"itemId": 21,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8581bb8b1504ff38581a5231f552379_6016507041529793506.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
 				"itemType": "Character",
 				"name": "早柚",
 				"nameEn": "Sayu",
@@ -2153,7 +2153,7 @@
 			},
 			{
 				"itemId": 2815,
-				"imageUrl": "/hoyolab-wiki/2022/09/28/47826599/2f43da4ece9eabfbde6ec2fcc81b3bff_2875120016696416193.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
 				"itemType": "Character",
 				"name": "坎蒂丝",
 				"nameEn": "Candace",
@@ -2170,7 +2170,7 @@
 		"items": [
 			{
 				"itemId": 28,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3836df70a7442c6557fe9062e23d95b0_4306573658954696176.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ganyu.webp",
 				"itemType": "Character",
 				"name": "甘雨",
 				"nameEn": "Ganyu",
@@ -2180,7 +2180,7 @@
 			},
 			{
 				"itemId": 25,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/def649ebf30f4fff6a38a10c602cf675_174461238333272915.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kokomi.webp",
 				"itemType": "Character",
 				"name": "珊瑚宫心海",
 				"nameEn": "Sangonomiya Kokomi",
@@ -2190,7 +2190,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -2200,7 +2200,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -2210,7 +2210,7 @@
 			},
 			{
 				"itemId": 2269,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/6539bea71efd0f839db897cfc4094362_6098603835101164577.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
 				"itemType": "Character",
 				"name": "多莉",
 				"nameEn": "Dori",
@@ -2227,7 +2227,7 @@
 		"items": [
 			{
 				"itemId": 2265,
-				"imageUrl": "/hoyolab-wiki/2022/08/23/47826599/d039c6da9285163f46b85f0241f29c17_4850179515894860705.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tighnari.webp",
 				"itemType": "Character",
 				"name": "提纳里",
 				"nameEn": "Tighnari",
@@ -2237,7 +2237,7 @@
 			},
 			{
 				"itemId": 46,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/95b4b908502d2ab048428734f37ad3a2_212527091962952135.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
 				"itemType": "Character",
 				"name": "钟离",
 				"nameEn": "Zhongli",
@@ -2247,7 +2247,7 @@
 			},
 			{
 				"itemId": 2268,
-				"imageUrl": "/hoyolab-wiki/2022/08/24/47826599/37a18b6b6865c59063003a9380f08225_1063887604480584973.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
 				"itemType": "Character",
 				"name": "柯莱",
 				"nameEn": "Collei",
@@ -2257,7 +2257,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -2267,7 +2267,7 @@
 			},
 			{
 				"itemId": 38,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/caac48b6dc1ae628770c08819c49a096_4690223315810427447.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
 				"name": "菲谢尔",
 				"nameEn": "Fischl",
@@ -2284,7 +2284,7 @@
 		"items": [
 			{
 				"itemId": 15,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8a8d8b160d6ce0e08bcc51cdd4953f_2633821777653293277.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yoimiya.webp",
 				"itemType": "Character",
 				"name": "宵宫",
 				"nameEn": "Yoimiya",
@@ -2294,7 +2294,7 @@
 			},
 			{
 				"itemId": 4,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8dd9a1daabc567d937736f58e60e61_8255594545394381562.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
 				"itemType": "Character",
 				"name": "云堇",
 				"nameEn": "Yun Jin",
@@ -2304,7 +2304,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -2314,7 +2314,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -2331,7 +2331,7 @@
 		"items": [
 			{
 				"itemId": 22,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bd6df65c90f3983a3e5ffe2530c579c8_9019382475937218063.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kazuha.webp",
 				"itemType": "Character",
 				"name": "枫原万叶",
 				"nameEn": "Kaedehara Kazuha",
@@ -2341,7 +2341,7 @@
 			},
 			{
 				"itemId": 12,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ca5fba7e25bd27e309de326cfaf925bd_1110028334539129241.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Klee.webp",
 				"itemType": "Character",
 				"name": "可莉",
 				"nameEn": "Klee",
@@ -2351,7 +2351,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -2361,7 +2361,7 @@
 			},
 			{
 				"itemId": 2263,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e9050c371f827cbe228e7aa24b2de422_5959893409167164118.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
 				"itemType": "Character",
 				"name": "鹿野院平藏",
 				"nameEn": "Shikanoin Heizou",
@@ -2371,7 +2371,7 @@
 			},
 			{
 				"itemId": 16,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d5dabd118d90a7606c4226cd91c78817_2393029035550874982.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
 				"name": "托马",
 				"nameEn": "Thoma",
@@ -2388,7 +2388,7 @@
 		"items": [
 			{
 				"itemId": 36,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/831b304c0992a329a48f133c1318a3a8_4924365661986227971.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Itto.webp",
 				"itemType": "Character",
 				"name": "荒泷一斗",
 				"nameEn": "Arataki Itto",
@@ -2398,7 +2398,7 @@
 			},
 			{
 				"itemId": 45,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8a24efe466937cb6afb4d0bcf73443e_6270411211755104374.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
 				"itemType": "Character",
 				"name": "重云",
 				"nameEn": "Chongyun",
@@ -2408,7 +2408,7 @@
 			},
 			{
 				"itemId": 5,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3733e9e03fbc5d3d84eb4adad49bb1d0_7065620989671291113.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
 				"itemType": "Character",
 				"name": "五郎",
 				"nameEn": "Gorou",
@@ -2418,7 +2418,7 @@
 			},
 			{
 				"itemId": 2256,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9078fcb33f27896df29f7017e5da9b50_4656265182889713605.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
 				"itemType": "Character",
 				"name": "久岐忍",
 				"nameEn": "Kuki Shinobu",
@@ -2435,7 +2435,7 @@
 		"items": [
 			{
 				"itemId": 2252,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3aac1871091d8d5618ada9be534866a9_4537357081989348015.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yelan.webp",
 				"itemType": "Character",
 				"name": "夜兰",
 				"nameEn": "Yelan",
@@ -2445,7 +2445,7 @@
 			},
 			{
 				"itemId": 51,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/94d2d8d0ed1cecf7f5159fef61bf3901_6927296500238988271.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiao.webp",
 				"itemType": "Character",
 				"name": "魈",
 				"nameEn": "Xiao",
@@ -2455,7 +2455,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -2465,7 +2465,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -2475,7 +2475,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -2492,7 +2492,7 @@
 		"items": [
 			{
 				"itemId": 32,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/da12098329a0b6e3cd09633b05ca49a3_3678956298189127693.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ayaka.webp",
 				"itemType": "Character",
 				"name": "神里绫华",
 				"nameEn": "Kamisato Ayaka",
@@ -2502,7 +2502,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -2512,7 +2512,7 @@
 			},
 			{
 				"itemId": 21,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8581bb8b1504ff38581a5231f552379_6016507041529793506.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
 				"itemType": "Character",
 				"name": "早柚",
 				"nameEn": "Sayu",
@@ -2522,7 +2522,7 @@
 			},
 			{
 				"itemId": 48,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9861f3d359e856d845a81195c0e879e5_3359952789543721625.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
 				"itemType": "Character",
 				"name": "雷泽",
 				"nameEn": "Razor",
@@ -2539,7 +2539,7 @@
 		"items": [
 			{
 				"itemId": 31,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/23833594e42c33453ea978c6eaf2d2c9_8005358198230569547.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ayato.webp",
 				"itemType": "Character",
 				"name": "神里绫人",
 				"nameEn": "Kamisato Ayato",
@@ -2549,7 +2549,7 @@
 			},
 			{
 				"itemId": 23,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/8f6e853d69006df2390197dc04958dc6_7124842681498186358.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Venti.webp",
 				"itemType": "Character",
 				"name": "温迪",
 				"nameEn": "Venti",
@@ -2559,7 +2559,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -2569,7 +2569,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -2579,7 +2579,7 @@
 			},
 			{
 				"itemId": 4,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8dd9a1daabc567d937736f58e60e61_8255594545394381562.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
 				"itemType": "Character",
 				"name": "云堇",
 				"nameEn": "Yun Jin",
@@ -2596,7 +2596,7 @@
 		"items": [
 			{
 				"itemId": 49,
-				"imageUrl": "/event-ugc-hoyowiki/2024/07/31/59155606/2669f7bf2fdea7ccf0a4aa7ac9f250b2_5238393928427496168.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shougun.webp",
 				"itemType": "Character",
 				"name": "雷电将军",
 				"nameEn": "Raiden Shogun",
@@ -2606,7 +2606,7 @@
 			},
 			{
 				"itemId": 25,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/def649ebf30f4fff6a38a10c602cf675_174461238333272915.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kokomi.webp",
 				"itemType": "Character",
 				"name": "珊瑚宫心海",
 				"nameEn": "Sangonomiya Kokomi",
@@ -2616,7 +2616,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -2626,7 +2626,7 @@
 			},
 			{
 				"itemId": 3,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e1306e693d2e305287a753411e638270_2251199649727903784.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
 				"itemType": "Character",
 				"name": "九条裟罗",
 				"nameEn": "Kujou Sara",
@@ -2636,7 +2636,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -2653,7 +2653,7 @@
 		"items": [
 			{
 				"itemId": 7,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/fe99f0fadeeb003fe11d754ef4486e23_4303297213034238274.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yae.webp",
 				"itemType": "Character",
 				"name": "八重神子",
 				"nameEn": "Yae Miko",
@@ -2663,7 +2663,7 @@
 			},
 			{
 				"itemId": 38,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/caac48b6dc1ae628770c08819c49a096_4690223315810427447.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
 				"name": "菲谢尔",
 				"nameEn": "Fischl",
@@ -2673,7 +2673,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -2683,7 +2683,7 @@
 			},
 			{
 				"itemId": 16,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d5dabd118d90a7606c4226cd91c78817_2393029035550874982.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
 				"name": "托马",
 				"nameEn": "Thoma",
@@ -2700,7 +2700,7 @@
 		"items": [
 			{
 				"itemId": 28,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3836df70a7442c6557fe9062e23d95b0_4306573658954696176.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ganyu.webp",
 				"itemType": "Character",
 				"name": "甘雨",
 				"nameEn": "Ganyu",
@@ -2710,7 +2710,7 @@
 			},
 			{
 				"itemId": 46,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/95b4b908502d2ab048428734f37ad3a2_212527091962952135.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
 				"itemType": "Character",
 				"name": "钟离",
 				"nameEn": "Zhongli",
@@ -2720,7 +2720,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -2730,7 +2730,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -2740,7 +2740,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -2757,7 +2757,7 @@
 		"items": [
 			{
 				"itemId": 29,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/4a04e90fd052abee5db91a62e04bb075_752478327038597656.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shenhe.webp",
 				"itemType": "Character",
 				"name": "申鹤",
 				"nameEn": "Shenhe",
@@ -2767,7 +2767,7 @@
 			},
 			{
 				"itemId": 51,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/94d2d8d0ed1cecf7f5159fef61bf3901_6927296500238988271.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiao.webp",
 				"itemType": "Character",
 				"name": "魈",
 				"nameEn": "Xiao",
@@ -2777,7 +2777,7 @@
 			},
 			{
 				"itemId": 4,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8dd9a1daabc567d937736f58e60e61_8255594545394381562.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
 				"itemType": "Character",
 				"name": "云堇",
 				"nameEn": "Yun Jin",
@@ -2787,7 +2787,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -2797,7 +2797,7 @@
 			},
 			{
 				"itemId": 45,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8a24efe466937cb6afb4d0bcf73443e_6270411211755104374.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
 				"itemType": "Character",
 				"name": "重云",
 				"nameEn": "Chongyun",
@@ -2814,7 +2814,7 @@
 		"items": [
 			{
 				"itemId": 36,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/831b304c0992a329a48f133c1318a3a8_4924365661986227971.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Itto.webp",
 				"itemType": "Character",
 				"name": "荒泷一斗",
 				"nameEn": "Arataki Itto",
@@ -2824,7 +2824,7 @@
 			},
 			{
 				"itemId": 5,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3733e9e03fbc5d3d84eb4adad49bb1d0_7065620989671291113.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
 				"itemType": "Character",
 				"name": "五郎",
 				"nameEn": "Gorou",
@@ -2834,7 +2834,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -2844,7 +2844,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -2861,7 +2861,7 @@
 		"items": [
 			{
 				"itemId": 47,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/b71663c01dc525a09e5591522d2d7943_625618156455509442.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Albedo.webp",
 				"itemType": "Character",
 				"name": "阿贝多",
 				"nameEn": "Albedo",
@@ -2871,7 +2871,7 @@
 			},
 			{
 				"itemId": 6,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d2201d00f4b88d1701d3e70701e73bc4_97528772977352915.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Eula.webp",
 				"itemType": "Character",
 				"name": "优菈",
 				"nameEn": "Eula",
@@ -2881,7 +2881,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -2891,7 +2891,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -2901,7 +2901,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -2918,7 +2918,7 @@
 		"items": [
 			{
 				"itemId": 34,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e3fed4c9df8745a0c1fa91e954fde2ad_4221141300460786892.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
 				"itemType": "Character",
 				"name": "胡桃",
 				"nameEn": "Hu Tao",
@@ -2928,7 +2928,7 @@
 			},
 			{
 				"itemId": 16,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d5dabd118d90a7606c4226cd91c78817_2393029035550874982.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
 				"name": "托马",
 				"nameEn": "Thoma",
@@ -2938,7 +2938,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -2948,7 +2948,7 @@
 			},
 			{
 				"itemId": 21,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8581bb8b1504ff38581a5231f552379_6016507041529793506.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
 				"itemType": "Character",
 				"name": "早柚",
 				"nameEn": "Sayu",
@@ -2965,7 +2965,7 @@
 		"items": [
 			{
 				"itemId": 42,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ce21cae48f37c74c8d1b6dbf7cba12af_5381207521325198571.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tartaglia.webp",
 				"itemType": "Character",
 				"name": "达达利亚",
 				"nameEn": "Tartaglia",
@@ -2975,7 +2975,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -2985,7 +2985,7 @@
 			},
 			{
 				"itemId": 45,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8a24efe466937cb6afb4d0bcf73443e_6270411211755104374.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
 				"itemType": "Character",
 				"name": "重云",
 				"nameEn": "Chongyun",
@@ -2995,7 +2995,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -3012,7 +3012,7 @@
 		"items": [
 			{
 				"itemId": 25,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/def649ebf30f4fff6a38a10c602cf675_174461238333272915.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kokomi.webp",
 				"itemType": "Character",
 				"name": "珊瑚宫心海",
 				"nameEn": "Sangonomiya Kokomi",
@@ -3022,7 +3022,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -3032,7 +3032,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -3042,7 +3042,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -3059,7 +3059,7 @@
 		"items": [
 			{
 				"itemId": 49,
-				"imageUrl": "/event-ugc-hoyowiki/2024/07/31/59155606/2669f7bf2fdea7ccf0a4aa7ac9f250b2_5238393928427496168.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shougun.webp",
 				"itemType": "Character",
 				"name": "雷电将军",
 				"nameEn": "Raiden Shogun",
@@ -3069,7 +3069,7 @@
 			},
 			{
 				"itemId": 3,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e1306e693d2e305287a753411e638270_2251199649727903784.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
 				"itemType": "Character",
 				"name": "九条裟罗",
 				"nameEn": "Kujou Sara",
@@ -3079,7 +3079,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -3089,7 +3089,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -3106,7 +3106,7 @@
 		"items": [
 			{
 				"itemId": 15,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3c8a8d8b160d6ce0e08bcc51cdd4953f_2633821777653293277.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yoimiya.webp",
 				"itemType": "Character",
 				"name": "宵宫",
 				"nameEn": "Yoimiya",
@@ -3116,7 +3116,7 @@
 			},
 			{
 				"itemId": 21,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8581bb8b1504ff38581a5231f552379_6016507041529793506.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
 				"itemType": "Character",
 				"name": "早柚",
 				"nameEn": "Sayu",
@@ -3126,7 +3126,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -3136,7 +3136,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -3153,7 +3153,7 @@
 		"items": [
 			{
 				"itemId": 32,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/da12098329a0b6e3cd09633b05ca49a3_3678956298189127693.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ayaka.webp",
 				"itemType": "Character",
 				"name": "神里绫华",
 				"nameEn": "Kamisato Ayaka",
@@ -3163,7 +3163,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -3173,7 +3173,7 @@
 			},
 			{
 				"itemId": 45,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8a24efe466937cb6afb4d0bcf73443e_6270411211755104374.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
 				"itemType": "Character",
 				"name": "重云",
 				"nameEn": "Chongyun",
@@ -3183,7 +3183,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -3200,7 +3200,7 @@
 		"items": [
 			{
 				"itemId": 22,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bd6df65c90f3983a3e5ffe2530c579c8_9019382475937218063.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kazuha.webp",
 				"itemType": "Character",
 				"name": "枫原万叶",
 				"nameEn": "Kaedehara Kazuha",
@@ -3210,7 +3210,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -3220,7 +3220,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -3230,7 +3230,7 @@
 			},
 			{
 				"itemId": 48,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9861f3d359e856d845a81195c0e879e5_3359952789543721625.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
 				"itemType": "Character",
 				"name": "雷泽",
 				"nameEn": "Razor",
@@ -3247,7 +3247,7 @@
 		"items": [
 			{
 				"itemId": 12,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ca5fba7e25bd27e309de326cfaf925bd_1110028334539129241.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Klee.webp",
 				"itemType": "Character",
 				"name": "可莉",
 				"nameEn": "Klee",
@@ -3257,7 +3257,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -3267,7 +3267,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -3277,7 +3277,7 @@
 			},
 			{
 				"itemId": 38,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/caac48b6dc1ae628770c08819c49a096_4690223315810427447.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
 				"name": "菲谢尔",
 				"nameEn": "Fischl",
@@ -3294,7 +3294,7 @@
 		"items": [
 			{
 				"itemId": 6,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d2201d00f4b88d1701d3e70701e73bc4_97528772977352915.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Eula.webp",
 				"itemType": "Character",
 				"name": "优菈",
 				"nameEn": "Eula",
@@ -3304,7 +3304,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -3314,7 +3314,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -3324,7 +3324,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -3341,7 +3341,7 @@
 		"items": [
 			{
 				"itemId": 46,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/95b4b908502d2ab048428734f37ad3a2_212527091962952135.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
 				"itemType": "Character",
 				"name": "钟离",
 				"nameEn": "Zhongli",
@@ -3351,7 +3351,7 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7f4616ee1971ecfd3251207ef85a2d38_6070013783342335702.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
 				"name": "烟绯",
 				"nameEn": "Yanfei",
@@ -3361,7 +3361,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -3371,7 +3371,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -3388,7 +3388,7 @@
 		"items": [
 			{
 				"itemId": 42,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ce21cae48f37c74c8d1b6dbf7cba12af_5381207521325198571.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tartaglia.webp",
 				"itemType": "Character",
 				"name": "达达利亚",
 				"nameEn": "Tartaglia",
@@ -3398,7 +3398,7 @@
 			},
 			{
 				"itemId": 33,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d6738afede9d238e1035a5b70d5f7332_3447459868788459339.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
 				"name": "罗莎莉亚",
 				"nameEn": "Rosaria",
@@ -3408,7 +3408,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -3418,7 +3418,7 @@
 			},
 			{
 				"itemId": 38,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/caac48b6dc1ae628770c08819c49a096_4690223315810427447.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
 				"name": "菲谢尔",
 				"nameEn": "Fischl",
@@ -3435,7 +3435,7 @@
 		"items": [
 			{
 				"itemId": 23,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/8f6e853d69006df2390197dc04958dc6_7124842681498186358.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Venti.webp",
 				"itemType": "Character",
 				"name": "温迪",
 				"nameEn": "Venti",
@@ -3445,7 +3445,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -3455,7 +3455,7 @@
 			},
 			{
 				"itemId": 48,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9861f3d359e856d845a81195c0e879e5_3359952789543721625.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
 				"itemType": "Character",
 				"name": "雷泽",
 				"nameEn": "Razor",
@@ -3465,7 +3465,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -3482,7 +3482,7 @@
 		"items": [
 			{
 				"itemId": 34,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/e3fed4c9df8745a0c1fa91e954fde2ad_4221141300460786892.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
 				"itemType": "Character",
 				"name": "胡桃",
 				"nameEn": "Hu Tao",
@@ -3492,7 +3492,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -3502,7 +3502,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -3512,7 +3512,7 @@
 			},
 			{
 				"itemId": 45,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8a24efe466937cb6afb4d0bcf73443e_6270411211755104374.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
 				"itemType": "Character",
 				"name": "重云",
 				"nameEn": "Chongyun",
@@ -3529,7 +3529,7 @@
 		"items": [
 			{
 				"itemId": 10,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/08a844ef01f40ec7c032588fb15ddb06_4867414478259272853.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Keqing.webp",
 				"itemType": "Character",
 				"name": "刻晴",
 				"nameEn": "Keqing",
@@ -3539,7 +3539,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -3549,7 +3549,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -3559,7 +3559,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -3576,7 +3576,7 @@
 		"items": [
 			{
 				"itemId": 51,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/94d2d8d0ed1cecf7f5159fef61bf3901_6927296500238988271.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiao.webp",
 				"itemType": "Character",
 				"name": "魈",
 				"nameEn": "Xiao",
@@ -3586,7 +3586,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -3596,7 +3596,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -3606,7 +3606,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -3623,7 +3623,7 @@
 		"items": [
 			{
 				"itemId": 28,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/3836df70a7442c6557fe9062e23d95b0_4306573658954696176.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ganyu.webp",
 				"itemType": "Character",
 				"name": "甘雨",
 				"nameEn": "Ganyu",
@@ -3633,7 +3633,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
@@ -3643,7 +3643,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -3653,7 +3653,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -3670,7 +3670,7 @@
 		"items": [
 			{
 				"itemId": 47,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/b71663c01dc525a09e5591522d2d7943_625618156455509442.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Albedo.webp",
 				"itemType": "Character",
 				"name": "阿贝多",
 				"nameEn": "Albedo",
@@ -3680,7 +3680,7 @@
 			},
 			{
 				"itemId": 38,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/caac48b6dc1ae628770c08819c49a096_4690223315810427447.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
 				"name": "菲谢尔",
 				"nameEn": "Fischl",
@@ -3690,7 +3690,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -3700,7 +3700,7 @@
 			},
 			{
 				"itemId": 26,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/987251b5385d22f0d817c61dfe37d892_1022828316344847270.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
 				"name": "班尼特",
 				"nameEn": "Bennett",
@@ -3717,7 +3717,7 @@
 		"items": [
 			{
 				"itemId": 46,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/95b4b908502d2ab048428734f37ad3a2_212527091962952135.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
 				"itemType": "Character",
 				"name": "钟离",
 				"nameEn": "Zhongli",
@@ -3727,7 +3727,7 @@
 			},
 			{
 				"itemId": 41,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d22f27d581f7ce011e84d03828e16259_5911667195645727594.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
 				"name": "辛焱",
 				"nameEn": "Xinyan",
@@ -3737,7 +3737,7 @@
 			},
 			{
 				"itemId": 48,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/9861f3d359e856d845a81195c0e879e5_3359952789543721625.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
 				"itemType": "Character",
 				"name": "雷泽",
 				"nameEn": "Razor",
@@ -3747,7 +3747,7 @@
 			},
 			{
 				"itemId": 45,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d8a24efe466937cb6afb4d0bcf73443e_6270411211755104374.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
 				"itemType": "Character",
 				"name": "重云",
 				"nameEn": "Chongyun",
@@ -3764,7 +3764,7 @@
 		"items": [
 			{
 				"itemId": 42,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ce21cae48f37c74c8d1b6dbf7cba12af_5381207521325198571.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tartaglia.webp",
 				"itemType": "Character",
 				"name": "达达利亚",
 				"nameEn": "Tartaglia",
@@ -3774,7 +3774,7 @@
 			},
 			{
 				"itemId": 44,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/81f0600dbc63d66f4d6eef50b92212eb_4852842927779013983.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
 				"itemType": "Character",
 				"name": "迪奥娜",
 				"nameEn": "Diona",
@@ -3784,7 +3784,7 @@
 			},
 			{
 				"itemId": 11,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/849ad812aa69897b24009dd74296bf0f_7989175566585970435.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
 				"name": "北斗",
 				"nameEn": "Beidou",
@@ -3794,7 +3794,7 @@
 			},
 			{
 				"itemId": 8,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/d65fcefa3eb8aedb05c0ddb3111867de_4824309128875972712.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
 				"name": "凝光",
 				"nameEn": "Ningguang",
@@ -3811,7 +3811,7 @@
 		"items": [
 			{
 				"itemId": 12,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/ca5fba7e25bd27e309de326cfaf925bd_1110028334539129241.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Klee.webp",
 				"itemType": "Character",
 				"name": "可莉",
 				"nameEn": "Klee",
@@ -3821,7 +3821,7 @@
 			},
 			{
 				"itemId": 39,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/7a14ab5d2ffc8e31daa94dac4e6f036f_4054452378806421334.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
 				"name": "行秋",
 				"nameEn": "Xingqiu",
@@ -3831,7 +3831,7 @@
 			},
 			{
 				"itemId": 40,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c6170d2c621267f83532970e6f3f0599_4882371738469746329.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
 				"itemType": "Character",
 				"name": "诺艾尔",
 				"nameEn": "Noelle",
@@ -3841,7 +3841,7 @@
 			},
 			{
 				"itemId": 30,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/c89e6cb0c50857edfd5ff438db3879de_3523850344623399779.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
 				"name": "砂糖",
 				"nameEn": "Sucrose",
@@ -3858,7 +3858,7 @@
 		"items": [
 			{
 				"itemId": 23,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/8f6e853d69006df2390197dc04958dc6_7124842681498186358.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Venti.webp",
 				"itemType": "Character",
 				"name": "温迪",
 				"nameEn": "Venti",
@@ -3868,7 +3868,7 @@
 			},
 			{
 				"itemId": 35,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/bb74efb2a06b3bc511e6919cefcf4af6_6798297105610301514.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
 				"name": "芭芭拉",
 				"nameEn": "Barbara",
@@ -3878,7 +3878,7 @@
 			},
 			{
 				"itemId": 38,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/caac48b6dc1ae628770c08819c49a096_4690223315810427447.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
 				"name": "菲谢尔",
 				"nameEn": "Fischl",
@@ -3888,7 +3888,7 @@
 			},
 			{
 				"itemId": 50,
-				"imageUrl": "/event-ugc-hoyowiki/2024/05/22/327628065/df3327f02795e541b17b6a2d91a6b51d_6188115182942203289.png",
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
 				"name": "香菱",
 				"nameEn": "Xiangling",
