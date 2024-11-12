@@ -8277,9 +8277,9 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"dynamic\":{}}",
-			"attr_level_80": "{\"dynamic\":{}}",
-			"equipment_skill": "<p></p>"
+			"attr_level_1": "{\"base_hp\":\"48\",\"base_atk\":\"21\",\"base_def\":\"12\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1058\",\"base_atk\":\"476\",\"base_def\":\"264\",\"dynamic\":{}}",
+			"equipment_skill": "Curtains Up!<p>Increases the wearer's Max HP by <span style=\"color: #FFC870\">12%</span>/<span style=\"color: #FFC870\">15%</span>/<span style=\"color: #FFC870\">18%</span>/<span style=\"color: #FFC870\">21%</span>/<span style=\"color: #FFC870\">24%</span>. When losing or restoring this unit's HP, increases CRIT DMG by <span style=\"color: #FFC870\">18%</span>/<span style=\"color: #FFC870\">22.5%</span>/<span style=\"color: #FFC870\">27%</span>/<span style=\"color: #FFC870\">31.5%</span>/<span style=\"color: #FFC870\">36%</span>, lasting for 2 turn(s). This effect can only trigger once per turn.</p>"
 		},
 		"entry_page_id": "3167",
 		"filter_values": {
@@ -8311,6 +8311,44 @@
 				],
 				"values": [
 					"4-Star"
+				]
+			},
+			"equipment_skill_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1781",
+						"mi18n_key": "filter_1781",
+						"value": "HP"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2598",
+						"mi18n_key": "filter_2598",
+						"value": "CRIT DMG"
+					}
+				],
+				"values": [
+					"HP",
+					"CRIT DMG"
+				]
+			},
+			"equipment_source": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2558",
+						"mi18n_key": "filter_2558",
+						"value": "Missions"
+					}
+				],
+				"values": [
+					"Missions"
 				]
 			}
 		},
