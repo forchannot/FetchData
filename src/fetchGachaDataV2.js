@@ -15,6 +15,24 @@ function requireJson(relativePath) {
     }
 }
 
+function getImg(game, type, name) {
+    if (game ==="genshin"){
+        game ="gi"
+    }
+    if (name==="三月七 - 存护"){
+        return ""
+    }else if (name ==="『我』的诞生"){
+        name="「我」的诞生"
+    }else if (name ==="防暴者VI型"){
+        name="防暴者Ⅵ型"
+    }else if (name ==="维序者·特化型"){
+        name="维序者-特化型"
+    }
+    let data = requireJson(`../data/hakush/${game}/${type.toLowerCase()}.json`)
+    console.log(name,data[name])
+    return data?.[name]["iconUrl"]
+}
+
 function getRelativePath(game, type, language = "zh-cn") {
     return `../data/hoyowiki/${game}/${language}/${type}.json`
 }
@@ -142,7 +160,7 @@ const getId2 = (name, pool) => {
 
     let returnObj = {
         itemId: +find.entry_page_id,
-        imageUrl: new URL(find.icon_url).pathname,
+        imageUrl: getImg(game,type,name),
         itemType: type,
         name: find.name,
         nameEn: getNameEN(game, type.toLowerCase(), +find.entry_page_id)
