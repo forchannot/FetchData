@@ -369,7 +369,7 @@
 			}
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/4f6da69b0ac332789cfa8f1a3db17e77_6866504406372735530.png",
-		"name": "猫宫又奈"
+		"name": "猫宫 又奈"
 	},
 	{
 		"desc": "",
@@ -648,7 +648,7 @@
 			}
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/17/4ad598ef6760d23196d488cba5c1af8a_5032015665623889570.png",
-		"name": "安东 · 伊万诺夫"
+		"name": "安东·伊万诺夫"
 	},
 	{
 		"desc": "",
@@ -1932,25 +1932,10 @@
 			"attr_level_40": "{\"base_hp\":\"5353\",\"base_atk\":\"593\",\"base_def\":\"436\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"6564\",\"base_atk\":\"713\",\"base_def\":\"535\",\"dynamic\":{}}",
 			"attr_level_60": "{\"base_hp\":\"7368\",\"base_atk\":\"788\",\"base_def\":\"600\",\"dynamic\":{}}",
-			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/b29b33a5257e2326dc48025a93c9e55a_4899842006690034982.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/51832d367971abd8d7402696a1cd6f9a_1942695034022917500.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/4ee7ad12993352862043b1a5dd7bc8c3_4650426539960257671.png\"]"
+			"materials": "[]"
 		},
 		"entry_page_id": "382",
 		"filter_values": {
-			"agent_attack_type": {
-				"key": null,
-				"value_types": [
-					{
-						"enum_string": "pierce",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/8d73540a22fd463a1f70942fca93ee9b_5768967548377443146.png",
-						"id": "14",
-						"mi18n_key": "filter_custom_10",
-						"value": "穿透"
-					}
-				],
-				"values": [
-					"穿透"
-				]
-			},
 			"agent_faction": {
 				"key": null,
 				"value_types": [
@@ -2013,6 +1998,192 @@
 			}
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/14/299a89bfbb926df9a396ad76db78f6f9_5120076859000576241.png",
-		"name": "柏妮思·怀特\n"
+		"name": "柏妮思·怀特"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"626\",\"base_atk\":\"126\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1820\",\"base_atk\":\"239\",\"base_def\":\"143\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"3099\",\"base_atk\":\"360\",\"base_def\":\"244\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4379\",\"base_atk\":\"479\",\"base_def\":\"343\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5659\",\"base_atk\":\"600\",\"base_def\":\"444\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6938\",\"base_atk\":\"721\",\"base_def\":\"545\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"7788\",\"base_atk\":\"797\",\"base_def\":\"612\",\"dynamic\":{}}",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/b29b33a5257e2326dc48025a93c9e55a_4899842006690034982.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/51832d367971abd8d7402696a1cd6f9a_1942695034022917500.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/4ee7ad12993352862043b1a5dd7bc8c3_4650426539960257671.png\"]"
+		},
+		"entry_page_id": "529",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "slash",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
+						"id": "13",
+						"mi18n_key": "filter_custom_9",
+						"value": "斩击"
+					}
+				],
+				"values": [
+					"斩击"
+				]
+			},
+			"agent_faction": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "hollow_special_operations_section_6",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/5b4d66bf5b7acf1395576c6f153407e7_8785833749797384932.png",
+						"id": "20",
+						"mi18n_key": "filter_custom_39",
+						"value": "对空洞特别行动部第六课"
+					}
+				],
+				"values": [
+					"对空洞特别行动部第六课"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "anomaly",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/55982d13c3284d382a9a59ce9f5e5d50_2052082579823154975.png",
+						"id": "5",
+						"mi18n_key": "filter_custom_52",
+						"value": "异常"
+					}
+				],
+				"values": [
+					"异常"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "electric",
+						"icon": "\thttps://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/23f0846bd60219d09ab419b831ce2de7_2106359761671844521.png",
+						"id": "12",
+						"mi18n_key": "filter_custom_8",
+						"value": "电属性"
+					}
+				],
+				"values": [
+					"电属性"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/25/3dd34f678f97c8a2101f0d3ba0710715_7070642981073250787.png",
+		"name": "月城 柳"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"677\",\"base_atk\":\"109\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1935\",\"base_atk\":\"213\",\"base_def\":\"143\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"3285\",\"base_atk\":\"325\",\"base_def\":\"244\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4635\",\"base_atk\":\"436\",\"base_def\":\"343\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5984\",\"base_atk\":\"548\",\"base_def\":\"444\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"7335\",\"base_atk\":\"659\",\"base_def\":\"545\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"8253\",\"base_atk\":\"722\",\"base_def\":\"612\",\"dynamic\":{}}",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/23c79797ed3e364dfef5e196eb860f61_4399773773777481263.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/a2d4493657ff303da71940ba46b03ea6_7661709044224439326.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/d0f8434bb231c28e6d884c9c240ce8e6_8332097865723549952.png\"]"
+		},
+		"entry_page_id": "530",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "strike",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/5968cd96bfaa65d8d30e6d2275c4fa4e_1934106277785949805.png",
+						"id": "15",
+						"mi18n_key": "filter_custom_11",
+						"value": "打击"
+					}
+				],
+				"values": [
+					"打击"
+				]
+			},
+			"agent_faction": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
+						"id": "77",
+						"mi18n_key": "filter_custom_37",
+						"value": "卡吕冬之子"
+					}
+				],
+				"values": [
+					"卡吕冬之子"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "breakthrough",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/a798cde5543596aae302d7fc037df2d5_4111998480888596222.png",
+						"id": "4",
+						"mi18n_key": "filter_custom_51",
+						"value": "击破"
+					}
+				],
+				"values": [
+					"击破"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "fire",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/f7bdcd7c6574c22e6c90f25cae025376_3782022421620830515.png",
+						"id": "9",
+						"mi18n_key": "filter_custom_4",
+						"value": "火属性"
+					}
+				],
+				"values": [
+					"火属性"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/25/62f6ec8192859deb907183ee5af41fbc_7203727196610268894.png",
+		"name": "莱特 \n"
 	}
 ]

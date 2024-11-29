@@ -1,12 +1,98 @@
 [
 	{
+		"version": "1.3.2",
+		"items": [
+			{
+				"itemId": 530,
+				"imageUrl": "/zzz/UI/IconRoleSelect26.webp",
+				"itemType": "Character",
+				"name": "莱特 \n",
+				"nameEn": "Lighter",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 25,
+				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
+				"itemType": "Character",
+				"name": "本·比格",
+				"nameEn": "Ben Bigger",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 23,
+				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
+				"itemType": "Character",
+				"name": "可琳·威克斯",
+				"nameEn": "Corin Wickes",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2024-11-27 12:00:00",
+		"end": "2024-12-17 14:59:59"
+	},
+	{
+		"version": "1.3.1",
+		"items": [
+			{
+				"itemId": 529,
+				"imageUrl": "/zzz/UI/IconRoleSelect31.webp",
+				"itemType": "Character",
+				"name": "月城 柳",
+				"nameEn": "Tsukishiro Yanagi",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 2,
+				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
+				"itemType": "Character",
+				"name": "安比·德玛拉",
+				"nameEn": "Anby Demara",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 19,
+				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
+				"itemType": "Character",
+				"name": "比利·奇德",
+				"nameEn": "Billy Kid",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2024-11-06 06:00:00",
+		"end": "2024-11-27 11:59:59"
+	},
+	{
 		"version": "1.2.2",
 		"items": [
 			{
 				"itemId": 382,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/10/14/299a89bfbb926df9a396ad76db78f6f9_5120076859000576241.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect32.webp",
 				"itemType": "Character",
-				"name": "柏妮思·怀特\n",
+				"name": "柏妮思·怀特",
 				"nameEn": "Burnice White",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
@@ -16,7 +102,7 @@
 			},
 			{
 				"itemId": 125,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/07/02/0005cb04259b2f2101e5aeac52033299_4730938854595310447.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
 				"itemType": "Character",
 				"name": "露西亚娜·德·蒙特夫",
 				"nameEn": "Luciana de Montefio",
@@ -28,7 +114,7 @@
 			},
 			{
 				"itemId": 20,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/23/3815b87d0e526b12127e69f5baed3fa7_2071488341033625974.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
 				"itemType": "Character",
 				"name": "妮可·德玛拉",
 				"nameEn": "Nicole Demara",
@@ -47,7 +133,7 @@
 		"items": [
 			{
 				"itemId": 381,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/09/05/6972b0d890536070ddb28b1af7b671ec_280027749603350505.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect25.webp",
 				"itemType": "Character",
 				"name": "凯撒·金",
 				"nameEn": "Caesar King",
@@ -59,7 +145,7 @@
 			},
 			{
 				"itemId": 126,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/07/02/4a3910f9aad150df3aed53c5de28768e_8578434738157565712.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
 				"itemType": "Character",
 				"name": "派派·韦尔",
 				"nameEn": "Piper Wheel",
@@ -71,9 +157,9 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/17/4ad598ef6760d23196d488cba5c1af8a_5032015665623889570.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
 				"itemType": "Character",
-				"name": "安东 · 伊万诺夫",
+				"name": "安东·伊万诺夫",
 				"nameEn": "Anton Ivanov",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
@@ -90,7 +176,7 @@
 		"items": [
 			{
 				"itemId": 368,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/26/87fcb83576a57e1aae31dfa0d6445b68_3499070425918560638.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect24.webp",
 				"itemType": "Character",
 				"name": "简·杜",
 				"nameEn": "Jane Doe",
@@ -102,7 +188,7 @@
 			},
 			{
 				"itemId": 369,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/26/b2f8135275830a304ab2e92b2543d95c_927816365385918993.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
 				"itemType": "Character",
 				"name": "赛斯·洛威尔",
 				"nameEn": "Seth Lowell",
@@ -114,7 +200,7 @@
 			},
 			{
 				"itemId": 2,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/43aeb29d176e10c9713b3b9b6ac0dd3a_2384682618213467101.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
 				"itemType": "Character",
 				"name": "安比·德玛拉",
 				"nameEn": "Anby Demara",
@@ -133,7 +219,7 @@
 		"items": [
 			{
 				"itemId": 350,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/08/12/ed5601b7cde9bda222181258a3a312d4_4632136586354055308.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect29.webp",
 				"itemType": "Character",
 				"name": "青衣",
 				"nameEn": "Qingyi",
@@ -145,7 +231,7 @@
 			},
 			{
 				"itemId": 19,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/3db23765159cef54aecb564a310aa214_5875819227834946917.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
 				"itemType": "Character",
 				"name": "比利·奇德",
 				"nameEn": "Billy Kid",
@@ -157,7 +243,7 @@
 			},
 			{
 				"itemId": 23,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/16/6f351122be7781f8cd6f21722dd13661_2661769272105172713.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
 				"itemType": "Character",
 				"name": "可琳·威克斯",
 				"nameEn": "Corin Wickes",
@@ -176,7 +262,7 @@
 		"items": [
 			{
 				"itemId": 31,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/391008a843e6a6e35b134b54dd498049_1301244787212807256.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect23.webp",
 				"itemType": "Character",
 				"name": "朱鸢",
 				"nameEn": "Zhu Yuan",
@@ -188,7 +274,7 @@
 			},
 			{
 				"itemId": 20,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/23/3815b87d0e526b12127e69f5baed3fa7_2071488341033625974.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
 				"itemType": "Character",
 				"name": "妮可·德玛拉",
 				"nameEn": "Nicole Demara",
@@ -200,7 +286,7 @@
 			},
 			{
 				"itemId": 25,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/17/96c8a05b61d8a7a3d5c4ba5bfb76fd58_860957641937035940.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
 				"itemType": "Character",
 				"name": "本·比格",
 				"nameEn": "Ben Bigger",
@@ -219,7 +305,7 @@
 		"items": [
 			{
 				"itemId": 29,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/28/71b99a24f7864beec31370cf07cbcafb_7099117086480817211.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect21.webp",
 				"itemType": "Character",
 				"name": "艾莲·乔",
 				"nameEn": "Ellen Joe",
@@ -231,7 +317,7 @@
 			},
 			{
 				"itemId": 89,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/23/f7e89a3278d04fc252011df8b9230b7b_1724004390987084817.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
 				"itemType": "Character",
 				"name": "苍角",
 				"nameEn": "Soukaku",
@@ -243,9 +329,9 @@
 			},
 			{
 				"itemId": 24,
-				"imageUrl": "/event-static-hoyowiki-admin/2024/05/17/4ad598ef6760d23196d488cba5c1af8a_5032015665623889570.png",
+				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
 				"itemType": "Character",
-				"name": "安东 · 伊万诺夫",
+				"name": "安东·伊万诺夫",
 				"nameEn": "Anton Ivanov",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",

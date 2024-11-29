@@ -2023,5 +2023,191 @@
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/14/299a89bfbb926df9a396ad76db78f6f9_5120076859000576241.png",
 		"name": "Burnice White"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"626\",\"base_atk\":\"126\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1820\",\"base_atk\":\"239\",\"base_def\":\"143\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"3099\",\"base_atk\":\"360\",\"base_def\":\"244\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4379\",\"base_atk\":\"479\",\"base_def\":\"343\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5659\",\"base_atk\":\"600\",\"base_def\":\"444\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6938\",\"base_atk\":\"721\",\"base_def\":\"545\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"7788\",\"base_atk\":\"797\",\"base_def\":\"612\",\"dynamic\":{}}",
+			"materials": "[]"
+		},
+		"entry_page_id": "529",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "slash",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
+						"id": "13",
+						"mi18n_key": "filter_custom_9",
+						"value": "Slash"
+					}
+				],
+				"values": [
+					"Slash"
+				]
+			},
+			"agent_faction": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "hollow_special_operations_section_6",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/5b4d66bf5b7acf1395576c6f153407e7_8785833749797384932.png",
+						"id": "20",
+						"mi18n_key": "filter_custom_39",
+						"value": "Hollow Special Operations Section 6"
+					}
+				],
+				"values": [
+					"Hollow Special Operations Section 6"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "anomaly",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/55982d13c3284d382a9a59ce9f5e5d50_2052082579823154975.png",
+						"id": "5",
+						"mi18n_key": "filter_custom_52",
+						"value": "Anomaly"
+					}
+				],
+				"values": [
+					"Anomaly"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "electric",
+						"icon": "\thttps://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/23f0846bd60219d09ab419b831ce2de7_2106359761671844521.png",
+						"id": "12",
+						"mi18n_key": "filter_custom_8",
+						"value": "Electric"
+					}
+				],
+				"values": [
+					"Electric"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/25/3dd34f678f97c8a2101f0d3ba0710715_7070642981073250787.png",
+		"name": "Tsukishiro Yanagi"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"677\",\"base_atk\":\"109\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1935\",\"base_atk\":\"213\",\"base_def\":\"143\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"3285\",\"base_atk\":\"325\",\"base_def\":\"244\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4635\",\"base_atk\":\"436\",\"base_def\":\"343\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5984\",\"base_atk\":\"548\",\"base_def\":\"444\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"7335\",\"base_atk\":\"659\",\"base_def\":\"545\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"8253\",\"base_atk\":\"722\",\"base_def\":\"612\",\"dynamic\":{}}",
+			"materials": "[]"
+		},
+		"entry_page_id": "530",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "strike",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/5968cd96bfaa65d8d30e6d2275c4fa4e_1934106277785949805.png",
+						"id": "15",
+						"mi18n_key": "filter_custom_11",
+						"value": "Strike"
+					}
+				],
+				"values": [
+					"Strike"
+				]
+			},
+			"agent_faction": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
+						"id": "77",
+						"mi18n_key": "filter_custom_37",
+						"value": "Sons of Calydon"
+					}
+				],
+				"values": [
+					"Sons of Calydon"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "breakthrough",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/a798cde5543596aae302d7fc037df2d5_4111998480888596222.png",
+						"id": "4",
+						"mi18n_key": "filter_custom_51",
+						"value": "Stun"
+					}
+				],
+				"values": [
+					"Stun"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "fire",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/f7bdcd7c6574c22e6c90f25cae025376_3782022421620830515.png",
+						"id": "9",
+						"mi18n_key": "filter_custom_4",
+						"value": "Fire"
+					}
+				],
+				"values": [
+					"Fire"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/25/62f6ec8192859deb907183ee5af41fbc_7203727196610268894.png",
+		"name": "Lighter"
 	}
 ]

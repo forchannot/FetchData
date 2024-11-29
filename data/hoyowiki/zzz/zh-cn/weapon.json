@@ -567,7 +567,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"base_def\":\"20.8%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_def\":\"25.6%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_def\":\"30.4%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_def\":\"35.2%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_def\":\"40%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_def\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "万斤顶<p>受到的伤害降低<span style=\"color: rgb(43, 173, 0)\">7.5%</span>/<span style=\"color: rgb(43, 173, 0)\">8.5%</span>/<span style=\"color: rgb(43, 173, 0)\">9.5%</span>/<span style=\"color: rgb(43, 173, 0)\">10.5%</span>/<span style=\"color: rgb(43, 173, 0)\">12%</span>；受到敌方攻击后，下一次攻击命中敌人时，额外造成装备者<span style=\"color: rgb(43, 173, 0)\">600%</span>/<span style=\"color: rgb(43, 173, 0)\">690%</span>/<span style=\"color: rgb(43, 173, 0)\">780%</span>/<span style=\"color: rgb(43, 173, 0)\">870%</span>/<span style=\"color: rgb(43, 173, 0)\">960%</span>防御力的伤害，且必定触发暴击，7.5秒内最多触发一次。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/b55c3bb4876c335cfc430086ccd6cd85_3329131429451840753.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/a06c03423afb97c92471cfcf34c0016b_6184163444560179374.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/6cd4d8bc7818c11edfa0bf6443bf3cb1_157478168187479398.png\"]"
+		},
 		"entry_page_id": "75",
 		"filter_values": {
 			"filter_key_13": {
@@ -606,7 +615,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"base_atk\":\"13%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_atk\":\"16%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_atk\":\"19%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_atk\":\"22%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_atk\":\"25%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "饕餮相<p><span style=\"color: #98eff0\">冰属性伤害</span>提升<span style=\"color: #2bad00\">15%</span>/<span style=\"color: #2bad00\">17.5%</span>/<span style=\"color: #2bad00\">20%</span>/<span style=\"color: #2bad00\">22%</span>/<span style=\"color: #2bad00\">24%</span>；发动<span style=\"color: #FFFFFF\">[强化特殊技]</span>时，全队攻击力提升<span style=\"color: #2bad00\">2%</span>/<span style=\"color: #2bad00\">2.3%</span>/<span style=\"color: #2bad00\">2.6%</span>/<span style=\"color: #2bad00\">2.9%</span>/<span style=\"color: #2bad00\">3.2%</span>，最多叠加4层，持续12秒，重复触发时刷新持续时间，同名被动效果之间不可叠加。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/0c47aea2e254d29ca955e00f539077bc_3996395642545801088.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f964aba564bfbee7495c130afb265d08_6200708887940513873.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f84f7953469e33dba56bddce76fbabfd_2043034920238660856.png\"]"
+		},
 		"entry_page_id": "76",
 		"filter_values": {
 			"filter_key_13": {
@@ -645,7 +663,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"10.4%\"}}",
+			"attr_level_20": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"12.8%\"}}",
+			"attr_level_30": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"17.6%\"}}",
+			"attr_level_40": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"20%\"}}",
+			"attr_level_50": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"20%\"}}",
+			"attr_level_60": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"-\"}}",
+			"equipment_skill": "口径超规<p>攻击力提升<span style=\"color: #2bad00\">7.5%</span>/<span style=\"color: #2bad00\">8.6%</span>/<span style=\"color: #2bad00\">9.7%</span>/<span style=\"color: #2bad00\">10.8%</span>/<span style=\"color: #2bad00\">12%</span>；攻击命中敌人并触发暴击时，额外造成200%攻击力的伤害，<span style=\"color: #2bad00\">8</span>/<span style=\"color: #2bad00\">7.5</span>/<span style=\"color: #2bad00\">7</span>/<span style=\"color: #2bad00\">6.5</span>/<span style=\"color: #2bad00\">6</span>秒内最多触发一次。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
+		},
 		"entry_page_id": "77",
 		"filter_values": {
 			"filter_key_13": {
@@ -684,7 +711,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"equipment_skill": "电玩，启动！<p>装备者攻击命中敌人时，若触发属性克制效果，则全队对该目标的暴击率提升<span style=\"color: rgb(43, 173, 0)\">12%</span>/<span style=\"color: rgb(43, 173, 0)\">13.5%</span>/<span style=\"color: rgb(43, 173, 0)\">15.5%</span>/<span style=\"color: rgb(43, 173, 0)\">17.5%</span>/<span style=\"color: rgb(43, 173, 0)\">20%</span>，持续12秒，同名被动效果之间不可叠加。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/0c47aea2e254d29ca955e00f539077bc_3996395642545801088.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f964aba564bfbee7495c130afb265d08_6200708887940513873.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/f84f7953469e33dba56bddce76fbabfd_2043034920238660856.png\"]"
+		},
 		"entry_page_id": "78",
 		"filter_values": {
 			"filter_key_13": {
@@ -723,7 +759,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"base_imp\":\"7.8%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_imp\":\"9.6%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_imp\":\"11.4%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_imp\":\"13.2%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_imp\":\"15%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_imp\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "开火！<p>每3秒为装备者提供1层充能效果，最多叠加6层；发动<span style=\"color: rgb(255, 255, 255)\">[强化特殊技]</span>时，消耗所有充能，每层充能效果使招式造成的失衡值提升<span style=\"color: rgb(43, 173, 0)\">4%</span>/<span style=\"color: rgb(43, 173, 0)\">4.6%</span>/<span style=\"color: rgb(43, 173, 0)\">5.2%</span>/<span style=\"color: rgb(43, 173, 0)\">5.8%</span>/<span style=\"color: rgb(43, 173, 0)\">6.4%</span>。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/fe3d9b3df343190aaa4ca2dbed091abf_663204191702084506.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/62b5480180321b8a3acc1de450257ed7_5289654393386347030.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/076d8c01e0fceff14e934348342b0acc_5068642522965979385.png\"]"
+		},
 		"entry_page_id": "79",
 		"filter_values": {
 			"filter_key_13": {
@@ -762,7 +807,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"12.5%\"}}",
+			"attr_level_20": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"15.4%\"}}",
+			"attr_level_30": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"18.2%\"}}",
+			"attr_level_40": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"21.1%\"}}",
+			"attr_level_50": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"24%\"}}",
+			"attr_level_60": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"-\"}}",
+			"equipment_skill": "合金猫爪<p><span style=\"color: rgb(240, 209, 43)\">物理伤害</span>提升<span style=\"color: rgb(43, 173, 0)\">20%</span>/<span style=\"color: rgb(43, 173, 0)\">25%</span>/<span style=\"color: rgb(43, 173, 0)\">30%</span>/<span style=\"color: rgb(43, 173, 0)\">35%</span>/<span style=\"color: rgb(43, 173, 0)\">40%</span>；从背后攻击命中敌人时，装备者造成的伤害提升<span style=\"color: rgb(43, 173, 0)\">25%</span>/<span style=\"color: rgb(43, 173, 0)\">31.5%</span>/<span style=\"color: rgb(43, 173, 0)\">38%</span>/<span style=\"color: rgb(43, 173, 0)\">44%</span>/<span style=\"color: rgb(43, 173, 0)\">50%</span>。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
+		},
 		"entry_page_id": "80",
 		"filter_values": {
 			"filter_key_13": {
@@ -801,7 +855,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"base_atk\":\"15.6%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_atk\":\"19.2%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_atk\":\"22.8%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_atk\":\"26.4%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_atk\":\"30%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "炽烈吐息<p><span style=\"color: rgb(255, 255, 255)\">[普通攻击]</span>、<span style=\"color: rgb(255, 255, 255)\">[冲刺攻击]</span>或<span style=\"color: rgb(255, 255, 255)\">[闪避反击]</span>命中敌人时，装备者的攻击力提升<span style=\"color: #2bad00\">3.5%</span>/<span style=\"color: #2bad00\">4.4%</span>/<span style=\"color: #2bad00\">5.2%</span>/<span style=\"color: #2bad00\">6%</span>/<span style=\"color: #2bad00\">7%</span>，最多叠加8层，持续8秒，0.5秒内最多触发一次，每层效果单独结算持续时间。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
+		},
 		"entry_page_id": "81",
 		"filter_values": {
 			"filter_key_13": {
@@ -840,7 +903,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"base_imp\":\"9.4%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_imp\":\"11.5%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_imp\":\"13.7%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_imp\":\"15.8%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_imp\":\"18%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_imp\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "热血施工<p>位于后场时，装备者的能量自动回复提升<span style=\"color: #2bad00\">0.6</span>/<span style=\"color: #2bad00\">0.75</span>/<span style=\"color: #2bad00\">0.9</span>/<span style=\"color: #2bad00\">1.05</span>/<span style=\"color: #2bad00\">1.2</span>点/秒；发动<span style=\"color: #FFFFFF\">[强化特殊技]</span>时，装备者的冲击力提升<span style=\"color: #2bad00\">10%</span>/<span style=\"color: #2bad00\">12.5%</span>/<span style=\"color: #2bad00\">15%</span>/<span style=\"color: #2bad00\">17.5%</span>/<span style=\"color: #2bad00\">20%</span>，最多叠加2层，持续10秒，每层效果单独结算持续时间。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/fe3d9b3df343190aaa4ca2dbed091abf_663204191702084506.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/62b5480180321b8a3acc1de450257ed7_5289654393386347030.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/076d8c01e0fceff14e934348342b0acc_5068642522965979385.png\"]"
+		},
 		"entry_page_id": "82",
 		"filter_values": {
 			"filter_key_13": {
@@ -975,7 +1047,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"12.5%\"}}",
+			"attr_level_20": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"15.4%\"}}",
+			"attr_level_30": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"18.2%\"}}",
+			"attr_level_40": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"21.1%\"}}",
+			"attr_level_50": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"24%\"}}",
+			"attr_level_60": "{\"dynamic\":{\"type\":\"base_rate\",\"value\":\"-\"}}",
+			"equipment_skill": "诸洋之王<p><span style=\"color: rgb(152, 239, 240)\">冰属性伤害</span>提升<span style=\"color: rgb(43, 173, 0)\">25%</span>/<span style=\"color: rgb(43, 173, 0)\">31.5%</span>/<span style=\"color: rgb(43, 173, 0)\">38%</span>/<span style=\"color: rgb(43, 173, 0)\">44.5%</span>/<span style=\"color: rgb(43, 173, 0)\">50%</span>；<span style=\"color: rgb(255, 255, 255)\">[普通攻击]</span>命中敌人时，装备者的暴击率提升<span style=\"color: rgb(43, 173, 0)\">10%</span>/<span style=\"color: rgb(43, 173, 0)\">12.5%</span>/<span style=\"color: rgb(43, 173, 0)\">15%</span>/<span style=\"color: rgb(43, 173, 0)\">17.5%</span>/<span style=\"color: rgb(43, 173, 0)\">20%</span>，持续8秒；<span style=\"color: #FFFFFF\">[冲刺攻击]</span>造成<span style=\"color: #98eff0\">冰属性伤害</span>时，装备者的暴击率额外提升<span style=\"color: #2bad00\">10%</span>/<span style=\"color: #2bad00\">12.5%</span>/<span style=\"color: #2bad00\">15%</span>/<span style=\"color: #2bad00\">17.5%</span>/<span style=\"color: #2bad00\">20%</span>，持续15秒，每种增益效果单独结算持续时间。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
+		},
 		"entry_page_id": "85",
 		"filter_values": {
 			"filter_key_13": {
@@ -1106,7 +1187,7 @@
 			}
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/ea6e21561ddb1c48023bae5cfbee674d_1735414023453250545.png",
-		"name": "防暴者VI型"
+		"name": "防暴者Ⅵ型"
 	},
 	{
 		"desc": "",
@@ -1415,14 +1496,14 @@
 				"value_types": [
 					{
 						"enum_string": "",
-						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
-						"id": "49",
-						"mi18n_key": "filter_custom_51",
-						"value": "击破"
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/ba974570d0627f78131b5c09ffb630f2_1789718693549714050.png",
+						"id": "52",
+						"mi18n_key": "filter_custom_54",
+						"value": "防护"
 					}
 				],
 				"values": [
-					"击破"
+					"防护"
 				]
 			},
 			"w_engine_rarity": {
@@ -1490,7 +1571,103 @@
 				]
 			}
 		},
-		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/15/7f111e62ec1d2c33b42ae9d1fe7c7cc7_6166589729215080399.png",
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/06/165915622/54f767c2003ad4bb9defdf2a823109b1_4408743839424113650.png",
 		"name": "灼心摇壶"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_10": "{\"base_atk\":\"15.6%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_atk\":\"19.2%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_atk\":\"22.8%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_atk\":\"26.4%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_atk\":\"30%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "时喰奇谋<p>装备者的<span style=\"color: #2eb6ff\">电属性异常积蓄效率</span>提升<span style=\"color: #2bad00\">30%</span>/<span style=\"color: #2bad00\">35%</span>/<span style=\"color: #2bad00\">40%</span>/<span style=\"color: #2bad00\">45%</span>/<span style=\"color: #2bad00\">50%</span>；<span style=\"color: #FFFFFF\">[特殊技]</span>或<span style=\"color: #FFFFFF\">[强化特殊技]</span>命中处于属性异常状态下的敌人时，装备者的异常精通提升<span style=\"color: #2bad00\">75</span>/<span style=\"color: #2bad00\">85</span>/<span style=\"color: #2bad00\">95</span>/<span style=\"color: #2bad00\">105</span>/<span style=\"color: #2bad00\">115</span>点，持续15秒；当装备者的异常精通大于等于375点时，由装备者造成的<span style=\"color: #FFFFFF\">[紊乱]</span>伤害提升<span style=\"color: #2bad00\">25%</span>/<span style=\"color: #2bad00\">27.5%</span>/<span style=\"color: #2bad00\">30%</span>/<span style=\"color: #2bad00\">32.5%</span>/<span style=\"color: #2bad00\">35%</span>。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/cc480b364cd4a14edb32a461c3288c2a_8627904871926670787.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/c42230c34d597029c72bd0b16869e960_512646076671511906.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/6f6998fe1fdea9aafcb7c9fcb5fb1553_8438117255271343051.png\"]"
+		},
+		"entry_page_id": "531",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"id": "50",
+						"mi18n_key": "filter_custom_52",
+						"value": "异常"
+					}
+				],
+				"values": [
+					"异常"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "22",
+						"mi18n_key": "filter_custom_48",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/06/165915622/95444bf43b72c242c49d04a4b2355c73_8180123438550150090.png",
+		"name": "时流贤者"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_10": "{\"base_imp\":\"9.4%\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_imp\":\"11.5%\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_imp\":\"13.7%\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_imp\":\"15.8%\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_imp\":\"18%\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_imp\":\"-\",\"dynamic\":{}}",
+			"equipment_skill": "流动之火<p>发动<span style=\"color: rgb(255, 255, 255)\">[快速支援]</span>或<span style=\"color: rgb(255, 255, 255)\">[极限支援]</span>时，装备者的冲击力提升<span style=\"color: rgb(43, 173, 0)\">25%</span>/<span style=\"color: rgb(43, 173, 0)\">28.75%</span>/<span style=\"color: rgb(43, 173, 0)\">32.5%</span>/<span style=\"color: rgb(43, 173, 0)\">36.25%</span>/<span style=\"color: rgb(43, 173, 0)\">40%</span>，持续8秒；装备者发动<span style=\"color: rgb(255, 255, 255)\">[普通攻击]</span>命中敌人时，对目标施加一层<span style=\"color: rgb(255, 255, 255)\">[萎靡]</span>，最多叠加20层，持续30秒，重复触发时刷新持续时间；队伍中任意角色攻击命中敌人时，目标每拥有一层<span style=\"color: rgb(255, 255, 255)\">[萎靡]</span>，本次攻击中<span style=\"color: rgb(152, 239, 240)\">冰属性伤害</span>和<span style=\"color: rgb(255, 85, 33)\">火属性伤害</span>的暴击伤害提升<span style=\"color: rgb(43, 173, 0)\">2%</span>/<span style=\"color: rgb(43, 173, 0)\">2.3%</span>/<span style=\"color: rgb(43, 173, 0)\">2.6%</span>/<span style=\"color: rgb(43, 173, 0)\">2.9%</span>/<span style=\"color: rgb(43, 173, 0)\">3.2%</span>，该效果全队唯一。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/fe3d9b3df343190aaa4ca2dbed091abf_663204191702084506.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/62b5480180321b8a3acc1de450257ed7_5289654393386347030.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/076d8c01e0fceff14e934348342b0acc_5068642522965979385.png\"]"
+		},
+		"entry_page_id": "534",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/a798cde5543596aae302d7fc037df2d5_6696096499966637552.png",
+						"id": "49",
+						"mi18n_key": "filter_custom_51",
+						"value": "击破"
+					}
+				],
+				"values": [
+					"击破"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "22",
+						"mi18n_key": "filter_custom_48",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/28/165915622/ca7ceafe52b8dc2ddcde36e12e73c4e1_3395230240543852443.png",
+		"name": "焰心桂冠"
 	}
 ]
