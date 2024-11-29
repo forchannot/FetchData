@@ -1,5 +1,109 @@
 [
 	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 2645,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "Whereabouts Should Dreams Rest",
+				"rankType": 5,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1935,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21042.webp",
+				"itemType": "Weapon",
+				"name": "铭记于心的约定",
+				"nameEn": "Indelible Promise",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 590,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "nihility",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 2371,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+				"itemType": "Weapon",
+				"name": "两个人的演唱会",
+				"nameEn": "Concert for Two",
+				"rankType": 4,
+				"avatarBaseType": "preservation",
+				"weaponType": "knight"
+			}
+		],
+		"start": "2024-12-25 12:00:00",
+		"end": "2025-01-14 14:59:59"
+	},
+	{
+		"version": "2.7.1",
+		"items": [
+			{
+				"itemId": 3288,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "A Grounded Ascent (Coming Soon)",
+				"rankType": 5,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 73,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23010.webp",
+				"itemType": "Weapon",
+				"name": "拂晓之前",
+				"nameEn": "Before Dawn",
+				"rankType": 5,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 2954,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21046.webp",
+				"itemType": "Weapon",
+				"name": "芳华待灼",
+				"nameEn": "Poised to Bloom",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 50,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "The Birth of the Self",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 54,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "Swordplay",
+				"rankType": 4,
+				"avatarBaseType": "hunt",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2024-12-04 06:00:00",
+		"end": "2024-12-25 11:59:59"
+	},
+	{
 		"version": "2.6.2",
 		"items": [
 			{

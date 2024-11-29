@@ -8516,5 +8516,102 @@
 		},
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/17/5308864/e187a0f1b5a6b694930f6dd582246d5a_7200085419197699048.png",
 		"name": "Ninjutsu Inscription: Dazzling Evilbreaker"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"-\",\"base_atk\":\"-\",\"base_def\":\"-\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"476\",\"base_def\":\"529\",\"dynamic\":{}}",
+			"equipment_skill": "Departing Anew<p>After the wearer uses Skill or Ultimate on one ally character, the wearer regenerates <span style=\"color: rgb(255, 200, 112)\">6</span>/<span style=\"color: rgb(255, 200, 112)\">6.5</span>/<span style=\"color: rgb(255, 200, 112)\">7</span>/<span style=\"color: rgb(255, 200, 112)\">7.5</span>/<span style=\"color: rgb(255, 200, 112)\">8</span> Energy and the ability's target receives 1 stack of \"Hymn\" for 3 turn(s), stacking up to 3 time(s).</p><p>Each stack of \"Hymn\" increases its holder's DMG dealt by <span style=\"color: rgb(255, 200, 112)\">15%</span>/<span style=\"color: rgb(255, 200, 112)\">17%</span>/<span style=\"color: rgb(255, 200, 112)\">19%</span>/<span style=\"color: rgb(255, 200, 112)\">21%</span>/<span style=\"color: rgb(255, 200, 112)\">24%</span>.</p><p>After every 2 instance(s) of Skill or Ultimate the wearer uses on one ally character, recovers 1 Skill Point.</p>"
+		},
+		"entry_page_id": "3288",
+		"filter_values": {
+			"equipment_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "harmony",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
+						"id": "1667",
+						"mi18n_key": "filter_1667",
+						"value": "The Harmony"
+					}
+				],
+				"values": [
+					"The Harmony"
+				]
+			},
+			"equipment_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "1738",
+						"mi18n_key": "filter_1738",
+						"value": "5-Star"
+					}
+				],
+				"values": [
+					"5-Star"
+				]
+			},
+			"equipment_skill_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2585",
+						"mi18n_key": "filter_2585",
+						"value": "Basic ATK, Skill, Ultimate"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2650",
+						"mi18n_key": "filter_2650",
+						"value": "Energy Regeneration Rate"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2671",
+						"mi18n_key": "filter_2671",
+						"value": "Skill Points"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2716",
+						"mi18n_key": "filter_2716",
+						"value": "Additional DMG"
+					}
+				],
+				"values": [
+					"Basic ATK, Skill, Ultimate",
+					"Energy Regeneration Rate",
+					"Skill Points",
+					"Additional DMG"
+				]
+			},
+			"equipment_source": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1857",
+						"mi18n_key": "filter_1857",
+						"value": "Limited Warp"
+					}
+				],
+				"values": [
+					"Limited Warp"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/27/46746754/d2f7fb43704e1deacd7f202e69fe5eba_8175570529428050287.png",
+		"name": "A Grounded Ascent (Coming Soon)"
 	}
 ]

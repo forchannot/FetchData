@@ -4259,7 +4259,10 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_1": "{\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"640\",\"base_def\":\"600\",\"base_speed\":\"96\",\"dynamic\":{}}"
+		},
 		"entry_page_id": "3150",
 		"filter_values": {
 			"character_combat_type": {
@@ -4308,8 +4311,8 @@
 				]
 			}
 		},
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/08/130460543/20d74df8e863811c1741b606833d4a95_2031694361868055886.png",
-		"name": "星期日（即将上线）"
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/28/313359586/15e9a4cf851b51cc2ec34eb5a7459dca_2899211807187087338.png",
+		"name": "星期日"
 	},
 	{
 		"desc": "",
@@ -4379,5 +4382,200 @@
 		},
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/12/130460543/c935f2e1a166d63358c021467c689737_6013826105973630197.png",
 		"name": "忘归人（即将上线）"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"dynamic\":{}}",
+			"attr_level_80": "{\"dynamic\":{}}"
+		},
+		"entry_page_id": "3285",
+		"filter_values": {
+			"character_combat_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "ice",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e7fda5adc3b8ee20cef753b61ff0ed08_8813940564670780996.png",
+						"id": "1371",
+						"mi18n_key": "filter_1371",
+						"value": "冰"
+					}
+				],
+				"values": [
+					"冰"
+				]
+			},
+			"character_factions": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "3454",
+						"mi18n_key": "filter_custom_5",
+						"value": "博识学会"
+					}
+				],
+				"values": [
+					"博识学会"
+				]
+			},
+			"character_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "erudition",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/a8458ce1c20e430c14ef937a260c0863_3461382062600394571.png",
+						"id": "1405",
+						"mi18n_key": "filter_1405",
+						"value": "智识"
+					}
+				],
+				"values": [
+					"智识"
+				]
+			},
+			"character_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "1488",
+						"mi18n_key": "filter_1488",
+						"value": "五星"
+					}
+				],
+				"values": [
+					"五星"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/25/417971351/26f213fa4ea0d56e005125e37ce20ae0_7851674632196464898.png",
+		"name": "大黑塔（即将上线）"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "3286",
+		"filter_values": {
+			"character_combat_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "lightning",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/c3bf245ff0e28fab91b126fa8a24917b_5287731351692004917.png",
+						"id": "1357",
+						"mi18n_key": "filter_1357",
+						"value": "雷"
+					}
+				],
+				"values": [
+					"雷"
+				]
+			},
+			"character_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/22/9ed7182819715c8f05cf48a0fff9f208_5459526725019566542.png",
+						"id": "3494",
+						"mi18n_key": "filter_custom_13",
+						"value": "记忆"
+					}
+				],
+				"values": [
+					"记忆"
+				]
+			},
+			"character_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "1488",
+						"mi18n_key": "filter_1488",
+						"value": "五星"
+					}
+				],
+				"values": [
+					"五星"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/25/417971351/144c190478664739c6805e8826dcadb4_8796210924507521695.png",
+		"name": "阿格莱雅（即将上线）"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "3287",
+		"filter_values": {
+			"character_combat_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "ice",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e7fda5adc3b8ee20cef753b61ff0ed08_8813940564670780996.png",
+						"id": "1371",
+						"mi18n_key": "filter_1371",
+						"value": "冰"
+					}
+				],
+				"values": [
+					"冰"
+				]
+			},
+			"character_factions": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1496",
+						"mi18n_key": "filter_1496",
+						"value": "星穹列车"
+					}
+				],
+				"values": [
+					"星穹列车"
+				]
+			},
+			"character_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/22/9ed7182819715c8f05cf48a0fff9f208_5459526725019566542.png",
+						"id": "3494",
+						"mi18n_key": "filter_custom_13",
+						"value": "记忆"
+					}
+				],
+				"values": [
+					"记忆"
+				]
+			},
+			"character_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "1488",
+						"mi18n_key": "filter_1488",
+						"value": "五星"
+					}
+				],
+				"values": [
+					"五星"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/25/417971351/d9e87dcd3e261d3238460aac553d8cc1_6902828389953182091.gif",
+		"name": "开拓者•记忆（即将上线）"
 	}
 ]

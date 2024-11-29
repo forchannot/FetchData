@@ -9160,5 +9160,93 @@
 		},
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/24/326693439/b2c478416669da0b93624d5a6141c394_2928699210662497988.png",
 		"name": "忍法帖•缭乱破魔"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_80": "{\"dynamic\":{}}",
+			"equipment_skill": "再启程<p>当装备者对我方单体角色施放战技或终结技后，装备者恢复<span style=\"color: rgb(255, 200, 112)\">6.0/6.5/7.0/7.5/8.0</span>点能量，同时使技能目标获得1层【圣咏】，持续3回合，最多叠加3层，每层【圣咏】使持有者造成的伤害提高<span style=\"color: rgb(255, 200, 112)\">15/17/19/21/24%</span>。装备者每对我方单体角色施放2次战技或终结技后，恢复1个战技点。</p>"
+		},
+		"entry_page_id": "3288",
+		"filter_values": {
+			"equipment_paths": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "harmony",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e84ddead5d9a26c3827428cb4358f05e_5825200323544808775.png",
+						"id": "1667",
+						"mi18n_key": "filter_1667",
+						"value": "同谐"
+					}
+				],
+				"values": [
+					"同谐"
+				]
+			},
+			"equipment_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "1738",
+						"mi18n_key": "filter_1738",
+						"value": "五星"
+					}
+				],
+				"values": [
+					"五星"
+				]
+			},
+			"equipment_skill_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2570",
+						"mi18n_key": "filter_2570",
+						"value": "伤害"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2623",
+						"mi18n_key": "filter_2623",
+						"value": "能量"
+					},
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "2671",
+						"mi18n_key": "filter_2671",
+						"value": "战技点"
+					}
+				],
+				"values": [
+					"伤害",
+					"能量",
+					"战技点"
+				]
+			},
+			"equipment_source": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1857",
+						"mi18n_key": "filter_1857",
+						"value": "限定跃迁"
+					}
+				],
+				"values": [
+					"限定跃迁"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/25/326064416/87989e444dbaa65b077722d82ba72acb_2997150082776952684.png",
+		"name": "回到大地的飞行"
 	}
 ]

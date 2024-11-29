@@ -1,5 +1,127 @@
 [
 	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 2494,
+				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
+				"itemType": "Character",
+				"name": "流萤",
+				"nameEn": "Firefly ",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1924,
+				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
+				"itemType": "Character",
+				"name": "加拉赫",
+				"nameEn": "Gallagher",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 4,
+				"avatarBaseType": "abundance",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 712,
+				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
+				"itemType": "Character",
+				"name": "驭空",
+				"nameEn": "Yukong",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1808,
+				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
+				"itemType": "Character",
+				"name": "米沙",
+				"nameEn": "Misha",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2024-12-25 12:00:00",
+		"end": "2025-01-14 14:59:59"
+	},
+	{
+		"version": "2.7.1",
+		"items": [
+			{
+				"itemId": 3150,
+				"imageUrl": "/hsr/UI/avatarshopicon/1313.webp",
+				"itemType": "Character",
+				"name": "星期日",
+				"nameEn": "Sunday (Coming Soon)",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 5,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 26,
+				"imageUrl": "/hsr/UI/avatarshopicon/1204.webp",
+				"itemType": "Character",
+				"name": "景元",
+				"nameEn": "Jing Yuan",
+				"damageType": "lightning",
+				"element": "thunder",
+				"rankType": 5,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 24,
+				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
+				"itemType": "Character",
+				"name": "青雀",
+				"nameEn": "Qingque",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "erudition",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 11,
+				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
+				"itemType": "Character",
+				"name": "阿兰",
+				"nameEn": "Arlan",
+				"damageType": "lightning",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "destruction",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 25,
+				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
+				"itemType": "Character",
+				"name": "停云",
+				"nameEn": "Tingyun",
+				"damageType": "lightning",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "harmony",
+				"weaponType": "shaman"
+			}
+		],
+		"start": "2024-12-04 06:00:00",
+		"end": "2024-12-25 11:59:59"
+	},
+	{
 		"version": "2.6.2",
 		"items": [
 			{
