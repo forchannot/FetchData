@@ -7765,6 +7765,36 @@
 		"display_field": {},
 		"entry_page_id": "7079",
 		"filter_values": {
+			"character_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "550",
+						"mi18n_key": "filter_550",
+						"value": "ATK"
+					}
+				],
+				"values": [
+					"ATK"
+				]
+			},
+			"character_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "14",
+						"mi18n_key": "filter_14",
+						"value": "4-Star"
+					}
+				],
+				"values": [
+					"4-Star"
+				]
+			},
 			"character_region": {
 				"key": null,
 				"value_types": [
@@ -7794,9 +7824,24 @@
 				"values": [
 					"Electro"
 				]
+			},
+			"character_weapon": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e38debacfd0147020895322333ea9d2a_4867338674175003782.png",
+						"id": "95",
+						"mi18n_key": "filter_95",
+						"value": "Bow"
+					}
+				],
+				"values": [
+					"Bow"
+				]
 			}
 		},
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/15/35428890/111bf7775d3d25ec3b3ef40b7decd59a_8992231375556288068.png",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/18/e4830690f8b6a1ebb02cfbc8ce955671_8091252479018770784.png",
 		"name": "Ororon"
 	},
 	{
@@ -7804,6 +7849,36 @@
 		"display_field": {},
 		"entry_page_id": "7080",
 		"filter_values": {
+			"character_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "507",
+						"mi18n_key": "filter_507",
+						"value": "CRIT Rate"
+					}
+				],
+				"values": [
+					"CRIT Rate"
+				]
+			},
+			"character_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_2",
+						"value": "5-Star"
+					}
+				],
+				"values": [
+					"5-Star"
+				]
+			},
 			"character_region": {
 				"key": null,
 				"value_types": [
@@ -7833,9 +7908,141 @@
 				"values": [
 					"Anemo"
 				]
+			},
+			"character_weapon": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e38debacfd0147020895322333ea9d2a_4867338674175003782.png",
+						"id": "95",
+						"mi18n_key": "filter_95",
+						"value": "Bow"
+					}
+				],
+				"values": [
+					"Bow"
+				]
 			}
 		},
-		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/10/15/35428890/deccfeeace08a15b423781bf13aee53c_8247620773017879262.png",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/18/abe1192cc7aad45f6b273478dd5fa88a_4799372826012752249.png",
 		"name": "Chasca"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7299",
+		"filter_values": {
+			"character_region": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1456",
+						"mi18n_key": "filter_1456",
+						"value": "Natlan"
+					}
+				],
+				"values": [
+					"Natlan"
+				]
+			},
+			"character_vision": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "pyro",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/ac3123b42bf631685287e76c8c834a6c_564491877314389852.png",
+						"id": "729",
+						"mi18n_key": "filter_729",
+						"value": "Pyro"
+					}
+				],
+				"values": [
+					"Pyro"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/26/151578876/1f8e0a2d78b0735aa9684b9a502bb004_2654419677789455279.png",
+		"name": "Mavuika"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7300",
+		"filter_values": {
+			"character_region": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1456",
+						"mi18n_key": "filter_1456",
+						"value": "Natlan"
+					}
+				],
+				"values": [
+					"Natlan"
+				]
+			},
+			"character_vision": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "cryo",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/157c22f5fd473d3c1684c6ee981540b6_1601711336893201442.png",
+						"id": "802",
+						"mi18n_key": "filter_802",
+						"value": "Cryo"
+					}
+				],
+				"values": [
+					"Cryo"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/26/151578876/188578a56ba75d147d6c8a14285e4a77_443914870928659383.png",
+		"name": "Citlali"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7301",
+		"filter_values": {
+			"character_region": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "42",
+						"mi18n_key": "filter_42",
+						"value": "Liyue Harbor"
+					}
+				],
+				"values": [
+					"Liyue Harbor"
+				]
+			},
+			"character_vision": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "anemo",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/6b5c0d861fd1b4791bd602d3e7296598_8700657350379813969.png",
+						"id": "782",
+						"mi18n_key": "filter_782",
+						"value": "Anemo"
+					}
+				],
+				"values": [
+					"Anemo"
+				]
+			}
+		},
+		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/26/151578876/6529c3a91eb2c2d3f2ff80666011c62f_3654233360144167179.png",
+		"name": "Lan Yan"
 	}
 ]

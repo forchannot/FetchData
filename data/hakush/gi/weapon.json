@@ -1247,6 +1247,19 @@
 		"rank": 4,
 		"type": "WEAPON_BOW"
 	},
+	"焚曜千阳": {
+		"CHS": "焚曜千阳",
+		"cn": "焚曜千阳",
+		"desc": "A greatsword that dazzles like the rising sun. It has witnessed the extinguishing and rekindling of unnumbered suns.",
+		"EN": "A Thousand Blazing Suns",
+		"icon": "UI_EquipIcon_Claymore_RadianceSword",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_RadianceSword.webp",
+		"id": "12514",
+		"JP": "焚曜千陽JP0B",
+		"KR": "타오르는 천양",
+		"rank": 5,
+		"type": "WEAPON_CLAYMORE"
+	},
 	"狼牙": {
 		"CHS": "狼牙",
 		"cn": "狼牙",
@@ -1506,6 +1519,19 @@
 		"KR": "신궁의 서약",
 		"rank": 3,
 		"type": "WEAPON_BOW"
+	},
+	"祭星者之望": {
+		"CHS": "祭星者之望",
+		"cn": "祭星者之望",
+		"desc": "A statue carved in the shape of an eagle. A sacred relic passed down through the Masters of the Night-Wind.",
+		"EN": "Starcaller's Watch",
+		"icon": "UI_EquipIcon_Catalyst_Figurines",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Figurines.webp",
+		"id": "14517",
+		"JP": "祭星者の眺めJP0B",
+		"KR": "별 제자상의 시선",
+		"rank": 5,
+		"type": "WEAPON_CATALYST"
 	},
 	"祭礼剑": {
 		"CHS": "祭礼剑",

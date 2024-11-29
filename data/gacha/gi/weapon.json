@@ -1,5 +1,72 @@
 [
 	{
+		"version": "5.2.1",
+		"items": [
+			{
+				"itemId": 7116,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Qoyllorsnova.webp",
+				"itemType": "Weapon",
+				"name": "星鹫赤羽",
+				"weaponType": "Bow",
+				"rankType": 5
+			},
+			{
+				"itemId": 3983,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Pledge.webp",
+				"itemType": "Weapon",
+				"name": "最初的大魔术",
+				"nameEn": "The First Great Magic",
+				"weaponType": "Bow",
+				"rankType": 5
+			},
+			{
+				"itemId": 7114,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "乘浪的回旋",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 7115,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "缀花之翎",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 2007,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "The Flute",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 2033,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "The Bell",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 2021,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance",
+				"weaponType": "Polearm",
+				"rankType": 4
+			}
+		],
+		"start": "2024-11-20 06:00:00",
+		"end": "2024-12-10 17:59:59"
+	},
+	{
 		"version": "5.1.2",
 		"items": [
 			{
@@ -25,6 +92,7 @@
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "硕果钩",
+				"nameEn": "Fruitful Hook",
 				"weaponType": "Claymore",
 				"rankType": 4
 			},

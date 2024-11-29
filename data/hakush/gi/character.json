@@ -604,7 +604,7 @@
 		"JP": "チャスカ",
 		"KR": "차스카",
 		"rank": "QUALITY_ORANGE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2024-11-19 00:00:00",
 		"weapon": "WEAPON_BOW"
 	},
 	"托马": {
@@ -653,11 +653,11 @@
 		"CHS": "旅行者",
 		"cn": "旅行者",
 		"desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
-		"element": "Dendro",
+		"element": "Pyro",
 		"EN": "Traveler",
 		"icon": "UI_AvatarIcon_PlayerBoy",
 		"iconUrl": "/gi/UI/UI_AvatarIcon_PlayerBoy.webp",
-		"id": "10000005-8",
+		"id": "10000005-2",
 		"JP": "旅人",
 		"KR": "여행자",
 		"rank": "QUALITY_ORANGE",
@@ -756,7 +756,7 @@
 		"JP": "オロルン",
 		"KR": "올로룬",
 		"rank": "QUALITY_PURPLE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2024-11-19 00:00:00",
 		"weapon": "WEAPON_BOW"
 	},
 	"流浪者": {
@@ -834,6 +834,25 @@
 		"rank": "QUALITY_ORANGE",
 		"release": "2024-08-27 00:00:00",
 		"weapon": "WEAPON_CATALYST"
+	},
+	"玛薇卡": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "玛薇卡",
+		"cn": "玛薇卡",
+		"desc": "",
+		"element": "Pyro",
+		"EN": "Mavuika",
+		"icon": "UI_AvatarIcon_Mavuika",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Mavuika.webp",
+		"id": "10000106",
+		"JP": "マーヴィカ",
+		"KR": "마비카",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CLAYMORE"
 	},
 	"珊瑚宫心海": {
 		"birth": [
@@ -1234,6 +1253,25 @@
 		"release": "2020-09-15 04:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
+	"茜特菈莉": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "茜特菈莉",
+		"cn": "茜特菈莉",
+		"desc": "",
+		"element": "Cryo",
+		"EN": "Citlali",
+		"icon": "UI_AvatarIcon_Citlali",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Citlali.webp",
+		"id": "10000107",
+		"JP": "シトラリ",
+		"KR": "시틀라리",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CATALYST"
+	},
 	"荒泷一斗": {
 		"birth": [
 			6,
@@ -1347,6 +1385,25 @@
 		"rank": "QUALITY_PURPLE",
 		"release": "2020-09-15 04:00:00",
 		"weapon": "WEAPON_BOW"
+	},
+	"蓝砚": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "蓝砚",
+		"cn": "蓝砚",
+		"desc": "A rattan weaver from Chenyu Vale. Clear-minded and well-tempered, she is as lively as a mountain spring.",
+		"element": "Anemo",
+		"EN": "Lan Yan",
+		"icon": "UI_AvatarIcon_Lanyan",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Lanyan.webp",
+		"id": "10000108",
+		"JP": "藍硯",
+		"KR": "남연",
+		"rank": "QUALITY_PURPLE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CATALYST"
 	},
 	"行秋": {
 		"birth": [

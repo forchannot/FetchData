@@ -7366,13 +7366,13 @@
 					{
 						"enum_string": "",
 						"icon": "",
-						"id": "507",
-						"mi18n_key": "filter_507",
-						"value": "暴击率"
+						"id": "463",
+						"mi18n_key": "filter_463",
+						"value": "暴击伤害"
 					}
 				],
 				"values": [
-					"暴击率"
+					"暴击伤害"
 				]
 			},
 			"character_rarity": {
@@ -7436,7 +7436,7 @@
 				]
 			}
 		},
-		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/06/03/c52fab70532afeab9a2e295fed1c353b_2658386160379354681.png",
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/31/87ad30965e0c1b45364fdccc51b3429d_6108610286145583716.png",
 		"name": "艾梅莉埃"
 	},
 	{
@@ -7774,5 +7774,173 @@
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/25/b07074c2b9040516fd240b6b8d65c011_2487211347344319683.png",
 		"name": "希诺宁"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7079",
+		"filter_values": {
+			"character_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "550",
+						"mi18n_key": "filter_550",
+						"value": "攻击力"
+					}
+				],
+				"values": [
+					"攻击力"
+				]
+			},
+			"character_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "14",
+						"mi18n_key": "filter_14",
+						"value": "四星"
+					}
+				],
+				"values": [
+					"四星"
+				]
+			},
+			"character_region": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1456",
+						"mi18n_key": "filter_1456",
+						"value": "纳塔"
+					}
+				],
+				"values": [
+					"纳塔"
+				]
+			},
+			"character_vision": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "electro",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/16d344b6abbc369a2db9d46d6f31305b_7144738962629629573.png",
+						"id": "773",
+						"mi18n_key": "filter_773",
+						"value": "雷元素"
+					}
+				],
+				"values": [
+					"雷元素"
+				]
+			},
+			"character_weapon": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e38debacfd0147020895322333ea9d2a_4867338674175003782.png",
+						"id": "95",
+						"mi18n_key": "filter_95",
+						"value": "弓"
+					}
+				],
+				"values": [
+					"弓"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/18/e4830690f8b6a1ebb02cfbc8ce955671_8091252479018770784.png",
+		"name": "欧洛伦"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7080",
+		"filter_values": {
+			"character_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "507",
+						"mi18n_key": "filter_507",
+						"value": "暴击率"
+					}
+				],
+				"values": [
+					"暴击率"
+				]
+			},
+			"character_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_2",
+						"value": "五星"
+					}
+				],
+				"values": [
+					"五星"
+				]
+			},
+			"character_region": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "1456",
+						"mi18n_key": "filter_1456",
+						"value": "纳塔"
+					}
+				],
+				"values": [
+					"纳塔"
+				]
+			},
+			"character_vision": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "anemo",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/6b5c0d861fd1b4791bd602d3e7296598_8700657350379813969.png",
+						"id": "782",
+						"mi18n_key": "filter_782",
+						"value": "风元素"
+					}
+				],
+				"values": [
+					"风元素"
+				]
+			},
+			"character_weapon": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/03/27/e38debacfd0147020895322333ea9d2a_4867338674175003782.png",
+						"id": "95",
+						"mi18n_key": "filter_95",
+						"value": "弓"
+					}
+				],
+				"values": [
+					"弓"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/18/abe1192cc7aad45f6b273478dd5fa88a_4799372826012752249.png",
+		"name": "恰斯卡"
 	}
 ]
