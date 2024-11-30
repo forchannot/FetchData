@@ -1,5 +1,74 @@
 [
 	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 1207,
+				"damageType": "64",
+				"element": "imaginary",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2466b439be15b34048f7f881976e926b.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Character",
+				"name": "驭空"
+			}
+		],
+		"start": "2024-12-25 12:00:00",
+		"end": "2025-01-14 14:59:59"
+	},
+	{
+		"version": "2.7.1",
+		"items": [
+			{
+				"itemId": 1204,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6d8e367aa0a584a9c79fe506aaa69761.png",
+				"rankType": 5,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Character",
+				"name": "景元"
+			},
+			{
+				"itemId": 1201,
+				"damageType": "32",
+				"element": "quantum",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/5239c3979592fd6330082974215c48fd.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Character",
+				"name": "青雀"
+			},
+			{
+				"itemId": 1008,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/938257bd954fcaa111c70581707b70f6.png",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "warrior",
+				"itemType": "Character",
+				"name": "阿兰"
+			},
+			{
+				"itemId": 1202,
+				"damageType": "8",
+				"element": "thunder",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/83c9d5f434555dd91ae4989d56c9535d.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Character",
+				"name": "停云"
+			}
+		],
+		"start": "2024-12-04 06:00:00",
+		"end": "2024-12-25 11:59:59"
+	},
+	{
 		"version": "2.6.2",
 		"items": [
 			{

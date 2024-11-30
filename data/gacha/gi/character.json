@@ -2,6 +2,42 @@
 	{
 		"items": [
 			{
+				"itemId": 10000084,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/32ea78b3df5ba600611c015475e648a4.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "林尼",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000043,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/6286745f3a88312477b9784649a82be7.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000014,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/ac98049477cb0e2874912948c5196152.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "",
+				"element": "Hydro"
+			}
+		],
+		"start": "2024-11-20 06:00:00",
+		"end": "2024-12-10 17:59:59"
+	},
+	{
+		"items": [
+			{
 				"itemId": 10000046,
 				"weaponType": "Polearm",
 				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/df55c82d297e304357414281509a5415.png",
