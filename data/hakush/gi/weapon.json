@@ -1250,13 +1250,13 @@
 	"焚曜千阳": {
 		"CHS": "焚曜千阳",
 		"cn": "焚曜千阳",
-		"desc": "A greatsword that dazzles like the rising sun. It has witnessed the extinguishing and rekindling of unnumbered suns.",
+		"desc": "A greatsword that dazzles like the rising sun. It has witnessed the extinguishing and rekindling of innumerable suns.",
 		"EN": "A Thousand Blazing Suns",
 		"icon": "UI_EquipIcon_Claymore_RadianceSword",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_RadianceSword.webp",
 		"id": "12514",
-		"JP": "焚曜千陽JP0B",
-		"KR": "타오르는 천양",
+		"JP": "千烈の日輪",
+		"KR": "타오르는 천 개의 태양",
 		"rank": 5,
 		"type": "WEAPON_CLAYMORE"
 	},
@@ -1523,13 +1523,13 @@
 	"祭星者之望": {
 		"CHS": "祭星者之望",
 		"cn": "祭星者之望",
-		"desc": "A statue carved in the shape of an eagle. A sacred relic passed down through the Masters of the Night-Wind.",
+		"desc": "A statue carved in the shape of an eagle, a sacred relic of the Masters of the Night-Wind that has been passed down from generation to generation.",
 		"EN": "Starcaller's Watch",
 		"icon": "UI_EquipIcon_Catalyst_Figurines",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Figurines.webp",
 		"id": "14517",
-		"JP": "祭星者の眺めJP0B",
-		"KR": "별 제자상의 시선",
+		"JP": "祭星者の眺め",
+		"KR": "별지기의 시선",
 		"rank": 5,
 		"type": "WEAPON_CATALYST"
 	},

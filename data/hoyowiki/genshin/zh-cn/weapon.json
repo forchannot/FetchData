@@ -10545,7 +10545,53 @@
 		"desc": "",
 		"display_field": {},
 		"entry_page_id": "7113",
-		"filter_values": {},
+		"filter_values": {
+			"weapon_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "142",
+						"mi18n_key": "filter_142",
+						"value": "攻击力百分比"
+					}
+				],
+				"values": [
+					"攻击力百分比"
+				]
+			},
+			"weapon_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "689",
+						"mi18n_key": "filter_689",
+						"value": "四星"
+					}
+				],
+				"values": [
+					"四星"
+				]
+			},
+			"weapon_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "403",
+						"mi18n_key": "filter_403",
+						"value": "单手剑"
+					}
+				],
+				"values": [
+					"单手剑"
+				]
+			}
+		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/14/034a74a58833bc506791e2d2c8e00539_8351835749900866009.png",
 		"name": "厄水之祸"
 	},

@@ -10594,5 +10594,167 @@
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/14/034a74a58833bc506791e2d2c8e00539_8351835749900866009.png",
 		"name": "Calamity of Eshu"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7114",
+		"filter_values": {
+			"weapon_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "217",
+						"mi18n_key": "filter_217",
+						"value": "Energy Recharge"
+					}
+				],
+				"values": [
+					"Energy Recharge"
+				]
+			},
+			"weapon_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "689",
+						"mi18n_key": "filter_689",
+						"value": "4-Star"
+					}
+				],
+				"values": [
+					"4-Star"
+				]
+			},
+			"weapon_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "442",
+						"mi18n_key": "filter_442",
+						"value": "Catalyst"
+					}
+				],
+				"values": [
+					"Catalyst"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/14/7d6082c11138d4e71e7cb7ce6276e8bb_8319120219748886665.png",
+		"name": "Waveriding Whirl"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7115",
+		"filter_values": {
+			"weapon_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "142",
+						"mi18n_key": "filter_142",
+						"value": "ATK Percentage"
+					}
+				],
+				"values": [
+					"ATK Percentage"
+				]
+			},
+			"weapon_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "4",
+						"icon": "",
+						"id": "689",
+						"mi18n_key": "filter_689",
+						"value": "4-Star"
+					}
+				],
+				"values": [
+					"4-Star"
+				]
+			},
+			"weapon_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "417",
+						"mi18n_key": "filter_417",
+						"value": "Bow"
+					}
+				],
+				"values": [
+					"Bow"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/14/0d166f885502452188022563f5fc8797_876127194185049091.png",
+		"name": "Flower-Wreathed Feathers"
+	},
+	{
+		"desc": "",
+		"display_field": {},
+		"entry_page_id": "7116",
+		"filter_values": {
+			"weapon_property": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "188",
+						"mi18n_key": "filter_188",
+						"value": "CRIT DMG"
+					}
+				],
+				"values": [
+					"CRIT DMG"
+				]
+			},
+			"weapon_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "5",
+						"icon": "",
+						"id": "671",
+						"mi18n_key": "filter_671",
+						"value": "5-Star"
+					}
+				],
+				"values": [
+					"5-Star"
+				]
+			},
+			"weapon_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "",
+						"id": "417",
+						"mi18n_key": "filter_417",
+						"value": "Bow"
+					}
+				],
+				"values": [
+					"Bow"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/14/d3bb0f9d936379661d409644e4269ff1_2888646900955247330.png",
+		"name": "Astral Vulture's Crimson Plumage"
 	}
 ]

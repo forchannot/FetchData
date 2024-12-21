@@ -1,5 +1,75 @@
 [
 	{
+		"version": "5.2.2",
+		"items": [
+			{
+				"itemId": 4339,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
+				"itemType": "Weapon",
+				"name": "万世流涌大典",
+				"nameEn": "Tome of the Eternal Flow",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 2030,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
+				"itemType": "Weapon",
+				"name": "贯虹之槊",
+				"nameEn": "Vortex Vanquisher",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 1965,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
+				"itemType": "Weapon",
+				"name": "幽夜华尔兹",
+				"nameEn": "Mitternachts Waltz",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 2017,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "Favonius Sword",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 2018,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "Favonius Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 1940,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 2006,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "Sacrificial Fragments",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			}
+		],
+		"start": "2024-12-10 18:00:00",
+		"end": "2024-12-31 14:59:59"
+	},
+	{
 		"version": "5.2.1",
 		"items": [
 			{
@@ -7,6 +77,7 @@
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Qoyllorsnova.webp",
 				"itemType": "Weapon",
 				"name": "星鹫赤羽",
+				"nameEn": "Astral Vulture's Crimson Plumage",
 				"weaponType": "Bow",
 				"rankType": 5
 			},
@@ -24,6 +95,7 @@
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "乘浪的回旋",
+				"nameEn": "Waveriding Whirl",
 				"weaponType": "Catalyst",
 				"rankType": 4
 			},
@@ -32,6 +104,7 @@
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "缀花之翎",
+				"nameEn": "Flower-Wreathed Feathers",
 				"weaponType": "Bow",
 				"rankType": 4
 			},

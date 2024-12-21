@@ -837,8 +837,8 @@
 	},
 	"玛薇卡": {
 		"birth": [
-			1,
-			1
+			8,
+			28
 		],
 		"CHS": "玛薇卡",
 		"cn": "玛薇卡",
@@ -1256,11 +1256,11 @@
 	"茜特菈莉": {
 		"birth": [
 			1,
-			1
+			20
 		],
 		"CHS": "茜特菈莉",
 		"cn": "茜特菈莉",
-		"desc": "",
+		"desc": "The great shaman from the Masters of the Night-Wind, the universally-revered Granny Itztli.",
 		"element": "Cryo",
 		"EN": "Citlali",
 		"icon": "UI_AvatarIcon_Citlali",
@@ -1389,7 +1389,7 @@
 	"蓝砚": {
 		"birth": [
 			1,
-			1
+			6
 		],
 		"CHS": "蓝砚",
 		"cn": "蓝砚",
