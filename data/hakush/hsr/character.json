@@ -1,17 +1,16 @@
 {
 	"{NICKNAME}": {
-		"baseType": "Shaman",
+		"baseType": "Memory",
 		"cn": "{NICKNAME}",
-		"damageType": "Imaginary",
+		"damageType": "Ice",
 		"desc": "A {F#girl}{M#boy} who boarded the Astral Express.\\nThey chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
 		"en": "{NICKNAME}",
-		"icon": "playergirl3",
-		"iconUrl": "/hsr/UI/avatarshopicon/8006.webp",
-		"id": "8006",
+		"icon": "playergirl4",
+		"iconUrl": "/hsr/UI/avatarshopicon/8008.webp",
+		"id": "8008",
 		"jp": "{NICKNAME}",
 		"kr": "{NICKNAME}",
-		"rank": "CombatPowerAvatarRarityType5",
-		"release": 1715158800
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"三月七": {
 		"baseType": "Rogue",
@@ -181,6 +180,19 @@
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1689757200
 	},
+	"大黑塔": {
+		"baseType": "Mage",
+		"cn": "大黑塔",
+		"damageType": "Ice",
+		"desc": "Esteemed Genius Society #83, human, female, young, beautiful, attractive.\\nIt's said that she lives in the far edge of the Cosmos, almost never leaving. Sounds like her appearance this time...\\nIt must be for some issue that requires a personal touch, right?",
+		"en": "The Herta",
+		"icon": "theherta",
+		"iconUrl": "/hsr/UI/avatarshopicon/1401.webp",
+		"id": "1401",
+		"jp": "マダム・ヘルタ",
+		"kr": "더 헤르타",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"姬子": {
 		"baseType": "Mage",
 		"cn": "姬子",
@@ -290,7 +302,8 @@
 		"id": "1225",
 		"jp": "帰忘の流離人",
 		"kr": "망귀인",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1735120800
 	},
 	"托帕&账账": {
 		"baseType": "Rogue",
@@ -317,7 +330,8 @@
 		"id": "1313",
 		"jp": "サンデー",
 		"kr": "선데이",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1733306400
 	},
 	"景元": {
 		"baseType": "Mage",
@@ -724,6 +738,19 @@
 		"kr": "아를란",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1682460000
+	},
+	"阿格莱雅": {
+		"baseType": "Memory",
+		"cn": "阿格莱雅",
+		"damageType": "Thunder",
+		"desc": "In that holy city kissed by the dawn, the weaver caresses the golden thread and connects destiny.\\nChrysos Heir bearing the Coreflame of \"Romance\"... You shall summon the heroes of this world, and lead them to once again embark on an endless journey\\n— Where they will smite down the gods, return the divine fire, and grant rebirth to the dying land of Amphoreus.",
+		"en": "Aglaea",
+		"icon": "aglaea",
+		"iconUrl": "/hsr/UI/avatarshopicon/1402.webp",
+		"id": "1402",
+		"jp": "アグライア",
+		"kr": "아글라이아",
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"雪衣": {
 		"baseType": "Warrior",

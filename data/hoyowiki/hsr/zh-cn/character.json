@@ -4260,8 +4260,8 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"dynamic\":{}}",
-			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"640\",\"base_def\":\"600\",\"base_speed\":\"96\",\"dynamic\":{}}"
+			"attr_level_1": "{\"base_hp\":\"168\",\"base_atk\":\"87\",\"base_def\":\"72\",\"base_speed\":\"96\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1241\",\"base_atk\":\"640\",\"base_def\":\"533\",\"base_speed\":\"96\",\"dynamic\":{}}"
 		},
 		"entry_page_id": "3150",
 		"filter_values": {

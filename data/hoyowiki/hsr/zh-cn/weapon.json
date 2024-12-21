@@ -9164,7 +9164,8 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_80": "{\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"52\",\"base_atk\":\"21\",\"base_def\":\"24\",\"dynamic\":{}}",
+			"attr_level_80": "{\"base_hp\":\"1164\",\"base_atk\":\"476\",\"base_def\":\"529\",\"dynamic\":{}}",
 			"equipment_skill": "再启程<p>当装备者对我方单体角色施放战技或终结技后，装备者恢复<span style=\"color: rgb(255, 200, 112)\">6.0/6.5/7.0/7.5/8.0</span>点能量，同时使技能目标获得1层【圣咏】，持续3回合，最多叠加3层，每层【圣咏】使持有者造成的伤害提高<span style=\"color: rgb(255, 200, 112)\">15/17/19/21/24%</span>。装备者每对我方单体角色施放2次战技或终结技后，恢复1个战技点。</p>"
 		},
 		"entry_page_id": "3288",

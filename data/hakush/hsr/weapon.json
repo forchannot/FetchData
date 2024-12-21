@@ -263,6 +263,17 @@
 		"kr": "훗날 기약",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"向着不可追问处": {
+		"baseType": "Mage",
+		"cn": "向着不可追问处",
+		"desc": "<i>\"The Intelligentsia Guild's letters have been handled.\"</i>\\n<i>\"The Simulated Universe is functioning normally...\"</i>\\n<i>\"Literary collections have been reprinted.\"</i>\\n<i>\"Hey. Shhh. Don't bother Madam Herta...\"</i>\\n\\n...Within a great tower on the edge of the cosmos, puppets work methodically, dealing with all manner of chores in anticipation of her arrival.\\nTime passes. Countless people drift through the canvas of time like meteors across the night sky, bright for an instant, before ultimately returning to silence.\\n<i>\"Madam Herta hasn't shown herself in a long time...\"</i>\\n<i>\"Is she still thinking...?\"</i>\\n\\n<i>\"Hmmm. Thought this would all be done after discovering a few axioms?\"</i>\\nShe stretches, lifting her head from the calculations, and another thought surfaces in her mind...\\n<i>\"Nothing is irrefutable. I will chase these questions to the end!\"</i>",
+		"en": "Into the Unreachable Veil",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23037.webp",
+		"id": "23037",
+		"jp": "触れてはならぬ領域へ",
+		"kr": "추궁할 수 없는 곳을 향해",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"命运从未公平": {
 		"baseType": "Knight",
 		"cn": "命运从未公平",
@@ -321,7 +332,7 @@
 	"回到大地的飞行": {
 		"baseType": "Shaman",
 		"cn": "回到大地的飞行",
-		"desc": "Those delusions and fallacies have been shattered. He wanted to be the sun of the whole world, yet he fell from the sky.\\n\\n<i>\"Now, do you feel what pain is?\"</i>\\nAnother voice in his heart spoke thus.\\n<i>\"Yes. And that is what I deserve to feel.\"</i>\\nHe fell into dust and answered himself with his heavy footsteps.\\n\\nHe walked on the earth and once again beheld the agony that covers the mortal realm like a never-ending font.\\nHe stepped over the thorns that blocked the road and listened to the calls of humanity. He experienced anguish, through which he obtained tranquility.\\n\\n<i>\"Falling was originally just another name for flying.\"</i>\\nAnd on the eighth day, he granted himself \"departure.\"",
+		"desc": "Those delusions and fallacies have been shattered. He wanted to be the sun of the whole world, yet he fell from the sky.\\n\\n<i>\"Now, do you feel what pain is?\"</i>\\nAnother voice in his heart spoke thus.\\n<i>\"Yes. And that is what I deserve to feel.\"</i>\\nHe fell into dust and answered himself with his heavy footsteps.\\n\\nHe walked on the earth and once again beheld the agony that covers the mortal realm like a never-ending font.\\nHe stepped over the thorns that blocked the road and listened to the calls of humanity. He experienced anguish, through which he obtained tranquility.\\n\\n<i>\"Falling was originally just another name for flying.\"</i>\\nAnd on this eighth day, he granted himself \"departure.\"",
 		"en": "A Grounded Ascent",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23034.webp",
 		"id": "23034",
@@ -349,6 +360,17 @@
 		"id": "21019",
 		"jp": "{RUBY_B#あおぞら}青空{RUBY_E#}の{RUBY_B#した}下{RUBY_E#}で",
 		"kr": "푸른 하늘 아래",
+		"rank": "CombatPowerLightconeRarity4"
+	},
+	"多流汗，少流泪": {
+		"baseType": "Memory",
+		"cn": "多流汗，少流泪",
+		"desc": "Resounding impacts echo through the training room and a thunderous kick follows, practically folding the sandbag in two.\\n\\n<i>\"General... isn't this level of training too much for you?\"</i> Such is the question asked by a nearby soldier.\\n\\nSmiling, she shakes her head and hangs a new sandbag in place.\\n\\n<i>\"This? No. Not even close!\"</i>\\n\\nHer glistening sweat reflects the glow of the moon, trailing down her body like crystalline pearls. The memory of that departed general re-surfaces in her mind... <i>\"Sweat more when training, so you might weep less in battle.\"</i>",
+		"en": "Sweat Now, Cry Less",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21052.webp",
+		"id": "21052",
+		"jp": "流すなら涙より汗",
+		"kr": "땀은 많이, 눈물은 적게",
 		"rank": "CombatPowerLightconeRarity4"
 	},
 	"夜色流光溢彩": {
@@ -382,6 +404,17 @@
 		"id": "21020",
 		"jp": "{RUBY_B#てんさい}天才{RUBY_E#}たちの{RUBY_B#きゅうそく}休息{RUBY_E#}",
 		"kr": "천재들의 휴식",
+		"rank": "CombatPowerLightconeRarity4"
+	},
+	"天才们的问候": {
+		"baseType": "Memory",
+		"cn": "天才们的问候",
+		"desc": "<i>\"Congratulations. Experiment failed again, didn't it?\"</i>\\n<i>\"...\"</i>\\n<i>\"I told you before that there are mistakes in your method.\"</i>\\n<i>\"...\"</i>\\n<i>\"I gotta tell you, I've been getting some big breakthroughs recently...\"</i>\\n\\nThe aloof woman lifts her head from her book...\\n<i>\"I'm sorry. What did you say?\"</i>\\nShe waves her hand.\\n<i>\"Well, I can't say how great these breakthroughs are. They might only affect half the cosmos.\"</i>\\nThe woman closes her book.\\n<i>\"Let's hear it, then.\"</i>\\n\\n<i>\"Hmph. A genius of my caliber... it's not something you'll just get to hear randomly...\"</i>\\n<i>\"I understand. I'll make some pastries. We can talk and eat at the same time.\"</i>",
+		"en": "Geniuses' Greetings",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21051.webp",
+		"id": "21051",
+		"jp": "天才たちの「挨拶」",
+		"kr": "천재들의 안부 인사",
 		"rank": "CombatPowerLightconeRarity4"
 	},
 	"她已闭上双眼": {
@@ -438,6 +471,17 @@
 		"jp": "{RUBY_B#せいかんいちば}星間市場{RUBY_E#}のトレンド",
 		"kr": "우주 시장 동향",
 		"rank": "CombatPowerLightconeRarity4"
+	},
+	"将光阴织成黄金": {
+		"baseType": "Memory",
+		"cn": "将光阴织成黄金",
+		"desc": "<i>\"This strand, a soldier's sacrifice.\"</i>\\n<i>\"This strand, a hero's growth.\"</i>\\n<i>\"This strand, the city's prosperity.\"</i>\\n....\\nThe Garmentmaker pulls at the threads using a needle, everything held between her fingers.\\n<i>\"The destiny of certain heroes has already been severed...\"</i>\\nShe scoops up another set of golden threads and continues her mending.\\n<i>\"The fates of certain heroes must continue...\"</i>\\n\\nThe divine-bestowed loom continues to work, and the Garmentmakers dance with lively grace. Eons of time had already passed through the loom, and she has long been accustomed to such waiting....\\n\\nFor the sake of turning time to golden \"Inspiration.\"",
+		"en": "Time Woven Into Gold",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23036.webp",
+		"id": "23036",
+		"jp": "光陰を織り黄金と成す",
+		"kr": "시간을 황금으로 엮어",
+		"rank": "CombatPowerLightconeRarity5"
 	},
 	"幽邃": {
 		"baseType": "Warlock",
@@ -780,6 +824,17 @@
 		"kr": "속세에서의 유희",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"溯忆": {
+		"baseType": "Memory",
+		"cn": "溯忆",
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"In the brief beautiful dream, it was as if the old soul returned to the colorful waters of childhood.\"</i>",
+		"en": "Reminiscence",
+		"iconUrl": "/hsr/UI/lightconemediumicon/20022.webp",
+		"id": "20022",
+		"jp": "辿る記憶",
+		"kr": "추억 회상",
+		"rank": "CombatPowerLightconeRarity3"
+	},
 	"灵钥": {
 		"baseType": "Mage",
 		"cn": "灵钥",
@@ -812,6 +867,17 @@
 		"jp": "{RUBY_B#なや}悩{RUBY_E#}んで{RUBY_B#わら}笑{RUBY_E#}って",
 		"kr": "고민, 그리고 행복",
 		"rank": "CombatPowerLightconeRarity5"
+	},
+	"焚影": {
+		"baseType": "Memory",
+		"cn": "焚影",
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"People tend to erase the unpleasantness of the past. That's the nature of memory.\"</i>",
+		"en": "Shadowburn",
+		"iconUrl": "/hsr/UI/lightconemediumicon/20021.webp",
+		"id": "20021",
+		"jp": "燃ゆる影",
+		"kr": "불타는 그림자",
+		"rank": "CombatPowerLightconeRarity3"
 	},
 	"片刻，留在眼底": {
 		"baseType": "Mage",
@@ -943,6 +1009,17 @@
 		"id": "21036",
 		"jp": "ドリームタウンの{RUBY_B#だいぼうけん}大冒険{RUBY_E#}",
 		"kr": "좋은꿈 마을 대모험",
+		"rank": "CombatPowerLightconeRarity4"
+	},
+	"胜利只在朝夕间": {
+		"baseType": "Memory",
+		"cn": "胜利只在朝夕间",
+		"desc": "The Titankins' all-consuming roars sweep across the battlefield. Two lightning-quick figures slaughter their way out of combat.\\n\\n<i>\"I alone will be enough to handle them.\"</i>\\nEvery punch unleashed by the warrior sends spears of blood through the bodies of the enemy.\\n<i>\"Brute force and nothing more. Watch my blade!\"</i>\\nAs a blade of pale silver slices in a curve, monsters fall like falling leaves.\\n<i>\"A contest of speed?\"</i>\\nThe two charge at each other simultaneously.\\nHowls of anguish sound as the stealthy beasts behind them are struck down at once.\\nTwo voices can be heard at the same time.\\n<i>\"That was my kill!\"</i>\\n",
+		"en": "Victory In a Blink",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21050.webp",
+		"id": "21050",
+		"jp": "瞬刻の勝機",
+		"kr": "찰나에 결정되는 승리",
 		"rank": "CombatPowerLightconeRarity4"
 	},
 	"舞！舞！舞！": {
