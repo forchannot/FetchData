@@ -1427,7 +1427,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -1520,7 +1520,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -1862,7 +1862,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -1932,7 +1932,7 @@
 			"attr_level_40": "{\"base_hp\":\"5353\",\"base_atk\":\"593\",\"base_def\":\"436\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"6564\",\"base_atk\":\"713\",\"base_def\":\"535\",\"dynamic\":{}}",
 			"attr_level_60": "{\"base_hp\":\"7368\",\"base_atk\":\"788\",\"base_def\":\"600\",\"dynamic\":{}}",
-			"materials": "[]"
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/b29b33a5257e2326dc48025a93c9e55a_4899842006690034982.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/51832d367971abd8d7402696a1cd6f9a_1942695034022917500.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/4ee7ad12993352862043b1a5dd7bc8c3_4650426539960257671.png\"]"
 		},
 		"entry_page_id": "382",
 		"filter_values": {
@@ -1940,7 +1940,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -2126,7 +2126,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -2185,5 +2185,199 @@
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/25/62f6ec8192859deb907183ee5af41fbc_7203727196610268894.png",
 		"name": "莱特 \n"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"617\",\"base_atk\":\"127\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1793\",\"base_atk\":\"241\",\"base_def\":\"141\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"3054\",\"base_atk\":\"362\",\"base_def\":\"241\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4314\",\"base_atk\":\"485\",\"base_def\":\"340\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5576\",\"base_atk\":\"607\",\"base_def\":\"441\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6836\",\"base_atk\":\"728\",\"base_def\":\"540\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"7673\",\"base_atk\":\"805\",\"base_def\":\"606\",\"dynamic\":{}}",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/b29b33a5257e2326dc48025a93c9e55a_4899842006690034982.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/51832d367971abd8d7402696a1cd6f9a_1942695034022917500.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/4ee7ad12993352862043b1a5dd7bc8c3_4650426539960257671.png\"]"
+		},
+		"entry_page_id": "537",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "slash",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
+						"id": "13",
+						"mi18n_key": "filter_custom_9",
+						"value": "斩击"
+					}
+				],
+				"values": [
+					"斩击"
+				]
+			},
+			"agent_faction": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "hollow_special_operations_section_6",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/5b4d66bf5b7acf1395576c6f153407e7_8785833749797384932.png",
+						"id": "20",
+						"mi18n_key": "filter_custom_39",
+						"value": "对空洞特别行动部第六课"
+					}
+				],
+				"values": [
+					"对空洞特别行动部第六课"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "anomaly",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/55982d13c3284d382a9a59ce9f5e5d50_2052082579823154975.png",
+						"id": "5",
+						"mi18n_key": "filter_custom_52",
+						"value": "异常"
+					}
+				],
+				"values": [
+					"异常"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/16/0f1f7248fb12dcc6dcd53bd5317de36a_1299839726293114756.png",
+						"id": "85",
+						"mi18n_key": "filter_custom_78",
+						"value": "烈霜属性"
+					}
+				],
+				"values": [
+					"烈霜属性"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/05/7cf7a63a5f2c358f41447e8625696179_5728613537777614486.png",
+		"name": "星见 雅"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"595\",\"base_atk\":\"132\",\"base_def\":\"48\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1731\",\"base_atk\":\"251\",\"base_def\":\"139\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"2947\",\"base_atk\":\"378\",\"base_def\":\"238\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4164\",\"base_atk\":\"505\",\"base_def\":\"337\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5381\",\"base_atk\":\"633\",\"base_def\":\"436\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6597\",\"base_atk\":\"760\",\"base_def\":\"535\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"7405\",\"base_atk\":\"840\",\"base_def\":\"600\",\"dynamic\":{}}",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/04/47449b9cc8b89a453bd9661122f6171b_5277307156110687389.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/6cc1582b87998a232e7fa755b3bd1a4d_7771819376607340364.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/dc1fdc6dafe9395dc04b52b0fd582b50_8652605842310987484.png\"]"
+		},
+		"entry_page_id": "538",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "pierce",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/8d73540a22fd463a1f70942fca93ee9b_5768967548377443146.png",
+						"id": "14",
+						"mi18n_key": "filter_custom_10",
+						"value": "穿透"
+					},
+					{
+						"enum_string": "slash",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
+						"id": "13",
+						"mi18n_key": "filter_custom_9",
+						"value": "斩击"
+					}
+				],
+				"values": [
+					"穿透",
+					"斩击"
+				]
+			},
+			"agent_faction": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "hollow_special_operations_section_6",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/5b4d66bf5b7acf1395576c6f153407e7_8785833749797384932.png",
+						"id": "20",
+						"mi18n_key": "filter_custom_39",
+						"value": "对空洞特别行动部第六课"
+					}
+				],
+				"values": [
+					"对空洞特别行动部第六课"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "attack",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/78d407e2839038da13d26ad84b99a6b8_8151225937174652019.png",
+						"id": "3",
+						"mi18n_key": "filter_custom_50",
+						"value": "强攻"
+					}
+				],
+				"values": [
+					"强攻"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "electric",
+						"icon": "\thttps://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/23f0846bd60219d09ab419b831ce2de7_2106359761671844521.png",
+						"id": "12",
+						"mi18n_key": "filter_custom_8",
+						"value": "电属性"
+					}
+				],
+				"values": [
+					"电属性"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/05/0fbcba9e8701eca206e255e7c4ebc940_2852126057511453091.png",
+		"name": "浅羽 悠真"
 	}
 ]

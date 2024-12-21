@@ -528,7 +528,16 @@
 	},
 	{
 		"desc": "",
-		"display_field": {},
+		"display_field": {
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"equipment_skill": "红莲电机<p>发动<span style=\"color: #FFFFFF\">[强化特殊技]</span>或<span style=\"color: #FFFFFF\">[连携技]</span>时，<span style=\"color: #FFFFFF\">[普通攻击]</span>和<span style=\"color: #FFFFFF\">[冲刺攻击]</span>造成的<span style=\"color: #2eb6ff\">电属性伤害</span>提升<span style=\"color: #2bad00\">50%</span>/<span style=\"color: #2bad00\">57.5%</span>/<span style=\"color: #2bad00\">65%</span>/<span style=\"color: #2bad00\">72.5%</span>/<span style=\"color: #2bad00\">80%</span>，持续10秒，15秒内最多触发一次。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
+		},
 		"entry_page_id": "74",
 		"filter_values": {
 			"filter_key_13": {
@@ -1669,5 +1678,103 @@
 		},
 		"icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/28/165915622/ca7ceafe52b8dc2ddcde36e12e73c4e1_3395230240543852443.png",
 		"name": "焰心桂冠"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_0": "{\"base_atk\":\"50\",\"dynamic\":{\"type\":\"base_rate\",\"value\":\"9.6%\"}}",
+			"attr_level_10": "{\"base_atk\":\"173\",\"dynamic\":{\"type\":\"base_rate\",\"value\":\"12.5%\"}}",
+			"attr_level_20": "{\"base_atk\":\"296\",\"dynamic\":{\"type\":\"base_rate\",\"value\":\"15.4%\"}}",
+			"attr_level_30": "{\"base_atk\":\"419\",\"dynamic\":{\"type\":\"base_rate\",\"value\":\"18.2%\"}}",
+			"attr_level_40": "{\"base_atk\":\"542\",\"dynamic\":{\"type\":\"base_rate\",\"value\":\"21.1%\"}}",
+			"attr_level_50": "{\"base_atk\":\"665\",\"dynamic\":{\"type\":\"base_rate\",\"value\":\"24%\"}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{\"type\":\"base_rate\",\"value\":\"-\"}}",
+			"equipment_skill": "霜染寒星<p>暴击伤害提升<span style=\"color: #2bad00\">50%</span>/<span style=\"color: #2bad00\">57%</span>/<span style=\"color: #2bad00\">65%</span>/<span style=\"color: #2bad00\">72%</span>/<span style=\"color: #2bad00\">80%</span>；发动<span style=\"color: #FFFFFF\">[强化特殊技]</span>或队伍中任意角色对敌人施加属性异常效果时，装备者造成的<span style=\"color: #98eff0\">冰属性伤害</span>提升<span style=\"color: #2bad00\">20%</span>/<span style=\"color: #2bad00\">23%</span>/<span style=\"color: #2bad00\">26%</span>/<span style=\"color: #2bad00\">29%</span>/<span style=\"color: #2bad00\">32%</span>，最多叠加2层，持续15秒，每层效果单独结算持续时间。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/cc480b364cd4a14edb32a461c3288c2a_8627904871926670787.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/c42230c34d597029c72bd0b16869e960_512646076671511906.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/6f6998fe1fdea9aafcb7c9fcb5fb1553_8438117255271343051.png\"]"
+		},
+		"entry_page_id": "540",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"id": "50",
+						"mi18n_key": "filter_custom_52",
+						"value": "异常"
+					}
+				],
+				"values": [
+					"异常"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "22",
+						"mi18n_key": "filter_custom_48",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/3ba720942094686d01e37dd510b7b029_6895150963174798766.png",
+		"name": "霰落星殿"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_0": "{\"base_atk\":\"48\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"19.2%\"}}",
+			"attr_level_10": "{\"base_atk\":\"166\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"25%\"}}",
+			"attr_level_20": "{\"base_atk\":\"284\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"30.7%\"}}",
+			"attr_level_30": "{\"base_atk\":\"402\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"36.5%\"}}",
+			"attr_level_40": "{\"base_atk\":\"520\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"42.2%\"}}",
+			"attr_level_50": "{\"base_atk\":\"638\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"48%\"}}",
+			"attr_level_60": "{\"base_atk\":\"-\",\"dynamic\":{\"type\":\"base_dmg\",\"value\":\"-\"}}",
+			"equipment_skill": "啖若逆修<p>暴击率提升<span style=\"color: #2bad00\">10%</span>/<span style=\"color: #2bad00\">11.5%</span>/<span style=\"color: #2bad00\">13%</span>/<span style=\"color: #2bad00\">14.5%</span>/<span style=\"color: #2bad00\">16%</span>；<span style=\"color: rgb(255, 255, 255)\">[冲刺攻击]</span>造成的<span style=\"color: rgb(46, 182, 255)\">电属性伤害</span>提升<span style=\"color: #2bad00\">40%</span>/<span style=\"color: #2bad00\">46%</span>/<span style=\"color: #2bad00\">52%</span>/<span style=\"color: #2bad00\">58%</span>/<span style=\"color: #2bad00\">64%</span>；队伍中任意角色对敌人施加属性异常效果或造成失衡时，装备者的暴击率额外提升<span style=\"color: #2bad00\">10%</span>/<span style=\"color: #2bad00\">11.5%</span>/<span style=\"color: #2bad00\">13%</span>/<span style=\"color: #2bad00\">14.5%</span>/<span style=\"color: #2bad00\">16%</span>，持续15秒。</p>",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5c4ad5b6f1c1fb6e2084a6c4f86d9378_199025115640696142.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/5241db6304c121feda2141ae326bf70a_3184362103749807022.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/e870272323f5403e3e2c927c11c79545_5611387632475354925.png\"]"
+		},
+		"entry_page_id": "541",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"id": "48",
+						"mi18n_key": "filter_custom_50",
+						"value": "强攻"
+					}
+				],
+				"values": [
+					"强攻"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "22",
+						"mi18n_key": "filter_custom_48",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/9861761e3b5e1ff05158695f68ce6320_132359921821463404.png",
+		"name": "残心青囊"
 	}
 ]

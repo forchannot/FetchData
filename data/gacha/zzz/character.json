@@ -1,5 +1,36 @@
 [
 	{
+		"version": "1.4.1",
+		"items": [
+			{
+				"itemId": 126,
+				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
+				"itemType": "Character",
+				"name": "派派·韦尔",
+				"nameEn": "Piper Wheel",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 89,
+				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "Soukaku",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			}
+		],
+		"start": "2024-12-18 06:00:00",
+		"end": "2025-01-21 14:59:59"
+	},
+	{
 		"version": "1.3.2",
 		"items": [
 			{

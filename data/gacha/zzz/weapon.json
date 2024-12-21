@@ -1,5 +1,72 @@
 [
 	{
+		"version": "1.4.1",
+		"items": [
+			{
+				"itemId": 540,
+				"imageUrl": "/zzz/UI/Weapon_S_1091.webp",
+				"itemType": "Weapon",
+				"name": "霰落星殿",
+				"nameEn": "Hailstorm Shrine",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 541,
+				"imageUrl": "/zzz/UI/Weapon_S_1201.webp",
+				"itemType": "Weapon",
+				"name": "残心青囊",
+				"nameEn": "Zanshin Herb Case",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 274,
+				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "Roaring Ride",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4
+			},
+			{
+				"itemId": 76,
+				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "Bashful Demon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 273,
+				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "Kaboom the Cannon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 378,
+				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "Peacekeeper - Specialized",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			}
+		],
+		"start": "2024-12-18 06:00:00",
+		"end": "2025-01-21 14:59:59"
+	},
+	{
 		"version": "1.3.2",
 		"items": [
 			{

@@ -467,14 +467,14 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"dynamic\":{}}",
-			"attr_level_10": "{\"base_hp\":\"1246\",\"base_atk\":\"178\",\"base_def\":\"108\",\"base_imp\":\"93\",\"dynamic\":{}}",
-			"attr_level_20": "{\"base_hp\":\"2392\",\"base_atk\":\"288\",\"base_def\":\"207\",\"base_imp\":\"93\",\"dynamic\":{}}",
-			"attr_level_30": "{\"base_hp\":\"3538\",\"base_atk\":\"400\",\"base_def\":\"307\",\"base_imp\":\"93\",\"dynamic\":{}}",
-			"attr_level_40": "{\"base_hp\":\"4684\",\"base_atk\":\"510\",\"base_def\":\"405\",\"base_imp\":\"93\",\"dynamic\":{}}",
-			"attr_level_50": "{\"base_hp\":\"5830\",\"base_atk\":\"621\",\"base_def\":\"504\",\"base_imp\":\"93\",\"dynamic\":{}}",
-			"attr_level_60": "{\"base_hp\":\"6976\",\"base_atk\":\"732\",\"base_def\":\"604\",\"base_imp\":\"93\",\"dynamic\":{}}",
-			"materials": "[]"
+			"attr_level_1": "{\"base_hp\":\"561\",\"base_atk\":\"116\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1631\",\"base_atk\":\"219\",\"base_def\":\"141\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"2777\",\"base_atk\":\"330\",\"base_def\":\"241\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"3923\",\"base_atk\":\"441\",\"base_def\":\"340\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5069\",\"base_atk\":\"552\",\"base_def\":\"438\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6215\",\"base_atk\":\"662\",\"base_def\":\"538\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"6976\",\"base_atk\":\"732\",\"base_def\":\"604\",\"dynamic\":{}}",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/04/47449b9cc8b89a453bd9661122f6171b_5277307156110687389.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/6cc1582b87998a232e7fa755b3bd1a4d_7771819376607340364.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/dc1fdc6dafe9395dc04b52b0fd582b50_8652605842310987484.png\"]"
 		},
 		"entry_page_id": "23",
 		"filter_values": {
@@ -1298,14 +1298,14 @@
 	{
 		"desc": "",
 		"display_field": {
-			"attr_level_1": "{\"dynamic\":{}}",
+			"attr_level_1": "{\"base_hp\":\"645\",\"base_atk\":\"96\",\"base_def\":\"48\",\"dynamic\":{}}",
 			"attr_level_10": "{\"base_hp\":\"1876\",\"base_atk\":\"179\",\"base_def\":\"139\",\"dynamic\":{}}",
 			"attr_level_20": "{\"base_hp\":\"3194\",\"base_atk\":\"268\",\"base_def\":\"237\",\"dynamic\":{}}",
 			"attr_level_30": "{\"base_hp\":\"4513\",\"base_atk\":\"358\",\"base_def\":\"336\",\"dynamic\":{}}",
 			"attr_level_40": "{\"base_hp\":\"5832\",\"base_atk\":\"447\",\"base_def\":\"434\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"7150\",\"base_atk\":\"535\",\"base_def\":\"532\",\"dynamic\":{}}",
-			"attr_level_60": "{\"dynamic\":{}}",
-			"materials": "[]"
+			"attr_level_60": "{\"base_hp\":\"8025\",\"base_atk\":\"590\",\"base_def\":\"597\",\"dynamic\":{}}",
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/69ed7f75f0b803f4f2d77e2077841cd0_2424329342631275705.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/4db164430abeab5f7590c70c23114bb2_8015121763135205409.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/a797b1edbc18fd8af6eb2d88afd5cb29_3491349215653496962.png\"]"
 		},
 		"entry_page_id": "89",
 		"filter_values": {
@@ -1421,7 +1421,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -1514,7 +1514,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -1964,7 +1964,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -2127,7 +2127,7 @@
 			"attr_level_40": "{\"base_hp\":\"5984\",\"base_atk\":\"548\",\"base_def\":\"444\",\"dynamic\":{}}",
 			"attr_level_50": "{\"base_hp\":\"7335\",\"base_atk\":\"659\",\"base_def\":\"545\",\"dynamic\":{}}",
 			"attr_level_60": "{\"base_hp\":\"8253\",\"base_atk\":\"722\",\"base_def\":\"612\",\"dynamic\":{}}",
-			"materials": "[]"
+			"materials": "[\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/22/cd6682dd2d871dc93dfa28c3f281d527_7793444478727984954.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/23c79797ed3e364dfef5e196eb860f61_4399773773777481263.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/a2d4493657ff303da71940ba46b03ea6_7661709044224439326.png\",\"https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/05/d0f8434bb231c28e6d884c9c240ce8e6_8332097865723549952.png\"]"
 		},
 		"entry_page_id": "530",
 		"filter_values": {
@@ -2150,7 +2150,7 @@
 				"key": null,
 				"value_types": [
 					{
-						"enum_string": "",
+						"enum_string": "sons_of_calydon",
 						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/a0e109ab1e0087583bc58ab5bf1d9449_2812120711703824262.png",
 						"id": "77",
 						"mi18n_key": "filter_custom_37",
@@ -2209,5 +2209,184 @@
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/25/62f6ec8192859deb907183ee5af41fbc_7203727196610268894.png",
 		"name": "Lighter"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"617\",\"base_atk\":\"127\",\"base_def\":\"49\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1793\",\"base_atk\":\"241\",\"base_def\":\"141\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"3054\",\"base_atk\":\"362\",\"base_def\":\"241\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4314\",\"base_atk\":\"485\",\"base_def\":\"340\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5576\",\"base_atk\":\"607\",\"base_def\":\"441\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6836\",\"base_atk\":\"728\",\"base_def\":\"540\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"7673\",\"base_atk\":\"805\",\"base_def\":\"606\",\"dynamic\":{}}",
+			"materials": "[]"
+		},
+		"entry_page_id": "537",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "slash",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
+						"id": "13",
+						"mi18n_key": "filter_custom_9",
+						"value": "Slash"
+					}
+				],
+				"values": [
+					"Slash"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "anomaly",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/55982d13c3284d382a9a59ce9f5e5d50_2052082579823154975.png",
+						"id": "5",
+						"mi18n_key": "filter_custom_52",
+						"value": "Anomaly"
+					}
+				],
+				"values": [
+					"Anomaly"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/16/0f1f7248fb12dcc6dcd53bd5317de36a_1299839726293114756.png",
+						"id": "85",
+						"mi18n_key": "filter_custom_78",
+						"value": "Frost Attribute"
+					}
+				],
+				"values": [
+					"Frost Attribute"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/05/7cf7a63a5f2c358f41447e8625696179_5728613537777614486.png",
+		"name": "Hoshimi Miyabi"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_1": "{\"base_hp\":\"595\",\"base_atk\":\"132\",\"base_def\":\"48\",\"dynamic\":{}}",
+			"attr_level_10": "{\"base_hp\":\"1731\",\"base_atk\":\"251\",\"base_def\":\"139\",\"dynamic\":{}}",
+			"attr_level_20": "{\"base_hp\":\"2947\",\"base_atk\":\"378\",\"base_def\":\"238\",\"dynamic\":{}}",
+			"attr_level_30": "{\"base_hp\":\"4164\",\"base_atk\":\"505\",\"base_def\":\"337\",\"dynamic\":{}}",
+			"attr_level_40": "{\"base_hp\":\"5381\",\"base_atk\":\"633\",\"base_def\":\"436\",\"dynamic\":{}}",
+			"attr_level_50": "{\"base_hp\":\"6597\",\"base_atk\":\"760\",\"base_def\":\"535\",\"dynamic\":{}}",
+			"attr_level_60": "{\"base_hp\":\"7405\",\"base_atk\":\"840\",\"dynamic\":{}}",
+			"materials": "[]"
+		},
+		"entry_page_id": "538",
+		"filter_values": {
+			"agent_attack_type": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "pierce",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/8d73540a22fd463a1f70942fca93ee9b_5768967548377443146.png",
+						"id": "14",
+						"mi18n_key": "filter_custom_10",
+						"value": "Pierce"
+					},
+					{
+						"enum_string": "slash",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/333341ebb77e06ae4d2cbd05fae62ffe_7490361135098707504.png",
+						"id": "13",
+						"mi18n_key": "filter_custom_9",
+						"value": "Slash"
+					}
+				],
+				"values": [
+					"Pierce",
+					"Slash"
+				]
+			},
+			"agent_faction": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "hollow_special_operations_section_6",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/5b4d66bf5b7acf1395576c6f153407e7_8785833749797384932.png",
+						"id": "20",
+						"mi18n_key": "filter_custom_39",
+						"value": "Hollow Special Operations Section 6"
+					}
+				],
+				"values": [
+					"Hollow Special Operations Section 6"
+				]
+			},
+			"agent_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "2",
+						"mi18n_key": "filter_custom_42",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			},
+			"agent_specialties": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "attack",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/78d407e2839038da13d26ad84b99a6b8_8151225937174652019.png",
+						"id": "3",
+						"mi18n_key": "filter_custom_50",
+						"value": "Attack"
+					}
+				],
+				"values": [
+					"Attack"
+				]
+			},
+			"agent_stats": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "electric",
+						"icon": "\thttps://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/07/23f0846bd60219d09ab419b831ce2de7_2106359761671844521.png",
+						"id": "12",
+						"mi18n_key": "filter_custom_8",
+						"value": "Electric"
+					}
+				],
+				"values": [
+					"Electric"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/05/0fbcba9e8701eca206e255e7c4ebc940_2852126057511453091.png",
+		"name": "Asaba Harumasa"
 	}
 ]

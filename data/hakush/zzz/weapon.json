@@ -207,6 +207,19 @@
 		"rank": 3,
 		"type": 1
 	},
+	"伊芙琳测试音擎": {
+		"CHS": "伊芙琳测试音擎",
+		"cn": "伊芙琳测试音擎",
+		"desc": "Item_Weapon_S_1321_ShortDesc",
+		"EN": "Item_Weapon_S_1321_Name",
+		"icon": "Weapon_S_1321",
+		"iconUrl": "/zzz/UI/Weapon_S_1321.webp",
+		"id": "14132",
+		"JA": "Item_Weapon_S_1321_Name",
+		"KO": "Item_Weapon_S_1321_Name",
+		"rank": 4,
+		"type": 1
+	},
 	"兔能环": {
 		"CHS": "兔能环",
 		"cn": "兔能环",
@@ -340,13 +353,13 @@
 	"强音热望": {
 		"CHS": "强音热望",
 		"cn": "强音热望",
-		"desc": "Item_Weapon_A_Common_15_ShortDesc",
-		"EN": "Item_Weapon_A_Common_15_Name",
+		"desc": "Gather 'round, mortals! Turn up the music!",
+		"EN": "Marcato Desire",
 		"icon": "Weapon_A_Common_15",
 		"iconUrl": "/zzz/UI/Weapon_A_Common_15.webp",
 		"id": "13015",
-		"JA": "Item_Weapon_A_Common_15_Name",
-		"KO": "Item_Weapon_A_Common_15_Name",
+		"JA": "強音デザイア",
+		"KO": "열망의 악센트",
 		"rank": 3,
 		"type": 1
 	},
@@ -457,13 +470,13 @@
 	"残心青囊": {
 		"CHS": "残心青囊",
 		"cn": "残心青囊",
-		"desc": "Item_Weapon_S_1201_ShortDesc",
-		"EN": "Item_Weapon_S_1201_Name",
+		"desc": "Bitterness and pain beget hope, and he devours them all.",
+		"EN": "Zanshin Herb Case",
 		"icon": "Weapon_S_1201",
 		"iconUrl": "/zzz/UI/Weapon_S_1201.webp",
 		"id": "14120",
-		"JA": "Item_Weapon_S_1201_Name",
-		"KO": "Item_Weapon_S_1201_Name",
+		"JA": "残心の青籠",
+		"KO": "잔심의 청낭",
 		"rank": 4,
 		"type": 1
 	},
@@ -583,6 +596,19 @@
 		"KO": "평화 수호자-특화형",
 		"rank": 3,
 		"type": 5
+	},
+	"耀嘉音测试音擎": {
+		"CHS": "耀嘉音测试音擎",
+		"cn": "耀嘉音测试音擎",
+		"desc": "Item_Weapon_S_1311_ShortDesc",
+		"EN": "Item_Weapon_S_1311_Name",
+		"icon": "Weapon_S_1311",
+		"iconUrl": "/zzz/UI/Weapon_S_1311.webp",
+		"id": "14131",
+		"JA": "Item_Weapon_S_1311_Name",
+		"KO": "Item_Weapon_S_1311_Name",
+		"rank": 4,
+		"type": 4
 	},
 	"聚宝箱": {
 		"CHS": "聚宝箱",
@@ -717,13 +743,13 @@
 	"霰落星殿": {
 		"CHS": "霰落星殿",
 		"cn": "霰落星殿",
-		"desc": "Item_Weapon_S_1091_ShortDesc",
-		"EN": "Item_Weapon_S_1091_Name",
+		"desc": "Hail falls before the shrine, waking her. The blizzard is coming.",
+		"EN": "Hailstorm Shrine",
 		"icon": "Weapon_S_1091",
 		"iconUrl": "/zzz/UI/Weapon_S_1091.webp",
 		"id": "14109",
-		"JA": "Item_Weapon_S_1091_Name",
-		"KO": "Item_Weapon_S_1091_Name",
+		"JA": "あられ落つ星殿",
+		"KO": "싸락눈 내린 별각",
 		"rank": 4,
 		"type": 3
 	}

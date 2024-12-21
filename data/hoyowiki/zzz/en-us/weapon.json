@@ -2364,5 +2364,151 @@
 		},
 		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/25/049d50d46635e8ef11bd577404878caf_5919669508706245149.png",
 		"name": "Blazing Laurel"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_0": "{\"dynamic\":{}}",
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"equipment_skill": "Get Everyone Fired Up<p>When an EX Special Attack or Chain Attack hits an enemy, the equipper's ATK increases by <span style=\"color: #2bad00\">6%</span> for 8s. While the target is under an Attribute Anomaly, this effect is increased by an additional <span style=\"color: #2bad00\">6%</span>.</p>",
+			"materials": "[]"
+		},
+		"entry_page_id": "539",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"id": "48",
+						"mi18n_key": "filter_custom_50",
+						"value": "Attack"
+					}
+				],
+				"values": [
+					"Attack"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "a",
+						"icon": "",
+						"id": "23",
+						"mi18n_key": "filter_custom_47",
+						"value": "A"
+					}
+				],
+				"values": [
+					"A"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/39a78589dda1ac70be47ef2202846348_3073969051264582602.png",
+		"name": "Marcato Desire"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_0": "{\"dynamic\":{}}",
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"equipment_skill": "Frost-Stained Star<p>CRIT DMG increases by <span style=\"color: rgb(43, 173, 0)\">50%</span>. When using an EX Special Attack or when any squad member applies an Attribute Anomaly to an enemy, the equipper's <span style=\"color: rgb(152, 239, 240)\">Ice DMG</span> increases by <span style=\"color: rgb(43, 173, 0)\">20%</span>, stacking up to 2 times and lasting 15s. The duration of each stack is calculated separately.</p><p></p><p>*Stats shown are at Base level.</p>",
+			"materials": "[]"
+		},
+		"entry_page_id": "540",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/55982d13c3284d382a9a59ce9f5e5d50_7976795354363068654.png",
+						"id": "50",
+						"mi18n_key": "filter_custom_52",
+						"value": "Anomaly"
+					}
+				],
+				"values": [
+					"Anomaly"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "22",
+						"mi18n_key": "filter_custom_48",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/3ba720942094686d01e37dd510b7b029_6895150963174798766.png",
+		"name": "Hailstorm Shrine"
+	},
+	{
+		"desc": "",
+		"display_field": {
+			"attr_level_0": "{\"dynamic\":{}}",
+			"attr_level_10": "{\"dynamic\":{}}",
+			"attr_level_20": "{\"dynamic\":{}}",
+			"attr_level_30": "{\"dynamic\":{}}",
+			"attr_level_40": "{\"dynamic\":{}}",
+			"attr_level_50": "{\"dynamic\":{}}",
+			"attr_level_60": "{\"dynamic\":{}}",
+			"materials": "[]"
+		},
+		"entry_page_id": "541",
+		"filter_values": {
+			"filter_key_13": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "",
+						"icon": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/08/78d407e2839038da13d26ad84b99a6b8_2409576953869346295.png",
+						"id": "48",
+						"mi18n_key": "filter_custom_50",
+						"value": "Attack"
+					}
+				],
+				"values": [
+					"Attack"
+				]
+			},
+			"w_engine_rarity": {
+				"key": null,
+				"value_types": [
+					{
+						"enum_string": "s",
+						"icon": "",
+						"id": "22",
+						"mi18n_key": "filter_custom_48",
+						"value": "S"
+					}
+				],
+				"values": [
+					"S"
+				]
+			}
+		},
+		"icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/9861761e3b5e1ff05158695f68ce6320_132359921821463404.png",
+		"name": "Zanshin Herb Case"
 	}
 ]
