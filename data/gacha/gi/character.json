@@ -2,6 +2,62 @@
 	{
 		"items": [
 			{
+				"itemId": 10000087,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/f5e009b649e699fb4cfdc5d6460e89f7.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000030,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/f4f70c7f589ece7f29202657dd467db8.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "",
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000059,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/bcdb67b4a0283d2bc0a6cebc601e8dd4.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "鹿野院平藏",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000031,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/446e6a545f547e0c6249bc06a12b0a20.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000077,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/0eacf739de3ff0da64d1a08a24c78135.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "",
+				"element": "Dendro"
+			}
+		],
+		"start": "2024-12-10 18:00:00",
+		"end": "2024-12-31 14:59:59"
+	},
+	{
+		"items": [
+			{
 				"itemId": 10000084,
 				"weaponType": "Bow",
 				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/32ea78b3df5ba600611c015475e648a4.png",
