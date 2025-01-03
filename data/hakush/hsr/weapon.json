@@ -270,7 +270,7 @@
 		"en": "Into the Unreachable Veil",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23037.webp",
 		"id": "23037",
-		"jp": "触れてはならぬ領域へ",
+		"jp": "{RUBY_B#ふ}触{RUBY_E#}れてはならぬ{RUBY_B#りょういき}領域{RUBY_E#}へ",
 		"kr": "추궁할 수 없는 곳을 향해",
 		"rank": "CombatPowerLightconeRarity5"
 	},
@@ -369,7 +369,7 @@
 		"en": "Sweat Now, Cry Less",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21052.webp",
 		"id": "21052",
-		"jp": "流すなら涙より汗",
+		"jp": "{RUBY_B#なが}流{RUBY_E#}すなら{RUBY_B#なみだ}涙{RUBY_E#}より{RUBY_B#あせ}汗{RUBY_E#}",
 		"kr": "땀은 많이, 눈물은 적게",
 		"rank": "CombatPowerLightconeRarity4"
 	},
@@ -413,7 +413,7 @@
 		"en": "Geniuses' Greetings",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21051.webp",
 		"id": "21051",
-		"jp": "天才たちの「挨拶」",
+		"jp": "{RUBY_B#てんさい}天才{RUBY_E#}たちの「{RUBY_B#あいさつ}挨拶{RUBY_E#}」",
 		"kr": "천재들의 안부 인사",
 		"rank": "CombatPowerLightconeRarity4"
 	},
@@ -479,7 +479,7 @@
 		"en": "Time Woven Into Gold",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23036.webp",
 		"id": "23036",
-		"jp": "光陰を織り黄金と成す",
+		"jp": "{RUBY_B#こういん}光陰{RUBY_E#}を{RUBY_B#お}織{RUBY_E#}り{RUBY_B#おうごん}黄金{RUBY_E#}と{RUBY_B#な}成{RUBY_E#}す",
 		"kr": "시간을 황금으로 엮어",
 		"rank": "CombatPowerLightconeRarity5"
 	},
@@ -831,7 +831,7 @@
 		"en": "Reminiscence",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20022.webp",
 		"id": "20022",
-		"jp": "辿る記憶",
+		"jp": "{RUBY_B#たど}辿{RUBY_E#}る{RUBY_B#きおく}記憶{RUBY_E#}",
 		"kr": "추억 회상",
 		"rank": "CombatPowerLightconeRarity3"
 	},
@@ -875,7 +875,7 @@
 		"en": "Shadowburn",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20021.webp",
 		"id": "20021",
-		"jp": "燃ゆる影",
+		"jp": "{RUBY_B#も}燃{RUBY_E#}ゆる{RUBY_B#かげ}影{RUBY_E#}",
 		"kr": "불타는 그림자",
 		"rank": "CombatPowerLightconeRarity3"
 	},
@@ -1018,7 +1018,7 @@
 		"en": "Victory In a Blink",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21050.webp",
 		"id": "21050",
-		"jp": "瞬刻の勝機",
+		"jp": "{RUBY_B#しゅんこく}瞬刻{RUBY_E#}の{RUBY_B#しょうき}勝機{RUBY_E#}",
 		"kr": "찰나에 결정되는 승리",
 		"rank": "CombatPowerLightconeRarity4"
 	},

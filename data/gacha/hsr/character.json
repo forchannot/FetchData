@@ -1,21 +1,215 @@
 [
 	{
-		"version": "2.7.2",
+		"version": "2.8.2",
 		"items": [
 			{
-				"itemId": 2494,
-				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
+				"itemId": 1402,
+				"imageUrl": "/hsr/UI/avatarshopicon/1402.webp",
 				"itemType": "Character",
-				"name": "流萤",
-				"nameEn": "Firefly ",
+				"name": "阿格莱雅",
+				"nameEn": "Aglaea",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 1315,
+				"imageUrl": "/hsr/UI/avatarshopicon/1315.webp",
+				"itemType": "Character",
+				"name": "波提欧",
+				"nameEn": "Boothill",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1309,
+				"imageUrl": "/hsr/UI/avatarshopicon/1309.webp",
+				"itemType": "Character",
+				"name": "知更鸟",
+				"nameEn": "Robin",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1006,
+				"imageUrl": "/hsr/UI/avatarshopicon/1006.webp",
+				"itemType": "Character",
+				"name": "银狼",
+				"nameEn": "Silver Wolf",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1202,
+				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
+				"itemType": "Character",
+				"name": "停云",
+				"nameEn": "Tingyun",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "Hanya",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1206,
+				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
+				"itemType": "Character",
+				"name": "素裳",
+				"nameEn": "Sushang",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2025-02-05 12:00:00",
+		"end": "2025-01-25 14:59:59"
+	},
+	{
+		"version": "2.8.1",
+		"items": [
+			{
+				"itemId": 1401,
+				"imageUrl": "/hsr/UI/avatarshopicon/1401.webp",
+				"itemType": "Character",
+				"name": "大黑塔",
+				"nameEn": "The Herta",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 1222,
+				"imageUrl": "/hsr/UI/avatarshopicon/1222.webp",
+				"itemType": "Character",
+				"name": "灵砂",
+				"nameEn": "Lingsha",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1220,
+				"imageUrl": "/hsr/UI/avatarshopicon/1220.webp",
+				"itemType": "Character",
+				"name": "飞霄",
+				"nameEn": "Feixiao",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1314,
+				"imageUrl": "/hsr/UI/avatarshopicon/1314.webp",
+				"itemType": "Character",
+				"name": "翡翠",
+				"nameEn": "Jade",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 1105,
+				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
+				"itemType": "Character",
+				"name": "娜塔莎",
+				"nameEn": "Natasha",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1009,
+				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
+				"itemType": "Character",
+				"name": "艾丝妲",
+				"nameEn": "Asta",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hsr/UI/avatarshopicon/1223.webp",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "Moze",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2025-01-15 06:00:00",
+		"end": "2025-02-05 11:59:59"
+	},
+	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 1225,
+				"imageUrl": "/hsr/UI/avatarshopicon/1225.webp",
+				"itemType": "Character",
+				"name": "忘归人",
+				"nameEn": "Fugue",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1310,
+				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
+				"itemType": "Character",
+				"name": "流萤",
+				"nameEn": "Firefly",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1924,
+				"itemId": 1301,
 				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
 				"itemType": "Character",
 				"name": "加拉赫",
@@ -23,11 +217,11 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 712,
+				"itemId": 1207,
 				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
 				"itemType": "Character",
 				"name": "驭空",
@@ -35,11 +229,11 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 1808,
+				"itemId": 1312,
 				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
 				"itemType": "Character",
 				"name": "米沙",
@@ -47,7 +241,7 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			}
 		],
@@ -58,7 +252,7 @@
 		"version": "2.7.1",
 		"items": [
 			{
-				"itemId": 3150,
+				"itemId": 1313,
 				"imageUrl": "/hsr/UI/avatarshopicon/1313.webp",
 				"itemType": "Character",
 				"name": "星期日",
@@ -66,23 +260,23 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 26,
+				"itemId": 1204,
 				"imageUrl": "/hsr/UI/avatarshopicon/1204.webp",
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "Jing Yuan",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 24,
+				"itemId": 1201,
 				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
 				"itemType": "Character",
 				"name": "青雀",
@@ -90,31 +284,31 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 11,
+				"itemId": 1008,
 				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "Arlan",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 25,
+				"itemId": 1202,
 				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "Tingyun",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			}
 		],
@@ -125,19 +319,19 @@
 		"version": "2.6.2",
 		"items": [
 			{
-				"itemId": 1919,
+				"itemId": 1308,
 				"imageUrl": "/hsr/UI/avatarshopicon/1308.webp",
 				"itemType": "Character",
 				"name": "黄泉",
 				"nameEn": "Acheron",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 1920,
+				"itemId": 1304,
 				"imageUrl": "/hsr/UI/avatarshopicon/1304.webp",
 				"itemType": "Character",
 				"name": "砂金",
@@ -145,23 +339,23 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "knight",
 				"weaponType": "knight"
 			},
 			{
-				"itemId": 7,
+				"itemId": 1224,
 				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
 				"itemType": "Character",
-				"name": "三月七 - 存护",
+				"name": "三月七",
 				"nameEn": "March 7th",
-				"damageType": "ice",
-				"element": "ice",
+				"damageType": "imaginary",
+				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
-				"weaponType": "knight"
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 19,
+				"itemId": 1106,
 				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
 				"itemType": "Character",
 				"name": "佩拉",
@@ -169,11 +363,11 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21,
+				"itemId": 1108,
 				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
 				"itemType": "Character",
 				"name": "桑博",
@@ -181,7 +375,7 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			}
 		],
@@ -192,7 +386,7 @@
 		"version": "2.6.1",
 		"items": [
 			{
-				"itemId": 3057,
+				"itemId": 1317,
 				"imageUrl": "/hsr/UI/avatarshopicon/1317.webp",
 				"itemType": "Character",
 				"name": "乱破",
@@ -200,23 +394,23 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 1226,
+				"itemId": 1213,
 				"imageUrl": "/hsr/UI/avatarshopicon/1213.webp",
 				"itemType": "Character",
 				"name": "丹恒•饮月",
-				"nameEn": "Dan Heng • Imbibitor Lunae ",
+				"nameEn": "Dan Heng • Imbibitor Lunae",
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1228,
+				"itemId": 1110,
 				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
 				"itemType": "Character",
 				"name": "玲可",
@@ -224,11 +418,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 1640,
+				"itemId": 1214,
 				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
 				"itemType": "Character",
 				"name": "雪衣",
@@ -236,11 +430,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 712,
+				"itemId": 1207,
 				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
 				"itemType": "Character",
 				"name": "驭空",
@@ -248,7 +442,7 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			}
 		],
@@ -259,7 +453,7 @@
 		"version": "2.5.2",
 		"items": [
 			{
-				"itemId": 2948,
+				"itemId": 1222,
 				"imageUrl": "/hsr/UI/avatarshopicon/1222.webp",
 				"itemType": "Character",
 				"name": "灵砂",
@@ -267,23 +461,23 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 1389,
+				"itemId": 1112,
 				"imageUrl": "/hsr/UI/avatarshopicon/1112.webp",
 				"itemType": "Character",
 				"name": "托帕&账账",
-				"nameEn": "Topaz & Numby ",
+				"nameEn": "Topaz & Numby",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 1808,
+				"itemId": 1312,
 				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
 				"itemType": "Character",
 				"name": "米沙",
@@ -291,11 +485,11 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 18,
+				"itemId": 1105,
 				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
 				"itemType": "Character",
 				"name": "娜塔莎",
@@ -303,19 +497,19 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 1392,
+				"itemId": 1210,
 				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
 				"itemType": "Character",
 				"name": "桂乃芬",
-				"nameEn": "Guinaifen ",
+				"nameEn": "Guinaifen",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			}
 		],
@@ -326,7 +520,7 @@
 		"version": "2.5.1",
 		"items": [
 			{
-				"itemId": 2947,
+				"itemId": 1220,
 				"imageUrl": "/hsr/UI/avatarshopicon/1220.webp",
 				"itemType": "Character",
 				"name": "飞霄",
@@ -334,23 +528,23 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 791,
+				"itemId": 1005,
 				"imageUrl": "/hsr/UI/avatarshopicon/1005.webp",
 				"itemType": "Character",
 				"name": "卡芙卡",
-				"nameEn": "Kafka ",
-				"damageType": "lightning",
+				"nameEn": "Kafka",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 1806,
+				"itemId": 1307,
 				"imageUrl": "/hsr/UI/avatarshopicon/1307.webp",
 				"itemType": "Character",
 				"name": "黑天鹅",
@@ -358,11 +552,11 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 2366,
+				"itemId": 1309,
 				"imageUrl": "/hsr/UI/avatarshopicon/1309.webp",
 				"itemType": "Character",
 				"name": "知更鸟",
@@ -370,23 +564,23 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 2949,
+				"itemId": 1223,
 				"imageUrl": "/hsr/UI/avatarshopicon/1223.webp",
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "Moze",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 12,
+				"itemId": 1009,
 				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
 				"itemType": "Character",
 				"name": "艾丝妲",
@@ -394,11 +588,11 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 801,
+				"itemId": 1111,
 				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
 				"itemType": "Character",
 				"name": "卢卡",
@@ -406,7 +600,7 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			}
 		],
@@ -417,7 +611,7 @@
 		"version": "2.4.2",
 		"items": [
 			{
-				"itemId": 2643,
+				"itemId": 1218,
 				"imageUrl": "/hsr/UI/avatarshopicon/1218.webp",
 				"itemType": "Character",
 				"name": "椒丘",
@@ -425,11 +619,11 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 1807,
+				"itemId": 1306,
 				"imageUrl": "/hsr/UI/avatarshopicon/1306.webp",
 				"itemType": "Character",
 				"name": "花火",
@@ -437,11 +631,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 22,
+				"itemId": 1109,
 				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
 				"itemType": "Character",
 				"name": "虎克",
@@ -449,31 +643,31 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1392,
+				"itemId": 1210,
 				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
 				"itemType": "Character",
 				"name": "桂乃芬",
-				"nameEn": "Guinaifen ",
+				"nameEn": "Guinaifen",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 11,
+				"itemId": 1008,
 				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "Arlan",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			}
 		],
@@ -484,7 +678,7 @@
 		"version": "2.4.1",
 		"items": [
 			{
-				"itemId": 2642,
+				"itemId": 1221,
 				"imageUrl": "/hsr/UI/avatarshopicon/1221.webp",
 				"itemType": "Character",
 				"name": "云璃",
@@ -492,23 +686,23 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1533,
+				"itemId": 1217,
 				"imageUrl": "/hsr/UI/avatarshopicon/1217.webp",
 				"itemType": "Character",
 				"name": "藿藿",
-				"nameEn": "Huohuo ",
+				"nameEn": "Huohuo",
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 1537,
+				"itemId": 1215,
 				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
 				"itemType": "Character",
 				"name": "寒鸦",
@@ -516,11 +710,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 712,
+				"itemId": 1207,
 				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
 				"itemType": "Character",
 				"name": "驭空",
@@ -528,11 +722,11 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 1228,
+				"itemId": 1110,
 				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
 				"itemType": "Character",
 				"name": "玲可",
@@ -540,7 +734,7 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			}
 		],
@@ -551,7 +745,7 @@
 		"version": "2.3.2",
 		"items": [
 			{
-				"itemId": 2495,
+				"itemId": 1314,
 				"imageUrl": "/hsr/UI/avatarshopicon/1314.webp",
 				"itemType": "Character",
 				"name": "翡翠",
@@ -559,11 +753,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 1535,
+				"itemId": 1302,
 				"imageUrl": "/hsr/UI/avatarshopicon/1302.webp",
 				"itemType": "Character",
 				"name": "银枝",
@@ -571,23 +765,23 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 16,
+				"itemId": 1103,
 				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "Serval",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 18,
+				"itemId": 1105,
 				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
 				"itemType": "Character",
 				"name": "娜塔莎",
@@ -595,11 +789,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 12,
+				"itemId": 1009,
 				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
 				"itemType": "Character",
 				"name": "艾丝妲",
@@ -607,7 +801,7 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			}
 		],
@@ -618,19 +812,19 @@
 		"version": "2.3.1",
 		"items": [
 			{
-				"itemId": 2494,
+				"itemId": 1310,
 				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
 				"itemType": "Character",
 				"name": "流萤",
-				"nameEn": "Firefly ",
+				"nameEn": "Firefly",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1638,
+				"itemId": 1303,
 				"imageUrl": "/hsr/UI/avatarshopicon/1303.webp",
 				"itemType": "Character",
 				"name": "阮•梅",
@@ -638,11 +832,11 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 1924,
+				"itemId": 1301,
 				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
 				"itemType": "Character",
 				"name": "加拉赫",
@@ -650,11 +844,11 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 1808,
+				"itemId": 1312,
 				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
 				"itemType": "Character",
 				"name": "米沙",
@@ -662,11 +856,11 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1640,
+				"itemId": 1214,
 				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
 				"itemType": "Character",
 				"name": "雪衣",
@@ -674,7 +868,7 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			}
 		],
@@ -685,7 +879,7 @@
 		"version": "2.2.2",
 		"items": [
 			{
-				"itemId": 2367,
+				"itemId": 1315,
 				"imageUrl": "/hsr/UI/avatarshopicon/1315.webp",
 				"itemType": "Character",
 				"name": "波提欧",
@@ -693,11 +887,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 804,
+				"itemId": 1208,
 				"imageUrl": "/hsr/UI/avatarshopicon/1208.webp",
 				"itemType": "Character",
 				"name": "符玄",
@@ -705,11 +899,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "knight",
 				"weaponType": "knight"
 			},
 			{
-				"itemId": 19,
+				"itemId": 1106,
 				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
 				"itemType": "Character",
 				"name": "佩拉",
@@ -717,11 +911,11 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 801,
+				"itemId": 1111,
 				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
 				"itemType": "Character",
 				"name": "卢卡",
@@ -729,11 +923,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 22,
+				"itemId": 1109,
 				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
 				"itemType": "Character",
 				"name": "虎克",
@@ -741,7 +935,7 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			}
 		],
@@ -752,7 +946,7 @@
 		"version": "2.2.1",
 		"items": [
 			{
-				"itemId": 2366,
+				"itemId": 1309,
 				"imageUrl": "/hsr/UI/avatarshopicon/1309.webp",
 				"itemType": "Character",
 				"name": "知更鸟",
@@ -760,35 +954,35 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 1389,
+				"itemId": 1112,
 				"imageUrl": "/hsr/UI/avatarshopicon/1112.webp",
 				"itemType": "Character",
 				"name": "托帕&账账",
-				"nameEn": "Topaz & Numby ",
+				"nameEn": "Topaz & Numby",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 7,
+				"itemId": 1224,
 				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
 				"itemType": "Character",
-				"name": "三月七 - 存护",
+				"name": "三月七",
 				"nameEn": "March 7th",
-				"damageType": "ice",
-				"element": "ice",
+				"damageType": "imaginary",
+				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
-				"weaponType": "knight"
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 1537,
+				"itemId": 1215,
 				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
 				"itemType": "Character",
 				"name": "寒鸦",
@@ -796,11 +990,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 1640,
+				"itemId": 1214,
 				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
 				"itemType": "Character",
 				"name": "雪衣",
@@ -808,7 +1002,7 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			}
 		],
@@ -819,7 +1013,7 @@
 		"version": "2.1.2",
 		"items": [
 			{
-				"itemId": 1920,
+				"itemId": 1304,
 				"imageUrl": "/hsr/UI/avatarshopicon/1304.webp",
 				"itemType": "Character",
 				"name": "砂金",
@@ -827,23 +1021,23 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "knight",
 				"weaponType": "knight"
 			},
 			{
-				"itemId": 1387,
+				"itemId": 1212,
 				"imageUrl": "/hsr/UI/avatarshopicon/1212.webp",
 				"itemType": "Character",
 				"name": "镜流",
-				"nameEn": "Jingliu ",
+				"nameEn": "Jingliu",
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1228,
+				"itemId": 1110,
 				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
 				"itemType": "Character",
 				"name": "玲可",
@@ -851,11 +1045,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 801,
+				"itemId": 1111,
 				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
 				"itemType": "Character",
 				"name": "卢卡",
@@ -863,19 +1057,19 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 16,
+				"itemId": 1103,
 				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "Serval",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			}
 		],
@@ -886,19 +1080,19 @@
 		"version": "2.1.1",
 		"items": [
 			{
-				"itemId": 1919,
+				"itemId": 1308,
 				"imageUrl": "/hsr/UI/avatarshopicon/1308.webp",
 				"itemType": "Character",
 				"name": "黄泉",
 				"nameEn": "Acheron",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 711,
+				"itemId": 1203,
 				"imageUrl": "/hsr/UI/avatarshopicon/1203.webp",
 				"itemType": "Character",
 				"name": "罗刹",
@@ -906,11 +1100,11 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 1924,
+				"itemId": 1301,
 				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
 				"itemType": "Character",
 				"name": "加拉赫",
@@ -918,11 +1112,11 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 19,
+				"itemId": 1106,
 				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
 				"itemType": "Character",
 				"name": "佩拉",
@@ -930,11 +1124,11 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 8,
+				"itemId": 1002,
 				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
 				"itemType": "Character",
 				"name": "丹恒",
@@ -942,7 +1136,7 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			}
 		],
@@ -953,7 +1147,7 @@
 		"version": "2.0.2",
 		"items": [
 			{
-				"itemId": 1807,
+				"itemId": 1306,
 				"imageUrl": "/hsr/UI/avatarshopicon/1306.webp",
 				"itemType": "Character",
 				"name": "花火",
@@ -961,23 +1155,23 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 26,
+				"itemId": 1204,
 				"imageUrl": "/hsr/UI/avatarshopicon/1204.webp",
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "Jing Yuan",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 21,
+				"itemId": 1108,
 				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
 				"itemType": "Character",
 				"name": "桑博",
@@ -985,11 +1179,11 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 24,
+				"itemId": 1201,
 				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
 				"itemType": "Character",
 				"name": "青雀",
@@ -997,11 +1191,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 1537,
+				"itemId": 1215,
 				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
 				"itemType": "Character",
 				"name": "寒鸦",
@@ -1009,7 +1203,7 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			}
 		],
@@ -1020,7 +1214,7 @@
 		"version": "2.0.1",
 		"items": [
 			{
-				"itemId": 1806,
+				"itemId": 1307,
 				"imageUrl": "/hsr/UI/avatarshopicon/1307.webp",
 				"itemType": "Character",
 				"name": "黑天鹅",
@@ -1028,23 +1222,23 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 1226,
+				"itemId": 1213,
 				"imageUrl": "/hsr/UI/avatarshopicon/1213.webp",
 				"itemType": "Character",
 				"name": "丹恒•饮月",
-				"nameEn": "Dan Heng • Imbibitor Lunae ",
+				"nameEn": "Dan Heng • Imbibitor Lunae",
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1808,
+				"itemId": 1312,
 				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
 				"itemType": "Character",
 				"name": "米沙",
@@ -1052,31 +1246,31 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 25,
+				"itemId": 1202,
 				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "Tingyun",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 1392,
+				"itemId": 1210,
 				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
 				"itemType": "Character",
 				"name": "桂乃芬",
-				"nameEn": "Guinaifen ",
+				"nameEn": "Guinaifen",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			}
 		],
@@ -1087,7 +1281,7 @@
 		"version": "1.6.2",
 		"items": [
 			{
-				"itemId": 1639,
+				"itemId": 1305,
 				"imageUrl": "/hsr/UI/avatarshopicon/1305.webp",
 				"itemType": "Character",
 				"name": "真理医生",
@@ -1095,23 +1289,23 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 791,
+				"itemId": 1005,
 				"imageUrl": "/hsr/UI/avatarshopicon/1005.webp",
 				"itemType": "Character",
 				"name": "卡芙卡",
-				"nameEn": "Kafka ",
-				"damageType": "lightning",
+				"nameEn": "Kafka",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 27,
+				"itemId": 1206,
 				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
 				"itemType": "Character",
 				"name": "素裳",
@@ -1119,11 +1313,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 18,
+				"itemId": 1105,
 				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
 				"itemType": "Character",
 				"name": "娜塔莎",
@@ -1131,11 +1325,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 22,
+				"itemId": 1109,
 				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
 				"itemType": "Character",
 				"name": "虎克",
@@ -1143,7 +1337,7 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			}
 		],
@@ -1154,7 +1348,7 @@
 		"version": "1.6.1",
 		"items": [
 			{
-				"itemId": 1638,
+				"itemId": 1303,
 				"imageUrl": "/hsr/UI/avatarshopicon/1303.webp",
 				"itemType": "Character",
 				"name": "阮•梅",
@@ -1162,11 +1356,11 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 789,
+				"itemId": 1205,
 				"imageUrl": "/hsr/UI/avatarshopicon/1205.webp",
 				"itemType": "Character",
 				"name": "刃",
@@ -1174,11 +1368,11 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 1640,
+				"itemId": 1214,
 				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
 				"itemType": "Character",
 				"name": "雪衣",
@@ -1186,31 +1380,31 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 7,
+				"itemId": 1224,
 				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
 				"itemType": "Character",
-				"name": "三月七 - 存护",
+				"name": "三月七",
 				"nameEn": "March 7th",
-				"damageType": "ice",
-				"element": "ice",
+				"damageType": "imaginary",
+				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
-				"weaponType": "knight"
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
 			},
 			{
-				"itemId": 25,
+				"itemId": 1202,
 				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "Tingyun",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			}
 		],
@@ -1221,7 +1415,7 @@
 		"version": "1.5.2",
 		"items": [
 			{
-				"itemId": 1535,
+				"itemId": 1302,
 				"imageUrl": "/hsr/UI/avatarshopicon/1302.webp",
 				"itemType": "Character",
 				"name": "银枝",
@@ -1229,11 +1423,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 710,
+				"itemId": 1006,
 				"imageUrl": "/hsr/UI/avatarshopicon/1006.webp",
 				"itemType": "Character",
 				"name": "银狼",
@@ -1241,11 +1435,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 1537,
+				"itemId": 1215,
 				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
 				"itemType": "Character",
 				"name": "寒鸦",
@@ -1253,11 +1447,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 1228,
+				"itemId": 1110,
 				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
 				"itemType": "Character",
 				"name": "玲可",
@@ -1265,11 +1459,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 12,
+				"itemId": 1009,
 				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
 				"itemType": "Character",
 				"name": "艾丝妲",
@@ -1277,7 +1471,7 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			}
 		],
@@ -1288,19 +1482,19 @@
 		"version": "1.5.1",
 		"items": [
 			{
-				"itemId": 1533,
+				"itemId": 1217,
 				"imageUrl": "/hsr/UI/avatarshopicon/1217.webp",
 				"itemType": "Character",
 				"name": "藿藿",
-				"nameEn": "Huohuo ",
+				"nameEn": "Huohuo",
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 8,
+				"itemId": 1002,
 				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
 				"itemType": "Character",
 				"name": "丹恒",
@@ -1308,31 +1502,31 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 11,
+				"itemId": 1008,
 				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "Arlan",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 16,
+				"itemId": 1103,
 				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "Serval",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			}
 		],
@@ -1343,19 +1537,19 @@
 		"version": "1.4.2",
 		"items": [
 			{
-				"itemId": 1389,
+				"itemId": 1112,
 				"imageUrl": "/hsr/UI/avatarshopicon/1112.webp",
 				"itemType": "Character",
 				"name": "托帕&账账",
-				"nameEn": "Topaz & Numby ",
+				"nameEn": "Topaz & Numby",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 15,
+				"itemId": 1102,
 				"imageUrl": "/hsr/UI/avatarshopicon/1102.webp",
 				"itemType": "Character",
 				"name": "希儿",
@@ -1363,23 +1557,23 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 1392,
+				"itemId": 1210,
 				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
 				"itemType": "Character",
 				"name": "桂乃芬",
-				"nameEn": "Guinaifen ",
+				"nameEn": "Guinaifen",
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 801,
+				"itemId": 1111,
 				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
 				"itemType": "Character",
 				"name": "卢卡",
@@ -1387,11 +1581,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 27,
+				"itemId": 1206,
 				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
 				"itemType": "Character",
 				"name": "素裳",
@@ -1399,7 +1593,7 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			}
 		],
@@ -1410,31 +1604,31 @@
 		"version": "1.4.1",
 		"items": [
 			{
-				"itemId": 1387,
+				"itemId": 1212,
 				"imageUrl": "/hsr/UI/avatarshopicon/1212.webp",
 				"itemType": "Character",
 				"name": "镜流",
-				"nameEn": "Jingliu ",
+				"nameEn": "Jingliu",
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 25,
+				"itemId": 1202,
 				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "Tingyun",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 24,
+				"itemId": 1201,
 				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
 				"itemType": "Character",
 				"name": "青雀",
@@ -1442,11 +1636,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 21,
+				"itemId": 1108,
 				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
 				"itemType": "Character",
 				"name": "桑博",
@@ -1454,7 +1648,7 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			}
 		],
@@ -1465,7 +1659,7 @@
 		"version": "1.3.2",
 		"items": [
 			{
-				"itemId": 804,
+				"itemId": 1208,
 				"imageUrl": "/hsr/UI/avatarshopicon/1208.webp",
 				"itemType": "Character",
 				"name": "符玄",
@@ -1473,11 +1667,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "knight",
 				"weaponType": "knight"
 			},
 			{
-				"itemId": 1228,
+				"itemId": 1110,
 				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
 				"itemType": "Character",
 				"name": "玲可",
@@ -1485,11 +1679,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 22,
+				"itemId": 1109,
 				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
 				"itemType": "Character",
 				"name": "虎克",
@@ -1497,11 +1691,11 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 19,
+				"itemId": 1106,
 				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
 				"itemType": "Character",
 				"name": "佩拉",
@@ -1509,7 +1703,7 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			}
 		],
@@ -1520,19 +1714,19 @@
 		"version": "1.3.1",
 		"items": [
 			{
-				"itemId": 1226,
+				"itemId": 1213,
 				"imageUrl": "/hsr/UI/avatarshopicon/1213.webp",
 				"itemType": "Character",
 				"name": "丹恒•饮月",
-				"nameEn": "Dan Heng • Imbibitor Lunae ",
+				"nameEn": "Dan Heng • Imbibitor Lunae",
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 712,
+				"itemId": 1207,
 				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
 				"itemType": "Character",
 				"name": "驭空",
@@ -1540,11 +1734,11 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 12,
+				"itemId": 1009,
 				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
 				"itemType": "Character",
 				"name": "艾丝妲",
@@ -1552,20 +1746,20 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 7,
+				"itemId": 1224,
 				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
 				"itemType": "Character",
-				"name": "三月七 - 存护",
+				"name": "三月七",
 				"nameEn": "March 7th",
-				"damageType": "ice",
-				"element": "ice",
+				"damageType": "imaginary",
+				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
-				"weaponType": "knight"
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
 			}
 		],
 		"start": "2023-08-30 06:00:00",
@@ -1575,19 +1769,19 @@
 		"version": "1.2.2",
 		"items": [
 			{
-				"itemId": 791,
+				"itemId": 1005,
 				"imageUrl": "/hsr/UI/avatarshopicon/1005.webp",
 				"itemType": "Character",
 				"name": "卡芙卡",
-				"nameEn": "Kafka ",
-				"damageType": "lightning",
+				"nameEn": "Kafka",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 801,
+				"itemId": 1111,
 				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
 				"itemType": "Character",
 				"name": "卢卡",
@@ -1595,11 +1789,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 21,
+				"itemId": 1108,
 				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
 				"itemType": "Character",
 				"name": "桑博",
@@ -1607,19 +1801,19 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 16,
+				"itemId": 1103,
 				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "Serval",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			}
 		],
@@ -1630,7 +1824,7 @@
 		"version": "1.2.1",
 		"items": [
 			{
-				"itemId": 789,
+				"itemId": 1205,
 				"imageUrl": "/hsr/UI/avatarshopicon/1205.webp",
 				"itemType": "Character",
 				"name": "刃",
@@ -1638,23 +1832,23 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 11,
+				"itemId": 1008,
 				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "Arlan",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 18,
+				"itemId": 1105,
 				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
 				"itemType": "Character",
 				"name": "娜塔莎",
@@ -1662,11 +1856,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 27,
+				"itemId": 1206,
 				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
 				"itemType": "Character",
 				"name": "素裳",
@@ -1674,7 +1868,7 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			}
 		],
@@ -1685,7 +1879,7 @@
 		"version": "1.1.2",
 		"items": [
 			{
-				"itemId": 711,
+				"itemId": 1203,
 				"imageUrl": "/hsr/UI/avatarshopicon/1203.webp",
 				"itemType": "Character",
 				"name": "罗刹",
@@ -1693,11 +1887,11 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 712,
+				"itemId": 1207,
 				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
 				"itemType": "Character",
 				"name": "驭空",
@@ -1705,11 +1899,11 @@
 				"damageType": "imaginary",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 19,
+				"itemId": 1106,
 				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
 				"itemType": "Character",
 				"name": "佩拉",
@@ -1717,11 +1911,11 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 24,
+				"itemId": 1201,
 				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
 				"itemType": "Character",
 				"name": "青雀",
@@ -1729,7 +1923,7 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			}
 		],
@@ -1740,7 +1934,7 @@
 		"version": "1.1.1",
 		"items": [
 			{
-				"itemId": 710,
+				"itemId": 1006,
 				"imageUrl": "/hsr/UI/avatarshopicon/1006.webp",
 				"itemType": "Character",
 				"name": "银狼",
@@ -1748,11 +1942,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			},
 			{
-				"itemId": 8,
+				"itemId": 1002,
 				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
 				"itemType": "Character",
 				"name": "丹恒",
@@ -1760,11 +1954,11 @@
 				"damageType": "wind",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 12,
+				"itemId": 1009,
 				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
 				"itemType": "Character",
 				"name": "艾丝妲",
@@ -1772,19 +1966,19 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 16,
+				"itemId": 1103,
 				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "Serval",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			}
 		],
@@ -1795,31 +1989,31 @@
 		"version": "1.0.2",
 		"items": [
 			{
-				"itemId": 26,
+				"itemId": 1204,
 				"imageUrl": "/hsr/UI/avatarshopicon/1204.webp",
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "Jing Yuan",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "mage",
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 25,
+				"itemId": 1202,
 				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "Tingyun",
-				"damageType": "lightning",
+				"damageType": "thunder",
 				"element": "thunder",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "shaman",
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 27,
+				"itemId": 1206,
 				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
 				"itemType": "Character",
 				"name": "素裳",
@@ -1827,20 +2021,20 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 7,
+				"itemId": 1224,
 				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
 				"itemType": "Character",
-				"name": "三月七 - 存护",
+				"name": "三月七",
 				"nameEn": "March 7th",
-				"damageType": "ice",
-				"element": "ice",
+				"damageType": "imaginary",
+				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
-				"weaponType": "knight"
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
 			}
 		],
 		"start": "2023-05-17 18:00:00",
@@ -1850,7 +2044,7 @@
 		"version": "1.0.1",
 		"items": [
 			{
-				"itemId": 15,
+				"itemId": 1102,
 				"imageUrl": "/hsr/UI/avatarshopicon/1102.webp",
 				"itemType": "Character",
 				"name": "希儿",
@@ -1858,11 +2052,11 @@
 				"damageType": "quantum",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "hunt",
+				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 18,
+				"itemId": 1105,
 				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
 				"itemType": "Character",
 				"name": "娜塔莎",
@@ -1870,11 +2064,11 @@
 				"damageType": "physical",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "priest",
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 22,
+				"itemId": 1109,
 				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
 				"itemType": "Character",
 				"name": "虎克",
@@ -1882,11 +2076,11 @@
 				"damageType": "fire",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
 			},
 			{
-				"itemId": 19,
+				"itemId": 1106,
 				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
 				"itemType": "Character",
 				"name": "佩拉",
@@ -1894,7 +2088,7 @@
 				"damageType": "ice",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
 			}
 		],
