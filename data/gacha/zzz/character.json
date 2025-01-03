@@ -3,6 +3,30 @@
 		"version": "1.4.1",
 		"items": [
 			{
+				"itemId": 1091,
+				"imageUrl": "/zzz/UI/IconRoleSelect13.webp",
+				"itemType": "Character",
+				"name": "雅",
+				"nameEn": "Miyabi",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1201,
+				"imageUrl": "/zzz/UI/IconRoleSelect35.webp",
+				"itemType": "Character",
+				"name": "悠真",
+				"nameEn": "Harumasa",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
 				"itemId": 1281,
 				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
 				"itemType": "Character",
