@@ -11,7 +11,7 @@ on:
         type: choice
         default: 'zzz'
         options:
-          - 'genshin'
+          - 'gi'
           - 'hsr'
           - 'zzz'
 
@@ -32,7 +32,7 @@ jobs:
 #        run: node src/mys.js $MYS_TOKEN
 
       - name: Get Gacha Data
-        run: node src/hoyowiki.js ${{ github.event.inputs.item }} && node src/hakush.js ${{ github.event.inputs.item }} && node src/fetchGachaDataV2.js ${{ github.event.inputs.item }}
+        run: node src/hakush.js ${{ github.event.inputs.item }} && node src/fetchGachaDataV2.js ${{ github.event.inputs.item }}
 
       - name: Update Data
         uses: EndBug/add-and-commit@v9

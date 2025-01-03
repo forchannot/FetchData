@@ -16,39 +16,31 @@ function requireJson(relativePath) {
 }
 
 function getImg(game, type, name) {
-    if (game ==="genshin"){
-        game ="gi"
+    if (game === "genshin") {
+        game = "gi"
     }
-    if (name==="三月七 - 存护"){
+    if (name === "三月七 - 存护") {
         return ""
-    }else if (name ==="『我』的诞生"){
-        name="「我」的诞生"
-    }else if (name ==="防暴者VI型"){
-        name="防暴者Ⅵ型"
-    }else if (name ==="维序者·特化型"){
-        name="维序者-特化型"
+    } else if (name === "『我』的诞生") {
+        name = "「我」的诞生"
+    } else if (name === "防暴者VI型") {
+        name = "防暴者Ⅵ型"
+    } else if (name === "维序者·特化型") {
+        name = "维序者-特化型"
     }
     let data = requireJson(`../data/hakush/${game}/${type.toLowerCase()}.json`)
-    console.log(name,data[name])
+    console.log(name, data[name])
     return data?.[name]["iconUrl"]
 }
 
-function getRelativePath(game, type, language = "zh-cn") {
-    return `../data/hoyowiki/${game}/${language}/${type}.json`
+function getRelativePath(game, type) {
+    return `../data/hakush/${game}/${type}.json`
 }
 
 //首字母大写
 const capitalizeFirstLetter = (string) => string.charAt(0).toUpperCase() + string.slice(1)
-
-const getDataEN = (game, type, id, language = "en-us") => {
-    let data = requireJson(getRelativePath(game, type.toLowerCase(), language))
-    return data.find(a => +a.entry_page_id === id)
-}
-
-const getNameEN = (game, type, id, language = "en-us") => {
-    let find = getDataEN(game, type, id, language)
-    return find?.name
-}
+//首字母小写
+const lowerCaseFirstLetter = (string) => string.charAt(0).toLowerCase() + string.slice(1)
 
 let params = {
     11: {
@@ -60,11 +52,11 @@ let params = {
         type: "Weapon"
     },
     301: {
-        game: "genshin",
+        game: "gi",
         type: "Character"
     },
     302: {
-        game: "genshin",
+        game: "gi",
         type: "Weapon"
     },
     2001: {
@@ -78,10 +70,16 @@ let params = {
 
 }
 
-const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8], [5, 8]]
 
-const versions = versionNum.map(([a, b]) => Array.from(new Array(b + 1).keys()).map(v => [`${a}.${v}.1`, `${a}.${v}.2`].join(';')).join(";")).join(";").split(";")
+let getVersions = pool => {
+    const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8], [5, 8]]
+    if (pool == 11 || pool == 12) {
+        const versionNum = [[1, 6], [2, 7], [3, 8], [4, 8], [5, 8]]
+    }
+    const versions = versionNum.map(([a, b]) => Array.from(new Array(b + 1).keys()).map(v => [`${a}.${v}.1`, `${a}.${v}.2`].join(';')).join(";")).join(";").split(";")
 
+    return versions
+}
 
 const findObj = (name, Obj) => {
     if (!name) {
@@ -97,31 +95,18 @@ let nickNames = {
     "鼬鼠党欢迎你": "鼹鼠党欢迎你",
     "点个关注吧": "点个关注吧！",
     "『我』的诞生": "「我」的诞生",
-    "三月七": "三月七 - 存护",
     "维序者·特化型": "维序者-特化型",
-    "我将，巡征追猎": "我将,巡征追猎",
 }
 
 const getName = name => findObj(name, nickNames)
 
 let weaponTypes = {
-    "单手剑": "Sword",
-    "法器": "Catalyst",
-    "双手剑": "Claymore",
-    "弓": "Bow",
-    "长柄武器": "Polearm"
+    "WEAPON_SWORD_ONE_HAND": "Sword",
+    "WEAPON_CATALYST": "Catalyst",
+    "WEAPON_CLAYMORE": "Claymore",
+    "WEAPON_BOW": "Bow",
+    "WEAPON_POLE": "Polearm"
 }
-
-let elements = {
-    "1": "Pyro",
-    "2": "Anemo",
-    "3": "Geo",
-    "4": "Dendro",
-    "5": "Electro",
-    "6": "Hydro",
-    "7": "Cryo",
-}
-
 let damageTypes = {
     "lightning": "thunder",
 }
@@ -136,136 +121,141 @@ let paths = {
     "abundance": "priest",
 }
 
+
+let ZZZTypes = {
+    "1": "Attack",
+    "2": "Stun",
+    "3": "Anomaly",
+    "4": "Support",
+    "5": "Defense",
+}
+
+let ZZZTypesCN = {
+    "1": "强攻",
+    "2": "击破",
+    "3": "异常",
+    "4": "支援",
+    "5": "防护",
+}
+
+let ZZZElement = {
+    "200": "Physical",
+    "201": "Fire",
+    "202": "Ice",
+    "203": "Electric",
+    "205": "Ether",
+}
+
+let ZZZElementCN = {
+    "200": "物理",
+    "201": "火属性",
+    "202": "冰属性",
+    "203": "电属性",
+    "205": "以太",
+}
+
 const getWeaponType = name => findObj(name, weaponTypes)
-const getElement = name => findObj(name, elements)
 const getDamageType = name => findObj(name, damageTypes)
 const getPath = name => findObj(name, paths)
+
+const get3ZType = name => findObj(name, ZZZTypes)
+const get3ZTypeCN = name => findObj(name, ZZZTypesCN)
+const get3ZElement = name => findObj(name, ZZZElement)
+const get3ZElementCN = name => findObj(name, ZZZElementCN)
 
 const getId2 = (name, pool) => {
     let {game, type} = params[pool]
     let data = requireJson(getRelativePath(game, type.toLowerCase()))
     let name2 = getName(name)
 
-    let find = data.find(a => (pool === 2001 ? a.name.includes(name2) : a.name === name2))
+    let find = Object.values(data).find(a => (pool === 2001 ? a.cn.includes(name2) : a.cn === name2))
     if (!find) {
         console.log(`${pool},${name}无对应数据`)
         return
     }
 
-    let findCN
-    if (pool === 2001 || pool === 3001) {
-        findCN = find
-        find = getDataEN(game, type.toLowerCase(), +find.entry_page_id)
-    }
-
     let returnObj = {
-        itemId: +find.entry_page_id,
-        imageUrl: getImg(game,type,name),
+        itemId: +find.id,
+        imageUrl: getImg(game, type, name),
         itemType: type,
-        name: find.name,
-        nameEn: getNameEN(game, type.toLowerCase(), +find.entry_page_id)
+        name: find.cn,
+        nameEn: find.EN ? find.EN : find.en,
     }
 
     switch (pool) {
         case 11: {
             let {
-                filter_values: {
-                    character_combat_type: {value_types: [{enum_string: character_combat_type}]},
-                    character_paths: {value_types: [{enum_string: character_paths}]},
-                    character_rarity: {value_types: [{enum_string: rarity}]}
-                }
+                damageType, rank, baseType
             } = find
             return {
                 ...returnObj,
-                damageType: character_combat_type,
-                element: getDamageType(character_combat_type),
-                rankType: +rarity,
-                avatarBaseType: character_paths,
-                weaponType: getPath(character_paths),
+                damageType: lowerCaseFirstLetter(damageType),
+                element: lowerCaseFirstLetter(getDamageType(damageType)),
+                rankType: +rank.slice(-1),
+                avatarBaseType: lowerCaseFirstLetter(baseType),
+                weaponType: lowerCaseFirstLetter(getPath(baseType)),
             }
         }
         case 12: {
             let {
-                filter_values: {
-                    equipment_paths: {value_types: [{enum_string: character_paths}]},
-                    equipment_rarity: {value_types: [{enum_string: rarity}]}
-                }
+                rank, baseType
             } = find
             return {
                 ...returnObj,
-                rankType: +rarity,
-                avatarBaseType: character_paths,
-                weaponType: getPath(character_paths),
+                rankType: +rank.slice(-1),
+                avatarBaseType: lowerCaseFirstLetter(baseType),
+                weaponType: lowerCaseFirstLetter(getPath(baseType)),
             }
         }
         case 301: {
             let {
-                filter_values: {
-                    character_vision: {value_types: [{enum_string: character_vision}]},
-                    character_weapon: {values: [character_weapon]},
-                    character_rarity: {value_types: [{enum_string: rarity}]}
-                }
+                element,
+                rank,
+                weapon
             } = find
             return {
                 ...returnObj,
-                weaponType: getWeaponType(character_weapon),
-                rankType: +rarity,
-                element: capitalizeFirstLetter(character_vision)
+                weaponType: getWeaponType(weapon),
+                rankType: rank === "QUALITY_PURPLE" ? 4 : 5,
+                element: element
             }
         }
         case 302: {
             let {
-                filter_values: {
-                    weapon_type: {values: [character_weapon]},
-                    weapon_rarity: {value_types: [{enum_string: rarity}]}
-                }
+                type,
+                rank
             } = find
             return {
                 ...returnObj,
-                weaponType: getWeaponType(character_weapon),
-                rankType: +rarity,
+                weaponType: getWeaponType(type),
+                rankType: rank,
             }
         }
         case 2001: {
-
-            let {filter_values} = find
-            if (!filter_values || Object.keys(filter_values).length === 0) {
-                return returnObj
-            }
             let {
-                filter_values: {
-                    agent_stats: {values: [element]},
-                    agent_specialties: {values: [weaponType]},
-                    agent_rarity: {values: [rarity]}
-                }
+                rank,
+                type,
+                element,
             } = find
             return {
                 ...returnObj,
-                weaponType: weaponType,
-                weaponTypeCN: findCN?.filter_values?.agent_specialties?.values[0] || weaponType,
-                rankType: rarity === "S" ? 5 : 4,
-                element: element,
-                elementCN: findCN?.filter_values?.agent_stats?.values[0] || element,
-                name: getNameEN(game, type.toLowerCase(), +find.entry_page_id, "zh-cn")
+                weaponType: get3ZType(type),
+                weaponTypeCN: get3ZTypeCN(type),
+                rankType: rank + 1,
+                element: get3ZElement(element),
+                elementCN: get3ZElementCN(element),
             }
         }
         case 3001: {
-            let {filter_values} = find
-            if (!filter_values || Object.keys(filter_values).length === 0) {
-                return returnObj
-            }
             let {
-                filter_values: {
-                    filter_key_13: {values: [weaponType]},
-                    w_engine_rarity: {values: [rarity]},
-                }
+                rank,
+                type,
             } = find
             return {
                 ...returnObj,
-                weaponType: weaponType,
-                weaponTypeCN: findCN?.filter_values?.filter_key_13?.values[0] || weaponType,
-                rankType: rarity === "S" ? 5 : 4,
-                name: getNameEN(game, type.toLowerCase(), +find.entry_page_id, "zh-cn")
+                weaponType: get3ZType(type),
+                weaponTypeCN: get3ZTypeCN(type),
+                rankType: rank + 1,
             }
         }
         default:
@@ -274,7 +264,7 @@ const getId2 = (name, pool) => {
 }
 
 const getVersion = (i, pool) => {
-    let versionsTemp = versions.slice(0)
+    let versionsTemp = getVersions(pool).slice(0)
     if (pool === 301) {
         //genshin Character
         versionsTemp = [...versionsTemp, "1.3.3"].sort()
