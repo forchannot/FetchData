@@ -72,9 +72,9 @@ let params = {
 
 
 let getVersions = pool => {
-    const versionNum = [[1, 6], [2, 8], [3, 8], [4, 8], [5, 8]]
-    if (pool == 11 || pool == 12) {
-        const versionNum = [[1, 6], [2, 7], [3, 8], [4, 8], [5, 8]]
+    let versionNum = [[1, 6], [2, 8], [3, 8], [4, 8], [5, 8]]
+    if (pool === 11 || pool === 12) {
+        versionNum = [[1, 6], [2, 7], [3, 8], [4, 8], [5, 8]]
     }
     const versions = versionNum.map(([a, b]) => Array.from(new Array(b + 1).keys()).map(v => [`${a}.${v}.1`, `${a}.${v}.2`].join(';')).join(";")).join(";").split(";")
 
