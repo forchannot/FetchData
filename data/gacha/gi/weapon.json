@@ -1,9 +1,149 @@
 [
 	{
+		"version": "5.3.2",
+		"items": [
+			{
+				"itemId": 13512,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_BloodMoon.webp",
+				"itemType": "Weapon",
+				"name": "赤月之形",
+				"nameEn": "Crimson Moon's Semblance",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 11515,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Estoc.webp",
+				"itemType": "Weapon",
+				"name": "赦罪",
+				"nameEn": "Absolution",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 13406,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
+				"itemType": "Weapon",
+				"name": "千岩长枪",
+				"nameEn": "Lithic Spear",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 11405,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12405,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "Rainslasher",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 14402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "The Widsith",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "Sacrificial Bow",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2025-01-21 18:00:00",
+		"end": "2025-02-11 14:59:59"
+	},
+	{
+		"version": "5.3.1",
+		"items": [
+			{
+				"itemId": 12514,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_RadianceSword.webp",
+				"itemType": "Weapon",
+				"name": "焚曜千阳",
+				"nameEn": "A Thousand Blazing Suns",
+				"weaponType": "Claymore",
+				"rankType": 5
+			},
+			{
+				"itemId": 14517,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Figurines.webp",
+				"itemType": "Weapon",
+				"name": "祭星者之望",
+				"nameEn": "Starcaller's Watch",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 12410,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
+				"itemType": "Weapon",
+				"name": "千岩古剑",
+				"nameEn": "Lithic Blade",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 11403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼剑",
+				"nameEn": "Sacrificial Sword",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 13407,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "绝弦",
+				"nameEn": "The Stringless",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2025-01-01 06:00:00",
+		"end": "2025-01-21 17:59:59"
+	},
+	{
 		"version": "5.2.2",
 		"items": [
 			{
-				"itemId": 4339,
+				"itemId": 14514,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
 				"itemType": "Weapon",
 				"name": "万世流涌大典",
@@ -12,7 +152,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2030,
+				"itemId": 13504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -21,7 +161,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1965,
+				"itemId": 15412,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -30,7 +170,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -39,7 +179,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -48,7 +188,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -57,7 +197,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -73,7 +213,7 @@
 		"version": "5.2.1",
 		"items": [
 			{
-				"itemId": 7116,
+				"itemId": 15514,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Qoyllorsnova.webp",
 				"itemType": "Weapon",
 				"name": "星鹫赤羽",
@@ -82,7 +222,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 3983,
+				"itemId": 15512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Pledge.webp",
 				"itemType": "Weapon",
 				"name": "最初的大魔术",
@@ -91,7 +231,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 7114,
+				"itemId": 14430,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "乘浪的回旋",
@@ -100,7 +240,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 7115,
+				"itemId": 15430,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "缀花之翎",
@@ -109,7 +249,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -118,7 +258,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -127,7 +267,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -143,7 +283,7 @@
 		"version": "5.1.2",
 		"items": [
 			{
-				"itemId": 2966,
+				"itemId": 14511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
@@ -152,7 +292,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1972,
+				"itemId": 13501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -161,7 +301,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 7030,
+				"itemId": 12430,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "硕果钩",
@@ -170,7 +310,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -179,7 +319,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -188,7 +328,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -197,7 +337,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -213,7 +353,7 @@
 		"version": "5.1.1",
 		"items": [
 			{
-				"itemId": 7029,
+				"itemId": 11516,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_XochitlsTube.webp",
 				"itemType": "Weapon",
 				"name": "岩峰巡歌",
@@ -222,7 +362,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 5150,
+				"itemId": 11514,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Needle.webp",
 				"itemType": "Weapon",
 				"name": "有乐御簾切",
@@ -231,7 +371,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 7028,
+				"itemId": 11430,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "弥坚骨",
@@ -240,7 +380,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 7031,
+				"itemId": 13430,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
 				"itemType": "Weapon",
 				"name": "镇山之钉",
@@ -249,7 +389,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -258,7 +398,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -267,7 +407,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -283,7 +423,7 @@
 		"version": "5.0.2",
 		"items": [
 			{
-				"itemId": 6545,
+				"itemId": 12513,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_EmeraldSword.webp",
 				"itemType": "Weapon",
 				"name": "山王长牙",
@@ -292,7 +432,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2014,
+				"itemId": 13509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
@@ -301,7 +441,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -310,7 +450,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -319,7 +459,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -328,7 +468,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -337,7 +477,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -353,7 +493,7 @@
 		"version": "5.0.1",
 		"items": [
 			{
-				"itemId": 6546,
+				"itemId": 14516,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_MechaPufferfish.webp",
 				"itemType": "Weapon",
 				"name": "冲浪时光",
@@ -362,7 +502,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2012,
+				"itemId": 11503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -371,7 +511,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -380,7 +520,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -389,7 +529,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -398,7 +538,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -407,7 +547,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -423,7 +563,7 @@
 		"version": "4.8.2",
 		"items": [
 			{
-				"itemId": 5847,
+				"itemId": 13513,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Muguet.webp",
 				"itemType": "Weapon",
 				"name": "柔灯挽歌",
@@ -432,7 +572,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2254,
+				"itemId": 15508,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
 				"itemType": "Weapon",
 				"name": "若水",
@@ -441,7 +581,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2848,
+				"itemId": 12415,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "玛海菈的水色",
@@ -450,7 +590,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2910,
+				"itemId": 14416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "流浪的晚星",
@@ -459,7 +599,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -468,7 +608,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -477,7 +617,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -493,7 +633,7 @@
 		"version": "4.8.1",
 		"items": [
 			{
-				"itemId": 4719,
+				"itemId": 12512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_GoldenVerdict.webp",
 				"itemType": "Weapon",
 				"name": "裁断",
@@ -502,7 +642,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2908,
+				"itemId": 11511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "圣显之钥",
@@ -511,7 +651,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2909,
+				"itemId": 11418,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "西福斯的月光",
@@ -520,7 +660,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -529,7 +669,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -538,7 +678,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -547,7 +687,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -563,7 +703,7 @@
 		"version": "4.7.2",
 		"items": [
 			{
-				"itemId": 5673,
+				"itemId": 15513,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Arcdange.webp",
 				"itemType": "Weapon",
 				"name": "白雨心弦",
@@ -572,7 +712,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 4570,
+				"itemId": 11513,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Regalis.webp",
 				"itemType": "Weapon",
 				"name": "静水流涌之辉",
@@ -581,7 +721,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1942,
+				"itemId": 12410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -590,7 +730,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -599,7 +739,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -608,7 +748,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -617,7 +757,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -633,7 +773,7 @@
 		"version": "4.7.1",
 		"items": [
 			{
-				"itemId": 5674,
+				"itemId": 11515,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Estoc.webp",
 				"itemType": "Weapon",
 				"name": "赦罪",
@@ -642,7 +782,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 3461,
+				"itemId": 11512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "裁叶萃光",
@@ -651,7 +791,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1943,
+				"itemId": 13406,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -660,7 +800,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -669,7 +809,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -678,7 +818,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -687,7 +827,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -703,7 +843,7 @@
 		"version": "4.6.2",
 		"items": [
 			{
-				"itemId": 3320,
+				"itemId": 14512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Alaya.webp",
 				"itemType": "Weapon",
 				"name": "图莱杜拉的回忆",
@@ -712,7 +852,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 3692,
+				"itemId": 14505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Morax.webp",
 				"itemType": "Weapon",
 				"name": "碧落之珑",
@@ -721,7 +861,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 4336,
+				"itemId": 13427,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "勘探钻机",
@@ -730,7 +870,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 4337,
+				"itemId": 15427,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "测距规",
@@ -739,7 +879,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -748,7 +888,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -757,7 +897,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -773,16 +913,16 @@
 		"version": "4.6.1",
 		"items": [
 			{
-				"itemId": 5577,
+				"itemId": 13512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_BloodMoon.webp",
 				"itemType": "Weapon",
 				"name": "赤月之形",
-				"nameEn": "Crimson Moon’s Semblance",
+				"nameEn": "Crimson Moon's Semblance",
 				"weaponType": "Polearm",
 				"rankType": 5
 			},
 			{
-				"itemId": 3983,
+				"itemId": 15512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Pledge.webp",
 				"itemType": "Weapon",
 				"name": "最初的大魔术",
@@ -791,7 +931,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 4334,
+				"itemId": 11427,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "船坞长剑",
@@ -800,7 +940,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 4335,
+				"itemId": 12427,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "便携动力锯",
@@ -809,7 +949,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -818,7 +958,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -827,7 +967,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -843,7 +983,7 @@
 		"version": "4.5.2",
 		"items": [
 			{
-				"itemId": 4339,
+				"itemId": 14514,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
 				"itemType": "Weapon",
 				"name": "万世流涌大典",
@@ -852,7 +992,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2012,
+				"itemId": 11503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -861,7 +1001,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1982,
+				"itemId": 14410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -870,7 +1010,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1965,
+				"itemId": 15412,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -879,7 +1019,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -888,7 +1028,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -897,7 +1037,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -913,7 +1053,7 @@
 		"version": "4.5.1",
 		"items": [
 			{
-				"itemId": 5150,
+				"itemId": 11514,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Needle.webp",
 				"itemType": "Weapon",
 				"name": "有乐御簾切",
@@ -922,7 +1062,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2031,
+				"itemId": 12510,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
@@ -931,7 +1071,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1983,
+				"itemId": 11410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -940,7 +1080,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1981,
+				"itemId": 15410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -949,7 +1089,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -958,7 +1098,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -967,7 +1107,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -983,7 +1123,7 @@
 		"version": "4.4.2",
 		"items": [
 			{
-				"itemId": 1948,
+				"itemId": 13505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -992,7 +1132,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2001,
+				"itemId": 14509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "神乐之真意",
@@ -1001,7 +1141,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1942,
+				"itemId": 12410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -1010,7 +1150,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -1019,7 +1159,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1028,7 +1168,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -1037,7 +1177,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -1053,7 +1193,7 @@
 		"version": "4.4.1",
 		"items": [
 			{
-				"itemId": 4941,
+				"itemId": 14515,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_MountainGale.webp",
 				"itemType": "Weapon",
 				"name": "鹤鸣余音",
@@ -1062,7 +1202,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2966,
+				"itemId": 14511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
@@ -1071,7 +1211,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1943,
+				"itemId": 13406,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -1080,7 +1220,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -1089,7 +1229,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -1098,7 +1238,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -1107,7 +1247,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -1123,7 +1263,7 @@
 		"version": "4.3.2",
 		"items": [
 			{
-				"itemId": 2014,
+				"itemId": 13509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
@@ -1132,7 +1272,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2049,
+				"itemId": 15509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -1141,7 +1281,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1975,
+				"itemId": 13416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -1150,7 +1290,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -1159,7 +1299,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -1168,7 +1308,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -1177,7 +1317,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -1193,7 +1333,7 @@
 		"version": "4.3.1",
 		"items": [
 			{
-				"itemId": 4719,
+				"itemId": 12512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_GoldenVerdict.webp",
 				"itemType": "Weapon",
 				"name": "裁断",
@@ -1202,7 +1342,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2044,
+				"itemId": 11509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "雾切之回光",
@@ -1211,7 +1351,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1971,
+				"itemId": 12416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -1220,7 +1360,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1985,
+				"itemId": 15416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -1229,7 +1369,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -1238,7 +1378,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1247,7 +1387,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -1263,7 +1403,7 @@
 		"version": "4.2.2",
 		"items": [
 			{
-				"itemId": 2849,
+				"itemId": 13511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "赤沙之杖",
@@ -1272,7 +1412,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1989,
+				"itemId": 11510,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Amenoma.webp",
 				"itemType": "Weapon",
 				"name": "波乱月白经津",
@@ -1281,7 +1421,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -1290,7 +1430,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -1299,7 +1439,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1308,7 +1448,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -1317,7 +1457,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -1333,7 +1473,7 @@
 		"version": "4.2.1",
 		"items": [
 			{
-				"itemId": 4570,
+				"itemId": 11513,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Regalis.webp",
 				"itemType": "Weapon",
 				"name": "静水流涌之辉",
@@ -1342,7 +1482,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 3692,
+				"itemId": 14505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Morax.webp",
 				"itemType": "Weapon",
 				"name": "碧落之珑",
@@ -1351,7 +1491,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -1360,7 +1500,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -1369,7 +1509,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1378,7 +1518,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -1387,7 +1527,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -1403,7 +1543,7 @@
 		"version": "4.1.2",
 		"items": [
 			{
-				"itemId": 4340,
+				"itemId": 14513,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Wheatley.webp",
 				"itemType": "Weapon",
 				"name": "金流监督",
@@ -1412,7 +1552,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2008,
+				"itemId": 15503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -1421,7 +1561,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 4336,
+				"itemId": 13427,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "勘探钻机",
@@ -1430,7 +1570,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 4337,
+				"itemId": 15427,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "测距规",
@@ -1439,7 +1579,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -1448,7 +1588,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -1457,7 +1597,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -1473,7 +1613,7 @@
 		"version": "4.1.1",
 		"items": [
 			{
-				"itemId": 4339,
+				"itemId": 14514,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
 				"itemType": "Weapon",
 				"name": "万世流涌大典",
@@ -1482,7 +1622,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1972,
+				"itemId": 13501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -1491,7 +1631,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 4334,
+				"itemId": 11427,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "船坞长剑",
@@ -1500,7 +1640,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 4335,
+				"itemId": 12427,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
 				"itemType": "Weapon",
 				"name": "便携动力锯",
@@ -1509,7 +1649,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1965,
+				"itemId": 15412,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -1518,7 +1658,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1527,7 +1667,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -1543,7 +1683,7 @@
 		"version": "4.0.2",
 		"items": [
 			{
-				"itemId": 2030,
+				"itemId": 13504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -1552,7 +1692,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1936,
+				"itemId": 15507,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Worldbane.webp",
 				"itemType": "Weapon",
 				"name": "冬极白星",
@@ -1561,7 +1701,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -1570,7 +1710,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -1579,7 +1719,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1588,7 +1728,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -1597,7 +1737,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -1613,7 +1753,7 @@
 		"version": "4.0.1",
 		"items": [
 			{
-				"itemId": 3983,
+				"itemId": 15512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Pledge.webp",
 				"itemType": "Weapon",
 				"name": "最初的大魔术",
@@ -1622,7 +1762,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2254,
+				"itemId": 15508,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
 				"itemType": "Weapon",
 				"name": "若水",
@@ -1631,7 +1771,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -1640,7 +1780,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -1649,7 +1789,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1658,7 +1798,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -1667,7 +1807,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -1683,7 +1823,7 @@
 		"version": "3.8.2",
 		"items": [
 			{
-				"itemId": 1932,
+				"itemId": 14506,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
 				"itemType": "Weapon",
 				"name": "不灭月华",
@@ -1692,7 +1832,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 3320,
+				"itemId": 14512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Alaya.webp",
 				"itemType": "Weapon",
 				"name": "图莱杜拉的回忆",
@@ -1701,7 +1841,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1982,
+				"itemId": 14410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -1710,7 +1850,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -1719,7 +1859,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -1728,7 +1868,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1737,7 +1877,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -1753,7 +1893,7 @@
 		"version": "3.8.1",
 		"items": [
 			{
-				"itemId": 1986,
+				"itemId": 12503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
@@ -1762,7 +1902,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1951,
+				"itemId": 14502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -1771,7 +1911,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1983,
+				"itemId": 11410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -1780,7 +1920,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1981,
+				"itemId": 15410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -1789,7 +1929,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -1798,7 +1938,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -1807,7 +1947,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -1823,7 +1963,7 @@
 		"version": "3.7.2",
 		"items": [
 			{
-				"itemId": 3461,
+				"itemId": 11512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "裁叶萃光",
@@ -1832,7 +1972,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2012,
+				"itemId": 11503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -1841,7 +1981,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1975,
+				"itemId": 13416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -1850,7 +1990,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1985,
+				"itemId": 15416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -1859,7 +1999,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -1868,7 +2008,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -1877,7 +2017,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -1893,7 +2033,7 @@
 		"version": "3.7.1",
 		"items": [
 			{
-				"itemId": 2049,
+				"itemId": 15509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -1902,7 +2042,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2001,
+				"itemId": 14509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "神乐之真意",
@@ -1911,7 +2051,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1971,
+				"itemId": 12416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -1920,7 +2060,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -1929,7 +2069,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -1938,7 +2078,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -1947,7 +2087,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -1963,7 +2103,7 @@
 		"version": "3.6.2",
 		"items": [
 			{
-				"itemId": 3692,
+				"itemId": 14505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Morax.webp",
 				"itemType": "Weapon",
 				"name": "碧落之珑",
@@ -1972,7 +2112,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2040,
+				"itemId": 15502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -1981,7 +2121,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2848,
+				"itemId": 12415,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "玛海菈的水色",
@@ -1990,7 +2130,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2910,
+				"itemId": 14416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "流浪的晚星",
@@ -1999,7 +2139,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -2008,7 +2148,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2017,7 +2157,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -2033,7 +2173,7 @@
 		"version": "3.6.1",
 		"items": [
 			{
-				"itemId": 2966,
+				"itemId": 14511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
@@ -2042,7 +2182,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2908,
+				"itemId": 11511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "圣显之钥",
@@ -2051,7 +2191,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2909,
+				"itemId": 11418,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "西福斯的月光",
@@ -2060,7 +2200,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -2069,7 +2209,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2078,7 +2218,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -2087,7 +2227,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -2103,7 +2243,7 @@
 		"version": "3.5.2",
 		"items": [
 			{
-				"itemId": 1970,
+				"itemId": 13507,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Santika.webp",
 				"itemType": "Weapon",
 				"name": "息灾",
@@ -2112,7 +2252,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2044,
+				"itemId": 11509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "雾切之回光",
@@ -2121,7 +2261,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1982,
+				"itemId": 14410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -2130,7 +2270,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -2139,7 +2279,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -2148,7 +2288,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2157,7 +2297,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -2173,7 +2313,7 @@
 		"version": "3.5.1",
 		"items": [
 			{
-				"itemId": 3615,
+				"itemId": 12511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "苇海信标",
@@ -2182,7 +2322,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2849,
+				"itemId": 13511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "赤沙之杖",
@@ -2191,7 +2331,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1983,
+				"itemId": 11410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -2200,7 +2340,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1981,
+				"itemId": 15410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -2209,7 +2349,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -2218,7 +2358,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2227,7 +2367,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -2243,7 +2383,7 @@
 		"version": "3.4.2",
 		"items": [
 			{
-				"itemId": 1972,
+				"itemId": 13501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -2252,7 +2392,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2254,
+				"itemId": 15508,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
 				"itemType": "Weapon",
 				"name": "若水",
@@ -2261,7 +2401,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1942,
+				"itemId": 12410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -2270,7 +2410,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -2279,7 +2419,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2288,7 +2428,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -2297,7 +2437,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -2313,7 +2453,7 @@
 		"version": "3.4.1",
 		"items": [
 			{
-				"itemId": 3461,
+				"itemId": 11512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "裁叶萃光",
@@ -2322,7 +2462,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1948,
+				"itemId": 13505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -2331,7 +2471,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1943,
+				"itemId": 13406,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -2340,7 +2480,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -2349,7 +2489,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -2358,7 +2498,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -2367,7 +2507,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -2383,7 +2523,7 @@
 		"version": "3.3.2",
 		"items": [
 			{
-				"itemId": 2014,
+				"itemId": 13509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
@@ -2392,7 +2532,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1989,
+				"itemId": 11510,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Amenoma.webp",
 				"itemType": "Weapon",
 				"name": "波乱月白经津",
@@ -2401,7 +2541,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1971,
+				"itemId": 12416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -2410,7 +2550,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1985,
+				"itemId": 15416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -2419,7 +2559,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -2428,7 +2568,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2437,7 +2577,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -2453,7 +2593,7 @@
 		"version": "3.3.1",
 		"items": [
 			{
-				"itemId": 3320,
+				"itemId": 14512,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Alaya.webp",
 				"itemType": "Weapon",
 				"name": "图莱杜拉的回忆",
@@ -2462,7 +2602,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2031,
+				"itemId": 12510,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
@@ -2471,7 +2611,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -2480,7 +2620,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -2489,7 +2629,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1975,
+				"itemId": 13416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -2498,7 +2638,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -2507,7 +2647,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -2523,7 +2663,7 @@
 		"version": "3.2.2",
 		"items": [
 			{
-				"itemId": 2001,
+				"itemId": 14509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "神乐之真意",
@@ -2532,7 +2672,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1936,
+				"itemId": 15507,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Worldbane.webp",
 				"itemType": "Weapon",
 				"name": "冬极白星",
@@ -2541,7 +2681,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -2550,7 +2690,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -2559,7 +2699,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2568,7 +2708,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -2577,7 +2717,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -2593,7 +2733,7 @@
 		"version": "3.2.1",
 		"items": [
 			{
-				"itemId": 2966,
+				"itemId": 14511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "千夜浮梦",
@@ -2602,7 +2742,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2049,
+				"itemId": 15509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -2611,7 +2751,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -2620,7 +2760,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -2629,7 +2769,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2638,7 +2778,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -2647,7 +2787,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -2663,7 +2803,7 @@
 		"version": "3.1.2",
 		"items": [
 			{
-				"itemId": 2908,
+				"itemId": 11511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "圣显之钥",
@@ -2672,7 +2812,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2000,
+				"itemId": 11505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
@@ -2681,7 +2821,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2909,
+				"itemId": 11418,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "西福斯的月光",
@@ -2690,7 +2830,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -2699,7 +2839,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2708,7 +2848,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2910,
+				"itemId": 14416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "流浪的晚星",
@@ -2717,7 +2857,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -2733,7 +2873,7 @@
 		"version": "3.1.1",
 		"items": [
 			{
-				"itemId": 2849,
+				"itemId": 13511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Deshret.webp",
 				"itemType": "Weapon",
 				"name": "赤沙之杖",
@@ -2742,7 +2882,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2008,
+				"itemId": 15503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -2751,7 +2891,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -2760,7 +2900,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2848,
+				"itemId": 12415,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
 				"itemType": "Weapon",
 				"name": "玛海菈的水色",
@@ -2769,7 +2909,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2778,7 +2918,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -2787,7 +2927,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -2803,7 +2943,7 @@
 		"version": "3.0.2",
 		"items": [
 			{
-				"itemId": 2040,
+				"itemId": 15502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -2812,7 +2952,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1932,
+				"itemId": 14506,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
 				"itemType": "Weapon",
 				"name": "不灭月华",
@@ -2821,7 +2961,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -2830,7 +2970,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -2839,7 +2979,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -2848,7 +2988,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -2857,7 +2997,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -2873,7 +3013,7 @@
 		"version": "3.0.1",
 		"items": [
 			{
-				"itemId": 2665,
+				"itemId": 15511,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Ayus.webp",
 				"itemType": "Weapon",
 				"name": "猎人之径",
@@ -2882,7 +3022,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2030,
+				"itemId": 13504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -2891,7 +3031,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -2900,7 +3040,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -2909,7 +3049,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -2918,7 +3058,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -2927,7 +3067,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -2943,7 +3083,7 @@
 		"version": "2.8.2",
 		"items": [
 			{
-				"itemId": 2049,
+				"itemId": 15509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -2952,7 +3092,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1974,
+				"itemId": 11504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
@@ -2961,7 +3101,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1982,
+				"itemId": 14410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -2970,7 +3110,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1981,
+				"itemId": 15410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -2979,7 +3119,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -2988,7 +3128,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -2997,7 +3137,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3013,7 +3153,7 @@
 		"version": "2.8.1",
 		"items": [
 			{
-				"itemId": 2012,
+				"itemId": 11503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -3022,7 +3162,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1951,
+				"itemId": 14502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -3031,7 +3171,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1983,
+				"itemId": 11410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -3040,7 +3180,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -3049,7 +3189,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3058,7 +3198,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -3067,7 +3207,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1965,
+				"itemId": 15412,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -3083,7 +3223,7 @@
 		"version": "2.7.2",
 		"items": [
 			{
-				"itemId": 2031,
+				"itemId": 12510,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
@@ -3092,7 +3232,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1964,
+				"itemId": 14504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "尘世之锁",
@@ -3101,7 +3241,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1942,
+				"itemId": 12410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -3110,7 +3250,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -3119,7 +3259,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3128,7 +3268,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -3137,7 +3277,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -3153,7 +3293,7 @@
 		"version": "2.7.1",
 		"items": [
 			{
-				"itemId": 2254,
+				"itemId": 15508,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
 				"itemType": "Weapon",
 				"name": "若水",
@@ -3162,7 +3302,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1948,
+				"itemId": 13505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -3171,7 +3311,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1943,
+				"itemId": 13406,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -3180,7 +3320,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -3189,7 +3329,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -3198,7 +3338,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -3207,7 +3347,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -3223,7 +3363,7 @@
 		"version": "2.6.2",
 		"items": [
 			{
-				"itemId": 2044,
+				"itemId": 11509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "雾切之回光",
@@ -3232,7 +3372,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1978,
+				"itemId": 12504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "无工之剑",
@@ -3241,7 +3381,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -3250,7 +3390,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -3259,7 +3399,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3268,7 +3408,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -3277,7 +3417,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -3293,7 +3433,7 @@
 		"version": "2.6.1",
 		"items": [
 			{
-				"itemId": 1989,
+				"itemId": 11510,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Amenoma.webp",
 				"itemType": "Weapon",
 				"name": "波乱月白经津",
@@ -3302,7 +3442,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2008,
+				"itemId": 15503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -3311,7 +3451,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -3320,7 +3460,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -3329,7 +3469,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -3338,7 +3478,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3347,7 +3487,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -3363,7 +3503,7 @@
 		"version": "2.5.2",
 		"items": [
 			{
-				"itemId": 2014,
+				"itemId": 13509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
@@ -3372,7 +3512,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1932,
+				"itemId": 14506,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
 				"itemType": "Weapon",
 				"name": "不灭月华",
@@ -3381,7 +3521,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1971,
+				"itemId": 12416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -3390,7 +3530,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1985,
+				"itemId": 15416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -3399,7 +3539,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -3408,7 +3548,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3417,7 +3557,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -3433,7 +3573,7 @@
 		"version": "2.5.1",
 		"items": [
 			{
-				"itemId": 2001,
+				"itemId": 14509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "神乐之真意",
@@ -3442,7 +3582,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2000,
+				"itemId": 11505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
@@ -3451,7 +3591,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -3460,7 +3600,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -3469,7 +3609,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1975,
+				"itemId": 13416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -3478,7 +3618,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -3487,7 +3627,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -3503,7 +3643,7 @@
 		"version": "2.4.2",
 		"items": [
 			{
-				"itemId": 2030,
+				"itemId": 13504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -3512,7 +3652,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2040,
+				"itemId": 15502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -3521,7 +3661,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -3530,7 +3670,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1942,
+				"itemId": 12410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -3539,7 +3679,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3548,7 +3688,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -3557,7 +3697,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -3573,7 +3713,7 @@
 		"version": "2.4.1",
 		"items": [
 			{
-				"itemId": 1970,
+				"itemId": 13507,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Santika.webp",
 				"itemType": "Weapon",
 				"name": "息灾",
@@ -3582,7 +3722,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1948,
+				"itemId": 13505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -3591,7 +3731,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -3600,7 +3740,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -3609,7 +3749,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1943,
+				"itemId": 13406,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -3618,7 +3758,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -3627,7 +3767,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -3643,7 +3783,7 @@
 		"version": "2.3.2",
 		"items": [
 			{
-				"itemId": 2031,
+				"itemId": 12510,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
 				"itemType": "Weapon",
 				"name": "赤角石溃杵",
@@ -3652,7 +3792,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1956,
+				"itemId": 15501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之翼",
@@ -3661,7 +3801,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1983,
+				"itemId": 11410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -3670,7 +3810,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -3679,7 +3819,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3688,7 +3828,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -3697,7 +3837,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1965,
+				"itemId": 15412,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -3713,7 +3853,7 @@
 		"version": "2.3.1",
 		"items": [
 			{
-				"itemId": 2012,
+				"itemId": 11503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -3722,7 +3862,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1986,
+				"itemId": 12503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
@@ -3731,7 +3871,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -3740,7 +3880,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -3749,7 +3889,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3758,7 +3898,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1982,
+				"itemId": 14410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -3767,7 +3907,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1981,
+				"itemId": 15410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -3783,7 +3923,7 @@
 		"version": "2.2.2",
 		"items": [
 			{
-				"itemId": 1972,
+				"itemId": 13501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -3792,7 +3932,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2008,
+				"itemId": 15503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -3801,7 +3941,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -3810,7 +3950,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -3819,7 +3959,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1975,
+				"itemId": 13416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
 				"itemType": "Weapon",
 				"name": "断浪长鳍",
@@ -3828,7 +3968,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -3837,7 +3977,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1985,
+				"itemId": 15416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
 				"itemType": "Weapon",
 				"name": "曚云之月",
@@ -3853,7 +3993,7 @@
 		"version": "2.2.1",
 		"items": [
 			{
-				"itemId": 1936,
+				"itemId": 15507,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Worldbane.webp",
 				"itemType": "Weapon",
 				"name": "冬极白星",
@@ -3862,7 +4002,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1964,
+				"itemId": 14504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "尘世之锁",
@@ -3871,7 +4011,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -3880,7 +4020,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1971,
+				"itemId": 12416,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
 				"itemType": "Weapon",
 				"name": "恶王丸",
@@ -3889,7 +4029,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -3898,7 +4038,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -3907,7 +4047,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -3923,7 +4063,7 @@
 		"version": "2.1.2",
 		"items": [
 			{
-				"itemId": 1932,
+				"itemId": 14506,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
 				"itemType": "Weapon",
 				"name": "不灭月华",
@@ -3932,7 +4072,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2000,
+				"itemId": 11505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
@@ -3941,7 +4081,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -3950,7 +4090,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -3959,7 +4099,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -3968,7 +4108,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -3977,7 +4117,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -3993,7 +4133,7 @@
 		"version": "2.1.1",
 		"items": [
 			{
-				"itemId": 2014,
+				"itemId": 13509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "薙草之稻光",
@@ -4002,7 +4142,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1978,
+				"itemId": 12504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "无工之剑",
@@ -4011,7 +4151,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -4020,7 +4160,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -4029,7 +4169,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -4038,7 +4178,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -4047,7 +4187,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -4063,7 +4203,7 @@
 		"version": "2.0.2",
 		"items": [
 			{
-				"itemId": 2049,
+				"itemId": 15509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "飞雷之弦振",
@@ -4072,7 +4212,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1954,
+				"itemId": 11502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之刃",
@@ -4081,7 +4221,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -4090,7 +4230,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -4099,7 +4239,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -4108,7 +4248,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -4117,7 +4257,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -4133,7 +4273,7 @@
 		"version": "2.0.1",
 		"items": [
 			{
-				"itemId": 2044,
+				"itemId": 11509,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
 				"itemType": "Weapon",
 				"name": "雾切之回光",
@@ -4142,7 +4282,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1957,
+				"itemId": 13502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之脊",
@@ -4151,7 +4291,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -4160,7 +4300,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -4169,7 +4309,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -4178,7 +4318,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -4187,7 +4327,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -4203,7 +4343,7 @@
 		"version": "1.6.2",
 		"items": [
 			{
-				"itemId": 2012,
+				"itemId": 11503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "苍古自由之誓",
@@ -4212,7 +4352,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1955,
+				"itemId": 14501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之卷",
@@ -4221,7 +4361,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1983,
+				"itemId": 11410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -4230,7 +4370,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -4239,7 +4379,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -4248,7 +4388,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1982,
+				"itemId": 14410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -4257,7 +4397,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1981,
+				"itemId": 15410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -4273,7 +4413,7 @@
 		"version": "1.6.1",
 		"items": [
 			{
-				"itemId": 1953,
+				"itemId": 12501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之傲",
@@ -4282,7 +4422,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1951,
+				"itemId": 14502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -4291,7 +4431,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -4300,7 +4440,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -4309,7 +4449,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -4318,7 +4458,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -4327,7 +4467,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1965,
+				"itemId": 15412,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
 				"itemType": "Weapon",
 				"name": "幽夜华尔兹",
@@ -4343,7 +4483,7 @@
 		"version": "1.5.2",
 		"items": [
 			{
-				"itemId": 1986,
+				"itemId": 12503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "松籁响起之时",
@@ -4352,7 +4492,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2046,
+				"itemId": 11501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Falcon.webp",
 				"itemType": "Weapon",
 				"name": "风鹰剑",
@@ -4361,7 +4501,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -4370,7 +4510,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -4379,7 +4519,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -4388,7 +4528,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -4397,7 +4537,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -4413,7 +4553,7 @@
 		"version": "1.5.1",
 		"items": [
 			{
-				"itemId": 1974,
+				"itemId": 11504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
@@ -4422,7 +4562,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1964,
+				"itemId": 14504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "尘世之锁",
@@ -4431,7 +4571,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -4440,7 +4580,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1942,
+				"itemId": 12410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -4449,7 +4589,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -4458,7 +4598,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -4467,7 +4607,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1943,
+				"itemId": 13406,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -4483,7 +4623,7 @@
 		"version": "1.4.2",
 		"items": [
 			{
-				"itemId": 1956,
+				"itemId": 15501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之翼",
@@ -4492,7 +4632,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1951,
+				"itemId": 14502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -4501,7 +4641,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -4510,7 +4650,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -4519,7 +4659,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1981,
+				"itemId": 15410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷猎手",
@@ -4528,7 +4668,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -4537,7 +4677,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -4553,7 +4693,7 @@
 		"version": "1.4.1",
 		"items": [
 			{
-				"itemId": 2008,
+				"itemId": 15503,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
 				"itemType": "Weapon",
 				"name": "终末嗟叹之诗",
@@ -4562,7 +4702,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1954,
+				"itemId": 11502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之刃",
@@ -4571,7 +4711,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1983,
+				"itemId": 11410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷闪光",
@@ -4580,7 +4720,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -4589,7 +4729,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -4598,7 +4738,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1982,
+				"itemId": 14410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
 				"itemType": "Weapon",
 				"name": "暗巷的酒与诗",
@@ -4607,7 +4747,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -4623,7 +4763,7 @@
 		"version": "1.3.2",
 		"items": [
 			{
-				"itemId": 1972,
+				"itemId": 13501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
 				"itemType": "Weapon",
 				"name": "护摩之杖",
@@ -4632,7 +4772,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1992,
+				"itemId": 12502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Wolfmound.webp",
 				"itemType": "Weapon",
 				"name": "狼的末路",
@@ -4641,7 +4781,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -4650,7 +4790,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1942,
+				"itemId": 12410,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩古剑",
@@ -4659,7 +4799,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -4668,7 +4808,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -4677,7 +4817,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1943,
+				"itemId": 13406,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
 				"itemType": "Weapon",
 				"name": "千岩长枪",
@@ -4693,7 +4833,7 @@
 		"version": "1.3.1",
 		"items": [
 			{
-				"itemId": 2000,
+				"itemId": 11505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
 				"itemType": "Weapon",
 				"name": "磐岩结绿",
@@ -4702,7 +4842,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1948,
+				"itemId": 13505,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
 				"itemType": "Weapon",
 				"name": "和璞鸢",
@@ -4711,7 +4851,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -4720,7 +4860,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -4729,7 +4869,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -4738,7 +4878,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -4747,7 +4887,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -4763,7 +4903,7 @@
 		"version": "1.2.2",
 		"items": [
 			{
-				"itemId": 2040,
+				"itemId": 15502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -4772,7 +4912,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1953,
+				"itemId": 12501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之傲",
@@ -4781,7 +4921,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -4790,7 +4930,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -4799,7 +4939,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -4808,7 +4948,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -4817,7 +4957,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -4833,7 +4973,7 @@
 		"version": "1.2.1",
 		"items": [
 			{
-				"itemId": 1974,
+				"itemId": 11504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "斫峰之刃",
@@ -4842,7 +4982,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1955,
+				"itemId": 14501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之卷",
@@ -4851,7 +4991,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2017,
+				"itemId": 11401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风剑",
@@ -4860,7 +5000,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2018,
+				"itemId": 12401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风大剑",
@@ -4869,7 +5009,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -4878,7 +5018,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -4887,7 +5027,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -4903,7 +5043,7 @@
 		"version": "1.1.2",
 		"items": [
 			{
-				"itemId": 2030,
+				"itemId": 13504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "贯虹之槊",
@@ -4912,7 +5052,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1978,
+				"itemId": 12504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "无工之剑",
@@ -4921,7 +5061,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1941,
+				"itemId": 11405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
 				"itemType": "Weapon",
 				"name": "匣里龙吟",
@@ -4930,7 +5070,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -4939,7 +5079,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2020,
+				"itemId": 14401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风秘典",
@@ -4948,7 +5088,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2019,
+				"itemId": 15401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风猎弓",
@@ -4957,7 +5097,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -4973,7 +5113,7 @@
 		"version": "1.1.1",
 		"items": [
 			{
-				"itemId": 1956,
+				"itemId": 15501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Dvalin.webp",
 				"itemType": "Weapon",
 				"name": "天空之翼",
@@ -4982,7 +5122,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1964,
+				"itemId": 14504,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
 				"itemType": "Weapon",
 				"name": "尘世之锁",
@@ -4991,7 +5131,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -5000,7 +5140,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2042,
+				"itemId": 12405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
 				"itemType": "Weapon",
 				"name": "雨裁",
@@ -5009,7 +5149,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1980,
+				"itemId": 14409,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
 				"itemType": "Weapon",
 				"name": "昭心",
@@ -5018,7 +5158,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1967,
+				"itemId": 15405,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
 				"itemType": "Weapon",
 				"name": "弓藏",
@@ -5027,7 +5167,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
@@ -5043,7 +5183,7 @@
 		"version": "1.0.2",
 		"items": [
 			{
-				"itemId": 1951,
+				"itemId": 14502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
 				"itemType": "Weapon",
 				"name": "四风原典",
@@ -5052,7 +5192,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 1992,
+				"itemId": 12502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Wolfmound.webp",
 				"itemType": "Weapon",
 				"name": "狼的末路",
@@ -5061,7 +5201,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2003,
+				"itemId": 11403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼剑",
@@ -5070,7 +5210,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2004,
+				"itemId": 12403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼大剑",
@@ -5079,7 +5219,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2006,
+				"itemId": 14403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼残章",
@@ -5088,7 +5228,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2005,
+				"itemId": 15403,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
 				"itemType": "Weapon",
 				"name": "祭礼弓",
@@ -5097,7 +5237,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1940,
+				"itemId": 13401,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
 				"itemType": "Weapon",
 				"name": "匣里灭辰",
@@ -5113,7 +5253,7 @@
 		"version": "1.0.1",
 		"items": [
 			{
-				"itemId": 2046,
+				"itemId": 11501,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Falcon.webp",
 				"itemType": "Weapon",
 				"name": "风鹰剑",
@@ -5122,7 +5262,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2040,
+				"itemId": 15502,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
 				"itemType": "Weapon",
 				"name": "阿莫斯之弓",
@@ -5131,7 +5271,7 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 2007,
+				"itemId": 11402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "笛剑",
@@ -5140,7 +5280,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2033,
+				"itemId": 12402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "钟剑",
@@ -5149,7 +5289,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 1991,
+				"itemId": 14402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "流浪乐章",
@@ -5158,7 +5298,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2009,
+				"itemId": 15402,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
 				"itemType": "Weapon",
 				"name": "绝弦",
@@ -5167,7 +5307,7 @@
 				"rankType": 4
 			},
 			{
-				"itemId": 2021,
+				"itemId": 13407,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
 				"itemType": "Weapon",
 				"name": "西风长枪",
