@@ -1,5 +1,79 @@
 [
 	{
+		"version": "2.8.2",
+		"items": [
+			{
+				"itemId": 23007,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1c4b2afae05c42d945063027da308ede.png",
+				"rankType": 5,
+				"avatarBaseType": "5",
+				"weaponType": "warlock",
+				"itemType": "Weapon",
+				"name": "雨一直下"
+			},
+			{
+				"itemId": 21017,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/98a0e7081dc3ea098d6707c37288581b.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "点个关注吧！"
+			},
+			{
+				"itemId": 21018,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caa017f211398442b4860158b630daa9.png",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "shaman",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！"
+			}
+		],
+		"start": "2025-02-05 12:00:00",
+		"end": "2025-01-25 14:59:59"
+	},
+	{
+		"version": "2.8.1",
+		"items": [
+			{
+				"itemId": 21003,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b5451c79defe0eb47238793bf02bd620.png",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "rogue",
+				"itemType": "Weapon",
+				"name": "唯有沉默"
+			},
+			{
+				"itemId": 21009,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/279fd1ad23b5312341ab3c9813c347a6.png",
+				"rankType": 4,
+				"avatarBaseType": "6",
+				"weaponType": "knight",
+				"itemType": "Weapon",
+				"name": "朗道的选择"
+			},
+			{
+				"itemId": 21020,
+				"element": "",
+				"imageUrl": "/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a48164b59efb445a3bff14ea39d293e8.png",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "mage",
+				"itemType": "Weapon",
+				"name": "天才们的休憩"
+			}
+		],
+		"start": "2025-01-15 06:00:00",
+		"end": "2025-02-05 11:59:59"
+	},
+	{
 		"version": "2.7.2",
 		"items": [
 			{
