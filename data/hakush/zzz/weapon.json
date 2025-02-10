@@ -207,19 +207,6 @@
 		"rank": 3,
 		"type": 1
 	},
-	"伊芙琳测试音擎": {
-		"CHS": "伊芙琳测试音擎",
-		"cn": "伊芙琳测试音擎",
-		"desc": "Item_Weapon_S_1321_ShortDesc",
-		"EN": "Item_Weapon_S_1321_Name",
-		"icon": "Weapon_S_1321",
-		"iconUrl": "/zzz/UI/Weapon_S_1321.webp",
-		"id": "14132",
-		"JA": "Item_Weapon_S_1321_Name",
-		"KO": "Item_Weapon_S_1321_Name",
-		"rank": 4,
-		"type": 1
-	},
 	"兔能环": {
 		"CHS": "兔能环",
 		"cn": "兔能环",
@@ -375,6 +362,19 @@
 		"KO": "데마라 배터리 Ⅱ형",
 		"rank": 3,
 		"type": 2
+	},
+	"心弦夜响": {
+		"CHS": "心弦夜响",
+		"cn": "心弦夜响",
+		"desc": "The sound of the strings, sharp as blades, cut through the night, protecting the one.",
+		"EN": "Heartstring Nocturne",
+		"icon": "Weapon_S_1321",
+		"iconUrl": "/zzz/UI/Weapon_S_1321.webp",
+		"id": "14132",
+		"JA": "心弦のノクターン",
+		"KO": "심금을 울리는 야상곡",
+		"rank": 4,
+		"type": 1
 	},
 	"拘缚者": {
 		"CHS": "拘缚者",
@@ -558,6 +558,19 @@
 		"rank": 4,
 		"type": 2
 	},
+	"牺牲洁纯": {
+		"CHS": "牺牲洁纯",
+		"cn": "牺牲洁纯",
+		"desc": "Item_Weapon_S_1381_ShortDesc",
+		"EN": "Item_Weapon_S_1381_Name",
+		"icon": "Weapon_S_1381",
+		"iconUrl": "/zzz/UI/Weapon_S_1381.webp",
+		"id": "14138",
+		"JA": "Item_Weapon_S_1381_Name",
+		"KO": "Item_Weapon_S_1381_Name",
+		"rank": 4,
+		"type": 1
+	},
 	"玉壶青冰": {
 		"CHS": "玉壶青冰",
 		"cn": "玉壶青冰",
@@ -570,6 +583,19 @@
 		"KO": "맑은 옥주전자",
 		"rank": 4,
 		"type": 2
+	},
+	"玲珑妆匣": {
+		"CHS": "玲珑妆匣",
+		"cn": "玲珑妆匣",
+		"desc": "Underneath the radiant splendor, her genuine self has never been hidden.",
+		"EN": "Elegant Vanity",
+		"icon": "Weapon_S_1311",
+		"iconUrl": "/zzz/UI/Weapon_S_1311.webp",
+		"id": "14131",
+		"JA": "優美のヴァニティ",
+		"KO": "우아한 베니티백",
+		"rank": 4,
+		"type": 4
 	},
 	"硫磺石": {
 		"CHS": "硫磺石",
@@ -584,6 +610,19 @@
 		"rank": 4,
 		"type": 1
 	},
+	"索魂影眸": {
+		"CHS": "索魂影眸",
+		"cn": "索魂影眸",
+		"desc": "Item_Weapon_S_1361_ShortDesc",
+		"EN": "Item_Weapon_S_1361_Name",
+		"icon": "Weapon_S_1361",
+		"iconUrl": "/zzz/UI/Weapon_S_1361.webp",
+		"id": "14136",
+		"JA": "Item_Weapon_S_1361_Name",
+		"KO": "Item_Weapon_S_1361_Name",
+		"rank": 4,
+		"type": 2
+	},
 	"维序者-特化型": {
 		"CHS": "维序者-特化型",
 		"cn": "维序者-特化型",
@@ -596,19 +635,6 @@
 		"KO": "평화 수호자-특화형",
 		"rank": 3,
 		"type": 5
-	},
-	"耀嘉音测试音擎": {
-		"CHS": "耀嘉音测试音擎",
-		"cn": "耀嘉音测试音擎",
-		"desc": "Item_Weapon_S_1311_ShortDesc",
-		"EN": "Item_Weapon_S_1311_Name",
-		"icon": "Weapon_S_1311",
-		"iconUrl": "/zzz/UI/Weapon_S_1311.webp",
-		"id": "14131",
-		"JA": "Item_Weapon_S_1311_Name",
-		"KO": "Item_Weapon_S_1311_Name",
-		"rank": 4,
-		"type": 4
 	},
 	"聚宝箱": {
 		"CHS": "聚宝箱",
@@ -635,6 +661,19 @@
 		"KO": "거리의 슈퍼스타",
 		"rank": 3,
 		"type": 1
+	},
+	"裁纸刀": {
+		"CHS": "裁纸刀",
+		"cn": "裁纸刀",
+		"desc": "An energy W-Engine modded from spare parts of a truck's engine. It converts the original cylinder into an energy storage unit, which is highly advantageous.",
+		"EN": "Item_Weapon_A_1351_Name",
+		"icon": "Weapon_A_1351",
+		"iconUrl": "/zzz/UI/Weapon_A_1351.webp",
+		"id": "13135",
+		"JA": "Item_Weapon_A_1351_Name",
+		"KO": "Item_Weapon_A_1351_Name",
+		"rank": 3,
+		"type": 2
 	},
 	"触电唇彩": {
 		"CHS": "触电唇彩",

@@ -1,5 +1,115 @@
 [
 	{
+		"version": "1.5.1",
+		"items": [
+			{
+				"itemId": 1321,
+				"imageUrl": "/zzz/UI/IconRoleSelect37.webp",
+				"itemType": "Character",
+				"name": "伊芙琳",
+				"nameEn": "Evelyn",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1251,
+				"imageUrl": "/zzz/UI/IconRoleSelect29.webp",
+				"itemType": "Character",
+				"name": "青衣",
+				"nameEn": "Qingyi",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "Anton",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "Nicole",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ether",
+				"elementCN": "以太"
+			}
+		],
+		"start": "2024-02-12 06:00:00",
+		"end": "2025-03-11 14:59:59"
+	},
+	{
+		"version": "1.4.2",
+		"items": [
+			{
+				"itemId": 1311,
+				"imageUrl": "/zzz/UI/IconRoleSelect36.webp",
+				"itemType": "Character",
+				"name": "耀嘉音",
+				"nameEn": "Astra Yao",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1191,
+				"imageUrl": "/zzz/UI/IconRoleSelect21.webp",
+				"itemType": "Character",
+				"name": "艾莲",
+				"nameEn": "Ellen",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "Anby",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "Corin",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2024-01-22 06:00:00",
+		"end": "2025-02-12 14:59:59"
+	},
+	{
 		"version": "1.4.1",
 		"items": [
 			{

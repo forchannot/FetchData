@@ -14,7 +14,26 @@
 		"JA": "「11号」",
 		"KO": "「11호」",
 		"rank": 4,
+		"skin": {},
 		"type": 1
+	},
+	"「扳机」": {
+		"camp": 5,
+		"CHS": "「扳机」",
+		"cn": "「扳机」",
+		"code": "Trigger",
+		"desc": "",
+		"element": 203,
+		"EN": "Trigger",
+		"hit": 103,
+		"icon": "IconRole39",
+		"iconUrl": "/zzz/UI/IconRoleSelect39.webp",
+		"id": "1361",
+		"JA": "「トリガー」",
+		"KO": "「트리거」",
+		"rank": 4,
+		"skin": {},
+		"type": 2
 	},
 	"丽娜": {
 		"camp": 2,
@@ -31,23 +50,25 @@
 		"JA": "リナ",
 		"KO": "리나",
 		"rank": 4,
+		"skin": {},
 		"type": 4
 	},
 	"伊芙琳": {
 		"camp": 8,
 		"CHS": "伊芙琳",
 		"cn": "伊芙琳",
-		"code": "Avatar_Female_Size03_Evelyn_En",
-		"desc": "",
+		"code": "Evelyn",
+		"desc": "Evelyn is the manager and personal bodyguard of Ridu's most iconic singer, Astra Yao. Known for her calm, decisive decision-making and professional, efficient style, she's an irreplaceable pillar behind Astra. \"In terms of commercial value, if Astra Yao represents the 1, then Evelyn is all the 0s that follow,\" a reporter from an entertainment magazine stated.\n\nEvelyn is skilled at planning comprehensive schedules and product endorsements, while also ensuring Astra Yao's safety during any unexpected situations. \"Want to get close to Astra Yao? You'll have to get past Evelyn Chevalier first...\" Though she's always busy with work, Evelyn never seems overwhelmed, and she has an almost obsessive attention to detail, ensuring that every performance and every product endorsement goes through her strict scrutiny. But strangely, such an exceptional manager is not trusted by her parent company, Odeum HAE.\n\nIntel: Evelyn's role seems to go beyond just being a manager and personal bodyguard; there seems to be an \"organization\" behind her.\n\nIt seems a lot of people in Astra Yao's central Astranauts group ship them together.",
 		"element": 201,
 		"EN": "Evelyn",
 		"hit": 101,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
+		"icon": "IconRole37",
+		"iconUrl": "/zzz/UI/IconRoleSelect37.webp",
 		"id": "1321",
 		"JA": "イヴリン",
 		"KO": "이블린",
 		"rank": 4,
+		"skin": {},
 		"type": 1
 	},
 	"凯撒": {
@@ -65,6 +86,7 @@
 		"JA": "シーザー",
 		"KO": "카이사르",
 		"rank": 4,
+		"skin": {},
 		"type": 5
 	},
 	"可琳": {
@@ -82,6 +104,7 @@
 		"JA": "カリン",
 		"KO": "코린",
 		"rank": 3,
+		"skin": {},
 		"type": 1
 	},
 	"哲": {
@@ -99,6 +122,7 @@
 		"JA": "アキラ",
 		"KO": "와이즈",
 		"rank": 2,
+		"skin": {},
 		"type": 1
 	},
 	"妮可": {
@@ -116,6 +140,18 @@
 		"JA": "ニコ",
 		"KO": "니콜",
 		"rank": 3,
+		"skin": {
+			"3110310": {
+				"Desc": "The classic outfit of the leader of the Cunning Hares, hiding a hint of playful cunning, both mischievous and cute.",
+				"Image": "IconRole12",
+				"Name": "Nicole: Lil Sassy"
+			},
+			"3110311": {
+				"Desc": "Pink! Pink! Pink! Pink is Nicole's signature color. So are you feeling it?",
+				"Image": "IconRole12_01",
+				"Name": "Nicole: Cunning Cutie"
+			}
+		},
 		"type": 4
 	},
 	"安东": {
@@ -133,6 +169,7 @@
 		"JA": "アンドー",
 		"KO": "앤톤",
 		"rank": 3,
+		"skin": {},
 		"type": 1
 	},
 	"安比": {
@@ -150,6 +187,7 @@
 		"JA": "アンビー",
 		"KO": "엔비",
 		"rank": 3,
+		"skin": {},
 		"type": 2
 	},
 	"悠真": {
@@ -157,16 +195,17 @@
 		"CHS": "悠真",
 		"cn": "悠真",
 		"code": "Harumasa",
-		"desc": "...",
+		"desc": "Asaba Harumasa, a member of Hollow Special Operations Section 6.\nPossessing exceptional Ether aptitude since he was young and being dubbed a prodigy, he entered HSO after graduating with outstanding merit.\nWas originally a member of a certain ace division within HSO, but later left due to various reasons, joining Miyabi's team instead.\n\nHe possesses a carefree and laidback attitude, and his only wish is to achieve acceptable results with minimum effort.\nAfter efficiently taking care of his work to the lowest acceptable standard, he will hurry to use all the remainder of his available time to rest (slack off).\nHe claims he uses a bow to better slack off, as it effectively lowers the amount of running he has to do.\n\nAsaba Harumasa has poor health, and over-exercise sometimes triggers his illness.\nHe often uses this reason to apply for sick leave, though no one knows what he does with this time off. Either way, it's probably not resting.",
 		"element": 203,
 		"EN": "Harumasa",
 		"hit": 103,
 		"icon": "IconRole35",
 		"iconUrl": "/zzz/UI/IconRoleSelect35.webp",
 		"id": "1201",
-		"JA": "悠真",
+		"JA": "浅羽悠真",
 		"KO": "하루마사",
 		"rank": 4,
+		"skin": {},
 		"type": 1
 	},
 	"本": {
@@ -184,6 +223,7 @@
 		"JA": "ベン",
 		"KO": "벤",
 		"rank": 3,
+		"skin": {},
 		"type": 5
 	},
 	"朱鸢": {
@@ -201,6 +241,7 @@
 		"JA": "朱鳶",
 		"KO": "주연",
 		"rank": 4,
+		"skin": {},
 		"type": 1
 	},
 	"柏妮思": {
@@ -218,6 +259,7 @@
 		"JA": "バーニス",
 		"KO": "버니스",
 		"rank": 4,
+		"skin": {},
 		"type": 3
 	},
 	"柳": {
@@ -225,7 +267,7 @@
 		"CHS": "柳",
 		"cn": "柳",
 		"code": "Yanagi",
-		"desc": "...",
+		"desc": "Tsukishiro Yanagi, Hollow Special Operations Section 6 Deputy Chief and intelligence officer.\nPrimarily responsible for personnel management, mission management and feedback, collecting intel, on-site support, etc.\nAt the same time, Yanagi is also Section 6 member Soukaku's Protector. Apart from taking care of Soukaku's day-to-day affairs, she is also responsible for and takes responsibility for all of Soukaku's behavior at work.\n\nSection 6 Chief Hoshimi Miyabi possesses a rather eccentric personality; Asaba Harumasa, a member of Section 6, is overly relaxed and carefree; and Soukaku, another member of Section, 6 is still an innocent and excitable child, so most of the team's work falls upon Yanagi's shoulders.\nSerious, diligent, and meticulous, Tsukishiro Yanagi is the only \"normal\" person on the team, so to speak. It is only due to her guidance and leadership that the strength of the three who make up Section 6's primary on-field force can be transformed into true combat power.\nOverall, Tsukishiro Yanagi is a talented and highly efficient executive officer, whose abilities are both exceptional and comprehensive.\nHowever, from certain data, Tsukishiro Yanagi appears to have a somewhat clumsy side to her when it comes to day-to-day affairs.",
 		"element": 203,
 		"EN": "Yanagi",
 		"hit": 101,
@@ -235,6 +277,7 @@
 		"JA": "月城柳",
 		"KO": "야나기",
 		"rank": 4,
+		"skin": {},
 		"type": 3
 	},
 	"格莉丝": {
@@ -252,6 +295,7 @@
 		"JA": "グレース",
 		"KO": "그레이스",
 		"rank": 4,
+		"skin": {},
 		"type": 3
 	},
 	"比利": {
@@ -269,7 +313,26 @@
 		"JA": "ビリー",
 		"KO": "빌리",
 		"rank": 3,
+		"skin": {},
 		"type": 1
+	},
+	"波可娜": {
+		"camp": 4,
+		"CHS": "波可娜",
+		"cn": "波可娜",
+		"code": "Pulchra Feliny",
+		"desc": "",
+		"element": 200,
+		"EN": "Pulchra",
+		"hit": 101,
+		"icon": "IconRole38",
+		"iconUrl": "/zzz/UI/IconRoleSelect38.webp",
+		"id": "1351",
+		"JA": "プルクラ",
+		"KO": "펄크라",
+		"rank": 3,
+		"skin": {},
+		"type": 2
 	},
 	"派派": {
 		"camp": 4,
@@ -286,6 +349,7 @@
 		"JA": "パイパー",
 		"KO": "파이퍼",
 		"rank": 3,
+		"skin": {},
 		"type": 3
 	},
 	"猫又": {
@@ -303,6 +367,7 @@
 		"JA": "猫又",
 		"KO": "네코마타",
 		"rank": 4,
+		"skin": {},
 		"type": 1
 	},
 	"珂蕾妲": {
@@ -320,6 +385,7 @@
 		"JA": "クレタ",
 		"KO": "콜레다",
 		"rank": 4,
+		"skin": {},
 		"type": 2
 	},
 	"简": {
@@ -337,23 +403,36 @@
 		"JA": "ジェーン",
 		"KO": "제인",
 		"rank": 4,
+		"skin": {},
 		"type": 3
 	},
 	"耀嘉音": {
 		"camp": 8,
 		"CHS": "耀嘉音",
 		"cn": "耀嘉音",
-		"code": "Avatar_Female_Size03_Astra_En",
-		"desc": "",
+		"code": "Astra",
+		"desc": "Astra Yao is widely regarded as Ridu's most iconic singer. With her extraordinary voice, stage presence, and songwriting talent, she has led the musical trends of an entire era. \"If music is the resonance of the soul, then Astra Yao is the spark that ignites it all,\" said one famous music critic.\n\nAs brilliant as she is, Astra remains remarkably sincere and pure. On stage, her voice resonates deeply with the audience, which has allowed her to amass a large and loyal fanbase known as her \"Astranauts.\" Of course, Astra's brilliance wouldn't be possible without the careful protection of her manager, Evelyn. Offstage, she appears to be just a cute, hapless girl who depends on Evelyn in her daily life, and on Wise and Belle in the Hollows.\n\n\"If I tickled Eous, would it make you laugh?\" Astra asked curiously while lifting the Proxy, who was linked via the HDD system.\n\nShe seems to have a particular fondness for Eous.\nContemplation: Human emotions are indeed an interesting subject. It's still hard to determine whether Astra likes Eous because of the owner, or whether she likes the owner because of Eous.",
 		"element": 205,
-		"EN": "Astra",
+		"EN": "Astra Yao",
 		"hit": 102,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
+		"icon": "IconRole36",
+		"iconUrl": "/zzz/UI/IconRoleSelect36.webp",
 		"id": "1311",
 		"JA": "アストラ",
 		"KO": "아스트라",
 		"rank": 4,
+		"skin": {
+			"3113110": {
+				"Desc": "The bold red is only to ignite the freedom deep within. On stage, nothing can overshadow her brilliance.",
+				"Image": "IconRole36",
+				"Name": "Astra Yao: Scarlet Rock"
+			},
+			"3113111": {
+				"Desc": "The black-and-white dress glimmers in both light and shadows. Every smile of hers seems to sink into the flowing light of the night, becoming a timeless classic.",
+				"Image": "IconRole36_01",
+				"Name": "Astra Yao: Chandelier"
+			}
+		},
 		"type": 4
 	},
 	"艾莲": {
@@ -371,6 +450,18 @@
 		"JA": "エレン",
 		"KO": "엘렌",
 		"rank": 4,
+		"skin": {
+			"3111910": {
+				"Desc": "The sharp scissors of Victoria Housekeeping, if only she weren't sleeping...",
+				"Image": "IconRole21",
+				"Name": "Ellen: Ellen Scissorhands"
+			},
+			"3111911": {
+				"Desc": "The tail doesn't quite match the school uniform, but with just a little bit of needlework, it can become even cuter!",
+				"Image": "IconRole21_01",
+				"Name": "Ellen: On Campus"
+			}
+		},
 		"type": 1
 	},
 	"苍角": {
@@ -378,7 +469,7 @@
 		"CHS": "苍角",
 		"cn": "苍角",
 		"code": "Soukaku",
-		"desc": "...",
+		"desc": "Soukaku is a member of Hollow Special Operations Section 6 and currently under the guardianship of Section 6's Deputy Chief, Tsukishiro Yanagi.\nSoukaku's birth records cannot be found in either the HIA archives or the New Eridu Citizen Verification Profiles. Her records only date back to when she started living with Tsukishiro Yanagi.\nThere are also no records of her schooling. According to supplementary information, Soukaku is currently homeschooled.\n\nSoukaku is naive, innocent, and carefree, but she possesses an uncharacteristic obsession with food. Please be careful not to let Soukaku become too hungry.\nAt the same time, please do not let Soukaku see food being wasted. This is unacceptable behavior to Soukaku. Deduction: Soukaku has experienced famine before.\n\nSoukaku's understanding of city life and human society is limited, and her view of life and death differs from most people.\nUsually, Soukaku is willing to believe anything other people say, but that doesn't mean she can't tell when something is a lie.\nIn fact, prior data shows that unless one has the ability to run and hide on par with Section 6, it would be in one's best interest to avoid lying to Soukaku.",
 		"element": 202,
 		"EN": "Soukaku",
 		"hit": 101,
@@ -388,6 +479,7 @@
 		"JA": "蒼角",
 		"KO": "소우카쿠",
 		"rank": 3,
+		"skin": {},
 		"type": 4
 	},
 	"莱卡恩": {
@@ -405,6 +497,7 @@
 		"JA": "ライカン",
 		"KO": "리카온",
 		"rank": 4,
+		"skin": {},
 		"type": 2
 	},
 	"莱特": {
@@ -412,7 +505,7 @@
 		"CHS": "莱特",
 		"cn": "莱特",
 		"code": "Lighter",
-		"desc": "...",
+		"desc": "Lighter, the Champion of the Sons of Calydon and an ex-mercenary.\nIn the Outer Ring, the Champion of a team refers to the one responsible for dealing with the opponent's strongest fighter in a gang fight, and they often need to participate in one-on-one duels. Their victory is crucial, as it brings glory and morale to the entire team.\n\"The Champion can perish, but cannot lose.\"\n\nA red scarf is what identifies the Champion of the Sons of Calydon.\nEven if the opponent doesn't know Lighter, they'll know who he is just from seeing that red scarf.\n\nFrom what is currently known, Lighter is actually very low profile. He only steals the spotlight on the battlefield when he acts on his obligations as Champion.\nNote: Lighter is the second Red Scarf of the Sons of Calydon. He teasingly refers to the previous Red Scarf as \"Brother\" or \"predecessor.\"",
 		"element": 201,
 		"EN": "Lighter",
 		"hit": 102,
@@ -422,6 +515,7 @@
 		"JA": "ライト",
 		"KO": "라이터",
 		"rank": 4,
+		"skin": {},
 		"type": 2
 	},
 	"赛斯": {
@@ -439,6 +533,7 @@
 		"JA": "セス",
 		"KO": "세스",
 		"rank": 3,
+		"skin": {},
 		"type": 5
 	},
 	"铃": {
@@ -456,6 +551,25 @@
 		"JA": "リン",
 		"KO": "벨",
 		"rank": 2,
+		"skin": {},
+		"type": 1
+	},
+	"银心锡兵·安比": {
+		"camp": 5,
+		"CHS": "银心锡兵·安比",
+		"cn": "银心锡兵·安比",
+		"code": "SilverAnby",
+		"desc": "",
+		"element": 203,
+		"EN": "Silver Soldier - Anby",
+		"hit": 101,
+		"icon": "IconRole40",
+		"iconUrl": "/zzz/UI/IconRoleSelect40.webp",
+		"id": "1381",
+		"JA": "シルバーソルジャー・アンビー",
+		"KO": "실버 솔져 엔비",
+		"rank": 4,
+		"skin": {},
 		"type": 1
 	},
 	"雅": {
@@ -463,16 +577,18 @@
 		"CHS": "雅",
 		"cn": "雅",
 		"code": "Miyabi",
-		"desc": "...",
+		"desc": "Hoshimi Miyabi, the Chief of Hollow Special Operations Section 6.\nMiyabi goes on a lot of field missions and still doesn't know which floor the regular monthly meeting is on.\nEven if you see Miyabi in the office, it's unlikely she's dealing with paperwork, and more likely polishing her sword.\n\nBeing conferred the title of Void Hunter due to her outstanding contributions, she's an elite amongst elites in Section 6.\nShe has great prestige amongst the citizens.\nOnce, Miyabi accidentally wandered into a \"Miyabi Fan Club\" hosted offline event.\nMiyabi was thought to be a fan with godlike impersonation skills, and that event resulted in a precious visual recording.\n\nHoshimi Miyabi is honest and pragmatic. She is not simply a martial artist obsessed with her art and without care for the world around her.\nAnyone who knows her will realize she's always pursued justice in her heart... even if it may eventually cause a revolution.",
 		"element": 202,
 		"EN": "Miyabi",
 		"hit": 101,
 		"icon": "IconRole13",
 		"iconUrl": "/zzz/UI/IconRoleSelect13.webp",
 		"id": "1091",
-		"JA": "雅",
+		"JA": "星見雅",
 		"KO": "미야비",
 		"rank": 4,
+		"skin": {},
+		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
 		"type": 3
 	},
 	"露西": {
@@ -490,6 +606,7 @@
 		"JA": "ルーシー",
 		"KO": "루시",
 		"rank": 3,
+		"skin": {},
 		"type": 4
 	},
 	"青衣": {
@@ -497,7 +614,7 @@
 		"CHS": "青衣",
 		"cn": "青衣",
 		"code": "QingYi",
-		"desc": "...",
+		"desc": "Qingyi is a rookie officer in the Criminal Investigation Special Response Team.\nAs an artificial human, her personality is derived from ancient cultural texts from the old civilization. Her body, known as an \"Automaton,\" is an intelligent construct composed of biological materials.\nRecommended by White Star Institute, she was assigned to Public Security as a rookie officer partnered with Zhu Yuan.\n\nQingyi always exhibits an easygoing, laid-back demeanor, not restricted by rules.\nIn contrast to modern individuals affected by today's society, Qingyi frequently proposes unexpected solutions to problems.\n\nQingyi always carries a cup of hot water and takes occasional sips.\n\"Drinking hot water is good for your health.\"\nSuggestion: Approaching Qingyi is also an ill-considered decision that may compromise your cover. Please remember your true identity as a Proxy.",
 		"element": 203,
 		"EN": "Qingyi",
 		"hit": 102,
@@ -507,6 +624,7 @@
 		"JA": "青衣",
 		"KO": "청의",
 		"rank": 4,
+		"skin": {},
 		"type": 2
 	}
 }
