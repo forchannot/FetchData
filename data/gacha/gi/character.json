@@ -1,5 +1,52 @@
 [
 	{
+		"version": "5.4.1",
+		"items": [
+			{
+				"itemId": 10000095,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sigewinne.webp",
+				"itemType": "Character",
+				"name": "希格雯",
+				"nameEn": "Sigewinne",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000055,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "Gorou",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000053,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "Sayu",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "Xiangling",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2025-02-12 06:00:00",
+		"end": "2025-03-04 17:59:59"
+	},
+	{
 		"version": "5.3.2",
 		"items": [
 			{

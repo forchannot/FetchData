@@ -1,5 +1,66 @@
 [
 	{
+		"version": "5.4.1",
+		"items": [
+			{
+				"itemId": 15513,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Arcdange.webp",
+				"itemType": "Weapon",
+				"name": "白雨心弦",
+				"nameEn": "Silvershower Heartstrings",
+				"weaponType": "Bow",
+				"rankType": 5
+			},
+			{
+				"itemId": 12416,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
+				"itemType": "Weapon",
+				"name": "恶王丸",
+				"nameEn": "Akuoumaru",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13416,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
+				"itemType": "Weapon",
+				"name": "断浪长鳍",
+				"nameEn": "Wavebreaker's Fin",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 15416,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
+				"itemType": "Weapon",
+				"name": "曚云之月",
+				"nameEn": "Mouun's Moon",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 11402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "The Flute",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 14409,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "Eye of Perception",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			}
+		],
+		"start": "2025-02-12 06:00:00",
+		"end": "2025-03-04 17:59:59"
+	},
+	{
 		"version": "5.3.2",
 		"items": [
 			{
