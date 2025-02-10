@@ -269,7 +269,7 @@ const getVersion = (i, pool) => {
         //genshin Character
         versionsTemp = [...versionsTemp, "1.3.3"].sort()
     }
-    if (pool === 2001 ||pool === 2001) {
+    if (pool === 2001 ||pool === 3001) {
         //zzz
         versionsTemp = versionsTemp.filter(item => item!== "1.4.2").sort()
     }
