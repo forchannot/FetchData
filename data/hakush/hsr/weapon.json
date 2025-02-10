@@ -266,7 +266,7 @@
 	"向着不可追问处": {
 		"baseType": "Mage",
 		"cn": "向着不可追问处",
-		"desc": "<i>\"The Intelligentsia Guild's letters have been handled.\"</i>\\n<i>\"The Simulated Universe is functioning normally...\"</i>\\n<i>\"Literary collections have been reprinted.\"</i>\\n<i>\"Hey. Shhh. Don't bother Madam Herta...\"</i>\\n\\n...Within a great tower on the edge of the cosmos, puppets work methodically, dealing with all manner of chores in anticipation of her arrival.\\nTime passes. Countless people drift through the canvas of time like meteors across the night sky, bright for an instant, before ultimately returning to silence.\\n<i>\"Madam Herta hasn't shown herself in a long time...\"</i>\\n<i>\"Is she still thinking...?\"</i>\\n\\n<i>\"Hmmm. Thought this would all be done after discovering a few axioms?\"</i>\\nShe stretches, lifting her head from the calculations, and another thought surfaces in her mind...\\n<i>\"Nothing is irrefutable. I will chase these questions to the end!\"</i>",
+		"desc": "<i>\"The Intelligentsia Guild's letters have been handled.\"</i>\\n<i>\"The Simulated Universe is functioning normally...\"</i>\\n<i>\"Literary collections have been reprinted.\"</i>\\n<i>\"Hey. Shhh. Don't bother Madam Herta...\"</i>\\n\\n...Within a great tower on the edge of the cosmos, puppets work methodically, dealing with all manner of chores in anticipation of her arrival.\\nTime passes. Countless people drift through the canvas of time like meteors streaking across the night sky, bright for an instant, before ultimately returning to silence.\\n<i>\"Madam Herta hasn't shown herself in a long time...\"</i>\\n<i>\"Is she still thinking...?\"</i>\\n\\n<i>\"Hmmm. Thought this would all be done after discovering a few axioms?\"</i>\\nShe stretches, lifting her head from the calculations, and another thought surfaces in her mind...\\n<i>\"Nothing is irrefutable. I will chase these questions to the end!\"</i>",
 		"en": "Into the Unreachable Veil",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23037.webp",
 		"id": "23037",
@@ -439,6 +439,17 @@
 		"kr": "쇼타임",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"如果时间是一朵花": {
+		"baseType": "Shaman",
+		"cn": "如果时间是一朵花",
+		"desc": "<i>\"Mama, I want to hear another story!\"\\n\\n\"My sweet girl, how about we talk about time today?\"\\n\\n\"Time... what is it?\"\\n\\n\"Time, my dear, is like a flower.\"\\n\\n\"Like the dandelions blooming in the fields?\"\\n\\n\"Yes, just like dandelions. Time grows, blossoms, and bears fruit. We call its petals 'moments.'\"\\n\\n\"And then what happens?\"\\n\\n\"Then, it withers into a thousand pieces, leaving seeds that drift everywhere...\"\\n\\n\"Mama, does that mean it becomes the 'future'?\"\\n\\n\"Guess what it turns into after that?\"\\n\\n\"It turns into so many flowers, blooming into a vibrant sea of blossoms, right?\"</i>\\n\\nThe mother didn't have time to answer as the sunlight from the window warmed the girl's face. That gentle figure vanished once more into her dream.\\nShe opened her eyes—\\n<i>\"If time were a flower...\"</i> she murmured.\\n<i>\"It would surely become a sea of flowers,\"</i> said the serene girl.\\n<i>\"Of course it would!\"</i> Exclaimed the playful girl, cheering at her masterpiece.",
+		"en": "If Time Were a Flower",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23038.webp",
+		"id": "23038",
+		"jp": "もしも{RUBY_B#とき}時{RUBY_E#}が{RUBY_B#はな}花{RUBY_E#}だったら",
+		"kr": "시간이 한 송이 꽃이라면",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"如泥酣眠": {
 		"baseType": "Rogue",
 		"cn": "如泥酣眠",
@@ -475,7 +486,7 @@
 	"将光阴织成黄金": {
 		"baseType": "Memory",
 		"cn": "将光阴织成黄金",
-		"desc": "<i>\"This strand, a soldier's sacrifice.\"</i>\\n<i>\"This strand, a hero's growth.\"</i>\\n<i>\"This strand, the city's prosperity.\"</i>\\n....\\nThe Garmentmaker pulls at the threads using a needle, everything held between her fingers.\\n<i>\"The destiny of certain heroes has already been severed...\"</i>\\nShe scoops up another set of golden threads and continues her mending.\\n<i>\"The fates of certain heroes must continue...\"</i>\\n\\nThe divine-bestowed loom continues to work, and the Garmentmakers dance with lively grace. Eons of time had already passed through the loom, and she has long been accustomed to such waiting....\\n\\nFor the sake of turning time to golden \"Inspiration.\"",
+		"desc": "<i>\"This strand, a soldier's sacrifice.\"</i>\\n<i>\"This strand, a hero's growth.\"</i>\\n<i>\"This strand, the city's prosperity.\"</i>\\n....\\nThe Garmentmaker pulls at the threads using a needle, everything held between her fingers.\\n<i>\"The destiny of certain heroes has already been severed...\"</i>\\nShe scoops up another set of golden threads and continues her mending.\\n<i>\"The fates of certain heroes must continue...\"</i>\\n\\nThe divine loom weaves on, and the Garmentmakers dance with lively grace. Eons of time had already passed through the loom, and she has long been accustomed to such waiting....\\n\\nFor the sake of turning time to golden \"inspiration.\"",
 		"en": "Time Woven Into Gold",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23036.webp",
 		"id": "23036",
@@ -827,7 +838,7 @@
 	"溯忆": {
 		"baseType": "Memory",
 		"cn": "溯忆",
-		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"In the brief beautiful dream, it was as if the old soul returned to the colorful waters of childhood.\"</i>",
+		"desc": "The delicate power distilled from time itself. It's all the seemingly insignificant moments that weave together a magnificent destiny. \\n\\n<i>\"In the fleeting sweet dream, it was as if the old soul had returned to the colorful waters of childhood.\"</i>",
 		"en": "Reminiscence",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20022.webp",
 		"id": "20022",
@@ -871,7 +882,7 @@
 	"焚影": {
 		"baseType": "Memory",
 		"cn": "焚影",
-		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"People tend to erase the unpleasantness of the past. That's the nature of memory.\"</i>",
+		"desc": "The delicate power distilled from time itself. It's all the seemingly insignificant moments that weave together a magnificent destiny. \\n\\n<i>\"People always attempt to erase unpleasant pasts. Such is the nature of memory.\"</i>",
 		"en": "Shadowburn",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20021.webp",
 		"id": "20021",
@@ -1014,7 +1025,7 @@
 	"胜利只在朝夕间": {
 		"baseType": "Memory",
 		"cn": "胜利只在朝夕间",
-		"desc": "The Titankins' all-consuming roars sweep across the battlefield. Two lightning-quick figures slaughter their way out of combat.\\n\\n<i>\"I alone will be enough to handle them.\"</i>\\nEvery punch unleashed by the warrior sends spears of blood through the bodies of the enemy.\\n<i>\"Brute force and nothing more. Watch my blade!\"</i>\\nAs a blade of pale silver slices in a curve, monsters fall like falling leaves.\\n<i>\"A contest of speed?\"</i>\\nThe two charge at each other simultaneously.\\nHowls of anguish sound as the stealthy beasts behind them are struck down at once.\\nTwo voices can be heard at the same time.\\n<i>\"That was my kill!\"</i>\\n",
+		"desc": "The Titankins' all-consuming roars sweep across the battlefield. Two lightning-quick figures slaughter their way out of combat.\\n\\n<i>\"I alone will be enough to handle them.\"</i>\\nEvery punch unleashed by the warrior sends spears of blood through the bodies of the enemy.\\n<i>\"Brute force and nothing more. Watch my blade!\"</i>\\nAs a blade of pale silver slices in a curve, monsters drop like falling leaves.\\n<i>\"A contest of speed?\"</i>\\nThe two charge at the other side simultaneously.\\nHowls of anguish sound as the stealthy beasts behind them are struck down at once.\\nTwo voices can be heard at the same time.\\n<i>\"That was my kill!\"</i>\\n",
 		"en": "Victory In a Blink",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21050.webp",
 		"id": "21050",
@@ -1066,6 +1077,17 @@
 		"kr": "증식",
 		"rank": "CombatPowerLightconeRarity3"
 	},
+	"血火啊，燃烧前路": {
+		"baseType": "Warrior",
+		"cn": "血火啊，燃烧前路",
+		"desc": "Cold dew congealed on the blade, sliding down in crimson streaks.\\nThe rust-tainted wilderness still flickered with embers of battle, flames leaping upon the ashes.\\n\\n<i>\"Mydeimos, that was a godlike fight just now!\"</i>\\nA bare-chested warrior wiped his weapon clean, shouting in exhilaration.\\n\\n<i>\"Mydei, one day, I'll be as invincible as you!\"</i>\\nA child gazed at him with reverence, clutching a broken sword in small hands.\\n\\n<i>\"Crown Prince, our return to Castrum Kremnos is within sight.\"</i>\\nAn aged man smiled, raising his cup in a toast to him.\\n\\nHe nodded silently and walked to the edge of the camp.\\nThe pain of rebirth still coursed across his skin. Tomorrow, he would lead the Kremnoan detachment forth once again, migrating to foreign lands.\\nWhere this wandering would end, he did not know. The only certainty was this — he would bear the duty of a king until the blood and flames consumed him.\\n\\nAs night deepened, he drank the bloodwine alone. A passing bard plucked at his strings, a wandering melody drifting through the air—\\n<i>\"Home is the land of dreams, not a place one can ever reach.\"</i>",
+		"en": "Flame of Blood, Blaze My Path",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23039.webp",
+		"id": "23039",
+		"jp": "{RUBY_B#ぜんど}前途{RUBY_E#}{RUBY_B#も}燃{RUBY_E#}やす{RUBY_B#ち}血{RUBY_E#}の{RUBY_B#ごと}如{RUBY_E#}き{RUBY_B#ほのお}炎{RUBY_E#}",
+		"kr": "피의 불꽃이여, 앞길을 태워라",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"行于流逝的岸": {
 		"baseType": "Warlock",
 		"cn": "行于流逝的岸",
@@ -1098,6 +1120,17 @@
 		"jp": "{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}の{RUBY_B#すがた}姿{RUBY_E#}",
 		"kr": "기억 속 모습",
 		"rank": "CombatPowerLightconeRarity4"
+	},
+	"记忆永不落幕": {
+		"baseType": "Memory",
+		"cn": "记忆永不落幕",
+		"desc": "Be it bustling, desolate, fleeting, or enduring... every planet and every instant is brimming with countless events.\\nThat condensed history melts at a single touch, flowing as tears from the world's gaze—\\n\\nSome say: How heavy those tears must be, the amassed years capable of fading eternity.\\nSome say: How wondrous the stories they tell, sorrow so clear, joy so serene, unmarred by even a hint of falsehood.\\n\\nThe Cosmos flows in silent stillness, and THEY speak not, only watching—\\nWatching and waiting for them to become \"memories.\"",
+		"en": "Memory's Curtain Never Falls",
+		"iconUrl": "/hsr/UI/lightconemediumicon/24005.webp",
+		"id": "24005",
+		"jp": "{RUBY_B#つ}尽{RUBY_E#}きぬ{RUBY_B#ついおく}追憶{RUBY_E#}",
+		"kr": "기억은 영원히 막을 내리지 않는다",
+		"rank": "CombatPowerLightconeRarity5"
 	},
 	"记忆的质料": {
 		"baseType": "Knight",

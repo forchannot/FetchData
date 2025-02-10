@@ -10,6 +10,20 @@
 		"id": "8008",
 		"jp": "{NICKNAME}",
 		"kr": "{NICKNAME}",
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1736935200
+	},
+	"万敌": {
+		"baseType": "Warrior",
+		"cn": "万敌",
+		"damageType": "Imaginary",
+		"desc": "Kremnos, the mist-shrouded city of chaos and war! Its royal lineage is tainted with patricide, and its god bears the name of calamity.\\nThe undying Mydeimos, the lion apart from the rest. Chrysos Heir who seeks the Coreflame of Strife, must suffer a thousand deaths, be bathed in blood on the path home, and bear the madness of fate alone.\\n— Kingslayer be king, godslayer be god. Iron-hooves pound across the wilderness for the campaign, and must eventually soak in the blood of their homeland.",
+		"en": "Mydei",
+		"icon": "mydei",
+		"iconUrl": "/hsr/UI/avatarshopicon/1404.webp",
+		"id": "1404",
+		"jp": "モーディス",
+		"kr": "마이데이",
 		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"三月七": {
@@ -184,14 +198,15 @@
 		"baseType": "Mage",
 		"cn": "大黑塔",
 		"damageType": "Ice",
-		"desc": "Esteemed Genius Society #83, human, female, young, beautiful, attractive.\\nIt's said that she lives in the far edge of the Cosmos, almost never leaving. Sounds like her appearance this time...\\nIt must be for some issue that requires a personal touch, right?",
+		"desc": "Esteemed Genius Society #83, human, female, young, beautiful, attractive.\\nIt's said that she lives in the far edge of the Cosmos, almost never leaving. Sounds like her appearance this time...\\n...must be for some issue that requires a personal touch, right?",
 		"en": "The Herta",
 		"icon": "theherta",
 		"iconUrl": "/hsr/UI/avatarshopicon/1401.webp",
 		"id": "1401",
 		"jp": "マダム・ヘルタ",
 		"kr": "더 헤르타",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1736935200
 	},
 	"姬子": {
 		"baseType": "Mage",
@@ -571,6 +586,19 @@
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1682460000
 	},
+	"缇宝": {
+		"baseType": "Shaman",
+		"cn": "缇宝",
+		"damageType": "Quantum",
+		"desc": "From that holy land blessed by the tripartite prophecy, the messenger split into a thousand forms, embarking on a long journey.\\nTribios, Holy Maidens of Janusopolis, the Chrysos Heir who stole Passage's Coreflame. She toiled for the masses, bringing the news of deliverance to all domains.\\n— Go find the children of humanity with golden blood in their veins, shatter the dimmest dark in this world, and walk toward the tomorrow where the stars gleam.",
+		"en": "Tribbie",
+		"icon": "tribbie",
+		"iconUrl": "/hsr/UI/avatarshopicon/1403.webp",
+		"id": "1403",
+		"jp": "トリビー",
+		"kr": "트리비",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"罗刹": {
 		"baseType": "Priest",
 		"cn": "罗刹",
@@ -743,14 +771,15 @@
 		"baseType": "Memory",
 		"cn": "阿格莱雅",
 		"damageType": "Thunder",
-		"desc": "In that holy city kissed by the dawn, the weaver caresses the golden thread and connects destiny.\\nChrysos Heir bearing the Coreflame of \"Romance\"... You shall summon the heroes of this world, and lead them to once again embark on an endless journey\\n— Where they will smite down the gods, return the divine fire, and grant rebirth to the dying land of Amphoreus.",
+		"desc": "In that holy city kissed by the dawn, the weaver caresses the golden threads, entwining fates.\\nThe Chrysos Heir that bears the \"Romance\" Coreflame gathered the world's heroes, leading them on a long journey once more\\n— to topple the gods, reclaim the divine flame, and grant rebirth to the nearly fallen Amphoreus.",
 		"en": "Aglaea",
 		"icon": "aglaea",
 		"iconUrl": "/hsr/UI/avatarshopicon/1402.webp",
 		"id": "1402",
 		"jp": "アグライア",
 		"kr": "아글라이아",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1738749600
 	},
 	"雪衣": {
 		"baseType": "Warrior",
