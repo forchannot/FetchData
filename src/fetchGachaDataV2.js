@@ -269,6 +269,10 @@ const getVersion = (i, pool) => {
         //genshin Character
         versionsTemp = [...versionsTemp, "1.3.3"].sort()
     }
+    if (pool === 2001 ||pool === 2001) {
+        //zzz
+        versionsTemp = versionsTemp.filter(item => item!== "1.4.2").sort()
+    }
     return versionsTemp[i]
 }
 const fetchGachaData = async (pool, game, type) => {
