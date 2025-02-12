@@ -740,6 +740,25 @@
 		"release": "2022-08-24 00:00:00",
 		"weapon": "WEAPON_BOW"
 	},
+	"梦见月瑞希": {
+		"birth": [
+			3,
+			16
+		],
+		"CHS": "梦见月瑞希",
+		"cn": "梦见月瑞希",
+		"desc": "A shareholder of Aisa Bathhouse, a baku, and a clinical psychologist. Dedicated to the dispersal of nightmares, and to bringing people peace of mind.",
+		"element": "Anemo",
+		"EN": "Yumemizuki Mizuki",
+		"icon": "UI_AvatarIcon_Mizuki",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Mizuki.webp",
+		"id": "10000109",
+		"JP": "夢見月瑞希",
+		"KR": "유메미즈키 미즈키",
+		"rank": "QUALITY_ORANGE",
+		"release": "2025-02-11 00:00:00",
+		"weapon": "WEAPON_CATALYST"
+	},
 	"欧洛伦": {
 		"birth": [
 			10,
@@ -842,7 +861,7 @@
 		],
 		"CHS": "玛薇卡",
 		"cn": "玛薇卡",
-		"desc": "",
+		"desc": "The leader of Natlan who inherited the Ancient Name of \"Kiongozi.\" She made a vow to illuminate the future of the nation of war with the Sacred Flame.",
 		"element": "Pyro",
 		"EN": "Mavuika",
 		"icon": "UI_AvatarIcon_Mavuika",
@@ -851,7 +870,7 @@
 		"JP": "マーヴィカ",
 		"KR": "마비카",
 		"rank": "QUALITY_ORANGE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2024-12-31 00:00:00",
 		"weapon": "WEAPON_CLAYMORE"
 	},
 	"珊瑚宫心海": {
@@ -1269,7 +1288,7 @@
 		"JP": "シトラリ",
 		"KR": "시틀라리",
 		"rank": "QUALITY_ORANGE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2024-12-31 00:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
 	"荒泷一斗": {
@@ -1402,7 +1421,7 @@
 		"JP": "藍硯",
 		"KR": "남연",
 		"rank": "QUALITY_PURPLE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2025-01-21 18:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
 	"行秋": {

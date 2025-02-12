@@ -3,6 +3,16 @@
 		"version": "5.4.1",
 		"items": [
 			{
+				"itemId": 10000109,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Mizuki.webp",
+				"itemType": "Character",
+				"name": "梦见月瑞希",
+				"nameEn": "Yumemizuki Mizuki",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
 				"itemId": 10000095,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Sigewinne.webp",
 				"itemType": "Character",

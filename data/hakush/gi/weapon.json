@@ -64,6 +64,19 @@
 		"rank": 5,
 		"type": "WEAPON_CATALYST"
 	},
+	"且住亭御咄": {
+		"CHS": "且住亭御咄",
+		"cn": "且住亭御咄",
+		"desc": "Once upon a time, there was a youkai that roamed Inazuma in the form of a lantern's flame. This must once have been one of its vessels.",
+		"EN": "Tamayuratei no Ohanashi",
+		"icon": "UI_EquipIcon_Pole_Aoandon",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Aoandon.webp",
+		"id": "13432",
+		"JP": "玉響停の御噺",
+		"KR": "쉼터의 이야기꾼",
+		"rank": 4,
+		"type": "WEAPON_POLE"
+	},
 	"东花坊时雨": {
 		"CHS": "东花坊时雨",
 		"cn": "东花坊时雨",
@@ -622,6 +635,19 @@
 		"KR": "왕실의 장궁",
 		"rank": 4,
 		"type": "WEAPON_BOW"
+	},
+	"寝正月初晴": {
+		"CHS": "寝正月初晴",
+		"cn": "寝正月初晴",
+		"desc": "A bell lantern forged from purple jade. They say it brings sweet dreams when placed beside one's pillow.",
+		"EN": "Sunny Morning Sleep-In",
+		"icon": "UI_EquipIcon_Catalyst_SakuraFan",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_SakuraFan.webp",
+		"id": "14518",
+		"JP": "寝正月の初晴",
+		"KR": "나른한 새해",
+		"rank": 5,
+		"type": "WEAPON_CATALYST"
 	},
 	"尘世之锁": {
 		"CHS": "尘世之锁",

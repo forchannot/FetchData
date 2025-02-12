@@ -3,6 +3,15 @@
 		"version": "5.4.1",
 		"items": [
 			{
+				"itemId": 14518,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_SakuraFan.webp",
+				"itemType": "Weapon",
+				"name": "寝正月初晴",
+				"nameEn": "Sunny Morning Sleep-In",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
 				"itemId": 15513,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Arcdange.webp",
 				"itemType": "Weapon",
