@@ -8,12 +8,12 @@ axios.defaults.withCredentials = true
 
 let params = [
     {
-        game: "genshin",
+        game: "gi",
         menu_id: "character",
         type: "character",
     },
     {
-        game: "genshin",
+        game: "gi",
         menu_id: "weapon",
         type: "weapon",
     },
