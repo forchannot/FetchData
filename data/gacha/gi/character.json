@@ -2,6 +2,42 @@
 	{
 		"items": [
 			{
+				"itemId": 10000055,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/cb9ff521583a88948a2230468b5ddee3.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "",
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000053,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/c3cf7a8669e25edd68868b3ac9cec265.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000023,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u8f88e/6e39d8b0366582b2e770a902bd505b0c.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2025-02-12 06:00:00",
+		"end": "2025-03-04 17:59:59"
+	},
+	{
+		"items": [
+			{
 				"itemId": 10000045,
 				"weaponType": "Polearm",
 				"imageUrl": "https://uploadstatic.mihoyo.com/hk4e/e20200928calculate/common/rosaria_623de3bc25a21b6e516ea0489ddd11f8.png",
